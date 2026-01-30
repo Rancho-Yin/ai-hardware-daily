@@ -39,13 +39,16 @@ def clean_title(s: str):
     s = re.sub(r"\s+", " ", (s or "")).strip()
     return s
 
-def fetch_items(feed_urls, keywords, start_dt, end_dt, limit=12):
+def fetch_items(feed_urls, keywords, start_dt, end_dt, limit=12, label=""):
     items = []
     seen = set()
 
     for url in feed_urls:
         d = feedparser.parse(url)
-        for e in d.entries[:50]:
+    total = len(getattr(d, "entries", []) or [])
+    print(f"[DEBUG] {label} feed={url} entries={total}")
+
+    for e in (d.entries[:50] if getattr(d, "entries", None) else []):
             title = clean_title(getattr(e, "title", ""))
             link = getattr(e, "link", "")
             summary = getattr(e, "summary", "") or getattr(e, "description", "")
@@ -95,8 +98,8 @@ def main():
 
     keywords = load_keywords("config/keywords.txt")
 
-    global_items = fetch_items(feeds.get("global", []), keywords, start_utc, end_utc, limit=10)
-    china_items = fetch_items(feeds.get("china", []), keywords, start_utc, end_utc, limit=10)
+    global_items = fetch_items(feeds.get("global", []), keywords, start_utc, end_utc, limit=10, label="GLOBAL")
+china_items = fetch_items(feeds.get("china", []), keywords, start_utc, end_utc, limit=10, label="CHINA")
 
     today_str = now_bj.strftime("%Y-%m-%d")
     yday_str = yday_bj.strftime("%Y-%m-%d")
