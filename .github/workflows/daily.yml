@@ -12,9 +12,7 @@ jobs:
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: |
-        run: |
-  TODAY=$(date +"%Y-%m-%d")
-  curl -X POST "$FEISHU_WEBHOOK" \
+          TODAY=$(date +"%Y-%m-%d")
           curl -X POST "$FEISHU_WEBHOOK" \
           -H "Content-Type: application/json" \
           -d '{
