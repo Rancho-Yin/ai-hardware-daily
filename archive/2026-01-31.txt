@@ -4,18 +4,18 @@ AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
 🤖 AI硬件日报｜2026-01-31（抓取 2026-01-30）
 
 🌍 全球
-1. 【其他】 Tesla throws in the towel on car sales
-https://www.theverge.com/transportation/870332/tesla-throws-in-the-towel-on-car-sales
-2. 【机器人】 The lonely promise of cute robots
-https://www.theverge.com/column/870438/optimizer-mirumi-loneliness-social-companion-robots
-3. 【芯片/算力】 China moves into manufacturing disruptive new semiconductor glass substrates as processor packaging competition intensifies
+1. 【芯片/算力】 China moves into manufacturing disruptive new semiconductor glass substrates as processor packaging competition intensifies
 https://www.tomshardware.com/tech-industry/semiconductors/china-moves-into-semiconductor-glass-substrates-as-packaging-competition-intensifies
-4. 【其他】 Who’s afraid of the new TikTok?
-https://www.theverge.com/tech/870543/tiktok-us-ownership-oracle-algorithm-trust
-5. 【芯片/算力】 Big three memory chip manufacturers policing customers to prevent hoarding — employee says industry relationships ‘matter in a crunch’
+2. 【芯片/算力】 Big three memory chip manufacturers policing customers to prevent hoarding — employee says industry relationships ‘matter in a crunch’
 https://www.tomshardware.com/pc-components/dram/big-three-memory-chip-manufacturers-policing-customers-to-prevent-hoarding-employee-says-industry-relationships-matter-in-a-crunch
-6. 【芯片/算力】 Intel shows off leading-edge tech with massive AI processor test vehicle — huge chip features four logic tiles, 12 HBM4 stacks, and 8X reticle size
+3. 【芯片/算力】 Intel shows off leading-edge tech with massive AI processor test vehicle — huge chip features four logic tiles, 12 HBM4 stacks, and 8X reticle size
 https://www.tomshardware.com/tech-industry/semiconductors/intel-shows-off-leading-edge-tech-with-massive-ai-processor-test-vehicle-huge-chip-features-four-logic-tiles-12-hbm4-stacks-and-8x-reticle-size
+4. 【其他】 Nvidia says Chinese military dependence on American tech would be 'nonsensical,' following US govt agency's claims it assisted Deepseek with training AI models — says Admin's critics 'are unintentionally promoting the interests of foreign competitors'
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-chinese-military-dependence-on-american-tech-would-be-nonsensical-following-us-govt-agencys-claims-it-assisted-deepseek-with-training-ai-models-says-admins-critics-are-unintentionally-promoting-the-interests-of-foreign-competitors
+5. 【芯片/算力】 Land an RTX 5080 gaming PC deal with 64GB of RAM for just $2,279 — this factory-reconditioned rig saves you hundreds of dollars, RAM and GPU alone worth $1,938 in today's market
+https://www.tomshardware.com/desktops/gaming-pcs/land-an-rtx-5080-gaming-pc-deal-with-64gb-of-ram-for-just-usd2-279-this-factory-reconditioned-rig-saves-you-hundreds-of-dollars-ram-and-gpu-alone-worth-usd1-938-in-todays-market
+6. 【其他】 Microsoft is reportedly working to fix Windows 11's most annoying flaws — wants to restore the operating system's reputation
+https://www.tomshardware.com/software/windows/microsoft-is-reportedly-working-to-fix-windows-11s-most-annoying-flaws-wants-to-rebuild-trust-in-the-os
 
 🇨🇳 中国
 1. 【其他】 库克暗示苹果今年将有“前所未见”的创新
