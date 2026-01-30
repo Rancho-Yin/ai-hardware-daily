@@ -1,0 +1,22 @@
+name: Send Test Message to Feishu
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send message
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: |
+          curl -X POST "$FEISHU_WEBHOOK" \
+          -H "Content-Type: application/json" \
+          -d '{
+            "msg_type": "text",
+            "content": {
+              "text": "🤖 AI硬件日报测试\n\n如果你看到这条消息，说明自动化已经跑通了。"
+            }
+          }'
