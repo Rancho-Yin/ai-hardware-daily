@@ -3,6 +3,10 @@ import yaml
 import feedparser
 from datetime import datetime, timedelta, timezone
 from dateutil import parser as dateparser
+def clean_title(s: str):
+    if not s:
+        return ""
+    return " ".join(s.split())
 
 
 def load_keywords(path: str):
