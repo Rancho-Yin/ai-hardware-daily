@@ -1,14 +1,14 @@
-name: Send Test Message to Feishu
+name: AI Hardware Daily to Feishu
 
 on:
   workflow_dispatch:
 
 jobs:
-  test:
+  send-daily:
     runs-on: ubuntu-latest
 
     steps:
-            - name: Send message
+      - name: Send message to Feishu
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: |
@@ -18,7 +18,7 @@ jobs:
           {
             "msg_type": "text",
             "content": {
-              "text": "🤖 AI硬件日报｜${TODAY}\n\n【一句话总览】\nAI 硬件正在从拼算力，转向拼效率和落地。\n\n🌍 全球 AI 硬件\n1️⃣（示例）某公司发布新芯片\n- 看点：能效比与落地\n\n🇨🇳 中国 AI 硬件\n2️⃣（示例）国产算力推进应用\n- 看点：工程化与供给\n\n📈 趋势判断\nAI 硬件正在进入产品化阶段。"
+              "text": "🤖 AI硬件日报｜${TODAY}\n\n【一句话总览】\nAI 硬件正在从拼算力，转向拼效率和落地。\n\n🌍 全球 AI 硬件\n1️⃣（示例）AI 芯片开始更强调能效比\n- 重点从\"更强\"变成\"更省\"\n\n🇨🇳 中国 AI 硬件\n2️⃣（示例）国产算力进入真实应用阶段\n- 工程化能力成为关键\n\n📈 趋势判断\nAI 硬件正在从实验室走向产品化。"
             }
           }
           EOF
