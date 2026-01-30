@@ -18,12 +18,13 @@ jobs:
         run: |
           python - <<'PY'
           import os
+          import glob
           from datetime import datetime, timedelta, timezone
 
           tz_bj = timezone(timedelta(hours=8))
           today = datetime.now(tz_bj).date()
 
-          # 最近 7 天（不含今天）：昨天~往前6天
+          # 先按“最近7天（不含今天）”找：昨天~往前6天
           days = [(today - timedelta(days=i)).strftime("%Y-%m-%d") for i in range(1, 8)]
 
           files = []
@@ -31,6 +32,15 @@ jobs:
               p = f"archive/{d}.txt"
               if os.path.exists(p):
                   files.append((d, p))
+
+         # ✅ 兜底：如果一个都没找到（比如你今天刚开始归档，只有今天的文件）
+         # 就直接取 archive 目录下最新的 7 个文件
+         if not files:
+             all_files = sorted(glob.glob("archive/*.txt"))
+             for p in all_files[-7:]:
+                 d = os.path.splitext(os.path.basename(p))[0]  # 文件名就是日期
+                 files.append((d, p))
+
 
           def extract_titles(lines, section_name):
               titles = []
