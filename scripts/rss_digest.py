@@ -103,7 +103,7 @@ def main():
         keywords,
         start_utc,
         end_utc,
-        limit=10
+        limit=6
     )
 
     china_items = fetch_items(
@@ -111,7 +111,7 @@ def main():
         keywords,
         start_utc,
         end_utc,
-        limit=10
+        limit=6
     )
 
     # 兜底：如果中国没有命中关键词，取最新 3 条
