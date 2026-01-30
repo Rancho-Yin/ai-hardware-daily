@@ -4,6 +4,7 @@ import feedparser
 from datetime import datetime, timedelta, timezone
 from dateutil import parser as dateparser
 
+
 def load_keywords(path: str):
     kws = []
     with open(path, "r", encoding="utf-8") as f:
@@ -13,9 +14,11 @@ def load_keywords(path: str):
                 kws.append(k.lower())
     return kws
 
+
 def text_match(text: str, keywords):
     t = (text or "").lower()
     return any(k in t for k in keywords)
+
 
 def parse_dt(entry):
     for k in ("published", "updated", "created"):
@@ -32,8 +35,10 @@ def parse_dt(entry):
                 pass
     return None
 
+
 def clean_title(s: str):
     return re.sub(r"\s+", " ", (s or "")).strip()
+
 
 def fetch_items(feed_urls, keywords, start_dt, end_dt, limit=10):
     items = []
@@ -75,7 +80,9 @@ def fetch_items(feed_urls, keywords, start_dt, end_dt, limit=10):
     items.sort(key=lambda x: x[0], reverse=True)
     return items[:limit]
 
+
 def main():
+    # 时间窗口：北京时间昨天
     tz_bj = timezone(timedelta(hours=8))
     now_bj = datetime.now(tz_bj)
     yday_bj = (now_bj - timedelta(days=1)).date()
@@ -85,43 +92,44 @@ def main():
     start_utc = start_bj.astimezone(timezone.utc)
     end_utc = end_bj.astimezone(timezone.utc)
 
+    # ✅ 这里是 feeds 的唯一定义位置（非常关键）
     with open("config/feeds.yaml", "r", encoding="utf-8") as f:
         feeds = yaml.safe_load(f) or {}
 
     keywords = load_keywords("config/keywords.txt")
 
     global_items = fetch_items(
-    feeds.get("global", []),
-    keywords,
-    start_utc,
-    end_utc,
-    limit=10
-)
-
-china_items = fetch_items(
-    feeds.get("china", []),
-    keywords,
-    start_utc,
-    end_utc,
-    limit=10
-)
-
-# Fallback：如果中国没有命中关键词，取最新 3 条作为兜底
-if not china_items:
-    china_items = fetch_items(
-        feeds.get("china", []),
-        [" "],
+        feeds.get("global", []),
+        keywords,
         start_utc,
         end_utc,
-        limit=3
+        limit=10
     )
+
+    china_items = fetch_items(
+        feeds.get("china", []),
+        keywords,
+        start_utc,
+        end_utc,
+        limit=10
+    )
+
+    # 兜底：如果中国没有命中关键词，取最新 3 条
+    if not china_items:
+        china_items = fetch_items(
+            feeds.get("china", []),
+            [" "],
+            start_utc,
+            end_utc,
+            limit=3
+        )
 
     today_str = now_bj.strftime("%Y-%m-%d")
     yday_str = yday_bj.strftime("%Y-%m-%d")
 
     def fmt(items):
         if not items:
-            return ["（未抓到符合关键词的新闻，可在 config/feeds.yaml 增加源或放宽关键词）"]
+            return ["（未抓到符合条件的新闻）"]
         out = []
         for i, (_, title, link) in enumerate(items, 1):
             out.append(f"{i}. {title}\n{link}")
@@ -136,9 +144,10 @@ if not china_items:
     msg.append("🇨🇳 中国")
     msg.extend(fmt(china_items))
     msg.append("")
-    msg.append("📌 说明：本日报为 RSS+关键词筛选（半自动）。")
+    msg.append("📌 说明：本日报为 RSS + 关键词筛选（半自动）。")
 
     print("\n".join(msg))
+
 
 if __name__ == "__main__":
     main()
