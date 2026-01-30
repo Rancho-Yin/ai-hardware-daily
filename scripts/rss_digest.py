@@ -91,7 +91,14 @@ def main():
     keywords = load_keywords("config/keywords.txt")
 
     global_items = fetch_items(feeds.get("global", []), keywords, start_utc, end_utc, limit=10)
+    # Fallback: if global section is empty, take latest 3 items without keyword filtering
+if not global_items:
+    china_items = fetch_items(feeds.get("global", []), [" "], start_utc, end_utc, limit=3)
     china_items = fetch_items(feeds.get("china", []), keywords, start_utc, end_utc, limit=10)
+    # Fallback: if China section is empty, take latest 3 items without keyword filtering
+if not china_items:
+    china_items = fetch_items(feeds.get("china", []), [" "], start_utc, end_utc, limit=3)
+
 
     today_str = now_bj.strftime("%Y-%m-%d")
     yday_str = yday_bj.strftime("%Y-%m-%d")
