@@ -144,7 +144,7 @@ def main():
             return ["（未抓到符合条件的新闻）"]
         out = []
         for i, (_, title, link) in enumerate(items, 1):
-            out.append(f"{i}. {title}\n{link}")
+            out.append(f"{i}. {tag_for(title)} {title}\n{link}")
         return out
 
     msg = []
