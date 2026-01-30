@@ -198,7 +198,7 @@ with open("daily_xhs.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(xhs) + "\n")
 
  
-    print("\n".join(msg))
+    print("\n".join(out))
 
 
 if __name__ == "__main__":
