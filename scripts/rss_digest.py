@@ -154,14 +154,13 @@ def main():
 
    # ===== Generate Xiaohongshu-style daily =====
 
-date_line = lines[0] if lines else ""
+
 date_str = date_line.replace("🤖 AI硬件日报｜", "").strip()
 
 global_items = []
 china_items = []
 current = None
 
-for line in lines:
     s = line.strip()
     if s.startswith("🌍"):
         current = "global"
