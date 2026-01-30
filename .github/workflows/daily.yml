@@ -29,13 +29,91 @@ jobs:
           echo "Generated daily.txt:"
           cat daily.txt
 
+      - name: Post-process daily text (no Python code changes)
+        run: |
+          python - <<'PY'
+          import re
+
+          raw = open("daily.txt","r",encoding="utf-8").read().splitlines()
+
+          # 1) 加一句话总览（固定模板，先不靠AI）
+          overview = [
+            "【一句话总览】",
+            "AI硬件进入产品化阶段：更看重能效、供应链与落地场景。",
+            ""
+          ]
+
+          # 2) 给每条新闻加“轻标签”（仅基于标题关键词）
+          def tag(title: str):
+            t = (title or "").lower()
+            if any(k in t for k in ["gpu","npu","hbm","chip","semiconductor","tsmc","芯片","算力","昇腾","寒武纪","摩尔线程","海光"]):
+              return "【芯片/算力】"
+            if any(k in t for k in ["server","datacenter","数据中心","液冷","cooling","800g","光模块","交换","网络","cxl","pcie"]):
+              return "【数据中心】"
+            if any(k in t for k in ["robot","humanoid","机器人","具身","人形"]):
+              return "【机器人】"
+            if any(k in t for k in ["端侧","edge","终端","手机","pc","laptop"]):
+              return "【终端/边缘】"
+            return "【其他】"
+
+          out = []
+          out.extend(overview)
+
+          section = None
+          count_in_section = 0
+          for line in raw:
+            # 保留原头部日期行
+            if line.startswith("🤖 "):
+              out.append(line)
+              continue
+
+            # 识别分段
+            if line.strip() in ["🌍 全球", "🇨🇳 中国"]:
+              section = line.strip()
+              count_in_section = 0
+              out.append("")
+              out.append(section)
+              continue
+
+            # 空行照抄
+            if not line.strip():
+              continue
+
+            # 新闻标题行（形如 "1. xxx"）
+            m = re.match(r"^\d+\.\s+(.*)$", line.strip())
+            if m and section:
+              # 每段最多 6 条（精简）
+              if count_in_section >= 6:
+                continue
+              title = m.group(1)
+              out.append(re.sub(r"^\d+\.\s+", f"{count_in_section+1}. {tag(title)} ", line.strip()))
+              count_in_section += 1
+              continue
+
+            # 链接行：紧跟标题输出
+            if section and line.startswith("http"):
+              # 只有在没被截断的情况下才保留链接
+              # （如果上一条标题被截断，链接也会被跳过，因为不会走到这里）
+              out.append(line.strip())
+              continue
+
+          # 3) 尾部说明
+          out.append("")
+          out.append("📌 说明：本日报为 RSS+关键词筛选（半自动）。")
+
+          open("daily_final.txt","w",encoding="utf-8").write("\n".join(out).strip()+"\n")
+          print("Generated daily_final.txt:")
+          print(open("daily_final.txt","r",encoding="utf-8").read())
+          PY
+
+
       - name: Send to Feishu
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: |
           python - <<'PY'
           import json, os
-          text = open("daily.txt","r",encoding="utf-8").read()
+          text = open("daily_final.txt","r",encoding="utf-8").read()
           payload = {"msg_type":"text","content":{"text":text}}
           print(json.dumps(payload, ensure_ascii=False))
           PY
@@ -43,7 +121,7 @@ jobs:
             -H "Content-Type: application/json" \
             -d "$(python - <<'PY'
           import json
-          text = open("daily.txt","r",encoding="utf-8").read()
+          text = open("daily_final.txt","r",encoding="utf-8").read()
           payload = {"msg_type":"text","content":{"text":text}}
           print(json.dumps(payload, ensure_ascii=False))
           PY
