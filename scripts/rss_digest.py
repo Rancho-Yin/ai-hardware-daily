@@ -36,8 +36,20 @@ def parse_dt(entry):
     return None
 
 
-def clean_title(s: str):
-    return re.sub(r"\s+", " ", (s or "")).strip()
+    def tag_for(title: str):
+    t = (title or "").lower()
+
+    if any(k in t for k in ["gpu", "npu", "hbm", "chip", "semiconductor", "tsmc", "封装", "制程", "芯片", "算力", "昇腾", "国产gpu"]):
+        return "【芯片/算力】"
+    if any(k in t for k in ["server", "datacenter", "数据中心", "液冷", "cooling", "交换", "800g", "光模块", "网络"]):
+        return "【数据中心】"
+    if any(k in t for k in ["robot", "humanoid", "机器人", "具身", "人形"]):
+        return "【机器人】"
+    if any(k in t for k in ["pc", "laptop", "手机", "端侧", "edge", "终端"]):
+        return "【终端/边缘】"
+    if any(k in t for k in ["融资", "ipo", "并购", "investment", "funding", "政策", "补贴"]):
+        return "【投融资/政策】"
+    return "【其他】"
 
 
 def fetch_items(feed_urls, keywords, start_dt, end_dt, limit=10):
