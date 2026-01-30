@@ -1,0 +1,9 @@
+global:
+  - https://feeds.arstechnica.com/arstechnica/technology-lab
+  - https://www.theverge.com/rss/index.xml
+  - https://www.tomshardware.com/feeds/all
+
+china:
+  - https://www.ithome.com/rss/
+  - https://rsshub.app/36kr/newsflashes
+  - https://rsshub.app/huxiu/article
