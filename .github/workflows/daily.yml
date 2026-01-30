@@ -10,7 +10,7 @@ jobs:
   send-daily:
     runs-on: ubuntu-latest
     permissions:
-  contents: write
+      contents: write
 
 
     steps:
