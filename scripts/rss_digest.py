@@ -1,6 +1,7 @@
 import re
 import yaml
 import feedparser
+import socket
 from datetime import datetime, timedelta, timezone
 from dateutil import parser as dateparser
 def clean_title(s: str):
@@ -49,10 +50,11 @@ def fetch_items(feed_urls, keywords, start_dt, end_dt, limit=10):
     seen = set()
 
     for url in feed_urls:
+        socket.setdefaulttimeout(10)    
         try:
             d = feedparser.parse(url)
         except Exception:
-            continue
+            continue    
 
         entries = getattr(d, "entries", None) or []
         for e in entries[:50]:
