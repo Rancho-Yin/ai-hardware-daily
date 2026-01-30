@@ -89,8 +89,13 @@ jobs:
           c_top = top_unique(all_china, 10)
           tag_top = sorted(tag_count.items(), key=lambda x: x[1], reverse=True)[:5]
 
-          start = (today - timedelta(days=7)).strftime("%Y-%m-%d")
-          end = (today - timedelta(days=1)).strftime("%Y-%m-%d")
+          if files:
+              start = files[0][0]
+              end = files[-1][0]
+          else:
+              start = (today - timedelta(days=7)).strftime("%Y-%m-%d")
+              end = (today - timedelta(days=1)).strftime("%Y-%m-%d")
+
 
           out = []
           out.append(f"🗞️ AI硬件周报｜{start} ~ {end}")
