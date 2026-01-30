@@ -1,1 +1,150 @@
+name: AI Hardware Weekly Report to Feishu
+
+on:
+  schedule:
+    # 北京时间 周一 08:35（UTC 周一 00:35）
+    - cron: "35 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  send-weekly:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build weekly report from last 7 days
+        run: |
+          python - <<'PY'
+          import os
+          import glob
+          from datetime import datetime, timedelta, timezone
+
+          tz_bj = timezone(timedelta(hours=8))
+          today = datetime.now(tz_bj).date()
+
+          # 取最近 7 天（不含今天）：昨天 ~ 往前 6 天
+          days = [(today - timedelta(days=i)).strftime("%Y-%m-%d") for i in range(1, 8)]
+
+          files = []
+          for d in reversed(days):  # 从旧到新
+            p = f"archive/{d}.txt"
+            if os.path.exists(p):
+              files.append((d, p))
+
+          def extract_titles(lines, section_name):
+            # section_name: "🌍 全球" or "🇨🇳 中国"
+            titles = []
+            in_section = False
+            for line in lines:
+              if line.strip() == section_name:
+                in_section = True
+                continue
+              if in_section and line.strip() in ["🌍 全球", "🇨🇳 中国"]:
+                in_section = False
+              if in_section:
+                s = line.strip()
+                if s[:2].isdigit() or s[:1].isdigit():
+                  # 标题行形如 "1. xxx"
+                  if ". " in s:
+                    titles.append(s.split(". ", 1)[1])
+            return titles
+
+          def tag_of(title):
+            # 你的 daily_final 里如果有【xxx】前缀，这里就能统计
+            if title.startswith("【") and "】" in title:
+              return title.split("】", 1)[0] + "】"
+            return "【未分类】"
+
+          all_global, all_china = [], []
+          tag_count = {}
+
+          for d, p in files:
+            lines = open(p, "r", encoding="utf-8").read().splitlines()
+            g = extract_titles(lines, "🌍 全球")
+            c = extract_titles(lines, "🇨🇳 中国")
+            all_global.extend(g)
+            all_china.extend(c)
+            for t in g + c:
+              tg = tag_of(t)
+              tag_count[tg] = tag_count.get(tg, 0) + 1
+
+          def top_unique(items, k=10):
+            seen = set()
+            out = []
+            for x in items:
+              key = x.lower()
+              if key in seen:
+                continue
+              seen.add(key)
+              out.append(x)
+              if len(out) >= k:
+                break
+            return out
+
+          # 简单去重后取前10条（按出现顺序）
+          g_top = top_unique(all_global, 10)
+          c_top = top_unique(all_china, 10)
+
+          # 标签Top5
+          tag_top = sorted(tag_count.items(), key=lambda x: x[1], reverse=True)[:5]
+
+          start = (today - timedelta(days=7)).strftime("%Y-%m-%d")
+          end = (today - timedelta(days=1)).strftime("%Y-%m-%d")
+          week_title = f"🗞️ AI硬件周报｜{start} ~ {end}"
+
+          out = []
+          out.append(week_title)
+          out.append("")
+          out.append(f"【本周覆盖】已归档 {len(files)} 天日报（目标 7 天）")
+          out.append("")
+          if tag_top:
+            out.append("【热词标签 Top】")
+            for i, (t, n) in enumerate(tag_top, 1):
+              out.append(f"{i}. {t} × {n}")
+            out.append("")
+
+          out.append("🌍 本周全球要闻（去重精选）")
+          if g_top:
+            for i, t in enumerate(g_top, 1):
+              out.append(f"{i}. {t}")
+          else:
+            out.append("（本周未汇总到全球内容，检查 archive 文件是否生成）")
+          out.append("")
+
+          out.append("🇨🇳 本周中国要闻（去重精选）")
+          if c_top:
+            for i, t in enumerate(c_top, 1):
+              out.append(f"{i}. {t}")
+          else:
+            out.append("（本周未汇总到中国内容，检查 archive 文件是否生成）")
+          out.append("")
+          out.append("📌 说明：本周报基于“每日RSS+关键词筛选”自动汇总（半自动）。")
+
+          open("weekly.txt", "w", encoding="utf-8").write("\n".join(out) + "\n")
+          print(open("weekly.txt","r",encoding="utf-8").read())
+          PY
+
+      - name: Send weekly report to Feishu
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: |
+          python - <<'PY'
+          import json
+          text = open("weekly.txt","r",encoding="utf-8").read()
+          payload = {"msg_type":"text","content":{"text":text}}
+          print(json.dumps(payload, ensure_ascii=False))
+          PY
+          curl -X POST "$FEISHU_WEBHOOK" \
+            -H "Content-Type: application/json" \
+            -d "$(python - <<'PY'
+          import json
+          text = open("weekly.txt","r",encoding="utf-8").read()
+          payload = {"msg_type":"text","content":{"text":text}}
+          print(json.dumps(payload, ensure_ascii=False))
+          PY
+          )"
 
