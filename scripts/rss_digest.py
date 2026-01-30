@@ -153,7 +153,6 @@ def main():
     msg.append("📌 说明：本日报为 RSS + 关键词筛选（半自动）。")
 
    # ===== Generate Xiaohongshu-style daily =====
-lines = msg[:]  # 直接复用日报内容
 
 date_line = lines[0] if lines else ""
 date_str = date_line.replace("🤖 AI硬件日报｜", "").strip()
@@ -177,19 +176,29 @@ for line in lines:
         elif current == "china":
             china_items.append(title)
 
+# ===== Generate Xiaohongshu-style daily =====
 xhs = []
 xhs.append(f"🤖 今天 AI 硬件圈发生了什么？｜{today_str}")
 xhs.append("")
 xhs.append("一句话先看趋势：")
 xhs.append("👉 芯片 / 算力 / 供应链依然是核心主线，中国相关动态密度明显上升。")
 xhs.append("")
+
 xhs.append("🌍 海外 AI 硬件动态")
-for i, t in enumerate(global_items[:5], 1):
-    xhs.append(f"{i}️⃣ {t}")
+if global_items:
+    for i, t in enumerate(global_items[:5], 1):
+        xhs.append(f"{i}️⃣ {t}")
+else:
+    xhs.append("- 今天没抓到符合关键词的海外新闻，可在 config/feeds.yaml 放宽关键词或加源。")
+
 xhs.append("")
 xhs.append("🇨🇳 中国 AI 硬件观察")
-for i, t in enumerate(china_items[:5], 1):
-    xhs.append(f"{i}️⃣ {t}")
+if china_items:
+    for i, t in enumerate(china_items[:5], 1):
+        xhs.append(f"{i}️⃣ {t}")
+else:
+    xhs.append("- 今天没抓到符合关键词的中国新闻，可在 config/feeds.yaml 放宽关键词或加源。")
+
 xhs.append("")
 xhs.append("📌 今天你可以关注：")
 xhs.append("- AI 芯片不再只拼算力，而是系统与生态")
@@ -199,6 +208,7 @@ xhs.append("#AI硬件 #芯片 #算力 #科技资讯 #每日资讯")
 
 with open("daily_xhs.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(xhs) + "\n")
+
  
     print("\n".join(msg))
 
