@@ -153,7 +153,8 @@ def main():
     msg.append("📌 说明：本日报为 RSS + 关键词筛选（半自动）。")
 
 
-
+from datetime import datetime
+today_str = datetime.now().strftime("%Y-%m-%d")
 
 global_items = []
 china_items = []
