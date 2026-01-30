@@ -2,8 +2,31 @@ global:
   - https://feeds.arstechnica.com/arstechnica/technology-lab
   - https://www.theverge.com/rss/index.xml
   - https://www.tomshardware.com/feeds/all
+  - https://forums.anandtech.com/whats-new/
+  - https://aimagazine.com/news
+  - https://www.nextplatform.com/category/analyze/
+  - https://aimagazine.com/magazines
+  - https://venturebeat.com/category/ai
+  - https://www.roboticstomorrow.com/stream/news/
+  - https://blogs.nvidia.com/blog/category/generative-ai/
+  - https://blogs.nvidia.com/blog/category/robotics/
+  - https://blogs.nvidia.com/blog/category/robotics/
+  - https://ai-podcast.nvidia.com
+  - https://newsroom.intel.com
+  - https://community.arm.com/p/ai-blog
 
 china:
   - https://www.ithome.com/rss/
-  - https://rsshub.app/36kr/newsflashes
-  - https://rsshub.app/huxiu/article
+  - https://www.eet-china.com/rss.xml
+  - https://www.solidot.org/index.rss
+  - https://www.leiphone.com/feed
+  - https://www.jiqizhixin.com
+  - https://www.leiphone.com
+  - https://www.zhidx.com
+  - https://36kr.com
+  - https://www.tmtpost.com
+  - https://leitech.com
+  - https://laoyaoba.com
+  - https://www.eeworld.com.cn
+  - https://technode.com
+  
