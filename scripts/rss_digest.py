@@ -153,7 +153,7 @@ def main():
     msg.append("📌 说明：本日报为 RSS + 关键词筛选（半自动）。")
 
     
-    print("\n".join(msg))
+    print("\n".join(msg))   # ✅ 唯一 print
 
 
 from datetime import datetime
@@ -201,7 +201,6 @@ with open("daily_xhs.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(xhs) + "\n")
 
  
-    print("\n".join(out))
 
 
 if __name__ == "__main__":
