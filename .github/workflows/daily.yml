@@ -9,6 +9,9 @@ on:
 jobs:
   send-daily:
     runs-on: ubuntu-latest
+    permissions:
+  contents: write
+
 
     steps:
       - name: Checkout
@@ -106,6 +109,18 @@ jobs:
           print(open("daily_final.txt","r",encoding="utf-8").read())
           PY
 
+      - name: Archive daily report to repo
+        run: |
+          TODAY_BJ=$(TZ=Asia/Shanghai date +"%Y-%m-%d")
+          mkdir -p archive
+          cp daily_final.txt "archive/${TODAY_BJ}.txt"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add archive/*.txt
+          git commit -m "chore: archive daily report ${TODAY_BJ}" || echo "No changes to commit"
+          git push
 
       - name: Send to Feishu
         env:
