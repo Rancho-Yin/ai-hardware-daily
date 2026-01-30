@@ -1,6 +1,9 @@
-name: AI Hardware Daily to Feishu
+name: AI Hardware Daily (Semi-auto) to Feishu
 
 on:
+  schedule:
+    # 北京时间 07:30（UTC 23:30）
+    - cron: "30 23 * * *"
   workflow_dispatch:
 
 jobs:
@@ -8,21 +11,40 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Send message to Feishu
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install deps
+        run: |
+          pip install -r requirements.txt
+
+      - name: Build daily digest (RSS + keywords)
+        run: |
+          python scripts/rss_digest.py > daily.txt
+          echo "Generated daily.txt:"
+          cat daily.txt
+
+      - name: Send to Feishu
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: |
-          TODAY=$(date +"%Y-%m-%d")
-
-          cat > payload.json <<EOF
-          {
-            "msg_type": "text",
-            "content": {
-              "text": "🤖 AI硬件日报｜${TODAY}\n\n【一句话总览】\nAI 硬件正在从拼算力，转向拼效率和落地。\n\n🌍 全球 AI 硬件\n1️⃣（示例）AI 芯片开始更强调能效比\n- 重点从\"更强\"变成\"更省\"\n\n🇨🇳 中国 AI 硬件\n2️⃣（示例）国产算力进入真实应用阶段\n- 工程化能力成为关键\n\n📈 趋势判断\nAI 硬件正在从实验室走向产品化。"
-            }
-          }
-          EOF
-
+          python - <<'PY'
+          import json, os
+          text = open("daily.txt","r",encoding="utf-8").read()
+          payload = {"msg_type":"text","content":{"text":text}}
+          print(json.dumps(payload, ensure_ascii=False))
+          PY
           curl -X POST "$FEISHU_WEBHOOK" \
             -H "Content-Type: application/json" \
-            -d @payload.json
+            -d "$(python - <<'PY'
+          import json
+          text = open("daily.txt","r",encoding="utf-8").read()
+          payload = {"msg_type":"text","content":{"text":text}}
+          print(json.dumps(payload, ensure_ascii=False))
+          PY
+          )"
