@@ -152,28 +152,15 @@ def main():
     msg.append("")
     msg.append("📌 说明：本日报为 RSS + 关键词筛选（半自动）。")
 
-   # ===== Generate Xiaohongshu-style daily =====
 
 
-date_str = date_line.replace("🤖 AI硬件日报｜", "").strip()
 
 global_items = []
 china_items = []
-current = None
 
-    s = line.strip()
-    if s.startswith("🌍"):
-        current = "global"
-        continue
-    if s.startswith("🇨🇳"):
-        current = "china"
-        continue
-    if s[:1].isdigit() and ". " in s:
-        title = s.split(". ", 1)[1]
-        if current == "global":
-            global_items.append(title)
-        elif current == "china":
-            china_items.append(title)
+# 这里是你抓 RSS、筛关键词、append title 的逻辑
+
+    
 
 # ===== Generate Xiaohongshu-style daily =====
 xhs = []
@@ -186,7 +173,8 @@ xhs.append("")
 xhs.append("🌍 海外 AI 硬件动态")
 if global_items:
     for i, t in enumerate(global_items[:5], 1):
-        xhs.append(f"{i}️⃣ {t}")
+        xhsa = ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣","7️⃣","8️⃣","9️⃣","🔟"]
+        xhs.append(f"{i}️⃣ {t}" if i < 10 else f"{i}. {t}")
 else:
     xhs.append("- 今天没抓到符合关键词的海外新闻，可在 config/feeds.yaml 放宽关键词或加源。")
 
@@ -194,7 +182,7 @@ xhs.append("")
 xhs.append("🇨🇳 中国 AI 硬件观察")
 if china_items:
     for i, t in enumerate(china_items[:5], 1):
-        xhs.append(f"{i}️⃣ {t}")
+        xhs.append(f"{i}️⃣ {t}" if i < 10 else f"{i}. {t}")
 else:
     xhs.append("- 今天没抓到符合关键词的中国新闻，可在 config/feeds.yaml 放宽关键词或加源。")
 
