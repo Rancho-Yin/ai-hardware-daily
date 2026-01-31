@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-01（抓取 2026-01-31）
+
+🌍 全球
+1. 【其他】 The AirPods 4 and Google’s 4K streamer are just two of this week’s best deals
+https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale
+2. 【其他】 Gaming market melts down after Google reveals new AI game design tool — Project Genie crashes stocks for Roblox, Nintendo, CD Projekt Red, and more
+https://www.tomshardware.com/video-games/gaming-market-melts-down-after-google-reveals-new-ai-game-design-tool-project-genie-crashes-stocks-for-roblox-nintendo-cd-projekt-red-and-more
+3. 【其他】 Nvidia's plan to invest $100 billion in OpenAI appears unlikely — Jensen reportedly criticizing OpenAI's business decisions in private discussions
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-plan-to-invest-usd100-billion-in-openai-appears-unlikely-jensen-reportedly-criticizing-openais-business-decisions-in-private-discussions
+4. 【终端/边缘】 Maingear brings back the 90s nostalgia with old-school pre-built PCs with RTX 5090 and Ryzen 9 9950X3D — limited edition Retro98 PCs are available now
+https://www.tomshardware.com/desktops/gaming-pcs/maingear-brings-back-the-90s-nostalgia-with-old-school-pre-built-pcs-with-rtx-5090-and-ryzen-9-9950x3d-limited-edition-retro98-pcs-are-available-now
+5. 【芯片/算力】 RTX 4090’s 16-pin power connector erupts in smoke in shocking live footage — GPU melts during Marvel Rivals gameplay
+https://www.tomshardware.com/pc-components/gpus/rtx-4090s-16-pin-power-connector-erupts-in-smoke-in-shocking-live-footage-gpu-melts-during-marvel-rivals-gameplay
+6. 【其他】 ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia
+https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia
+
+🇨🇳 中国
+1. 【其他】 首款提供 5Gb 以太网口的迷你主机：极摩客发布 NucBox K13，搭载酷睿 Ultra 7 256V 处理器
+https://www.ithome.com/0/918/176.htm
+2. 【其他】 岚图汽车智能网联负责人张侃回应 ADS 4.1 适配进展：品牌节奏不同，确保系统稳定最重要
+https://www.ithome.com/0/918/174.htm
+3. 【其他】 英伟达 CEO 黄仁勋否认对 OpenAI 不满，称非常喜欢与奥尔特曼共事
+https://www.ithome.com/0/918/173.htm
+4. 【芯片/算力】 曝三星、SK 海力士和美光严控存储芯片订单，防止客户超额订购或过度囤积
+https://www.ithome.com/0/918/172.htm
+5. 【其他】 史上最卖座好莱坞动画电影，《疯狂动物城 2》连续 3 个月获全国票房冠军
+https://www.ithome.com/0/918/170.htm
+6. 【其他】 HBO 暗示《最后生还者》第三季真人剧集将成终章
+https://www.ithome.com/0/918/169.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
