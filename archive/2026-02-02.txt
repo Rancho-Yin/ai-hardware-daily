@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-02（抓取 2026-02-01）
+
+🌍 全球
+1. 【其他】 Save 47% on Samsung's 32-inch 1440p 180Hz gaming monitor as it drops to its cheapest price ever — Get your hands on the Odyssey G5 G50D for just $229 on Amazon
+https://www.tomshardware.com/monitors/gaming-monitors/save-47-percent-on-samsungs-32-inch-1440p-180hz-gaming-monitor-as-it-drops-to-its-cheapest-price-ever-get-your-hands-on-the-odyssey-g5-g50d-for-just-usd229-on-amazon
+2. 【机器人】 I don’t hate the robot barista like I thought I would
+https://www.theverge.com/tech/871350/artly-robot-coffee-jarvis-seattle
+3. 【其他】 SpaceX formalizes plan to build 1 million satellite Orbital Data Center System — FCC filing sketches out plans, but over-packed orbits could be limiting factor
+https://www.tomshardware.com/tech-industry/spacex-formalizes-plan-to-build-1-million-satellite-orbital-data-center-system-fcc-filing-sketches-out-plans-but-over-packed-orbits-could-be-limiting-factor
+4. 【芯片/算力】 Researcher builds bizarre 128-byte USB drive the size of a dinner plate using ancient pre-semiconductor magnetic core memory technology — data disappears once it is read, requiring special handling
+https://www.tomshardware.com/pc-components/usb-flash-drives/researcher-builds-bizarre-128-byte-usb-drive-the-size-of-a-dinner-plate-using-ancient-pre-semiconductor-magnetic-core-memory-technology-data-disappears-once-it-is-read-requiring-special-handling
+5. 【其他】 Antigravity’s 360-degree A1 drone is nearly $250 off right now
+https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale
+6. 【其他】 Starlink uses emergency fix to block Russian drones using its devices to bomb Ukraine — company looking for permanent solutions to stop unauthorized use of its service
+https://www.tomshardware.com/tech-industry/starlink-uses-emergency-fix-to-block-russian-drones-using-its-devices-to-bomb-ukraine-company-looking-for-permanent-solutions-to-stop-unauthorized-use-of-its-service
+
+🇨🇳 中国
+1. 【数据中心】 研究显示 AI 数据中心使美国天然气发电量大幅增长，温室气体排放将打破年度记录
+https://www.ithome.com/0/918/322.htm
+2. 【其他】 周一年货节狂促继续：iPhone 16 Pro 国补后 7999 → 4999 元再降，石头热泵洗烘套装 7998 → 3474 元跌破腰斩
+https://www.ithome.com/0/918/319.htm
+3. 【数据中心】 2026 款小新 Pro GT 笔记本预热：预装 PCIe 5.0 SSD，酷睿 Ultra 5 338H 机型标配 8533 MT/s 内存、X7/X9 配 9600 MT/s 内存
+https://www.ithome.com/0/918/306.htm
+4. 【其他】 现实世界的提示词注入攻击：研究揭示一块标牌如何欺骗自动驾驶汽车
+https://www.ithome.com/0/918/304.htm
+5. 【其他】 欧洲开源卓越奖授予了 Greg Kroah-Hartman
+https://www.solidot.org/story?sid=83447
+6. 【其他】 2026 年度票房超 20 亿元，六部国产影片官宣定档春节档
+https://www.ithome.com/0/918/301.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
