@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-03（抓取 2026-02-02）
+
+🌍 全球
+1. 【其他】 Modder more than doubles Asus ROG Xbox Ally X's memory with massive 64GB RAM upgrade — advanced soldering and BIOS modification unlock more capacity
+https://www.tomshardware.com/video-games/handheld-gaming/modder-more-than-doubles-asus-rog-xbox-ally-xs-memory-with-massive-64gb-ram-upgrade-advanced-soldering-and-bios-modification-unlock-more-capacity
+2. 【其他】 Developer creates 'conversational AI' that can run in 64kb of RAM on 1976 Zilog Z80 CPU-powered system — features a tiny chatbot and a 20-question guessing game
+https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-creates-conversational-ai-that-can-run-on-1976-zilog-z80-cpu-with-64kb-of-ram-features-a-tiny-chatbot-and-a-20-question-guessing-game
+3. 【其他】 Walmart slices $200 off the price of MSI's RTX 5070-powered Katana 15 HX — get crisp visuals and a 165Hz QHD display for just $1299
+https://www.tomshardware.com/laptops/gaming-laptops/walmart-slices-usd200-off-the-price-of-msis-rtx-5070-powered-katana-15-hx-get-crisp-visuals-and-a-165hz-qhd-display-for-just-usd1299
+4. 【其他】 RayNeo Air 3s Pro AR glasses review: A meaningful usability upgrade for already stellar glasses
+https://www.tomshardware.com/peripherals/wearable-tech/rayneo-air-3s-pro-ar-glasses-review
+5. 【芯片/算力】 Jensen Huang warns TSMC needs to 'work very hard' to meet AI demand — Nvidia CEO says its demand alone may force doubling its capacity over the next decade
+https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-warns-tsmc-needs-to-work-very-hard-to-meet-ai-demand-nvidia-ceo-says-its-demand-alone-may-force-doubling-its-capacity-over-the-next-decade
+6. 【终端/边缘】 Smart ways to help your PC survive through the PC component pricing apocalypse — check temps, replace old AIOs and PSUs, keep an eye on your boot drive's TBW, and more
+https://www.tomshardware.com/desktops/gaming-pcs/smart-ways-to-help-your-pc-survive-through-the-pc-component-pricing-apocalypse-check-temps-replace-old-aios-and-psus-keep-an-eye-on-your-boot-drives-tbw-and-more
+
+🇨🇳 中国
+1. 【其他】 1994 年的世嘉土星也能实现光追，开发者挖掘古老游戏机极限
+https://www.ithome.com/0/918/597.htm
+2. 【其他】 249 → 189 元：京东京造 JZ M5 电磁滚轮三模鼠标直降，仅限今日
+https://www.ithome.com/0/918/596.htm
+3. 【其他】 夏普计划关闭液晶面板子公司“夏普米子”，160 名员工或自愿离职
+https://www.ithome.com/0/918/594.htm
+4. 【其他】 华硕 ROG 臻世开放式平板振膜游戏耳机国行发售：联合 HIFIMAN 打造，1999 元
+https://www.ithome.com/0/918/592.htm
+5. 【其他】 消息称苹果计划今年年底前进军智能眼镜市场，AR 光学厂商提前布局
+https://www.ithome.com/0/918/590.htm
+6. 【其他】 天津联通与华为合作：5G-A 宽上行样板点峰值速率突破 1Gbps
+https://www.ithome.com/0/918/587.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
