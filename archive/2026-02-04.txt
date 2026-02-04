@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-04（抓取 2026-02-03）
+
+🌍 全球
+1. 【其他】 DDR5 RAM pricing begins to stabilize in Germany, January saw only a 0.1% increase — Some kits even saw price cuts as volatility begins to plateau
+https://www.tomshardware.com/pc-components/ddr5/ddr5-ram-begins-to-stabilize-in-germany-january-saw-only-a-0-1-percent-increase-in-pricing-across-the-month-some-kits-even-saw-price-cuts-as-volatility-begins-to-plateau
+2. 【其他】 Western Digital doubles the performance of hard drives with dual-actuator High-Bandwidth, with path to 8X performance increase — Power-Optimized HDDs will reduce power by 20 percent
+https://www.tomshardware.com/pc-components/hdds/western-digital-doubles-the-performance-of-hard-drives-with-dual-actuator-high-bandwidth-with-path-to-8x-performance-increase-power-optimized-hdds-will-reduce-power-by-20-percent
+3. 【芯片/算力】 Intel is co-developing new Z-Angle Memory to compete with HBM used in AI data centers — vertically-stacked memory touts 2 to 3x more capacity, greater bandwidth, and half the power consumption
+https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-is-co-developing-new-z-angle-memory-to-compete-with-hbm-used-in-ai-data-centers-vertically-stacked-memory-touts-2-to-3x-more-capacity-greater-bandwidth-and-half-the-power-consumption
+4. 【其他】 MSI MAG Pro X870E-P Wifi Motherboard review: Designed for productivity, but not a standout
+https://www.tomshardware.com/pc-components/motherboards/msi-mag-pro-x870e-p-wifi-motherboard-review
+5. 【终端/边缘】 Snag this 4K-capable gaming PC with an RTX 5070 Ti and 32GB of DDR5 RAM for less than $2,000 — a 26% saving on a powerhouse of a rig equipped with Intel's 24-core CPU and a 2TB SSD
+https://www.tomshardware.com/desktops/gaming-pcs/snag-this-4k-capable-gaming-pc-with-an-rtx-5070-ti-and-32gb-of-ddr5-ram-for-less-than-usd2-000-a-26-percent-saving-on-a-powerhouse-of-a-rig-equipped-with-intels-24-core-cpu-and-a-2tb-ssd
+6. 【其他】 Snap up 32GB of Crucial Pro Overclocking RAM for $325.99 — the cheapest available DDR5-6000 kit for hitting AMD's sweetspot
+https://www.tomshardware.com/pc-components/ddr5/snap-up-32gb-of-crucial-pro-overclocking-ram-for-usd325-99-the-cheapest-available-ddr5-6000-kit-for-hitting-amds-sweetspot
+
+🇨🇳 中国
+1. 【其他】 工信部公布 2025 年度中国消费名品名单，美的、TCL 等在列
+https://www.ithome.com/0/918/926.htm
+2. 【其他】 西部数据 40TB 机械硬盘年内登场，2029 年冲刺 100TB HAMR
+https://www.ithome.com/0/918/924.htm
+3. 【其他】 对标苹果 AirPods：三星 Galaxy Buds 4/Pro 耳机渲染图曝光，预计 2 月 25 日与 S26 系列一同发布
+https://www.ithome.com/0/918/923.htm
+4. 【其他】 国产香山团队 DDR4 内存控制器 IP 白杨发布并开源，性能水平接近商用 IP
+https://www.ithome.com/0/918/922.htm
+5. 【其他】 微软揭晓 2 月首批 XGP 游戏阵容：《如龙 8 外传》《天国：拯救》领衔，国产游戏《星砂岛》2 月 12 日发售
+https://www.ithome.com/0/918/919.htm
+6. 【其他】 小鹏自动驾驶、智能座舱中心合并，新成立通用智能中心
+https://www.ithome.com/0/918/918.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
