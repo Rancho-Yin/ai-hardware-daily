@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-05（抓取 2026-02-04）
+
+🌍 全球
+1. 【终端/边缘】 The new Valve Steam Machine is 'on track' to begin shipping early this year, says AMD — CEO suggests new 4K mini gaming PC, powered by semi-custom Zen 4 CPU, to launch soon
+https://www.tomshardware.com/pc-components/gpus/the-new-valve-steam-machine-is-on-track-to-begin-shipping-early-this-year-says-amd-ceo-suggests-new-4k-mini-gaming-pc-powered-by-semi-custom-zen-4-cpu-to-launch-soon
+2. 【其他】 ‘Most of you steal your software’ — Bill Gates complained about software piracy 50 years ago, and was openly irked by community's Altair BASIC ‘theft’
+https://www.tomshardware.com/software/most-of-you-steal-your-software-bill-gates-complained-about-software-piracy-50-years-ago-and-was-openly-irked-by-communitys-altair-basic-theft
+3. 【其他】 Cornell research shows that underwater 3D printing can be used to build or repair ocean structures in place — DARPA-funded project aims to make underwater construction faster, cheaper, and safer
+https://www.tomshardware.com/3d-printing/cornell-research-shows-that-underwater-3d-printing-can-be-used-to-build-or-repair-ocean-structures-in-place-darpa-funded-project-aims-to-make-underwater-construction-faster-cheaper-and-safer
+4. 【终端/边缘】 GMKtec Evo X2 AI Mini PC review: Compact Strix Halo Powerhouse
+https://www.tomshardware.com/desktops/mini-pcs/gmktec-evo-x2-ai-mini-pc-review
+5. 【其他】 China’s CXMT and YMTC to increase memory output — two new fabs could close the gap with the ‘big three’
+https://www.tomshardware.com/pc-components/dram/chinas-cxmt-and-ymtc-to-expand-memory-output
+6. 【芯片/算力】 Gamer scores Nvidia’s $999 powerhouse RTX 5080 for a jaw-dropping $562 — the Walmart clearance aisle is the secret weapon to beat the AI-driven GPU shortage (Updated)
+https://www.tomshardware.com/pc-components/gpus/gamer-scores-nvidias-usd999-powerhouse-rtx-5080-for-a-jaw-dropping-usd289-the-walmart-clearance-aisle-is-the-secret-weapon-to-beat-the-ai-driven-gpu-shortage
+
+🇨🇳 中国
+1. 【其他】 谷歌 Pixel 10a 官方渲染图曝光：延续原有设计语言，最快本月底发布
+https://www.ithome.com/0/919/305.htm
+2. 【其他】 春节红包大战前夕，马云现身杭州阿里总部千问办公楼
+https://www.ithome.com/0/919/303.htm
+3. 【其他】 宝马集团发布 2026 年战略规划：新世代 BMW iX3 长轴距版及多项技术将国产上市，旗下三大品牌将推出 20 款新车
+https://www.ithome.com/0/919/302.htm
+4. 【其他】 周四年货节狂促继续：iQOO 15 Ultra 首发 4999 元 24 期免息赠碎屏保，小米 17 512G 国补后 3699 元探底
+https://www.ithome.com/0/919/298.htm
+5. 【其他】 德州仪器宣布约 75 亿美元收购芯科科技，后者股价暴涨 50%
+https://www.ithome.com/0/919/295.htm
+6. 【其他】 全球开源参数规模最大的科学多模态模型：上海 AI 实验室发布书生 Intern-S1-Pro
+https://www.ithome.com/0/919/293.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
