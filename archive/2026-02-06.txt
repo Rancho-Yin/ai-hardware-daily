@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-06（抓取 2026-02-05）
+
+🌍 全球
+1. 【其他】 Jim Keller's Tenstorrent is downgrading Blackhole p150 cards from 140 to 120 tensor cores via firmware update — will ship cards with 120 tensor cores going forward, company claims existing users should expect 1-2% performance drop
+https://www.tomshardware.com/tech-industry/semiconductors/jim-kellers-tenstorrent-is-downgrading-blackhole-p150-cards-from-140-to-120-tensor-cores-via-firmware-update-will-ship-cards-with-120-tensor-cores-going-forward-company-claims-existing-users-should-expect-1-2-percent-performance-drop
+2. 【其他】 Increase of AI bots on the Internet sparks arms race
+https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/
+3. 【其他】 ASRock issues statement concerning yet another round of Ryzen 9000 CPU failures — motherboard vendor says it is 'working in seamless coordination' with AMD to investigate
+https://www.tomshardware.com/pc-components/cpus/asrock-issues-statement-concerning-yet-another-round-of-ryzen-9000-cpu-failures-motherboard-vendor-says-it-is-working-in-seamless-coordination-with-amd-to-investigate
+4. 【终端/边缘】 Secure a snappy gaming PC with an RTX 5060 and 16GB of DDR5 RAM for just $959 — MSI Codex R2 rig handles 1080p gameplay with a 10-core Intel CPU and 1TB of storage
+https://www.tomshardware.com/desktops/gaming-pcs/secure-a-snappy-gaming-pc-with-an-rtx-5060-and-16gb-of-ddr5-ram-for-just-usd959-msi-codex-r2-rig-handles-1080p-gameplay-with-a-10-core-intel-cpu-and-1tb-of-storage
+5. 【机器人】 Tesla's robotics ambitions rest on the knife-edge of US-China trade relations due to its supply chain — the majority of critical materials and suppliers are located in China
+https://www.tomshardware.com/tech-industry/teslas-robotics-ambitions-rest-on-the-knife-edge-of-us-china-trade-relations-due-to-its-supply-chain-the-majority-of-critical-materials-and-suppliers-are-located-in-china
+6. 【终端/边缘】 Intel clawed back CPU market share from AMD in the Steam Hardware survey for the first time in months — PC component crisis could be pushing builders to value-for-money builds
+https://www.tomshardware.com/pc-components/cpus/intel-clawed-back-cpu-market-share-from-amd-in-the-steam-hardware-survey-for-the-first-time-in-months-pc-component-crisis-could-be-pushing-builders-to-value-for-money-builds
+
+🇨🇳 中国
+1. 【其他】 米哈游总裁刘伟：上海游戏产业已具备世界一流工业化能力，要攻克 AI 模型等新技术
+https://www.ithome.com/0/919/663.htm
+2. 【其他】 网易《逆水寒》手游 3.2.4 版本更新发布：全新鸿音流派，海量新春内容
+https://www.ithome.com/0/919/662.htm
+3. 【其他】 让全公司的 AI 学会一起办公，OpenAI 发布 Frontier 平台
+https://www.ithome.com/0/919/660.htm
+4. 【终端/边缘】 华为马年新春贺岁手机电影《木马》上映，全程用 Mate 80 系列拍摄
+https://www.ithome.com/0/919/657.htm
+5. 【芯片/算力】 RTX 60 今年没戏？曝因为内存芯片短缺，英伟达推迟发布新款游戏芯片
+https://www.ithome.com/0/919/656.htm
+6. 【其他】 天津：互联网诊疗严禁使用 AI 等自动生成处方
+https://www.ithome.com/0/919/655.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
