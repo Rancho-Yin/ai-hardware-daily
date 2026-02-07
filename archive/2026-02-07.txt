@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-07（抓取 2026-02-06）
+
+🌍 全球
+1. 【其他】 Infineon allegedly hikes prices of power switches and ICs amid AI boom — knock-on pricing could impact virtually all electronic devices
+https://www.tomshardware.com/pc-components/power-supplies/infineon-allegedly-hikes-prices-of-power-switches-and-ics-amid-ai-boom-knock-on-pricing-could-impact-virtually-all-electronic-devices
+2. 【其他】 Lucky scavenger finds $1,300 worth of SSDs for just $210 in Walmart's clearance aisle — haul includes two 2TB WD SN770, a 2TB Samsung T5 Evo, and a 1 TB PNY CS2241
+https://www.tomshardware.com/pc-components/ssds/lucky-scavenger-finds-usd1-300-worth-of-ssds-for-just-usd210-in-walmarts-clearance-aisle-haul-includes-two-2tb-wd-sn770-a-2tb-samsung-t5-evo-and-a-1-tb-pny-cs2241
+3. 【芯片/算力】 TSMC is on track to have more employees than Intel for the first time in history — TSMC's explosive growth stands in contrast to Intel's rapid contraction
+https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-on-track-to-have-more-employees-than-intel-for-the-first-time-in-history-tsmcs-explosive-growth-stands-in-contrast-to-intels-rapid-contraction
+4. 【数据中心】 Intel, AMD server CPUs reportedly suffering from supply shortages in China, leading to increased prices — sources say orders could be delayed by as much as 6 months
+https://www.tomshardware.com/pc-components/cpus/intel-amd-server-cpus-reportedly-suffering-from-supply-shortages-in-china-leading-to-increased-prices-sources-say-orders-could-be-delayed-by-as-much-as-6-months
+5. 【其他】 The high-speed Bambu Lab P1S is back in stock at its record-low $399 price — save $300 on enclosed Core XY 3D printer with quick assembly for beginners
+https://www.tomshardware.com/3d-printing/the-high-speed-bambu-lab-p1s-is-back-in-stock-at-its-record-low-usd399-price-save-usd300-on-enclosed-core-xy-3d-printer-with-quick-assembly-for-beginners
+6. 【数据中心】 AMD's 96-core beast with watercooling engraved into CPU joins car and industrial parts in a 2,000W direct die cooling setup — $12,000 CPU runs at 5.3 GHz, devours 1,300W, and still runs cooler than your gaming PC
+https://www.tomshardware.com/pc-components/cpus/amds-96-core-beast-with-watercooling-engraved-into-cpu-joins-car-and-industrial-parts-in-a-2-000w-direct-die-cooling-setup-usd12-000-cpu-runs-at-5-3-ghz-devours-1-300w-and-still-runs-cooler-than-your-gaming-pc
+
+🇨🇳 中国
+1. 【其他】 尊界 S800 官宣成为 2026 总台春晚智慧出行时代旗舰合作伙伴
+https://www.ithome.com/0/920/001.htm
+2. 【其他】 雷鸟 U8A/Pro 狩猎者 2 代显示器发售：1196/2304 分区，2499~2999 元
+https://www.ithome.com/0/919/994.htm
+3. 【其他】 阿维塔 06T 完成申报，华为乾崑 × 阿维塔战略合作 2.0 全新车型
+https://www.ithome.com/0/919/991.htm
+4. 【其他】 AITO 问界宣布进入阿联酋市场：把智能电动技术推向全球舞台
+https://www.ithome.com/0/919/979.htm
+5. 【其他】 魏牌 V9X 远山大六座 SUV 申报，车长 5.3 米，77.7 度电池纯电续航 363km
+https://www.ithome.com/0/919/977.htm
+6. 【其他】 【IT之家开箱】罗技 GPW5 雪豹电竞鼠标图赏，业界首发可调电磁微动、全新黑白撞色
+https://www.ithome.com/0/919/976.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
