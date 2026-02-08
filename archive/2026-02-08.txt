@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-08（抓取 2026-02-07）
+
+🌍 全球
+1. 【其他】 Intel's Arrow Lake Refresh judgment day is reportedly on March 23 — missing Core Ultra 9 290K Plus from U.S. retailer listings spurs cancellation rumor
+https://www.tomshardware.com/pc-components/cpus/intels-arrow-lake-refresh-judgment-day-is-reportedly-on-march-23-missing-core-ultra-9-290k-plus-from-u-s-retailer-listings-spurs-cancellation-rumor
+2. 【芯片/算力】 MSI's RTX 5090 Lightning storms in at a thunderous $5,200 — limited edition GPU shatters everything from world records to your bank account
+https://www.tomshardware.com/pc-components/gpus/msis-rtx-5090-lightning-storms-in-at-a-thunderous-usd5-200-limited-edition-gpu-shatters-everything-from-world-records-to-your-bank-account
+3. 【其他】 The second-gen AirTags are a scatterbrain’s best friend
+https://www.theverge.com/tech/875314/airtags-second-gen-review-item-tracker
+4. 【其他】 Anker’s new charger with a screen would feel less gimmicky if it did more
+https://www.theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs
+5. 【芯片/算力】 Builder's dream PC case vanished from stores, so they 3D printed a masterpiece and shared the design — SFF case benchmarked, recreated to fit new GeForce RTX 50-series GPU
+https://www.tomshardware.com/3d-printing/builders-dream-pc-case-vanished-from-stores-so-they-3d-printed-a-masterpiece-and-shared-the-design-sff-case-benchmarked-recreated-to-fit-new-geforce-rtx-50-series-gpu
+6. 【其他】 Cairn is a climbing journey about perseverance and obsession
+https://www.theverge.com/games/874914/cairn-review-pc-playstation-5
+
+🇨🇳 中国
+1. 【其他】 2026 款极氪 007/007GT 申报图公布，二季度上市
+https://www.ithome.com/0/920/164.htm
+2. 【其他】 世界首富的烦恼：马斯克感叹“有钱也买不到幸福”，短短一句话两天浏览量破亿
+https://www.ithome.com/0/920/163.htm
+3. 【其他】 安全研究人员发现 AMD 驱动更新为 HTTP，存在中间人篡改攻击风险
+https://www.ithome.com/0/920/160.htm
+4. 【其他】 阿维塔 06T 部分参数公布：首批搭载华为全新一代激光雷达，全系标配宁德时代电池
+https://www.ithome.com/0/920/159.htm
+5. 【其他】 特斯拉陶琳：拒绝跟风产品“伪需求”，FSD 是纯视觉路线的胜利与中国市场的“最后一块拼图”
+https://www.ithome.com/0/920/156.htm
+6. 【其他】 英特尔 Arrow Lake Refresh 三款处理器被曝 3 月 23 日解禁，酷睿 Ultra 9 290K Plus 旗舰型号缺席
+https://www.ithome.com/0/920/155.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
