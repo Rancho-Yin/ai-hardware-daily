@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-10（抓取 2026-02-09）
+
+🌍 全球
+1. 【芯片/算力】 Don't miss this amazing XFX Mercury RX 9070XT GPU deal for just $649.99 — the cheapest AMD Radeon GPU in its class by $69
+https://www.tomshardware.com/pc-components/gpus/dont-miss-this-amazing-xfx-mercury-rx-9070xt-gpu-deal-for-just-usd649-99-the-cheapest-amd-radeon-gpu-in-its-class-by-usd69
+2. 【数据中心】 AI.com's $85 million Super Bowl ad campaign falls foul as traffic crashes servers — the campaign allegedly cost $15 million for the ads, $70 million for the domain name
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-dot-com-super-bowl-ad-drove-massive-traffic-and-then-it-crashed
+3. 【其他】 US Air Force bans use of smart glasses among its troops — earphones and other Bluetooth devices also limited to official duties while in uniform
+https://www.tomshardware.com/tech-industry/cyber-security/us-air-force-bans-use-of-smart-glasses-among-its-troops-earbuds-and-other-bluetooth-devices-limited-to-official-duties
+4. 【芯片/算力】 Taiwan rejects possibility of transferring 40% of the island's semiconductor capacity to U.S. — production on Taiwan expected to increase in lockstep with increases in U.S.-based production
+https://www.tomshardware.com/tech-industry/semiconductors/taiwan-rejects-possibility-of-transferring-40-percent-of-the-islands-semiconductor-capacity-to-u-s-production-on-taiwan-expected-to-increase-in-lockstep-with-increases-in-u-s-based-production
+5. 【其他】 Intel Core Ultra 5 250K Plus makes its Geekbench debut with 5.3 GHz boost clocks — Arrow Lake refresh SKU benchmarked in single- and multi-core tests
+https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-250k-plus-makes-its-geekbench-debut-with-5-3-ghz-boost-clocks-arrow-lake-refresh-sku-benchmarked-in-single-and-multi-core-tests
+6. 【其他】 Nvidia now produces three times as much code as before AI — specialized version of Cursor is being used by over 30,000 Nvidia engineers internally
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-now-produces-three-times-as-much-code-as-before-ai-specialized-version-of-cursor-is-being-used-by-over-30-000-nvidia-engineers-internally
+
+🇨🇳 中国
+1. 【其他】 清华刘知远团队论文：在严格可控环境下重新回答「强化学习能否教会大模型新能力」丨ICLR 2026
+https://www.leiphone.com/category/ai/iTSJTcmP2k93GUaD.html
+2. 【其他】 为遵守美国新规汽车厂商加紧移除中国软件代码
+https://www.solidot.org/story?sid=83517
+3. 【其他】 马斯克：没有这两样东西，美国1000%会破产；天涯社区宣布重启：6月1日恢复访问！1999元招募创世成员；比亚迪起诉美国政府！要求退还关税
+https://www.leiphone.com/category/zaobao/I1F4E1cCxWNPCNhO.html
+4. 【其他】 千问官方再次强调：免单卡可以买年货，有效期还有19天
+https://www.leiphone.com/category/industrynews/dK29Y45ty5tKcRhb.html
+5. 【其他】 Linux 6.19 释出
+https://www.solidot.org/story?sid=83512
+6. 【其他】 首个多模态记忆湖MemoryLake发布：AI基础设施迈入记忆驱动时代
+https://www.leiphone.com/category/ai/tQF0ahbkW8nRkVqN.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
