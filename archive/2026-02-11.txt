@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-11（抓取 2026-02-10）
+
+🌍 全球
+1. 【其他】 Alphabet is doubling its capital expenditure to a staggering $180 billion in 2026 — earnings suggest that the company's AI investments may be paying off
+https://www.tomshardware.com/tech-industry/alphabet-is-doubling-its-capital-expenditure-to-a-staggering-usd180-billion-in-2026-earnings-suggest-that-the-companys-ai-investments-may-be-paying-off
+2. 【机器人】 Harvard researchers develop novel 3D printing method for soft robotics — rotational multi-material method creates muscle-like structures that can be programmed to twist, lift, or bend
+https://www.tomshardware.com/3d-printing/harvard-researchers-develop-novel-3d-printing-method-for-soft-robotics-rotational-multi-material-method-creates-muscle-like-structures-that-can-be-programmed-to-twist-lift-or-bend
+3. 【芯片/算力】 TSMC's board approves $45 billion spending package on new fabs — record sign off signals aggressive expansion to grow capacity
+https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-board-approves-usd45-billion-spending-package-on-new-fabs-record-sign-off-signals-aggressive-expansion-to-grow-capacity
+4. 【其他】 Asus ROG Crosshair X870E Glacial Motherboard Review: Carving out a new top-notch flagship for Asus
+https://www.tomshardware.com/pc-components/motherboards/asus-rog-crosshair-x870e-glacial-motherboard-review
+5. 【其他】 G.Skill settles with plaintiffs following $2.4 million class action lawsuit over advertised memory speeds, denies all wrongdoing — company will have to change its packaging and be clearer about overclocking and BIOS adjustments if approved
+https://www.tomshardware.com/pc-components/ram/g-skill-settles-with-plaintiffs-following-usd2-4-million-class-action-lawsuit-over-advertised-memory-speeds-denies-all-wrongdoing-company-will-have-to-change-its-packaging-and-be-clearer-about-overclocking-and-bios-adjustments-if-approved
+6. 【其他】 Corsair's Scimitar Elite SE wireless gaming mouse hits a low of $79 — built for MMO gaming and Stream Deck integration
+https://www.tomshardware.com/peripherals/gaming-mice/corsairs-scimitar-elite-se-wireless-gaming-mouse-hits-a-low-of-usd79-built-for-mmo-gaming-and-stream-deck-integration
+
+🇨🇳 中国
+1. 【机器人】 打通视频生成与机器人世界模型，BridgeV2W 让机器人学会"预演未来"
+https://www.leiphone.com/category/industrynews/mifSWo8g3erzPNOm.html
+2. 【其他】 千问发布最新图像模型Qwen-Image-2.0
+https://www.leiphone.com/category/industrynews/q5ADFCRWdhg0LXFC.html
+3. 【其他】 美国 AI 初创公司盛行 996 工作制
+https://www.solidot.org/story?sid=83527
+4. 【其他】 P人过年不用慌，淘宝天猫春节不打烊，全国220个城市正常送货
+https://www.leiphone.com/category/industrynews/0xA8VvBnzUUtuBNR.html
+5. 【其他】 米兰冬奥会现场 淘宝Vision打造AI数字购物之旅
+https://www.leiphone.com/category/industrynews/HqWtkmAIE31SMRIZ.html
+6. 【机器人】 大晓机器人完成天使轮融资
+https://www.leiphone.com/category/robot/n05a59ofUOIjId1Z.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
