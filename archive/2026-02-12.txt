@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-12（抓取 2026-02-11）
+
+🌍 全球
+1. 【芯片/算力】 MSI Afterburner adds 16-pin power connector warning for its MPG AI PSUs — new update could save your expensive GPU from melting
+https://www.tomshardware.com/pc-components/gpus/msi-afterburner-adds-16-pin-power-connector-warning-for-its-mpg-ai-psus-new-update-could-save-your-expensive-gpu-from-melting
+2. 【其他】 Adding AI to sinus surgery system saw malfunctions rocket from eight to 100 incidents, according to new investigation — skull-puncturing errors are the stuff of nightmares
+https://www.tomshardware.com/tech-industry/artificial-intelligence/adding-ai-to-sinus-surgery-system-saw-malfunctions-rocket-from-eight-to-100-incidents-according-to-new-investigation-skull-puncturing-errors-are-the-stuff-of-nightmares
+3. 【其他】 Our testing shows the Ryzen 7 9800X3D can match the pricier Ryzen 7 9850X3D with simple PBO settings — AMD's latest CPU can't leverage extra clock speed in games
+https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9850x3d-pbo-overclock-testing
+4. 【芯片/算力】 U.S. government plans tariff exemptions for TSMC, if it follows through on American investment — $165 billion already pledged to increase production capacity, but details of the deal are still murky
+https://www.tomshardware.com/tech-industry/u-s-government-plans-tariff-exemptions-for-tsmc-if-it-follows-through-on-american-investment-usd165-billion-already-pledged-to-increase-production-capacity-but-details-of-the-deal-are-still-murky
+5. 【芯片/算力】 China's top chipmaker warns that rushed AI data center capacity could remain idle — SMIC chief says utilizing ballooning capacity 'has not been fully thought through'
+https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-top-chipmaker-warns-that-rushed-ai-data-center-capacity-could-remain-idle-smic-chief-says-utilizing-ballooning-capacity-has-not-been-fully-thought-through
+6. 【终端/边缘】 Huge $400 saving on Alienware's Aurora gaming PC with 32GB of RAM and an 8GB RTX 5060 Ti — get a capable gaming PC for just $1,399
+https://www.tomshardware.com/desktops/gaming-pcs/huge-usd400-saving-on-alienwares-aurora-gaming-pc-with-32gb-of-ram-and-an-8gb-rtx-5060-ti-get-a-capable-gaming-pc-for-just-usd1-399
+
+🇨🇳 中国
+1. 【其他】 DDR5 内存暴涨后 AM4 平台再度走热：AMD R7 5800X/XT 成销量黑马，部分渠道已超过 7800X3D
+https://www.ithome.com/0/921/231.htm
+2. 【其他】 英特尔计算运行时 26.05 发布：支持 Nova Lake 与 Crescent Island 加速卡，将更多 SYCL 代码上报至 LLVM
+https://www.ithome.com/0/921/227.htm
+3. 【其他】 通电即喷火：一博主自曝拍到微星 RTX 5090 魔龙显卡自燃瞬间
+https://www.ithome.com/0/921/225.htm
+4. 【其他】 初音未来“变脸”耳夹式耳机预售：蓝牙 6.0/300mAh 电池，129 元
+https://www.ithome.com/0/921/224.htm
+5. 【芯片/算力】 国产 RISC-V 芯片双突破，中国电科高端算力芯片成功流片
+https://www.ithome.com/0/921/221.htm
+6. 【其他】 智谱最新旗舰模型 GLM-5 炸场：编程、智能体能力取得开源 SOTA 表现
+https://www.ithome.com/0/921/216.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
