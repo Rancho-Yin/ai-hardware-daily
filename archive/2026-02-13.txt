@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-13（抓取 2026-02-12）
+
+🌍 全球
+1. 【其他】 MyMiniFactory acquires Thingiverse to save 3D printing file sharing from AI — Thingverse has eight million users and 2.5 million 'things'
+https://www.tomshardware.com/3d-printing/myminifactory-acquires-thingiverse-to-save-3d-printing-file-sharing-from-ai-thingverse-has-eight-million-users-and-2-5-million-things
+2. 【其他】 MSI GeForce RTX 5090 Lightning Z review: RTX 5090 Ti, anyone?
+https://www.tomshardware.com/pc-components/gpus/msi-geforce-rtx-5090-lightning-z-review
+3. 【其他】 Cadence embeds AI 'super agent' to assist engineers when designing EDA tools — company aims for ‘over a trillion transistors’ by 2030, with AI helping to debug and verify complex projects
+https://www.tomshardware.com/tech-industry/semiconductors/cadence-embeds-ai-across-its-eda-portfolio
+4. 【数据中心】 AMD rockets past 35% market share in desktop PC market as Intel's share loss accelerates — AMD also hits 25% in laptops and nears 30% in crucial server market
+https://www.tomshardware.com/pc-components/cpus/30-percent-of-x86-cpus-sold-are-now-made-by-amd-as-companys-market-share-grows-thanks-to-a-flagging-intel-enjoys-growth-across-all-segments-as-competition-intensifies
+5. 【其他】 Asus ROG Strix XG27JCG 27-inch 5K gaming monitor review: Performance that raises the bar
+https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg27jcg-27-inch-5k-gaming-monitor-review
+6. 【其他】 Anthropic promises to pay for electricity price increases due to it's AI data centers — firm to pay 100% of its grid infrastructure costs, produce new power sources as sector predicted to hit 50 GW in coming years
+https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-promises-to-pay-for-electricity-price-increases-due-to-its-ai-data-centers-firm-to-pay-100-percent-of-its-grid-infrastructure-costs-produce-new-power-sources-as-sector-predicted-to-hit-50-gw-in-coming-years
+
+🇨🇳 中国
+1. 【其他】 Highguard 开发商裁掉大部分员工
+https://www.solidot.org/story?sid=83550
+2. 【其他】 惠普推出游戏笔记本订阅服务
+https://www.solidot.org/story?sid=83547
+3. 【其他】 圆桌｜世界模型的“前世今生”与终局猜想
+https://www.leiphone.com/category/industrynews/MQZOj6i8uY6IsqzY.html
+4. 【终端/边缘】 3000元档高性价比手机还得看nova 15系列，穿搭+自拍一站满足！
+https://www.leiphone.com/category/industrynews/hfeFOOuJ75YPymKm.html
+5. 【机器人】 高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航"双SOTA"
+https://www.leiphone.com/category/industrynews/Md6FbG7BkzMzmjIf.html
+6. 【其他】 腾讯混元 x MBZUAI 港中文新研究：将纠错纳入策略空间，Search-R2 重构搜索增强推理学习方式
+https://www.leiphone.com/category/ai/j63DPVTV25liaRhc.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
