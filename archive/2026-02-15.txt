@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-15（抓取 2026-02-14）
+
+🌍 全球
+1. 【芯片/算力】 Enthusiast scores watercooled dual Nvidia GTX Titan X GPUs for $86 — $1,000 older flagship graphics card with custom water cooling for a bargain
+https://www.tomshardware.com/pc-components/gpus/enthusiast-scores-watercooled-dual-nvidia-gtx-titan-x-gpus-for-usd86-usd1-000-older-flagship-graphics-card-with-custom-water-cooling-for-a-bargain
+2. 【其他】 Intel fined $3 million by India’s antitrust regulator over discriminatory CPU warranty policy — says Intel abused its dominant position in the boxed processor market.
+https://www.tomshardware.com/pc-components/cpus/intel-fined-usd3-million-by-indias-antitrust-regulator-over-discriminatory-cpu-warranty-policy-says-intel-abused-its-dominant-position-in-the-boxed-processor-market
+3. 【其他】 A powerful tool of resistance is already in your hands
+https://www.theverge.com/policy/879273/alex-pretti-ice-cbp-trump-free-speech
+4. 【其他】 My uncanny AI valentines
+https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions
+5. 【芯片/算力】 President's Day GPU bonanza brings RTX 5060 Ti 8GB back to $379 MSRP — score a Blackwell GPU at MSRP, and get a free 650W power supply
+https://www.tomshardware.com/pc-components/gpus/presidents-day-gpu-bonanza-brings-rtx-5060-ti-8gb-back-to-usd379-msrp-score-a-blackwell-gpu-at-msrp-and-get-a-free-650w-power-supply
+6. 【其他】 Ponzi schemer behind $201 million Bitcoin scam sentenced to 20 years in federal prison — promised 3% daily returns on Bitcoin investments, left investors reeling
+https://www.tomshardware.com/tech-industry/cryptocurrency/ponzi-schemer-who-promised-3-percent-in-daily-returns-on-bitcoin-investment-sentenced-to-20-years-in-federal-prison-usd201-million-scam-predictably-collapsed-leaving-investors-reeling
+
+🇨🇳 中国
+1. 【芯片/算力】 摩尔线程完成 MiniMax M2.5 模型 Day-0 适配，支持 MTT S5000 GPU
+https://www.ithome.com/0/921/929.htm
+2. 【终端/边缘】 巴西反垄断机构调查微软，指其逼迫 OEM 厂独家捆绑 Edge 浏览器
+https://www.ithome.com/0/921/925.htm
+3. 【其他】 24 辆电动汽车在挪威开展极寒冬测，Lucid Air 续航夺魁，MG S6 达成率第一
+https://www.ithome.com/0/921/924.htm
+4. 【芯片/算力】 Blackview 推出 Rock 2 Pro 三防手机：紫光展锐 T8100 芯片、15000mAh 电池，6.67 寸 720P LCD 屏
+https://www.ithome.com/0/921/922.htm
+5. 【其他】 加拿大团队研发新型声波 3D 打印技术：精细度提高十倍，适用于硅胶等柔性材料
+https://www.ithome.com/0/921/921.htm
+6. 【数据中心】 让网络能够自修复、自优化，华为携手非洲加纳 MTN 部署全球首个阿尔法天线规模
+https://www.ithome.com/0/921/920.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
