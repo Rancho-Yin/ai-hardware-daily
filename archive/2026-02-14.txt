@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-14（抓取 2026-02-13）
+
+🌍 全球
+1. 【芯片/算力】 U.S., Taiwan ink trade deal after months of talks — agreement cuts tariffs on Taiwanese goods to 15% in exchange for direct investments on U.S. tech sector, semiconductors still excluded
+https://www.tomshardware.com/tech-industry/u-s-taiwan-ink-trade-deal-after-months-of-talks-agreement-cuts-tariffs-on-taiwanese-goods-to-15-percent-in-exchange-for-direct-investments-on-u-s-tech-sector-semiconductors-still-excluded
+2. 【其他】 Steam to add hardware specs to reviews — optional feature could help you dodge poorly optimized games
+https://www.tomshardware.com/video-games/pc-gaming/steam-to-add-hardware-specs-to-reviews-optional-feature-could-help-you-dodge-poorly-optimized-games
+3. 【终端/边缘】 Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers
+https://www.tomshardware.com/laptops/framework-releases-monthly-update-about-memory-and-storage-pricing-woes-ram-costs-increased-to-usd12-to-usd16-per-gb-recommends-purchasing-some-models-elsewhere-for-framework-laptop-diy-edition-customers
+4. 【其他】 Google reports that state hackers from China, Russia and Iran are using Gemini in 'all stages' of attacks — phishing lures, coding and vulnerability testing get AI underpinnings from hostile actors
+https://www.tomshardware.com/tech-industry/cyber-security/google-reports-that-state-hackers-from-china-russia-and-iran-are-using-gemini-in-all-stages-of-attacks-phishing-lures-coding-and-vulnerability-testing-get-ai-underpinnings-from-hostile-actors
+5. 【其他】 Asus ROG Crosshair X870E Dark Hero Motherboard Review
+https://www.tomshardware.com/pc-components/motherboards/asus-rog-crosshair-x870e-dark-hero-motherboard-review
+6. 【其他】 Save $438 on a Ryzen 7 9850X3D, Asus X870, and 32GB of DDR5 RAM — Newegg strikes with another blistering sub-$800 AM5 bundles
+https://www.tomshardware.com/pc-components/save-usd438-on-a-ryzen-7-9850x3d-asus-x870-and-32gb-of-ddr5-ram-newegg-strikes-with-another-blistering-sub-usd800-am5-bundles
+
+🇨🇳 中国
+1. 【其他】 投资者资本支出担忧持续升温，亚马逊股价或将面临近 20 年最长连跌
+https://www.ithome.com/0/921/784.htm
+2. 【其他】 任天堂开启“灭霸”模式，GitHub 平台“几乎所有”Switch 模拟器收到下架通知
+https://www.ithome.com/0/921/783.htm
+3. 【其他】 任天堂 Switch 系列游戏机“Virtual Boy”外设可玩 VR 模式游戏，涵盖《塞尔达传说：旷野之息》等
+https://www.ithome.com/0/921/781.htm
+4. 【其他】 Spotify：多亏 AI，我们的顶尖开发者过去一个多月没写过一行代码
+https://www.ithome.com/0/921/778.htm
+5. 【其他】 AI 总结也会被“下毒”？微软警告新攻击术
+https://www.ithome.com/0/921/776.htm
+6. 【芯片/算力】 Linux 7.0 内核移除英特尔 440BX 芯片组 EDAC 驱动：曾用于奔腾 II / III，19 年无人修复
+https://www.ithome.com/0/921/774.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
