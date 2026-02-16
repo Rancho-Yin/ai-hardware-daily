@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-16（抓取 2026-02-15）
+
+🌍 全球
+1. 【其他】 OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-fueled-ordering-frenzy-creates-apple-mac-shortage-delivery-for-high-unified-memory-units-now-ranges-from-6-days-to-6-weeks
+2. 【其他】 I hate my AI pet with every fiber of my being
+https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet
+3. 【其他】 Apple’s first-gen AirTags are still worth buying now that they’re $16 apiece
+https://www.theverge.com/gadgets/879325/apple-airtag-1st-generation-presidents-day-sale-deal
+4. 【其他】 You can now file your G.Skill class action claim to get a cut of the $2.4 million settlement — deceptive memory marketing class action now accepting payout submissions
+https://www.tomshardware.com/pc-components/ram/you-can-now-file-your-g-skill-class-action-claim-to-get-a-cut-of-the-usd2-4-million-settlement-deceptive-marketing-class-action-now-accepting-payout-submissions
+5. 【其他】 Microsoft’s AI boss says AI can replace every white-collar job in 18 months — ‘We’re going to have a human-level performance on most, if not all, professional tasks’
+https://www.tomshardware.com/tech-industry/artificial-intelligence/microsofts-ai-boss-says-ai-can-replace-every-white-collar-job-in-18-months-were-going-to-have-a-human-level-performance-on-most-if-not-all-professional-tasks
+6. 【其他】 Advanced Pentagon laser weapon shot down party balloons instead of drone by mistake, says report — airport shut down after Customs and Border Protection mistakenly believed it was targeting Mexican cartel drones
+https://www.tomshardware.com/tech-industry/advanced-pentagon-laser-weapon-shot-down-party-balloons-by-mistake-says-report-airport-shut-down-after-customs-and-border-protection-mistakenly-believed-it-was-targeting-mexican-cartel-drones
+
+🇨🇳 中国
+1. 【终端/边缘】 调查显示：过去一年 21 款热门 PC 游戏只有 5 款支持光追
+https://www.ithome.com/0/922/042.htm
+2. 【其他】 曾主导开发 MD、土星、DC 等经典游戏机，前世嘉社长佐藤秀树逝世
+https://www.ithome.com/0/922/037.htm
+3. 【其他】 消息称平价版苹果 MacBook 笔记本不会采用塑料外壳，有望下月上市
+https://www.ithome.com/0/922/036.htm
+4. 【其他】 百度千帆推出 OpenClaw 一键体验，3-5 分钟内完成从配置到对话
+https://www.ithome.com/0/922/035.htm
+5. 【其他】 古尔曼：苹果 iOS 27 将整理系统代码，微调界面设计
+https://www.ithome.com/0/922/031.htm
+6. 【终端/边缘】 纯 ASCII 字符也能展现天气变化，开发者为 Linux / macOS 终端打造天气应用
+https://www.ithome.com/0/922/028.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
