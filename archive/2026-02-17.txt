@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-17（抓取 2026-02-16）
+
+🌍 全球
+1. 【终端/边缘】 Become the predator with an RTX 5070 Ti gaming laptop with $740 off the MSRP — revolutionary laptop deal during the President's Day sale
+https://www.tomshardware.com/laptops/gaming-laptops/become-the-predator-with-an-rtx-5070-ti-gaming-laptop-with-usd740-off-the-msrp-revolutionary-laptop-deal-during-the-presidents-day-sale
+2. 【芯片/算力】 TSMC considers an additional $100 billion investment into Arizona fabs to bolster American chipmaking efforts — move would help TSMC's chips avoid tariffs due to local production
+https://www.tomshardware.com/tech-industry/semiconductors/tsmc-considers-an-additional-usd100-billion-investment-into-arizona-fabs-to-bolster-american-chipmaking-efforts-move-would-help-tsmcs-chips-avoid-tariffs-due-to-local-production
+3. 【其他】 Apple’s doing something on March 4th
+https://www.theverge.com/tech/879671/apple-special-experience-event-march-2026
+4. 【其他】 Let&#8217;s talk about Ring, lost dogs, and the surveillance state
+https://www.theverge.com/podcast/879203/ring-search-party-super-bowl-ai-surveillance-privacy-security
+5. 【其他】 The future of Quantum computing — the tech, companies, and roadmaps that map out a coherent quantum future
+https://www.tomshardware.com/tech-industry/quantum-computing/the-future-of-quantum-computing-the-tech-companies-and-roadmaps-that-map-out-a-coherent-quantum-future
+6. 【其他】 Corsair AI Workstation 300 review: Strix Halo sets sail in a compact and classy (but pricey) package
+https://www.tomshardware.com/pc-components/gpus/corsair-ai-workstation-300-review
+
+🇨🇳 中国
+1. 【其他】 登上春晚感觉如何？松延动力：兴奋，不是所有企业都有机会
+https://www.ithome.com/0/922/151.htm
+2. 【机器人】 银河通用机器人亮相 2026 总台春晚：与沈腾、马丽同框，大秀“叠衣服”“抓东西”
+https://www.ithome.com/0/922/150.htm
+3. 【其他】 马斯克 X 平台突发故障，全球逾万人反馈“无法访问”
+https://www.ithome.com/0/922/149.htm
+4. 【其他】 三星 Galaxy Buds4 / Pro 耳机规格曝光：外观调整、至高拥有 IP57 认证，定价 179 欧元起
+https://www.ithome.com/0/922/148.htm
+5. 【其他】 松延动力揭秘 1:1 复刻蔡明：不仅表情、脖子动作，眼神都做了精准调试
+https://www.ithome.com/0/922/147.htm
+6. 【其他】 《最终幻想 7 重制版》第三部如何做到多平台均不降低品质？导演滨口直树揭秘
+https://www.ithome.com/0/922/146.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
