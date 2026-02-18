@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-18（抓取 2026-02-17）
+
+🌍 全球
+1. 【其他】 Japanese toilet maker 'the most undervalued and overlooked AI memory beneficiary,' investors claim — shares up nearly 40% in first two months of 2026
+https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-toilet-maker-the-most-undervalued-and-overlooked-ai-memory-beneficiary-investors-claim-shares-up-nearly-40-percent-in-first-two-months-of-2026
+2. 【其他】 This Corsair RAM and Gigabyte AM5 motherboard bundle is just $67 more than buying the RAM alone – 32GB of RAM and B850 Aorus Elite Wifi 7 shaves $133 off buying separately
+https://www.tomshardware.com/pc-components/this-corsair-ram-and-gigabyte-am5-motherboard-bundle-is-just-usd67-more-than-buying-the-ram-alone-32gb-of-ram-and-b850-aorus-elite-wifi-7-shaves-usd133-off-buying-separately
+3. 【芯片/算力】 Sony considering PlayStation 6 delay to 2029, while Nintendo could hike Switch 2 price, according to report — memory and storage chip shortage now impacting products outside of RAM, storage, and GPUs
+https://www.tomshardware.com/video-games/console-gaming/sony-considering-playstation-6-delay-to-2029-while-nintendo-could-hike-switch-2-price-according-to-report-memory-and-storage-chip-shortage-now-impacting-products-outside-of-ram-storage-and-gpus
+4. 【其他】 SATA SSD cheated death from failed attempt at data destruction with a drill — drive emerges victorious in face-off against IT worker
+https://www.tomshardware.com/pc-components/ssds/sata-ssd-cheated-death-from-failed-attempt-at-data-destruction-with-a-drill-drive-emerges-victorious-in-face-off-against-it-worker
+5. 【其他】 Valve confirms Steam Deck is out of stock due to memory and storage shortages — supply of popular gaming handheld in trouble because of massive AI demand
+https://www.tomshardware.com/video-games/handheld-gaming/valve-confirms-steam-deck-is-out-of-stock-due-to-memory-and-storage-shortages-supply-of-popular-gaming-handheld-in-trouble-because-of-massive-ai-demand
+6. 【其他】 Engineer finds his smart sleep mask can read other people's brainwaves due to poor software security — superpower granted via poor-quality software with hardcoded high-level credentials
+https://www.tomshardware.com/peripherals/wearable-tech/engineer-finds-his-smart-sleep-mask-can-read-other-peoples-brainwaves-superpower-granted-via-poor-quality-software-with-hardcoded-high-level-credentials
+
+🇨🇳 中国
+1. 【其他】 Steam 国区 83.3 元，微软《帝国时代 2：决定版》“最后的酋长”大型游戏 DLC 发售
+https://www.ithome.com/0/922/270.htm
+2. 【其他】 艾湃电竞推出 YOGA 360 一体式水冷散热器：冷头配曲面屏，黑白双色定价均为 799 元
+https://www.ithome.com/0/922/266.htm
+3. 【其他】 腾讯公布“元宝 10 亿红包活动”数据：全网累计抽奖次数超 36 亿次、完成 AI 创作 10 亿次
+https://www.ithome.com/0/922/264.htm
+4. 【其他】 希捷和西部数据证实其 2026 年硬盘产能已售罄
+https://www.solidot.org/story?sid=83573
+5. 【其他】 内存价格飙升推动二手笔记本销量上涨
+https://www.solidot.org/story?sid=83572
+6. 【机器人】 越疆机器人登上央视春晚，点亮高端智造之光
+https://www.leiphone.com/category/industrynews/drLUgS9YeGmaTHrB.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
