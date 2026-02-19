@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-19（抓取 2026-02-18）
+
+🌍 全球
+1. 【其他】 Over 80% of companies report no productivity gains from AI so far despite billions in investment, survey suggests — 6,000 executives also reveal 1/3 of leaders use AI, but only for 90 minutes a week
+https://www.tomshardware.com/tech-industry/artificial-intelligence/over-80-percent-of-companies-report-no-productivity-gains-from-ai-so-far-despite-billions-in-investment-survey-suggests-6-000-executives-also-reveal-1-3-of-leaders-use-ai-but-only-for-90-minutes-a-week
+2. 【其他】 Nvidia sells off final Arm shares, but licensing deals will continue — $140 million stake sold, equating to 1.1 million shares
+https://www.tomshardware.com/tech-industry/nvidia-sells-off-final-arm-shares-but-licensing-deals-will-continue-usd140-million-stake-sold-equating-to-1-1-million-shares
+3. 【其他】 Lenovo denies allegations of transferring data to China — class action lawsuit alleges company uses trackers to expose American behavioral data to ‘foreign adversaries’
+https://www.tomshardware.com/tech-industry/lenovo-denies-allegations-of-transferring-data-to-china-class-action-lawsuit-alleges-company-uses-trackers-to-expose-american-behavioral-data-to-foreign-adversaries
+4. 【终端/边缘】 Save $600 on this RTX 5080-powered Alienware gaming PC, down to its best price in months — just $2,399.99 for 4K-capable rig equipped with a 24-core Intel CPU, 32GB of DDR5 RAM, and a 1TB SSD
+https://www.tomshardware.com/desktops/gaming-pcs/save-usd600-on-this-rtx-5080-powered-alienware-gaming-pc-down-to-its-best-price-in-months-just-usd2-399-99-for-4k-capable-rig-equipped-with-a-24-core-intel-cpu-32gb-of-ddr5-ram-and-a-1tb-ssd
+5. 【芯片/算力】 $1,000 bought an RTX 5080 in November 2025, now it only buys an RTX 5070 Ti — report shows 15% average global price hike across Nvidia, AMD & Intel GPUs
+https://www.tomshardware.com/pc-components/gpus/usd1-000-bought-an-rtx-5080-in-november-2025-now-it-only-buys-an-rtx-5070-ti-report-shows-15-percent-average-global-price-hike-across-nvidia-amd-and-intel-gpus
+6. 【其他】 Meta will deploy standalone Nvidia Grace CPUs in production, with Vera to follow — company sees perf-per-watt improvements of up to 2X in some CPU workloads
+https://www.tomshardware.com/pc-components/cpus/meta-will-deploy-standalone-nvidia-grace-cpus-in-production-with-vera-to-follow-company-sees-perf-per-watt-improvements-of-up-to-2x-in-some-cpu-workloads
+
+🇨🇳 中国
+1. 【终端/边缘】 谷歌 Pixel 10a 手机发布：纯平“后背”、出厂搭载安卓 16，499 美元起
+https://www.ithome.com/0/922/394.htm
+2. 【其他】 谷歌正式确认，未来所有用户均可修改 Google 账号 @Gmail.com 邮箱前缀
+https://www.ithome.com/0/922/393.htm
+3. 【其他】 闪极推出 45W“苹果冰”小方块单 USB-C 充电头，89 元
+https://www.ithome.com/0/922/391.htm
+4. 【其他】 爱彼迎 CEO 切斯基谈 AI：公司若不主动颠覆自己，就会被别人颠覆
+https://www.ithome.com/0/922/390.htm
+5. 【其他】 春晚首见！追觅把 「人车家」智能生态搬上「国民」舞台
+https://www.leiphone.com/category/weiwu/otxbrv4xWCAK15vW.html
+6. 【芯片/算力】 千问3.5引爆全球AI产业链，英伟达、华为昇腾、AMD、苹果等第一时间适配
+https://www.leiphone.com/category/industrynews/GL2oDExVsQ0Kt0sc.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
