@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-20（抓取 2026-02-19）
+
+🌍 全球
+1. 【其他】 Dell launches new budget 1080p gaming monitor with an ultra-fast 240Hz refresh rate for less than $130 — new 27-inch IPS display includes AMD FreeSync support and 0.5ms response time
+https://www.tomshardware.com/monitors/gaming-monitors/dell-launches-new-budget-1080p-gaming-monitor-with-an-ultra-fast-240hz-refresh-rate-for-less-than-usd130-new-27-inch-ips-display-includes-amd-freesync-support-and-0-5ms-response-time
+2. 【其他】 be quiet! Power Zone 2 1200W power supply review: Delivers outstanding performance at premium pricing
+https://www.tomshardware.com/pc-components/power-supplies/be-quiet-power-zone-2-1200w-power-supply-review
+3. 【其他】 Thermalright Wonder Vision 360 UB ARGB Black review: Detachable 6.7-inch screen makes for unique possibilities
+https://www.tomshardware.com/pc-components/liquid-cooling/thermalright-wonder-vision-360-ub-argb-black-review
+4. 【其他】 Quantum teleportation demonstrated over existing fiber networks — Deutsche Telekom’s T‑Labs used commercially available Qunnect hardware for the demo, claims 90% average accuracy
+https://www.tomshardware.com/networking/quantum-teleportation-demonstrated-over-existing-fiber-networks-deutsche-telekoms-t-labs-used-commercially-available-qunnect-hardware-for-the-demo-claims-90-percent-average-accuracy
+5. 【其他】 OpenAI aims to secure $100 Billion in latest funding round, reportedly aiming for an $800 billion valuation — Parties offering up cash include Nvidia, Microsoft, SoftBank, and more
+https://www.tomshardware.com/tech-industry/openai-aims-to-secure-usd100-billion-in-latest-funding-round-reportedly-aiming-for-an-usd800-billion-valuation-parties-offering-up-cash-include-nvidia-microsoft-softbank-and-more
+6. 【数据中心】 China’s AI build-out forces a rapid shift to liquid cooling — massive clusters put pressure on domestic suppliers to shift cooling methods
+https://www.tomshardware.com/tech-industry/chinas-ai-build-out-forces-a-rapid-shift-to-liquid-cooling
+
+🇨🇳 中国
+1. 【其他】 雷诺：跟日产、吉利等车企的合作很重要，但我们也能独当一面
+https://www.ithome.com/0/922/517.htm
+2. 【其他】 李飞飞斩获 10 亿美元新一轮融资：英伟达 AMD 入局，3D 空间革命开战
+https://www.ithome.com/0/922/516.htm
+3. 【其他】 AMD "Zen 6" MSDT 处理器被曝含 6、8、10、12、16、20、24 核型号
+https://www.ithome.com/0/922/512.htm
+4. 【其他】 Cadence 楷登 2025 年营收同比增长超 14%，总额 52.97 亿美元
+https://www.ithome.com/0/922/511.htm
+5. 【其他】 AI 领袖齐聚印度拍摄大合照，奥尔特曼、阿莫代伊却“貌合神离”
+https://www.ithome.com/0/922/510.htm
+6. 【其他】 特斯拉：xAI Grok 将上线欧洲市场，率先在 9 国推出
+https://www.ithome.com/0/922/507.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
