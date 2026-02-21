@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-22（抓取 2026-02-21）
+
+🌍 全球
+1. 【其他】 Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT
+https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt
+2. 【数据中心】 Lenovo alerts partners to looming price hikes on consumer and server products — soaring memory costs drive the surge
+https://www.tomshardware.com/desktops/lenovo-alerts-partners-to-looming-price-hikes-on-consumer-and-server-products-soaring-memory-costs-drive-the-surge
+3. 【其他】 Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish
+https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox
+4. 【其他】 Corsair Makr Pro 75 Review: Not DIY-priced (or DIY)
+https://www.tomshardware.com/peripherals/gaming-keyboards/corsair-makr-pro-75-review
+5. 【其他】 Data center developers building private natural gas 'Shadow Grid' power plants to sidestep strained grids — off-grid GW Ranch project in Texas will reportedly use as much power as Chicago
+https://www.tomshardware.com/tech-industry/big-tech/datacenter-developers-leverage-natural-gas-to-sidestep-power-grids-short-term-solution-might-increase-carbon-emissions-and-prove-costly-in-the-long-run
+6. 【芯片/算力】 India joins America-led Pax Silica supply chain effort to build semiconductor talent and reduce reliance on China — agreement spans from rare earths to chipmaking tools
+https://www.tomshardware.com/tech-industry/india-joins-america-led-pax-silica-supply-chain-effort-to-build-semiconductor-talent-and-reduce-reliance-on-china-agreement-spans-from-rare-earths-to-chipmaking-tools
+
+🇨🇳 中国
+1. 【其他】 微软 Xbox 新任 CEO 无任何游戏履历引玩家不满，曝斯宾塞为被迫退休
+https://www.ithome.com/0/922/758.htm
+2. 【数据中心】 科技巨头购地扩建 AI 数据中心遭农民拒绝：3300 万美元买不走土地与传承
+https://www.ithome.com/0/922/757.htm
+3. 【其他】 清华团队绘出迄今最深邃的极致深空星系图像
+https://www.ithome.com/0/922/756.htm
+4. 【芯片/算力】 业界最快：imec 发布 7-bit 175GS/s ADC 芯片，满足 AI 数据中心高速互联需求
+https://www.ithome.com/0/922/753.htm
+5. 【数据中心】 谷歌宣布启动横跨四大洲的海底光缆网络计划，填补南半球数字连接空白
+https://www.ithome.com/0/922/752.htm
+6. 【其他】 追光动画《三国第一部：争洛阳》发布贴片预告：2026 暑期见，《长安三万里》原班人马打造
+https://www.ithome.com/0/922/749.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
