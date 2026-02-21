@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-21（抓取 2026-02-20）
+
+🌍 全球
+1. 【芯片/算力】 Thermal Grizzly pops the top on Ryzen 7 9850X3Ds for you, charges eyewatering premium for delidded chips — almost double the cost of a regular model, comes with its own warranty
+https://www.tomshardware.com/desktops/pc-building/thermal-grizzlys-delidded-ryzen-7-9850x3d-is-twice-the-price-but-packs-a-two-year-warranty-pre-tested-chip-is-covered-for-nearly-any-chip-failure
+2. 【其他】 AWS outages caused by AI coding bot blunder, report claims
+https://www.tomshardware.com/tech-industry/artificial-intelligence/multiple-aws-outages-caused-by-ai-coding-bot-blunder-report-claims-amazon-says-both-incidents-were-user-error
+3. 【其他】 OpenAI's Sam Altman warns that firms are using 'AI washing' to mask layoffs across the globe — AI boss calls out corporate excuses while warning of 'palpable' job disruption ahead
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-sam-altman-warns-that-firms-are-using-ai-washing-to-mask-layoffs-across-the-globe-ai-boss-calls-out-corporate-excuses-while-warning-of-palpable-job-disruption-ahead
+4. 【其他】 Zuckerberg cuts Meta employee bonuses by 5%, follows 10% reduction last year, despite AI splurge — $130 billion capex vision and eye-watering AI pay packages force efficiency elsewhere in the business
+https://www.tomshardware.com/tech-industry/zuckerberg-cuts-meta-employee-bonuses-by-5-percent-follows-10-percent-reduction-last-year-despite-ai-splurge-usd130-billion-capex-vision-and-eye-watering-ai-pay-packages-force-efficiency-elsewhere-in-the-business
+5. 【其他】 UALink roadmap plots course to optimized AI data center interconnects — examining the open standard designed to combat vendor lock-in while offering cost and performance optimization
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ualink-roadmap-plots-course-to-optimized-ai-data-center-interconnects-examining-the-open-standard-designed-to-combat-vendor-lock-in-while-offering-cost-and-performance-optimization
+6. 【芯片/算力】 PC novice hits the jackpot with free RTX 3090 PC from kindly neighbour — potent build features $1,500 GPU paired with liquid-cooled i9-10850K and Asus Maximus motherboard
+https://www.tomshardware.com/desktops/pc-building/pc-novice-hits-the-jackpot-with-free-rtx-3090-pc-from-kindly-neighbour-potent-build-features-usd1-500-gpu-paired-with-liquid-cooled-i9-10850k-and-asus-maximus-motherboard
+
+🇨🇳 中国
+1. 【其他】 特斯拉 Autopilot 辅助驾驶致死案败诉：2.43 亿美元天价赔偿落定，曾拒绝以 6000 万美元庭外和解
+https://www.ithome.com/0/922/650.htm
+2. 【终端/边缘】 微软宣布 Edge 浏览器将终止支持 macOS Monterey 系统，苹果 macOS 12 用户将无法获取 151 及后续版本更新
+https://www.ithome.com/0/922/649.htm
+3. 【芯片/算力】 78 比特系统展现量子优势，中国科学家用“庄子 2.0”芯片首次观测到预热化现象，保真度超 90%
+https://www.ithome.com/0/922/648.htm
+4. 【其他】 英伟达被曝曾测试 RTX 5090 Ti 级原型卡：仍未采用完整 GB202 核心，功耗飙升至 700W 以上
+https://www.ithome.com/0/922/646.htm
+5. 【其他】 平价版 MacBook 笔记本、全新 Studio Display 显示器现身苹果 macOS 26.3 系统代码
+https://www.ithome.com/0/922/645.htm
+6. 【其他】 宣称“从 0 构建”，印度 AI 实验室 Sarvam 发布两款 MoE 架构 LLM
+https://www.ithome.com/0/922/644.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
