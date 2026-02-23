@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-23（抓取 2026-02-22）
+
+🌍 全球
+1. 【其他】 Hands-on: G’AIM’E 30th Anniversary Time Crisis Light Gun Game
+https://www.tomshardware.com/peripherals/hands-on-gaime-30th-anniversary-time-crisis-light-gun-game
+2. 【其他】 Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice
+https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice
+3. 【数据中心】 Be quiet! Silent Loop 3 420 review: Performance cooling with minimal noise
+https://www.tomshardware.com/pc-components/liquid-cooling/be-quiet-silent-loop-3-420-review
+4. 【其他】 Sam Altman fires back at Elon Musk's proposal for space-based data centers, says orbiting data centers 'ridiculous' for now — cites high failure rates and cost as primary limiters
+https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-fires-back-at-elon-musks-proposal-for-space-based-data-centers-says-orbiting-data-centers-ridiculous-for-now-cites-high-failure-rates-and-cost-as-primary-limiters
+5. 【其他】 Akasa launches its latest-generation fanless Mini-ITX case — Euler CMX supports modern Intel Core Ultra processors up to 35W TDP and standard mini-ITX mobos
+https://www.tomshardware.com/pc-components/pc-cases/akasa-launches-its-latest-generation-fanless-mini-itx-case-euler-cmx-supports-modern-intel-core-ultra-processors-up-to-35w-tdp-and-standard-mini-itx-mobos
+6. 【其他】 This magazine plays Tetris — here’s how
+https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display
+
+🇨🇳 中国
+1. 【其他】 小米 Tag 追踪器官宣 2 月 28 日海外发布，售价已曝光为 17.99 欧元
+https://www.ithome.com/0/922/882.htm
+2. 【其他】 OpenAI 有望推出 ChatGPT Pro Lite 订阅，月费 100 美元
+https://www.ithome.com/0/922/881.htm
+3. 【终端/边缘】 极客为 RTX 5090 显卡“补足”第二组 12V-2×6 供电，结果 PCB 板被烧穿
+https://www.ithome.com/0/922/879.htm
+4. 【其他】 苹果下一个“大招”：库克频频提及视觉智能，押注 AI 可穿戴设备领域
+https://www.ithome.com/0/922/878.htm
+5. 【其他】 当AI成为生产资料，谈谈技术格局
+https://www.solidot.org/story?sid=83591
+6. 【其他】 与 Galaxy S26 同步，三星将于 2 月 26 日发布 Galaxy Buds4 / Pro
+https://www.ithome.com/0/922/877.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
