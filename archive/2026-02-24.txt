@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-24（抓取 2026-02-23）
+
+🌍 全球
+1. 【芯片/算力】 Trump tariff turbulence risks handing TSMC a win over American chip manufacturers — prior exemptions for onshoring manufacturing may hinder the likes of Intel
+https://www.tomshardware.com/tech-industry/trump-tariff-turbulence-risks-handing-tsmc-a-win-over-american-chip-manufacturers-prior-exemptions-for-onshoring-manufacturing-may-hinder-the-likes-of-intel
+2. 【芯片/算力】 MSI RTX 5090 Lightning Z GPUs listed on eBay for almost $27,000 — limited edition graphics card demands 500% premium from resellers
+https://www.tomshardware.com/pc-components/gpus/msi-rtx-5090-lightning-z-gpus-listed-on-ebay-for-almost-usd27-000-limited-edition-graphics-card-demands-500-percent-premium-from-resellers
+3. 【其他】 Stargate AI data centers for OpenAI reportedly delayed by squabbles between partners — sources say OpenAI, Oracle, and SoftBank disagreed on who would have ultimate control of the planned data centers
+https://www.tomshardware.com/tech-industry/artificial-intelligence/stargate-ai-data-centers-for-openai-reportedly-delayed-by-squabbles-between-partners-sources-say-openai-oracle-and-softbank-disagreed-on-who-would-have-ultimate-control-of-the-planned-data-centers
+4. 【其他】 Newegg slashes $176 off this potent AMD gaming bundle, which includes $437.99 of RAM - Ryzen 7 9800X3D CPU, 32GB of Corsair Vengeance, and X870E Aorus Elite Wifi 7 motherboard for $1,020
+https://www.tomshardware.com/pc-components/newegg-slashes-usd176-off-this-potent-amd-gaming-bundle-which-includes-usd437-99-of-ram-ryzen-7-9800x3d-cpu-32gb-of-corsair-vengeance-and-x870e-aorus-elite-wifi-7-motherboard-for-usd1-020
+5. 【其他】 US exports from Taiwan now exceed exports from China for the first time in decades — AI gold rush fuels 93.5% jump in advanced system exports
+https://www.tomshardware.com/tech-industry/taiwan-exports-leapfrog-china
+6. 【其他】 Get 20TB of Seagate external storage for just $11 per terabyte — rare discount lands during the AI-driven storage crunch
+https://www.tomshardware.com/pc-components/external-hdds/get-20tb-of-seagate-external-storage-for-just-usd11-per-terabyte-rare-discount-lands-during-the-ai-driven-storage-crunch
+
+🇨🇳 中国
+1. 【其他】 谷歌计划为全美 600 万名教师免费提供 Gemini AI 培训
+https://www.ithome.com/0/923/006.htm
+2. 【芯片/算力】 阿斯麦 ASML 公布 EUV 光源技术突破，2030 年芯片产能有望提升 50%
+https://www.ithome.com/0/923/005.htm
+3. 【其他】 《新世纪福音战士》动画官宣全新系列作品制作启动
+https://www.ithome.com/0/922/997.htm
+4. 【其他】 RTS 游戏《奇点灰烬 II》开启 Demo 免费试玩，持续至 3 月 3 日
+https://www.ithome.com/0/922/996.htm
+5. 【其他】 OpenAI 调整“星际之门”项目策略：暂缓自建，转向与甲骨文及软银深度合作
+https://www.ithome.com/0/922/995.htm
+6. 【其他】 EAC 反作弊将于 2026 年 4 月登陆《火箭联盟》，部分模式中可不启用
+https://www.ithome.com/0/922/992.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
