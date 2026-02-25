@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-25（抓取 2026-02-24）
+
+🌍 全球
+1. 【其他】 AI boosted US economy by 'basically zero' in 2025, says Goldman Sachs chief economist — 'We think there's been a lot of misreporting of the impact that AI investment had on GDP growth'
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-boosted-us-economy-by-basically-zero-in-2025-says-goldman-sachs-chief-economist-we-think-theres-been-a-lot-of-misreporting-of-the-impact-that-ai-investment-had-on-gdp-growth
+2. 【其他】 Save over $400 on this awesome Newegg combo with an AMD Ryzen 7 9850X3D — just $849.99 for high-spec haul that comes with an MSI X870 Tomahawk and 32GB of fast DDR5 RAM
+https://www.tomshardware.com/pc-components/save-over-usd400-on-this-awesome-newegg-combo-with-an-amd-ryzen-7-9850x3d-just-usd849-99-for-high-spec-haul-that-comes-with-an-msi-x870e-tomahawk-and-32gb-of-fast-ddr5-ram
+3. 【其他】 Ambitious developer showcases slick triple-level Quake-like game stored in tiny 64KB executable — every game asset tucked inside what could be a ‘rounding error’ in modern app payload terms
+https://www.tomshardware.com/video-games/retro-gaming/ambitious-developer-showcases-slick-triple-level-quake-like-game-stored-in-tiny-64kb-executable-every-game-asset-tucked-inside-what-could-be-a-rounding-error-in-modern-app-payload-terms
+4. 【芯片/算力】 Apple to produce Mac Minis in Houston for the first time — US chip sourcing tops 20 billion units
+https://www.tomshardware.com/tech-industry/apple-to-produce-mac-minis-in-houston-for-the-first-time
+5. 【其他】 AMD and Meta strike $100 billion AI deal that includes 10% stock deal — 6 gigawatt agreement includes up to 160 million AMD shares
+https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-meta-100-billion-deal
+6. 【芯片/算力】 Save $649 by buying 64GB of DDR5-6000 G.Skill RAM with an Nvidia RTX 5070 GPU — Newegg will even throw in a free Cooler Master CPU cooler to sweeten the deal
+https://www.tomshardware.com/pc-components/save-usd649-by-buying-64gb-of-ddr5-6000-g-skill-ram-with-an-nvidia-rtx-5070-gpu-newegg-will-even-throw-in-a-free-cooler-master-cpu-cooler-to-sweeten-the-deal
+
+🇨🇳 中国
+1. 【其他】 Anthropic 指控三家中国 AI 公司蒸馏数据训练模型
+https://www.solidot.org/story?sid=83603
+2. 【其他】 独家｜vivo胡柏山晋升为公司总裁，向CEO沈炜汇报
+https://www.leiphone.com/category/weiwu/aR5DVGzb1ED1q6DR.html
+3. 【其他】 开工首日LobsterAI下载翻倍，这款“打工人搭子”春节期间就火到海外了
+https://www.leiphone.com/category/industrynews/uunWz8KdXqg3OKhN.html
+4. 【其他】 Firefox 148 释出，引入了 AI 关闭开关
+https://www.solidot.org/story?sid=83599
+5. 【终端/边缘】 魅族手机业务要停了？内部爆料：全裁、车机独立、3月离场；问界汽车M9突发起火！官方回应；男子花5600元套中汽车两年使用权，商家却反悔
+https://www.leiphone.com/category/zaobao/KAGyWrQxFyUKMSrU.html
+6. 【其他】 Ladybird 浏览器项目将在 AI 帮助下使用 Rust 语言
+https://www.solidot.org/story?sid=83598
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
