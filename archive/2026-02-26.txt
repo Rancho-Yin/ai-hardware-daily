@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-26（抓取 2026-02-25）
+
+🌍 全球
+1. 【芯片/算力】 China to increase leading-edge chip output by 5x in two years, report claims — aims to lift 7nm and 5nm production to 100,000 wafers per month, targeting half a million monthly by 2030
+https://www.tomshardware.com/tech-industry/semiconductors/china-to-increase-leading-edge-chip-output-by-5x-in-two-years-report-claims-aims-to-lift-7nm-and-5nm-production-to-100-000-wafers-per-month-targeting-half-a-million-monthly-by-2030
+2. 【终端/边缘】 Newegg’s 25th anniversary sale is here, unlocking huge discounts on gaming PCs, laptops, RAM, SSDs, and more — jaw-dropping Doorbuster deals include a rare RTX 5070 at MSRP and an iFixit toolkit for under $10
+https://www.tomshardware.com/pc-components/neweggs-25th-anniversary-sale-is-here-unlocking-huge-discounts-on-gaming-pcs-laptops-ram-ssds-and-more-jaw-dropping-doorbuster-deals-include-a-rare-rtx-5070-at-msrp-and-an-ifixit-toolkit-for-under-usd10
+3. 【其他】 Nvidia still hasn’t sold a single H200 to China nearly three months after getting the green light from the White House — U.S. Commerce official says department hasn’t approved any sales during a House hearing
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-still-hasnt-sold-a-single-h200-to-china-nearly-three-months-after-getting-the-green-light-from-the-white-house-u-s-commerce-official-says-department-hasnt-approved-any-sales-during-a-house-hearing
+4. 【其他】 Razer Iskur V2 NewGen gaming chair review: A much-needed ‘cooler’ update to an already solid chair
+https://www.tomshardware.com/peripherals/gaming-chairs/razer-iskur-v2-newgen-gaming-chair-review
+5. 【终端/边缘】 Choose an Intel or AMD CPU and save up to $1200 on an RTX 5080-powered Omen Max 16 laptop — high-end gaming just got cheaper
+https://www.tomshardware.com/laptops/gaming-laptops/choose-an-intel-or-amd-cpu-and-save-up-to-usd1200-on-an-rtx-5080-powered-omen-max-16-laptop-high-end-gaming-just-got-cheaper
+6. 【其他】 Trump administration to use Pentagon AI to set mineral reference prices — gallium and germanium among first four targets
+https://www.tomshardware.com/tech-industry/trump-to-use-pentagon-ai-to-set-mineral-reference-prices
+
+🇨🇳 中国
+1. 【其他】 消息称苹果平价版 MacBook 预计 3 月批量供货，起售价或高于预期
+https://www.ithome.com/0/923/673.htm
+2. 【其他】 小米 5000mAh 金沙江磁吸充电宝更多配色公布：橙色、黑色，6mm 超薄身材
+https://www.ithome.com/0/923/669.htm
+3. 【其他】 新任 Xbox 首席内容官马特 · 布蒂：微软没有强制员工用 AI 开发游戏
+https://www.ithome.com/0/923/667.htm
+4. 【其他】 AMD 发布 EPYC 8005“Sorano”系列处理器，专为电信与边缘计算优化
+https://www.ithome.com/0/923/666.htm
+5. 【其他】 AI 总是在战争模拟游戏中推荐核打击
+https://www.solidot.org/story?sid=83612
+6. 【其他】 -40℃ 可运行：戴尔推出 XR9700 零占地 x86 户外服务器
+https://www.ithome.com/0/923/664.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
