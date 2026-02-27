@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-28（抓取 2026-02-27）
+
+🌍 全球
+1. 【其他】 ISSCC 2026: AMD discloses how the Instinct MI355X doubled per-CU throughput despite lower compute unit count — 'We are actually matching the performance of the more expensive and complex GB200'
+https://www.tomshardware.com/tech-industry/semiconductors/inside-the-instinct-mi355x
+2. 【其他】 Nvidia DGX Spark gets $700 price hike as memory shortages bite — Founders Edition price jumps 18% to $4,699, up from $3,999
+https://www.tomshardware.com/desktops/mini-pcs/nvidia-dgx-spark-gets-18-percent-price-increase-as-memory-shortages-bite-founders-edition-now-usd4-699-up-from-usd3-999
+3. 【其他】 Corsair Sabre v2 Pro Wireless MG Review: Not enough magnesium?
+https://www.tomshardware.com/peripherals/gaming-mice/corsair-sabre-v2-pro-wireless-mg-review
+4. 【芯片/算力】 Rapidus secures $1.7 billion from Japan’s government and private investors for 2nm chip production — company says it is in active discussions with more than 60 potential customers
+https://www.tomshardware.com/tech-industry/semiconductors/rapidus-secures-1-7-billion-from-japans-government-and-private-investors
+5. 【芯片/算力】 Save $465 and get an 8TB SSD for $715 when paired with an RTX 5070 — Newegg Combo gets you a new GPU and a WD Black SN850X at pre-RAM crunch prices
+https://www.tomshardware.com/pc-components/gpus/save-usd465-and-get-an-8tb-ssd-for-usd715-when-paired-with-an-rtx-5070-newegg-combo-gets-you-a-new-gpu-and-a-wd-black-sn850x-at-pre-ram-crunch-prices
+6. 【其他】 RayNeo Air 4 Pro AR glasses review: Now enhanced with HDR10 and enhanced audio
+https://www.tomshardware.com/peripherals/wearable-tech/rayneo-air-4-pro-ar-glasses-review
+
+🇨🇳 中国
+1. 【数据中心】 俄罗斯联邦通信监督局称其官网及国防部网站遭 DDoS 网络攻击
+https://www.ithome.com/0/924/393.htm
+2. 【其他】 消息称苹果开发两款 Studio Display 2 显示器：高端机型接口更先进，最快下周见
+https://www.ithome.com/0/924/392.htm
+3. 【芯片/算力】 Forlinx 推出 OK153-S12 Mini 单板电脑：全志 T153 芯片、双千兆以太网口
+https://www.ithome.com/0/924/390.htm
+4. 【其他】 研究称 ChatGPT Health 未能识别医疗紧急情况，恐将导致本可避免的伤亡
+https://www.ithome.com/0/924/384.htm
+5. 【其他】 ChatGPT 成人模式“Naughty Chat”代码现身新版客户端，需进行身份验证
+https://www.ithome.com/0/924/383.htm
+6. 【机器人】 每周能干 5 天、每天能干 10 小时，人形机器人将进入宝马德国工厂打工
+https://www.ithome.com/0/924/382.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
