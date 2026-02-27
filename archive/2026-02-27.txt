@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-02-27（抓取 2026-02-26）
+
+🌍 全球
+1. 【芯片/算力】 Asus ROG Ally receives timely GPU driver update despite rumors of AMD Ryzen Z1 Extreme deprecation — new release follows recent speculation that driver support for some Windows 11 handhelds had ended
+https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-ally-receives-timely-gpu-driver-update-despite-rumors-of-amd-ryzen-z1-extreme-deprecation-new-release-follows-recent-speculation-that-driver-support-for-some-windows-11-handhelds-had-ended
+2. 【其他】 New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises
+https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/
+3. 【其他】 Corsair Sabre v2 Pro Wireless CF review: Feels like carbon fiber
+https://www.tomshardware.com/peripherals/gaming-mice/corsair-sabre-v2-pro-wireless-cf-review
+4. 【芯片/算力】 Nvidia warns of constrained supply of gaming GPUs, potentially signaling higher prices and shortages to come — 'we do believe for a couple of quarters it is going to be very tight'
+https://www.tomshardware.com/pc-components/gpus/nvidia-warns-of-constrained-supply-of-gaming-gpus-we-do-believe-for-a-couple-of-quarters-it-is-going-to-be-very-tight
+5. 【终端/边缘】 Best PC case fans tested 2026: Improve your airflow, silence your system, or add more RGB glow
+https://www.tomshardware.com/pc-components/case-fans/best-pc-fans
+6. 【终端/边缘】 Asus ROG Rapture GT-BE19000Ai Wi-Fi 7 gaming router review – Bringing Edge AI to the consumer router market
+https://www.tomshardware.com/networking/routers/asus-rog-rapture-gt-be19000ai-wi-fi-7-gaming-router-review
+
+🇨🇳 中国
+1. 【其他】 北大林宙辰团队：从最优传输角度训练时序预测模型 丨ICLR 2026
+https://www.leiphone.com/category/ai/5oydINXpChEjEWjL.html
+2. 【终端/边缘】 传魅族手机停摆，3月正式退市，魅友刷屏：加油；苹果阴间Bug！网友称iPhone深夜自动拨打电话，官方回应；元宝AI除夕夜辱骂用户，回应来了
+https://www.leiphone.com/category/zaobao/uUhp0brmvyVfXhQQ.html
+3. 【其他】 百度四季度AI业务收入占比43% 超预期
+https://www.leiphone.com/category/industrynews/Ebw8wdpE2nrWY4rw.html
+4. 【其他】 AI 时代的软件分水岭
+https://www.solidot.org/story?sid=83623
+5. 【其他】 DeepSeek 未向英伟达 AMD 提供 V4 模型测试
+https://www.solidot.org/story?sid=83621
+6. 【终端/边缘】 谷歌版「豆包手机」发布，GUI 操作实现跨 App 代办
+https://www.leiphone.com/category/industrynews/c6KzB3j5X9QsOQPw.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
