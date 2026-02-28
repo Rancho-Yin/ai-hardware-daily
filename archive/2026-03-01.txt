@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-01（抓取 2026-02-28）
+
+🌍 全球
+1. 【其他】 390TB video game archive being taken offline due to skyrocketing RAM, SSD, and hard drive prices — AI-driven supply squeeze results in closure of one of the largest online video game archives
+https://www.tomshardware.com/video-games/390tb-video-game-archive-being-taken-offline-due-to-skyrocketing-ram-ssd-and-hard-drive-prices-ai-driven-supply-squeeze-results-in-closure-of-one-of-the-largest-online-video-game-archives
+2. 【其他】 Xiaomi’s tracker doesn’t need a case to clip to your keys
+https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth
+3. 【其他】 OpenAI raises $110 billion in largest-ever private tech funding round, Nvidia throws in $30 billion — AI startup now valued at $730 billion
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-raises-110-billion-in-largest-ever-private-tech-funding-round
+4. 【终端/边缘】 Industry murmurs suggest Sony will no longer release PS5 exclusives on PC — New leadership might be willing to forgo PC revenue to fortify console platform
+https://www.tomshardware.com/video-games/playstation/industry-murmurs-suggest-sony-will-no-longer-release-ps5-exclusives-on-pc-new-leadership-might-be-willing-to-forgo-pc-revenue-to-fortify-console-platform
+5. 【其他】 AMD Ryzen 7 9850X3D vs Intel Core i9-14900K faceoff — Intel’s Raptor Lake platform continues to be relevant in 2026
+https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9850x3d-vs-intel-core-i9-14900k-faceoff
+6. 【其他】 Device that can extract 1,000 liters of clean water a day from desert air revealed by 2025 Nobel Prize winner — claimed to work in desert air with 20% humidity or lower, delivering off-grid ‘personalized water’
+https://www.tomshardware.com/tech-industry/device-that-can-extract-1-000-liters-of-clean-water-a-day-from-desert-air-revealed-by-2025-nobel-prize-winner-claimed-to-work-in-desert-air-with-20-percent-humidity-or-lower-delivering-off-grid-personalized-water
+
+🇨🇳 中国
+1. 【其他】 印度 IT 行业年收入首超 3000 亿美元但正被 AI“抢饭碗”：头部企业裁员、毕业生就业率严重下滑
+https://www.ithome.com/0/924/701.htm
+2. 【其他】 因内存、硬盘价格飙升，全球最大在线游戏档案馆 Myrient 下月关站
+https://www.ithome.com/0/924/699.htm
+3. 【其他】 AMD 锐龙 5 5500X3D 处理器上架：1119 元，6 核 Zen 3 + 99MB 高速缓存
+https://www.ithome.com/0/924/697.htm
+4. 【其他】 小米超薄磁吸充电宝 5000 15W 海外发布：黑 / 银 / 橙三色可选、无线输出 15W
+https://www.ithome.com/0/924/696.htm
+5. 【其他】 1999 欧元：小米 17 Ultra 海外徕卡版 LEITZPHONE 发布，“可口可乐”Logo / 边框微调、6000mAh 电池
+https://www.ithome.com/0/924/692.htm
+6. 【其他】 仁宝展示 AI Book 概念笔记本设计：C 面掌托配备大尺寸 E-ink 墨水屏
+https://www.ithome.com/0/924/690.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
