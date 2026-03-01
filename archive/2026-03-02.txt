@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-02（抓取 2026-03-01）
+
+🌍 全球
+1. 【其他】 Windows 11 continues gaining traction, nears 75% market share — Windows 10 finally on the way out, some five months after Microsoft axes support
+https://www.tomshardware.com/software/windows/windows-11-continues-gaining-traction-nears-75-percent-market-share-windows-10-finally-on-the-way-out-some-five-months-after-microsoft-axes-support
+2. 【其他】 Soundcore’s Space 2 are an evolution of its budget headphones
+https://www.theverge.com/tech/886180/soundcore-space-2-announcement-mwc-2026
+3. 【机器人】 Honor claims its Robot Phone will launch later this year
+https://www.theverge.com/gadgets/887140/honor-robot-phone-mwc-release-date-specs
+4. 【芯片/算力】 ‘200,000 living human neurons’ on a microchip demonstrated playing Doom — Cortical Labs CL1 video shows the gameplay and explains how the neurons learn the game
+https://www.tomshardware.com/tech-industry/artificial-intelligence/200-000-living-human-neurons-on-a-microchip-demonstrated-playing-doom-cortical-labs-cl1-video-shows-the-gameplay-and-explains-how-the-neurons-learn-the-game
+5. 【终端/边缘】 Enthusiast runs desktop PC off 56 AA batteries — Intel computer lasts less than 5 minutes while playing Minesweeper
+https://www.tomshardware.com/desktops/enthusiast-runs-desktop-pc-off-56-aa-batteries-intel-computer-lasts-less-than-5-minutes-while-playing-minesweeper
+6. 【其他】 The Nvidia GeForce3 launched 25 years ago — underappreciated at launch, its impact shaped the industry
+https://www.tomshardware.com/pc-components/gpus/the-geforce3-launched-25-years-ago-underappreciated-at-launch-its-impact-shaped-the-industry
+
+🇨🇳 中国
+1. 【其他】 Core AI 框架取代 Core ML？曝苹果 WWDC 26 开发者大会将公布多项 AI 功能
+https://www.ithome.com/0/924/867.htm
+2. 【其他】 古尔曼：触控屏版 MacBook Pro 最快 2026 年底发布，苹果零售店正为下周发布会做准备
+https://www.ithome.com/0/924/865.htm
+3. 【其他】 2001 遇上 2021：海外网友制作“WinXP 风”Win11 壁纸
+https://www.ithome.com/0/924/863.htm
+4. 【其他】 揭秘长城智驾自研：元戎、Momenta「抬轿」与千人自研团队
+https://www.leiphone.com/category/transportation/3dHN6bjpaogtpTlp.html
+5. 【机器人】 【IT之家图赏】荣耀 Robot Phone 机器人手机现场实拍：三轴云台亮眼，号称“具身智能”加持
+https://www.ithome.com/0/924/860.htm
+6. 【其他】 荣耀 MagicBook Pro 14 2026 笔记本海外发布：至高可选酷睿 Ultra X9 388H 处理器，14.6 英寸 OLED 触屏
+https://www.ithome.com/0/924/857.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
