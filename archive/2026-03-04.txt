@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-04（抓取 2026-03-03）
+
+🌍 全球
+1. 【其他】 Apple's new MacBook Air gets M5 and doubles starting storage — base price increases to $1,099
+https://www.tomshardware.com/laptops/macbooks/apples-new-macbook-air-gets-m5-and-doubles-starting-storage-base-price-increases-to-usd1-099
+2. 【其他】 Nvidia-backed trial shows AI data centers can flexibly adjust power use in near real time, with global implications for energy consumption — suggests hyperscalers can reduce consumption as necessary, ensuring grid isn’t overloaded during peak demand
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-backed-trial-shows-ai-data-centers-can-flexibly-adjust-power-use-in-near-real-time-with-global-implications-for-energy-consumption-suggests-hyperscalers-can-reduce-consumption-as-necessary-ensuring-grid-isnt-overloaded-during-peak-demand
+3. 【其他】 New DNA HDD can be ‘erased and overwritten repeatedly’ — University of Missouri researchers aiming for next-gen thumb-drive-sized storage
+https://www.tomshardware.com/pc-components/storage/new-dna-hdd-can-be-erased-and-overwritten-repeatedly-university-of-missouri-researchers-aiming-for-next-gen-thumb-drive-sized-storage
+4. 【芯片/算力】 DRAM bots reportedly being deployed to hoover up memory chips and components — one operation ran 10 million web scraping requests, hitting DDR5 RAM product pages every 6.5 seconds
+https://www.tomshardware.com/pc-components/dram/dram-bots-reportedly-being-deployed-to-hoover-up-memory-chips-and-components-one-operation-ran-10-million-web-scraping-requests-hitting-ddr5-ram-product-pages-every-6-5-seconds
+5. 【芯片/算力】 Save $650 with this Newegg GPU and RAM combo deal — get a $1,349.99 64GB Kingston DDR5-6000 RAM kit for just $700 when you bundle it with an MSI Ventus RTX 5070 Ti graphics card
+https://www.tomshardware.com/pc-components/save-usd650-with-this-newegg-gpu-and-ram-combo-deal-get-a-usd1-349-99-64gb-kingston-ddr5-6000-ram-kit-for-just-usd700-when-you-bundle-it-with-an-msi-ventus-rtx-5070-ti-graphics-card
+6. 【其他】 Pocket $219 in savings when you buy this blistering 9800X3D, motherboard, and 32GB RAM bundle — start your AM5 4K gaming rig for less than $1,000
+https://www.tomshardware.com/pc-components/pocket-usd219-in-savings-when-you-buy-this-blistering-9800x3d-motherboard-and-32gb-ram-bundle-start-your-am5-4k-gaming-rig-for-less-than-usd1-000
+
+🇨🇳 中国
+1. 【其他】 是平价版 MacBook 吗？苹果官网意外出现“MacBook Neo”表述，型号 A3404
+https://www.ithome.com/0/925/586.htm
+2. 【其他】 蔚来乐道 L90 激光雷达款车型将与纯视觉版同步销售，预计今年第二季度正式发布
+https://www.ithome.com/0/925/585.htm
+3. 【芯片/算力】 苹果 M5 芯片款 MacBook Air 标配 40W 动态电源适配器，最高可输出 60W 功率
+https://www.ithome.com/0/925/584.htm
+4. 【其他】 微软公布 2026 年 3 月 Xbox Game Pass 新增游戏阵容：《赛博朋克 2077》等入列
+https://www.ithome.com/0/925/583.htm
+5. 【其他】 李开复谈“Anthropic 指责中国蒸馏 AI 模型”：小题大做，这公司还欠我 3000 美元稿费
+https://www.ithome.com/0/925/582.htm
+6. 【其他】 苹果 Pro Display XDR 正式停产，全新 Studio Display XDR 接棒
+https://www.ithome.com/0/925/581.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
