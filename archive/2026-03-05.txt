@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-05（抓取 2026-03-04）
+
+🌍 全球
+1. 【终端/边缘】 Trump summons tech giants to White House to pledge power payment commitments — ‘ratepayer protection plan’ will make data center operators negotiate discrete payment structure for electricity use
+https://www.tomshardware.com/tech-industry/big-tech/trump-summons-tech-giants-to-white-house-to-pledge-power-payment-commitments-ratepayer-protection-plan-will-make-data-center-operators-negotiate-discrete-payment-structure-for-electricity-use
+2. 【芯片/算力】 Apple announces $599 MacBook Neo running A18 Pro chip — budget laptop features 16-hour battery and comes in fun colors
+https://www.tomshardware.com/laptops/ultrabooks-ultraportables/apple-announces-macbook-neo-running-a18-pro-chip-budget-laptop-starts-at-usd599-and-comes-in-fun-colors
+3. 【其他】 Nvidia invests $4 billion into photonics firms in a bid to bolster data center interconnect supply chains — Lumentum and Coherent investment to fund U.S. R&D and manufacturing facilities, supports capacity rights and future access
+https://www.tomshardware.com/tech-industry/nvidia-invests-usd4-billion-into-photonics-firms-in-a-bid-to-bolster-data-center-interconnect-supply-chains-lumentum-and-coherent-investment-to-fund-u-s-r-and-d-and-manufacturing-facilities-supports-capacity-rights-and-future-access
+4. 【其他】 Arm's $250 million deal with Malaysia probed by anti-corruption authorities — $1.27 million seized from safehouse of prominent politician, former army chief arrested
+https://www.tomshardware.com/tech-industry/arms-usd250-million-deal-with-malaysia-probed-by-anti-corruption-authorities-usd1-27-million-seized-from-safehouse-of-prominent-politician-former-army-chief-arrested
+5. 【终端/边缘】 Get 32GB of Corsair Vengeance RAM for just $201 when you pair it with AMD's new 9850X3D, X870E motherboard — start your AM5 PC off in style for just $1,109
+https://www.tomshardware.com/pc-components/get-32gb-of-corsair-vengeance-ram-for-just-usd201-when-you-pair-it-with-amds-new-9850x3d-x870e-motherboard-start-your-am5-pc-off-in-style-for-just-usd1-109
+6. 【芯片/算力】 Nvidia driver 595.71 reportedly limits overclocks on some GeForce GPUs, but not all — troubled driver release seems to stifle voltages on RTX 40- and 50-series cards
+https://www.tomshardware.com/pc-components/gpus/nvidia-driver-595-71-reportedly-limits-overclocks-on-some-geforce-gpus-but-not-all-troubled-driver-release-seems-to-stifle-voltages-on-rtx-40-and-50-series-cards
+
+🇨🇳 中国
+1. 【终端/边缘】 谷歌 Pixel 以外首家：OPPO Find X9 系列手机将通过“快速共享”打通苹果隔空投送
+https://www.ithome.com/0/925/993.htm
+2. 【其他】 消息称 OpenAI 将发布上下文窗口超百万 Tokens 的 GPT-5.4，有“极限推理”能力
+https://www.ithome.com/0/925/992.htm
+3. 【其他】 6065 元起：苹果 MacBook Air M5 16+512G 教育优惠国补换新探底
+https://www.ithome.com/0/925/991.htm
+4. 【其他】 阿里千问 AI 硬件负责人宋刚：“AI 办事”将成为 AI 眼镜的刚需
+https://www.ithome.com/0/925/990.htm
+5. 【其他】 苹果 MacBook Neo 笔记本面板仅覆盖 sRGB 色域，无环境光传感器
+https://www.ithome.com/0/925/987.htm
+6. 【其他】 谷歌遭自杀者家属起诉，被指控旗下 Gemini AI 诱导暴力与自残
+https://www.ithome.com/0/925/985.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
