@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-07（抓取 2026-03-06）
+
+🌍 全球
+1. 【其他】 The Trump phone was a no-show at the world’s biggest mobile show
+https://www.theverge.com/tech/889837/trump-phone-mobile-world-congress-mwc
+2. 【其他】 Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000
+https://www.tomshardware.com/tech-industry/apple-pulls-512-mac-studio-upgrade-option
+3. 【其他】 AI creates jobs, data from bank survey shows — companies with wide AI deployments and investments are more likely to be hiring than those that don't
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-jobs-data-from-bank-survey-shows-companies-with-wide-ai-deployments-and-investments-are-more-likely-to-be-hiring-than-those-that-dont
+4. 【其他】 US Commerce Department confirms harsh new AI export rules, shoots down reports over the return of Biden-era AI Diffusion rule — DoC to formalize a new approach to strategic AI accelerator export controls
+https://www.tomshardware.com/tech-industry/artificial-intelligence/us-commerce-department-confirms-harsh-new-ai-export-rules-shoots-down-reports-over-the-return-of-biden-era-ai-diffusion-rule-doc-to-formalize-a-new-approach-to-strategic-ai-accelerator-export-controls
+5. 【其他】 Asus GeForce RTX 5080 Noctua Edition review: Silent running
+https://www.tomshardware.com/pc-components/gpus/asus-geforce-rtx-5080-noctua-edition-review
+6. 【其他】 Arc Raiders was accidentally recording Discord conversations into an unencrypted local game file — vulnerability in SDK could log messages and credentials in plaintext
+https://www.tomshardware.com/video-games/pc-gaming/arc-raiders-was-accidentally-recording-discord-conversations-into-an-unencrypted-local-game-file-vulnerability-in-sdk-could-log-messages-and-credentials-in-plaintext
+
+🇨🇳 中国
+1. 【其他】 美国推进《应用商店问责法案》，要求平台建立年龄门槛机制
+https://www.ithome.com/0/926/712.htm
+2. 【芯片/算力】 华为 Mate 80 Pro Max 手机开放购买：麒麟 9030 Pro 芯片，7999 元起
+https://www.ithome.com/0/926/710.htm
+3. 【芯片/算力】 AYANEO Pocket AIR Mini x B.Duck 小黄鸭联名限定款掌机亮相，搭载联发科 G90T 芯片
+https://www.ithome.com/0/926/708.htm
+4. 【其他】 网易《逆水寒》手游 2026 年首个资料片“楼兰遗梦”开启，新门派“无锋门”登场
+https://www.ithome.com/0/926/704.htm
+5. 【其他】 《失落星船：马拉松》射击游戏今日发售，Steam 国区 168 元起
+https://www.ithome.com/0/926/703.htm
+6. 【其他】 QQ 鸿蒙版 App 获 9.2.10 版本邀测升级，新增聊天记录支持分类查看等功能
+https://www.ithome.com/0/926/697.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
