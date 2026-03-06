@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-06（抓取 2026-03-05）
+
+🌍 全球
+1. 【其他】 AI vibe-coded operating system is so bad it can't even run Doom — Vib-OS can't connect to the internet, browser app is an image viewer [Updated]
+https://www.tomshardware.com/software/operating-systems/ai-vibe-coded-operating-system-is-so-bad-it-cant-even-run-doom-vib-os-cant-connect-to-the-internet-browser-app-is-an-image-viewer
+2. 【芯片/算力】 China seeks to enhance rare earth advantages, take 'extraordinary measures' to achieve semiconductor breakthroughs — new five-year plan marks doubling down on technological self-reliance
+https://www.tomshardware.com/tech-industry/china-seeks-to-enhance-rare-earth-advantages-take-extraordinary-measures-to-achieve-semiconductor-breakthroughs-new-five-year-plan-marks-doubling-down-on-technological-self-reliance
+3. 【其他】 Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month
+https://www.tomshardware.com/tech-industry/memory-spot-prices-climbed-again-in-february-nand-wafer-costs-surge-25-percent
+4. 【其他】 M4 MacBook Air with 24GB of RAM plunges to lowest-ever price following M5 announcement — $300 off is a steal on Apple's highest-spec RAM configuration
+https://www.tomshardware.com/laptops/macbooks/m4-macbook-air-with-24gb-of-ram-plunges-to-lowest-ever-price-following-m5-announcement-usd300-off-is-a-steal-on-apples-highest-spec-ram-configuration
+5. 【其他】 For under $1000, land the fastest gaming CPU, motherboard, and 32GB of RAM — AMD's Ryzen 7 9850X3D, MSI MAG X870, and Corsair Vengeance RAM saves you $196 in today's Newegg combo deal
+https://www.tomshardware.com/pc-components/for-under-usd1000-land-the-fastest-gaming-cpu-motherboard-and-32gb-of-ram-amds-ryzen-7-9850x3d-msi-mag-x870-and-corsair-vengeance-ram-saves-you-usd196-in-todays-newegg-combo-deal
+6. 【其他】 Nintendo Switch 2 users buying fewer games because of AI storage crisis, report claims — game demand under threat as titles get bigger and storage gets more expensive
+https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-users-buying-fewer-games-because-of-ai-storage-crisis-report-claims-game-demand-under-threat-as-titles-get-bigger-and-storage-gets-more-expensive
+
+🇨🇳 中国
+1. 【其他】 超级木星挑战其形成理论
+https://www.solidot.org/story?sid=83692
+2. 【其他】 消息称 OpenAI 正开发双向语音模型：对话被打断照样跟你继续聊，体验“更像人”
+https://www.ithome.com/0/926/341.htm
+3. 【其他】 吉利银河星耀 7 官宣，号称全球首款四驱中级电混轿车
+https://www.ithome.com/0/926/340.htm
+4. 【其他】 安克首款智能盾磁吸充电宝预售：支持屏显、边充边监测，349 元
+https://www.ithome.com/0/926/339.htm
+5. 【其他】 马斯克承认“暂缓收购推特”推文欠妥，但否认操纵市场
+https://www.ithome.com/0/926/338.htm
+6. 【其他】 NAND 晶圆成本单月飙升 25%，报告警告行业恐面临“周期性崩溃”
+https://www.ithome.com/0/926/336.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
