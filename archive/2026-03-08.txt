@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-08（抓取 2026-03-07）
+
+🌍 全球
+1. 【机器人】 Engineer receives $30,000 for exposing a vulnerability affecting 7,000 robot vacuum cleaners — tinkerer just wanted to drive his robot vacuum with a PS5 controller
+https://www.tomshardware.com/tech-industry/cyber-security/engineer-receives-usd30-000-for-exposing-a-vulnerability-affecting-7-000-robot-vacuum-cleaners-tinkerer-just-wanted-to-drive-his-robot-vacuum-with-a-ps5-controller
+2. 【其他】 A bite-sized adventure that puts a wrench into the classic Zelda formula
+https://www.theverge.com/entertainment/890664/ratcheteer-dx-review-zelda-steam-switch
+3. 【其他】 Oracle reportedly set to axe thousands of jobs and freeze hiring as AI data center bets ignite financial perfect storm — cuts in cloud division to be backfilled with AI
+https://www.tomshardware.com/tech-industry/artificial-intelligence/oracle-reportedly-set-to-axe-thousands-of-jobs-and-freeze-hiring-for-cloud-division-ai-datacenter-bets-ignite-financial-perfect-storm
+4. 【芯片/算力】 Nvidia dominates gaming GPU market with 95 percent share as sales of AMD Radeon graphics plummet to a historical low of 5 percent
+https://www.tomshardware.com/pc-components/gpus/nvidia-dominates-discrete-gpu-market-as-sales-of-amd-radeon-graphics-cards-hit-historical-low
+5. 【其他】 Nvidia CEO Huang declares ‘I love constraints’ amid ongoing component shortage — claims lack of options forces AI clients to only choose the very best
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-huang-declares-i-love-constraints-amid-ongoing-component-shortage-claims-lack-of-options-forces-ai-clients-to-only-choose-the-very-best
+6. 【终端/边缘】 This shark PC case will take a $5,499 megabyte out of your pocket — Cooler Master Shark X finally migrates to U.S. waters
+https://www.tomshardware.com/pc-components/pc-cases/cooler-masters-shark-pc-case-will-take-a-usd5-499-megabyte-out-of-your-pocket-cooler-master-shark-x-finally-migrates-to-u-s-waters
+
+🇨🇳 中国
+1. 【其他】 消息称 Xbox 下一代主机 Project Helix 很难低于 999 美元，但不超 1500 美元
+https://www.ithome.com/0/926/878.htm
+2. 【其他】 苏黎世联邦理工学院新研究：AI 已能大规模识别匿名用户真实身份
+https://www.ithome.com/0/926/877.htm
+3. 【其他】 全国政协委员王小龙：国产高端机床已直接用于制造大飞机、航空发动机等大国重器
+https://www.ithome.com/0/926/876.htm
+4. 【其他】 AI 翻译工具会将“幻觉”加入到维基百科文章
+https://www.solidot.org/story?sid=83710
+5. 【其他】 多家国外科技媒体流量暴跌逾 85%，谷歌“AI 概览”或引发媒体行业巨震
+https://www.ithome.com/0/926/875.htm
+6. 【数据中心】 华为“零中断”光网络在全球超六十张运营商网络中部署：断纤不断网，可靠性达 99.999%
+https://www.ithome.com/0/926/874.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
