@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-09（抓取 2026-03-08）
+
+🌍 全球
+1. 【其他】 OpenAI's massive Stargate data center canceled as firm can't reach terms with Oracle, operator struggles with reliability issues — Meta said to be interested in snatching excess capacity
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-massive-stargate-data-center-canceled-as-firm-cant-reach-terms-with-oracle-operator-struggles-with-reliability-issues-meta-said-to-be-interested-in-snatching-excess-capacity
+2. 【其他】 Palmer Luckey’s retro gaming venture seeks $1 billion valuation as FPGA-based Nintendo 64 clone launch nears — ModRetro's M64 console plays original N64 cartridges, supports 4K resolution
+https://www.tomshardware.com/video-games/console-gaming/oculus-founder-seeks-1bn-valuation-for-modretro-as-n64-console-launch-nears
+3. 【数据中心】 Chinese SSD maker YMTC lists first commercial PCIe 5.0 SSD as worldwide shortage intensifies — Xtacking 4.0 NAND powers speeds of up to 10,500 MB/s
+https://www.tomshardware.com/pc-components/ssds/chinese-ssd-maker-ymtc-lists-first-commercial-pcie-5-0-ssd-as-worldwide-shortage-intensifies-xtacking-4-0-nand-powers-speeds-of-up-to-10-500-mb-s
+4. 【数据中心】 US startup plans to build data centers inside ocean-based wind turbines, servers water cooled via chilly North Sea — each leg houses a data center, firm set to launch three-legged prototype in Norway’s North Sea this year
+https://www.tomshardware.com/desktops/servers/us-startup-plans-to-build-data-centers-inside-ocean-based-wind-turbines-servers-water-cooled-via-chilly-north-sea-each-leg-houses-a-data-center-firm-set-to-launch-three-legged-prototype-in-norways-north-sea-this-year
+5. 【其他】 Norwegian gov't consumer watchdog calls out ‘enshittification’ of video games, connected devices, and others — claims hardware deliberately degraded after purchase
+https://www.tomshardware.com/tech-industry/norwegian-consumer-watchdog-calls-out-enshittification
+6. 【其他】 Jensen Huang set to receive $4 million bonus from Nvidia, 0.002% of his $164 billion net worth — a small incentive for one of the richest people on earth
+https://www.tomshardware.com/tech-industry/jensen-huang-set-to-receive-usd4-million-bonus-from-nvidia-0-002-percent-of-his-usd164-billion-net-worth-a-small-incentive-for-one-of-the-richest-people-on-earth
+
+🇨🇳 中国
+1. 【其他】 郭明錤：苹果第二代 MacBook Neo 明年推出，有望配备触摸屏
+https://www.ithome.com/0/927/045.htm
+2. 【其他】 马化腾谈腾讯免费安装 OpenClaw 引排队：没想到会这么火
+https://www.ithome.com/0/927/044.htm
+3. 【其他】 消息称苹果今年将推出三款 Ultra 级新品：iPhone Ultra、AirPods Ultra、MacBook Ultra
+https://www.ithome.com/0/927/043.htm
+4. 【其他】 千问 AI 眼镜 G1 现货全渠道暂时售罄：明天 10 点预售，叠加国补价 1997 元起
+https://www.ithome.com/0/927/040.htm
+5. 【终端/边缘】 在 Xbox PC 应用评论区中屏蔽“Microslop”一词？微软否认
+https://www.ithome.com/0/927/039.htm
+6. 【芯片/算力】 业界考虑进一步放宽未来 HBM 内存高度限制，混合键合导入恐再延后
+https://www.ithome.com/0/927/035.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
