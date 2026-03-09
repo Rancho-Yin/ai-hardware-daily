@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-10（抓取 2026-03-09）
+
+🌍 全球
+1. 【终端/边缘】 'Borderline scam' 1.1TB HP laptop deal on Amazon draws consumer ire, laptop has 128GB SSD and 1TB of OneDrive cloud storage — 'generous' $499 third-party laptop deal sounds too good to be true, because it is
+https://www.tomshardware.com/laptops/borderline-scam-1-1tb-hp-laptop-deal-on-amazon-draws-consumer-ire-laptop-has-128gb-ssd-and-1tb-of-onedrive-cloud-storage-generous-usd499-third-party-laptop-deal-sounds-too-good-to-be-true-because-it-is
+2. 【芯片/算力】 Shortages of crucial chip packaging material threatens AI accelerator supply chains — Nittobo's Fukushima plant is tripling capacity, but it'll take years before market
+https://www.tomshardware.com/tech-industry/shortages-of-crucial-chip-packaging-material-threatens-ai-accelerator-supply-chains-nittobos-fukushima-plant-is-tripling-capacity-but-itll-take-years-before-market
+3. 【其他】 Thermal Grizzly scammed out of $46,000 by Alibaba metals suppliers — company spread the risk across two copper and aluminum suppliers, only for both to send cheaper, fake materials
+https://www.tomshardware.com/pc-components/heatsinks/thermal-grizzly-scammed-out-of-usd46-000-by-alibaba-metals-suppliers-company-spread-the-risk-across-two-copper-and-aluminum-suppliers-only-for-both-to-send-cheaper-fake-materials
+4. 【其他】 3D printer that can mine Bitcoin uses excess heat for temperature control — throttled ASICs use printing bed as a heatsink
+https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink
+5. 【芯片/算力】 The best Amazon UK Spring Deals Days tech sales 2026 — featuring the best prices on the latest gaming PCs, GPUs, laptops, monitors, peripherals, and more
+https://www.tomshardware.com/pc-components/the-best-amazon-uk-spring-deals-days-tech-sales-2026-featuring-the-best-prices-on-the-latest-gaming-pcs-gpus-laptops-monitors-peripherals-and-more
+6. 【芯片/算力】 Save an incredible $620 on this Newegg combo with an RTX 5070, 64GB DDR5 RAM and a PC case — $1,299.99 deal secures you dual-channel Corsair memory and a 3500X case alongside an Nvidia GPU for 1440p gaming
+https://www.tomshardware.com/pc-components/save-an-incredible-usd620-on-this-newegg-combo-with-an-rtx-5070-64gb-ddr5-ram-and-a-pc-case-usd1-299-99-deal-secures-you-dual-channel-corsair-memory-and-a-3500x-case-alongside-an-nvidia-gpu-for-1440p-gaming
+
+🇨🇳 中国
+1. 【其他】 深圳龙岗将联合 Kimi 举办“千人龙虾大会”，为用户免费安装 OpenClaw
+https://www.ithome.com/0/927/386.htm
+2. 【其他】 消息称华为要做相对高性价比的线上机，但高性价比 ≠ 低价
+https://www.ithome.com/0/927/382.htm
+3. 【终端/边缘】 OPPO 周意保开箱 Find N6 折叠屏手机：AI 手写笔与配件细节公开，附赠「超轻薄芳纶纤维保护壳」
+https://www.ithome.com/0/927/381.htm
+4. 【终端/边缘】 三星 Galaxy S26 Ultra 手机拆解：采用全新四层散热系统
+https://www.ithome.com/0/927/378.htm
+5. 【其他】 红魔散热器 8 Air 开售：65g 轻重量设计、18W 功率 -20℃ 降温，首销 129 元
+https://www.ithome.com/0/927/376.htm
+6. 【终端/边缘】 全系“放开卖”：华为 Mate 80 系列手机现货开售，4699 元起
+https://www.ithome.com/0/927/375.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
