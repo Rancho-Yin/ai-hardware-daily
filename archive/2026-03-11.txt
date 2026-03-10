@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-11（抓取 2026-03-10）
+
+🌍 全球
+1. 【其他】 Nvidia reportedly building its own AI agent to compete with OpenClaw, report claims — ‘NemoClaw’ will supposedly be open source and designed for enterprise use
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-building-its-own-ai-agent-to-compete-with-openclaw-report-claims-nemoclaw-will-supposedly-be-open-source-and-designed-for-enterprise-use
+2. 【其他】 In wake of outage, Amazon calls upon senior engineers to address issues created by 'Gen-AI assisted changes,' report claims — recent 'high blast radius' incidents stir up changes for code approval
+https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-calls-engineers-to-address-issues-caused-by-use-of-ai-tools-report-claims-company-says-recent-incidents-had-high-blast-radius-and-were-allegedly-related-to-gen-ai-assisted-changes
+3. 【终端/边缘】 Laptop prices expected to soar by around 40% as AI crunch takes hold — analyst says rising mainstream models priced at $900 could hit more than $1,200 due to rising memory, storage, and CPU costs
+https://www.tomshardware.com/laptops/laptop-prices-expected-to-soar-by-around-40-percent-as-ai-crunch-takes-hold-analyst-says-rising-mainstream-models-priced-at-usd900-could-hit-more-than-usd1-200-due-to-rising-memory-storage-and-cpu-costs
+4. 【终端/边缘】 Pick up a comfy new PC gaming chair for £150 in the Amazon Spring Day Deals sale — save £50 on Corsair's TC100 Relaxed chair
+https://www.tomshardware.com/laptops/gaming-laptops/pick-up-a-comfy-new-pc-gaming-chair-for-gbp150-in-the-amazon-spring-day-deals-sale-save-gbp50-on-corsairs-tc100-relaxed-chair
+5. 【终端/边缘】 Get 32GB of Corsair Vengeance DDR5 for $163 when bundled with AMD's new 9850X3D and an X870E-E motherboard — save $236 on the heart of your new AM5 PC
+https://www.tomshardware.com/pc-components/get-32gb-of-corsair-vengeance-ddr5-for-usd163-when-bundled-with-amds-new-9850x3d-and-an-x870e-e-motherboard-save-usd236-on-the-heart-of-your-new-am5-pc
+6. 【终端/边缘】 RPCS3 Emulator boasts over 1500 FPS on the Minecraft title screen — platform hails performance landmark, one frame rendered every 0.00064 seconds
+https://www.tomshardware.com/video-games/playstation/rpcs3-emulator-boasts-over-1500-fps-on-the-minecraft-title-screen-platform-hails-performance-landmark-one-frame-rendered-every-0-00064-seconds
+
+🇨🇳 中国
+1. 【其他】 《007：初露锋芒》《控制：共振》等游戏首发支持 DLSS 4.5 与路径追踪，《战争雷霆》《燕云十六声》未来升级
+https://www.ithome.com/0/927/774.htm
+2. 【其他】 英伟达 DLSS 4.5 六倍多帧生成、动态多帧生成特性 3 月 31 日 Beta 上线，RTX 50 系显卡玩家可体验
+https://www.ithome.com/0/927/773.htm
+3. 【芯片/算力】 小米 Watch Type-C 充电底座发布：支持磁力吸附、智能芯片调控，39 元
+https://www.ithome.com/0/927/772.htm
+4. 【其他】 英伟达黄仁勋罕见发布长文：定义 AI“五层架构”，预判将创造更多就业（附全文）
+https://www.ithome.com/0/927/770.htm
+5. 【其他】 理想 AI 眼镜 Livis 官宣“再进化”，新增佩戴检测 + 一气呵成开关等功能
+https://www.ithome.com/0/927/768.htm
+6. 【其他】 Perplexity Comet 浏览器苹果 iOS 版上线，主打主动交互式搜索
+https://www.ithome.com/0/927/767.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
