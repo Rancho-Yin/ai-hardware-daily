@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-12（抓取 2026-03-11）
+
+🌍 全球
+1. 【其他】 Iran threatens Nvidia, Microsoft, other tech companies with strikes over alleged attack on Tehran bank — says that economic centers and banks are now considered legitimate targets
+https://www.tomshardware.com/tech-industry/iran-threatens-nvidia-microsoft-other-tech-companies-with-strikes-over-alleged-attack-on-tehran-bank-says-that-economic-centers-and-banks-are-now-considered-legitimate-targets
+2. 【芯片/算力】 IBM and Lam Research team up on High NA EUV dry resist to push chip scaling past 1nm
+https://www.tomshardware.com/tech-industry/semiconductors/ibm-and-lam-research-team-up-on-high-na-euv
+3. 【其他】 Framework raises RAM prices for the third time in three months, SSD costs up — company warns that it’s running out of stock on some Intel processors as well
+https://www.tomshardware.com/pc-components/dram/framework-raises-ram-prices-for-the-third-time-in-three-months-ssd-costs-up-company-warns-that-its-running-out-of-stock-on-some-intel-processors-as-well
+4. 【其他】 Phison CEO says that NAND prices hiked by around 50% overnight, highlighting severe shortage in the industry — warns 'our current concern is that both money and inventory are insufficient'
+https://www.tomshardware.com/pc-components/ssds/phison-ceo-says-that-nand-prices-hiked-by-around-50-percent-overnight-highlighting-severe-shortage-in-the-industry-warns-our-current-concern-is-that-both-money-and-inventory-are-insufficient
+5. 【其他】 Intel announces Arrow Lake Refresh CPUs, claims 15% higher gaming performance and multi-threaded boost — Core Ultra 7 270K and Core Ultra 5 250K come with more cores, faster memory, and a price cut
+https://www.tomshardware.com/pc-components/cpus/intel-claims-arrow-lake-refresh-cpus-deliver-15-percent-higher-gaming-performance-and-multi-threaded-boost-core-ultra-7-270k-and-core-ultra-5-250k-come-with-more-cores-faster-memory-and-a-price-cut
+6. 【终端/边缘】 Grab this speedy 4TB Crucial P310 SSD, the cheapest on sale right now, for just £299.99 — nearly £90 price drop is as good as it gets for high-capacity PC storage as the AI crunch continues to bite
+https://www.tomshardware.com/pc-components/ssds/grab-this-speedy-4tb-crucial-p310-ssd-the-cheapest-on-sale-right-now-for-just-gbp299-99-nearly-gbp90-price-drop-is-as-good-as-it-gets-for-high-capacity-pc-storage-as-the-ai-crunch-continues-to-bite
+
+🇨🇳 中国
+1. 【芯片/算力】 Meta 计划 2027 年底前部署四代自研 AI 芯片，应对算力需求并降低外部依赖
+https://www.ithome.com/0/928/173.htm
+2. 【机器人】 荣耀 CEO 李健：荣耀机器人全栈自研，将聚焦消费市场
+https://www.ithome.com/0/928/172.htm
+3. 【其他】 安克推出 1099 元 300W 快充 26250mAh 充电宝中国大陆金标定制版：华为小米协议全兼容，可上飞机
+https://www.ithome.com/0/928/170.htm
+4. 【其他】 2999 元华硕 ROG X870E 吹雪 NEO 主板开售：5Gb 网口 + 双 USB-C 前置接口
+https://www.ithome.com/0/928/168.htm
+5. 【终端/边缘】 联想 AI 平板官宣行业首发端侧一键部署 OpenClaw，支持本地运行、大屏定制交互等优势
+https://www.ithome.com/0/928/167.htm
+6. 【机器人】 调查：多款热门 AI 聊天机器人安全防护严重缺失，竟协助青少年策划暴力袭击
+https://www.ithome.com/0/928/165.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
