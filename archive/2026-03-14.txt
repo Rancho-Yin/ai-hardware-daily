@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-14（抓取 2026-03-13）
+
+🌍 全球
+1. 【芯片/算力】 China's ByteDance to access 36,000 Blackwell GPU cluster through Malaysia cloud operator — Nvidia confirms no objections, deal is in line with US export controls
+https://www.tomshardware.com/pc-components/gpus/chinas-bytedance-to-access-36-000-blackwell-gpu-cluster-through-malaysia-cloud-operator-nvidia-confirms-no-objections-deal-is-in-line-with-us-export-controls
+2. 【芯片/算力】 11-month old Russian outfit claims it has developed 16-core and 32-core chips, flaunts Cyrillic-badged chips — chips appear to be sanctions-swerving rebadged Chinese Loongson processors
+https://www.tomshardware.com/pc-components/cpus/11-month-old-russian-outfit-claims-it-has-developed-16-core-and-32-core-processors-flaunts-cyrillic-badged-processors-chips-appear-to-be-sanctions-swerving-rebadged-chinese-loongson-processors
+3. 【其他】 Get $399 of Corsair Vengeance RAM essentially free with a Ryzen 7 9850X3D and high-end X870E motherboard — Newegg bundle saves you $436 on the core of an overclockable AM5 build
+https://www.tomshardware.com/pc-components/get-usd399-of-corsair-vengeance-ram-essentially-free-with-a-ryzen-7-9850x3d-and-high-end-x870e-motherboard-newegg-bundle-saves-you-usd436-on-the-core-of-an-overclockable-am5-build
+4. 【终端/边缘】 How to protect yourself from bad external SSDs during the PC hardware apocalypse – newer drives will definitely cost more, and some may offer up shockingly poor performance
+https://www.tomshardware.com/pc-components/external-ssds/how-to-protect-yourself-from-bad-external-ssds-during-the-pc-hardware-apocalypse-newer-drives-will-definitely-cost-more-and-some-may-offer-up-shockingly-poor-performance
+5. 【终端/边缘】 Silicon Power US RMA policy now hedges against AI-driven RAM and SSD shortages — company says it will refund the original purchase price 'if there is a shortage of replacement products'
+https://www.tomshardware.com/desktops/pc-building/silicon-power-us-rma-policy-now-hedges-against-ai-driven-ram-and-ssd-shortages-company-says-it-will-refund-the-original-purchase-price-if-there-is-a-shortage-of-replacement-products
+6. 【其他】 China bans OpenClaw from government computers and issues security guidelines amid adoption frenzy — nation scrambles to rein in popular AI agent
+https://www.tomshardware.com/tech-industry/artificial-intelligence/china-bans-openclaw-from-government-computers-and-issues-security-guidelines-amid-adoption-frenzy
+
+🇨🇳 中国
+1. 【其他】 哈曼配合警方捣毁四家制假工厂及多个假货仓库，查扣音箱、耳机等数万台
+https://www.ithome.com/0/928/979.htm
+2. 【其他】 KTC G32P5S 显示器开启新品预约：31.5 英寸 4K 165Hz/1080P 330Hz OLED、原生 10Bit，3999 元
+https://www.ithome.com/0/928/978.htm
+3. 【其他】 华为 HarmonyOS 6 系统再添重磅更新，微信鸿蒙版 App 登陆 HiCar 车机端
+https://www.ithome.com/0/928/977.htm
+4. 【其他】 驰为笔记本虚标 CPU 事件愈演愈烈，CoreBook Plus 再度被指用锐龙 5 5500U 冒充 7430U
+https://www.ithome.com/0/928/969.htm
+5. 【其他】 吉利银河 M7 技术首秀：首搭神盾金砖电池，纯电 225km / 综合续航 1730km
+https://www.ithome.com/0/928/968.htm
+6. 【其他】 华为 WATCH GT 5 系列获 HarmonyOS 6.0.0.23 升级，表端微信更新至 1.1.0 版本
+https://www.ithome.com/0/928/967.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
