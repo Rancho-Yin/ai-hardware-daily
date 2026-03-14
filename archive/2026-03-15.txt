@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-15（抓取 2026-03-14）
+
+🌍 全球
+1. 【其他】 Prediction markets want the Oscars to be your gateway drug to betting on everything
+https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling
+2. 【终端/边缘】 Shopper scores $1,000 in PC hardware for just $86 in a shocking pricing glitch — Newegg shrugs off massive loss and responds with a thumbs-up emoji
+https://www.tomshardware.com/pc-components/cpus/shopper-scores-usd1-000-in-pc-hardware-for-just-usd86-in-a-shocking-pricing-glitch-retailer-shrugs-off-massive-loss-and-responds-with-a-thumbs-up-emoji
+3. 【其他】 MacBook Air M5 review: a small update for the ‘just right’ Mac
+https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review
+4. 【其他】 Invisible malicious code attacks 151 GitHub repos and VS Code — Glassworm attack uses blockchain to steal tokens, credentials, and secrets
+https://www.tomshardware.com/tech-industry/cyber-security/malicious-packages-using-invisible-unicode-found-in-151-github-repos-and-vs-code
+5. 【其他】 A Scavengers Reign artist explores contemplative sci-fi in new comics
+https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign
+6. 【其他】 MSI MAG B850 Tomahawk Max Wifi II Motherboard review: Sharpening the Tomahawk’s blade
+https://www.tomshardware.com/pc-components/motherboards/msi-mag-b850-tomahawk-max-wifi-ii-motherboard-review
+
+🇨🇳 中国
+1. 【其他】 前《守望先锋》总监杰夫 · 卡普兰“复出”，官宣西部生存射击游戏新作《加州传奇》
+https://www.ithome.com/0/929/157.htm
+2. 【其他】 马斯克：特斯拉自建 TeraFab 晶圆厂项目七天后启动
+https://www.ithome.com/0/929/156.htm
+3. 【机器人】 新研究：AI 聊天机器人可能会强化用户的妄想思维
+https://www.ithome.com/0/929/155.htm
+4. 【其他】 小米米家 IH 电饭煲 2 预售：0 氟涂层内胆，首发价 349 元起
+https://www.ithome.com/0/929/154.htm
+5. 【终端/边缘】 微软 Edge 浏览器 146 稳定版发布：调整密码管理，修复标签页问题
+https://www.ithome.com/0/929/153.htm
+6. 【其他】 联想 3 月 16 日起推出 OpenClaw 免费部署服务
+https://www.ithome.com/0/929/151.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
