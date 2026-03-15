@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-16（抓取 2026-03-15）
+
+🌍 全球
+1. 【其他】 Tennessee grandmother wrongly jailed for six months, latest victim of AI-driven misidentification — facial recognition is jailing the wrong people, but police keep using it anyway
+https://www.tomshardware.com/tech-industry/artificial-intelligence/facial-recognition-is-jailing-the-wrong-people-police-keep-using-it-anyway
+2. 【芯片/算力】 AMD's upcoming RDNA 5 GPUs might improve dual-issue execution & use shader units more efficiently — LLVM patch adds new FMA instruction to ease compiling
+https://www.tomshardware.com/pc-components/gpus/amds-upcoming-rdna-5-gpus-might-improve-dual-issue-execution-and-use-shader-units-more-efficiently-llvm-patch-adds-new-fma-instruction-to-ease-compiling
+3. 【其他】 AI Czar David Sacks wants Trump to ‘get out’ of Iran
+https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran
+4. 【其他】 AI companies want to harvest improv actors’ skills to train AI on human emotion
+https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
+5. 【其他】 ASML workers still in the dark seven weeks after 1,700 management cuts announced — cuts represent 4% of its global workforce
+https://www.tomshardware.com/tech-industry/asml-workers-still-in-the-dark-seven-weeks-after-1700-management-cuts-announced
+6. 【芯片/算力】 Chinese GPU-maker Lisuan flaunts new design details for its LX 7G100 gaming card - also updates LX GPU product pages with server and workstation specs
+https://www.tomshardware.com/pc-components/gpus/lisuan-updates-lx-professional-gpu-product-page-with-server-and-workstation-specs
+
+🇨🇳 中国
+1. 【其他】 ASML 营收创纪录仍计划裁员 1700 人，员工苦等七周不知去留
+https://www.ithome.com/0/929/336.htm
+2. 【其他】 市场监管总局彻查“3·15”晚会曝光的相关违法行为，查处情况将向社会公布
+https://www.ithome.com/0/929/331.htm
+3. 【其他】 央视 3·15 晚会曝光 AI 大模型被投毒，给 AI 投毒已成产业链
+https://www.ithome.com/0/929/324.htm
+4. 【其他】 部分地区外卖小涨价：美团 360 元神券省钱券包 9.9 元再来，堂食外卖剪发泡澡都能用
+https://www.ithome.com/0/929/317.htm
+5. 【其他】 多国调查显示 AI 深度伪造语音诈骗激增，民众难辨真伪
+https://www.ithome.com/0/929/314.htm
+6. 【其他】 全新华为 WATCH GT Runner 2 智能手表“疾影黑”公布，定位智能专业跑表
+https://www.ithome.com/0/929/312.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
