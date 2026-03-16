@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-17（抓取 2026-03-16）
+
+🌍 全球
+1. 【数据中心】 Creative updates its Sound Blaster PCIe sound card line after 5 years — new $79.99 Audigy FX Pro 7.1 pitched as ‘clear upgrade over standard onboard audio’
+https://www.tomshardware.com/pc-components/sound-cards/creative-updates-its-sound-blaster-pcie-line-after-5-years-new-usd79-99-audigy-fx-pro-7-1-pitched-as-clear-upgrade-over-standard-onboard-audio
+2. 【其他】 Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push
+https://www.tomshardware.com/tech-industry/semiconductors/intel-chip-roadmap-2026-2028
+3. 【其他】 First credible leak of an AMD Zen 6 processor pops up on Geekbench — ten-core CPU seems to have 32MB of L3 cache
+https://www.tomshardware.com/pc-components/cpus/first-credible-leak-of-an-amd-zen-6-processor-pops-up-on-geekbench-ten-core-cpu-seems-to-have-32mb-of-l3-cache
+4. 【终端/边缘】 Save $290 on this all-AMD gaming PC with a 9800X3D and RX 9070 XT for 4K gaming — just $2,259 for an elite CyberPowerPC rig with 32GB of DDR5 RAM and a huge 2TB SSD
+https://www.tomshardware.com/desktops/gaming-pcs/save-usd290-on-this-all-amd-gaming-pc-with-a-9800x3d-and-rx-9070-xt-for-4k-gaming-just-usd2-259-for-an-elite-cyberpowerpc-rig-with-32gb-of-ddr5-ram-and-a-huge-2tb-ssd
+5. 【其他】 GTC 2026
+https://www.tomshardware.com/tag/gtc
+6. 【机器人】 STMicro to deploy humanoid robots to its legacy fabs in Europe — over 100 humanoid robots to be used for routine and physically demanding tasks in fight for efficiency
+https://www.tomshardware.com/tech-industry/semiconductors/stmicro-to-deploy-humanoid-robots-to-its-legacy-fabs-in-europe-over-100-humanoid-robots-to-be-used-for-routine-and-physically-demanding-tasks-in-fight-for-efficiency
+
+🇨🇳 中国
+1. 【其他】 华为乾崑智驾公开赛官宣 3 月 19 日开启报名，提供 5 大赛道可选
+https://www.ithome.com/0/929/680.htm
+2. 【其他】 岚图泰山黑武士内饰公布：碳纤饰板、智能调光玻璃等
+https://www.ithome.com/0/929/678.htm
+3. 【其他】 大英百科全书起诉 OpenAI，指控后者非法复制其近 10 万篇文章训练 ChatGPT
+https://www.ithome.com/0/929/675.htm
+4. 【其他】 华为擎云 HM740 笔记本通过 OpenHarmony 6.0.0.1 Release 认证，版本更至 6.0.0.130
+https://www.ithome.com/0/929/673.htm
+5. 【其他】 零跑汽车：2026 年第二季度将推出覆盖全国的城市领航辅助功能
+https://www.ithome.com/0/929/671.htm
+6. 【机器人】 全球首例：机器人保洁员正式进入家庭提供服务
+https://www.leiphone.com/category/industrynews/ybu34GBojXYRj42x.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
