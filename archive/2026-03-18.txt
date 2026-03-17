@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-18（抓取 2026-03-17）
+
+🌍 全球
+1. 【终端/边缘】 Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops
+https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu
+2. 【其他】 We got a first look at Nvidia's DLSS 5 and the future of neural rendering at GTC — the results can be impressive, but there's work to do
+https://www.tomshardware.com/pc-components/gpus/we-got-a-first-look-at-nvidias-dlss-5-and-the-future-of-neural-rendering-at-gtc-the-results-can-be-impressive-but-theres-work-to-do
+3. 【数据中心】 Microsoft expects to commercialize MicroLED datacenter cables by late 2027 — expands Hollow Core Fiber deployment, promising 47% faster data transmission and approximately 33% lower latency
+https://www.tomshardware.com/tech-industry/microsoft-expects-to-commercialize-microled-datacenter-cables-by-late-2027
+4. 【其他】 Nvidia launches BlueField-4 STX storage architecture for agentic AI at GTC 2026
+https://www.tomshardware.com/tech-industry/nvidia-launches-bluefield-4-stx-storage-architecture-for-agentic-ai
+5. 【终端/边缘】 Grab 32GB of Corsair DDR5 RAM for just $111 in this epic Newegg combo with the 9850X3D — $1,020 bundle for an AMD gaming PC build includes an Asus X870E-E motherboard along with a free mouse and game
+https://www.tomshardware.com/pc-components/grab-32gb-of-corsair-ddr5-ram-for-just-usd111-in-this-epic-newegg-combo-with-the-9850x3d-usd1-020-bundle-for-an-amd-gaming-pc-build-includes-an-asus-x870e-e-motherboard-along-with-a-free-mouse-and-game
+6. 【其他】 South Korean company following ChatGPT management advice forced to backtrack by court — Krafton improperly ousted Subnautica developer bosses to dodge $250m bonus payout
+https://www.tomshardware.com/video-games/south-korean-company-following-chatgpt-management-advice-forced-to-backtrack-by-court-krafton-improperly-ousted-subnautica-developer-bosses-to-dodge-usd250m-bonus-payout
+
+🇨🇳 中国
+1. 【其他】 物质探索打开新大门：我国科研团队发现全新粒子“单电荷双粲重子”
+https://www.ithome.com/0/930/044.htm
+2. 【其他】 启境GT7首秀：华为再造广汽的第一战
+https://www.leiphone.com/category/transportation/z5Ezxk9OqlA2FDoH.html
+3. 【其他】 阿里云创始人王坚：每天通勤 40 分钟是浪费生命，AI 应解决这一问题
+https://www.ithome.com/0/930/040.htm
+4. 【其他】 奥迪全球 CEO 高德诺否认南北奥迪将合并：坚持双合作伙伴战略
+https://www.ithome.com/0/930/039.htm
+5. 【芯片/算力】 vivo T5x 5G 手机海外发布：天玑 7400 Turbo 芯片、7200mAh 电池，6.76 寸 1080P LCD 屏幕
+https://www.ithome.com/0/930/037.htm
+6. 【其他】 英伟达的 DLSS 5 引发争议和批评
+https://www.solidot.org/story?sid=83792
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
