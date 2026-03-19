@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-20（抓取 2026-03-19）
+
+🌍 全球
+1. 【芯片/算力】 How Nvidia's $20 billion Groq 3 LPU deal reshapes the Nvidia Vera Rubin Platform — Samsung 4nm process serves as bedrock for SRAM-based AI accelerator chip
+https://www.tomshardware.com/tech-industry/semiconductors/nvidias-20-billion-groq-deal-produces-its-first-chip
+2. 【其他】 MSI MPG X870E Carbon Max Wifi Review: Small tweaks, same Carbon DNA
+https://www.tomshardware.com/pc-components/motherboards/msi-mpg-x870e-carbon-max-wifi-review
+3. 【终端/边缘】 Save $800 on this powerhouse Alienware 4K gaming PC with an RTX 5080 and 64GB DDR5 RAM — epic pre-built also includes a huge 4TB SSD and a 24-core Intel CPU for high-end performance
+https://www.tomshardware.com/desktops/gaming-pcs/save-usd800-on-this-powerhouse-alienware-4k-gaming-pc-with-an-rtx-5080-and-64gb-ddr5-ram-epic-pre-built-also-includes-a-huge-4tb-ssd-and-a-24-core-intel-cpu-for-high-end-performance
+4. 【终端/边缘】 Thermalright's impressive AIO cooler lets you add a panoramic screen to your PC for just $165 — bag a 20% saving on the Wonder Vision 360 and treat your CPU
+https://www.tomshardware.com/pc-components/liquid-cooling/thermalrights-impressive-aio-cooler-lets-you-add-a-panoramic-screen-to-your-pc-for-just-usd165-bag-a-20-percent-saving-on-the-wonder-vision-360-and-treat-your-cpu
+5. 【其他】 AMD and Samsung ink memory supply memorandum for EPYC and Instinct products — unprecedented deal also includes scope for foundry partnership
+https://www.tomshardware.com/tech-industry/semiconductors/amd-and-samsung-ink-memory-supply-memorandum-for-epyc-and-instinct-products-unprecedented-deal-also-includes-scope-for-foundry-partnership
+6. 【芯片/算力】 Kioxia announces new Super High IOPS SSD that helps accelerate AI workloads on Nvidia GPUs — 25.6TB drive provides more GPU-accessible memory for faster data access
+https://www.tomshardware.com/pc-components/ssds/kioxia-announces-new-super-high-iops-ssd-that-helps-accelerate-ai-workloads-on-nvidia-gpus-25-6tb-drive-provides-more-gpu-accessible-memory-for-faster-data-access
+
+🇨🇳 中国
+1. 【其他】 苹果 iPhone 17e 首销数据曝光：五天销量约 2.3 万，同期 iPhone 16e 约 1.6 万
+https://www.ithome.com/0/930/809.htm
+2. 【其他】 国内遥感大数据应用和地理情报服务高科技公司“觅熵”澄清 X 平台账号：无任何关联
+https://www.ithome.com/0/930/808.htm
+3. 【其他】 育碧旗下 30 年老牌工作室“红色风暴”终止游戏开发业务，裁撤百余岗位
+https://www.ithome.com/0/930/807.htm
+4. 【芯片/算力】 从太空指挥全球：国星宇航完成全球首次 OpenClaw 调用太空算力操控地面机器人
+https://www.ithome.com/0/930/805.htm
+5. 【其他】 小米春季新品发布会一文汇总：新一代 SU7 上市，台下友商大佬表情亮了，时隔四年推出“公斤本”
+https://www.ithome.com/0/930/804.htm
+6. 【其他】 Epic 喜加二：《电工模拟器》及《战舰世界》Epic 周年纪念橘号礼包 DLC
+https://www.ithome.com/0/930/803.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
