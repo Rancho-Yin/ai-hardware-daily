@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-21（抓取 2026-03-20）
+
+🌍 全球
+1. 【芯片/算力】 China develops new ultra-cold alloy that can reach -273°C without helium — could enable compact cooling for superconducting quantum chips, military equipment, and beyond
+https://www.tomshardware.com/tech-industry/china-develops-new-ultra-cold-alloy-that-can-reach-273-c-without-helium-could-enable-compact-cooling-for-superconducting-quantum-chips-military-equipment-and-beyond
+2. 【数据中心】 Supermicro employees accused of smuggling $2.5 billion worth of Nvidia hardware to China — perps used a hairdryer to move serial numbers between real hardware and thousands of dummy servers
+https://www.tomshardware.com/tech-industry/semiconductors/super-micro-employees-accused-of-smuggling-usd2-5-billion-worth-of-nvidia-hardware-to-china-perps-used-a-hairdryer-to-move-serial-numbers-between-real-hardware-and-thousands-of-dummy-servers
+3. 【其他】 Save up to $129 on a new gaming chair or desk in the Secretlab Spring Sale — huge savings include an additional $100 discount for big bundles to upgrade your setup
+https://www.tomshardware.com/peripherals/gaming-chairs/save-up-to-usd129-on-a-new-gaming-chair-or-desk-in-the-secretlab-spring-sale-huge-savings-include-an-additional-usd100-discount-for-big-bundles-to-upgrade-your-setup
+4. 【芯片/算力】 Seller gets scammed as eBay customer returns $4,000 RTX 5090 with missing GPU core and memory modules — fully working Zotac stripped of most valuable components and sent back
+https://www.tomshardware.com/pc-components/gpus/ebay-seller-gets-scammed-as-customer-returns-usd4-000-rtx-5090-with-missing-gpu-core-and-memory-modules-fully-working-zotac-stripped-of-most-valuable-components-and-sent-back
+5. 【终端/边缘】 Arctic's $1,400 AMD Strix Point fanless mini-PC hides under your desk — Senza AI 370 features Ryzen AI 9 HX 370 CPU, 32GB RAM, and 1TB SSD
+https://www.tomshardware.com/desktops/mini-pcs/arctics-usd1-400-amd-strix-point-fanless-mini-pc-hides-under-your-desk-senza-ai-370-features-ryzen-ai-9-hx-370-cpu-32gb-ram-and-1tb-ssd
+6. 【其他】 Corsair's new 3200D mid-tower case redefines airflow and component compatibility — the case perfectly pairs with rear-connector motherboards
+https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-3200d-mid-tower-case-redefines-airflow-and-component-compatibility-the-case-perfectly-pairs-with-rear-connector-motherboards
+
+🇨🇳 中国
+1. 【其他】 南方试验场启用：中国汽研、广汽集团等五方建设，国内首个获批空域使用权
+https://www.ithome.com/0/931/178.htm
+2. 【其他】 唯卓仕 Vintage Z2 Mini 折叠闪光灯发布：支持 TTL、闪光指数 GN6，首发 148 元
+https://www.ithome.com/0/931/177.htm
+3. 【其他】 小米发布 NAS 用户影像管理需求调研问卷，或为新品做准备
+https://www.ithome.com/0/931/175.htm
+4. 【其他】 【IT之家开箱】小米 Xiaomi Book Pro 14「柔雾蓝」图赏：丝绒镁合金，1.08kg 超轻薄
+https://www.ithome.com/0/931/174.htm
+5. 【其他】 【IT之家评测室】时隔四年，小米终于“悟”了？Xiaomi Book Pro 14 上手：颜值能打，性能不怂
+https://www.ithome.com/0/931/172.htm
+6. 【其他】 华为 Watch GT Runner 2 智能手表开启新品预约，3 月 23 日国行发布
+https://www.ithome.com/0/931/170.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
