@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-22（抓取 2026-03-21）
+
+🌍 全球
+1. 【其他】 Nintendo Switch 2 overhaul could bring a removable battery — new revision aims to comply with the EU's Right to Repair regulations
+https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-overhaul-could-bring-a-removable-battery-new-revision-aims-to-comply-with-the-eus-right-to-repair-regulations
+2. 【其他】 Here are 20 of our favorite outdoor deals from REI’s Member Days Sale
+https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026
+3. 【其他】 The gen AI Kool-Aid tastes like eugenics
+https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
+4. 【其他】 Logitech G325 Lightspeed Wireless Gaming Headset Review
+https://www.tomshardware.com/peripherals/gaming-headsets/logitech-g325-lightspeed-wireless-gaming-headset-review
+5. 【其他】 Oeuf is a punishing platformer in a cozy shell
+https://www.theverge.com/entertainment/895435/oeuf-review
+6. 【其他】 Dreame’s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price
+https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal
+
+🇨🇳 中国
+1. 【其他】 广汽埃安新车 N60 将于 3 月 25 日开启盲订：标配零重力按摩座椅、5 连杆悬架
+https://www.ithome.com/0/931/359.htm
+2. 【其他】 微信 iOS 版 8.0.70 最新官方正式版下载发布
+https://www.ithome.com/0/931/358.htm
+3. 【芯片/算力】 华为 Atlas 350 加速卡上市，搭载全新昇腾 950PR 处理器
+https://www.ithome.com/0/931/355.htm
+4. 【其他】 小米汽车详解新一代 SU7 技术升级：湿滑模式主动提醒、全系标配 265mm 宽胎
+https://www.ithome.com/0/931/351.htm
+5. 【其他】 腾讯云发布行业首个官网内置 Agent 助手 KiKi，一句话完成 OpenClaw 部署
+https://www.ithome.com/0/931/349.htm
+6. 【其他】 消息称 OpenAI 加速扩充员工规模，目标年底前从 4500 人增员至 8000 人
+https://www.ithome.com/0/931/348.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
