@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-23（抓取 2026-03-22）
+
+🌍 全球
+1. 【其他】 Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand'
+https://www.tomshardware.com/pc-components/dram/micron-predicts-that-cars-will-need-300gb-of-ram-memory-laden-vehicles-could-exacerbate-shortages-but-create-robust-long-term-growth-in-automotive-memory-demand
+2. 【芯片/算力】 Elon Musk unveils $20 billion ‘TeraFab’ chip project to make chips, memory, and package processors all under one roof — targets a terawatt of annual compute
+https://www.tomshardware.com/tech-industry/elon-musk-formally-launches-20-billion-terafab-chip-project
+3. 【其他】 GrapheneOS refuses to comply with new age verification laws for operating systems — group says it will never require personal information
+https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws
+4. 【其他】 Grab the Sapphire Nitro+ Radeon RX 9070 XT for $799.99 — comes bundled with 1000W PSU and free copy of Crimson Desert
+https://www.tomshardware.com/pc-components/gpus/grab-the-sapphire-nitro-radeon-rx-9070-xt-for-usd799-99-comes-bundled-with-1000w-psu-and-free-copy-of-crimson-desert
+5. 【其他】 Two brothers convicted of running ghost gun factory that produced untraceable 3D printed firearms — used 3D printers to build gun frames while associates purchased other parts on eBay
+https://www.tomshardware.com/3d-printing/two-brothers-convicted-of-running-ghost-gun-factory-that-produced-untraceable-3d-printed-firearms-used-3d-printers-to-build-gun-frames-while-associates-purchased-other-parts-on-ebay
+6. 【芯片/算力】 Musk says he’s building Terafab chip plant in Austin, Texas
+https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant
+
+🇨🇳 中国
+1. 【其他】 从 3 亿美元降至 1.875 亿美元，Anthropic 版权案律师费用大幅下调
+https://www.ithome.com/0/931/554.htm
+2. 【其他】 小米汽车回应新一代 SU7“底盘软”：可切换到运动模式，或通过自定义驾驶模式“特调”
+https://www.ithome.com/0/931/553.htm
+3. 【其他】 古尔曼：苹果 Apple TV、HomePod 和 HomePod mini 库存告急
+https://www.ithome.com/0/931/546.htm
+4. 【其他】 雅迪冠能 i7、星舰 Ⅱ、白鲨 Ⅱ 电动车发布，4999 元起
+https://www.ithome.com/0/931/545.htm
+5. 【其他】 为博眼球使用 AI 造谣“烟花厂爆炸致 2 死 2 伤”，男子被依法处罚
+https://www.ithome.com/0/931/543.htm
+6. 【芯片/算力】 古尔曼：搭载 A18 芯片的新款苹果 iPad 仍计划于今年上半年发布
+https://www.ithome.com/0/931/541.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
