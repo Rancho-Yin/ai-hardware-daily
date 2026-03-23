@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-24（抓取 2026-03-23）
+
+🌍 全球
+1. 【芯片/算力】 Crimson Desert devs apologize for ‘confusion’ over Intel GPU FAQ — backtracks over prior dismissive language regarding Arc graphics support
+https://www.tomshardware.com/pc-components/gpus/crimson-desert-devs-apologize-for-confusion-over-intel-gpu-faq-backtracks-over-prior-dismissive-language-regarding-arc-graphics-support
+2. 【其他】 The legendary AMD Ryzen 7 9800X3D just hit its lowest-ever price on Amazon — grab our favorite gaming CPU with a $60 saving for undeniably brilliant performance
+https://www.tomshardware.com/pc-components/cpus/the-legendary-amd-ryzen-7-9800x3d-just-hit-its-lowest-ever-price-on-amazon-grab-our-favorite-gaming-cpu-with-a-usd60-saving-for-undeniably-brilliant-performance
+3. 【其他】 Intel Core Ultra 7 270K Plus review: Back from the brink
+https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-review
+4. 【其他】 Get the 9800X3D CPU, Asus TUF gaming X870, and 32GB of DDR5 RAM, plus a free 512GB Gen 4 SSD and Crimson Desert, all for $959.99 — Newegg's combo bundles strike again
+https://www.tomshardware.com/pc-components/spend-usd959-99-and-get-the-9800x3d-cpu-asus-tuf-gaming-x870-and-32gb-of-ddr5-ram-plus-a-free-512gb-gen-4-ssd-and-crimson-desert-neweggs-combo-bundles-strike-again
+5. 【其他】 Concerns raised over Shahed kamikaze drone listings on Alibaba — they featured AI guidance to lock onto ‘people, building, vehicles, ships, etc’
+https://www.tomshardware.com/tech-industry/concerns-raised-over-shahed-kamikaze-drone-listings-on-alibaba-they-featured-ai-guidance-to-lock-onto-people-building-vehicles-ships-etc
+6. 【其他】 Valve adds early Steam Machine support in SteamOS 3.8 — latest update brings performance gains, better controller support, and desktop improvements
+https://www.tomshardware.com/video-games/handheld-gaming/valve-adds-early-steam-machine-support-in-steamos-3-8-latest-update-brings-performance-gains-better-controller-support-and-desktop-improvements
+
+🇨🇳 中国
+1. 【终端/边缘】 华为 Mate 80 Pro Max 系列手机重点参数配置差异公布，一表看懂
+https://www.ithome.com/0/931/913.htm
+2. 【其他】 千问 AI 大模型上车，零跑 A10 上市发布会定档 3 月 26 日
+https://www.ithome.com/0/931/912.htm
+3. 【其他】 微信安卓版 8.0.70 最新官方内测版下载发布
+https://www.ithome.com/0/931/911.htm
+4. 【其他】 研究：詹姆斯 · 韦布望远镜发现的小红点，或是正在形成的婴儿星系
+https://www.ithome.com/0/931/908.htm
+5. 【其他】 鸿蒙智行尚界 Z7 / Z7T 新车 3 小时小订突破 1.8 万台，预售价 22.98 万起
+https://www.ithome.com/0/931/907.htm
+6. 【其他】 1599 → 678 元：MOVA G12 Mix 洗地机官方新低，除螨 / 吸尘 / 洗地等五合一
+https://www.ithome.com/0/931/905.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
