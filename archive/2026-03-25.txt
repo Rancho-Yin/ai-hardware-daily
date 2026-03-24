@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-25（抓取 2026-03-24）
+
+🌍 全球
+1. 【芯片/算力】 Huawei unveils new Atlas 350 AI accelerator with 1.56 PFLOPS of FP4 compute and up to 112GB of HBM — claims 2.8x more performance than Nvidia's H20
+https://www.tomshardware.com/pc-components/gpus/huawei-unveils-new-atlas-350-ai-accelerator-with-1-56-pflops-of-fp4-compute-and-up-to-112gb-of-hbm-claims-2-8x-more-performance-than-nvidias-h20
+2. 【芯片/算力】 US senators want to suspend Nvidia AI chip export licenses to China and its intermediaries — bipartisan letter to Commerce Dept says that Huang’s claims of no chip diversion ‘were contradicted by reporting available’
+https://www.tomshardware.com/tech-industry/us-senators-want-to-suspend-nvidia-ai-chip-export-licenses-to-china-and-its-intermediaries-bipartisan-letter-to-commerce-dept-says-that-huangs-claims-of-no-chip-diversion-were-contradicted-by-reporting-available
+3. 【其他】 Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding — platform's investment grows to $13 billion from $480 million in 2024
+https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024
+4. 【终端/边缘】 Unlock the ultimate PC maintenance combo with this electric screwdriver and air duster at a huge $60 saving right now — $99 Amazon bundle pairs Hoto's epic 25-bit precision driver set with its 4-in-1 blower and vacuum cleaner
+https://www.tomshardware.com/desktops/pc-building/unlock-the-ultimate-pc-maintenance-combo-with-this-electric-screwdriver-and-air-duster-at-a-huge-usd60-saving-right-now-usd99-amazon-bundle-pairs-hotos-epic-25-bit-precision-driver-set-with-its-4-in-1-blower-and-vacuum-cleaner
+5. 【其他】 Intel Core Ultra 5 250K Plus review: The new best $200 CPU
+https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-250k-plus-review
+6. 【芯片/算力】 Microsoft-backed start-up raises $40 million for helium atom beam lithography that could print chips at atomic resolution — 0.1nm beam is 135 times narrower than ASML's EUV light
+https://www.tomshardware.com/tech-industry/norwegian-start-up-raises-40-million-for-helium-atom-beam-lithography
+
+🇨🇳 中国
+1. 【其他】 华为乾崑 | 启境 GT7 智能猎装车官宣 6 月上市，搭载全球量产最高规格 896 线激光雷达
+https://www.ithome.com/0/932/301.htm
+2. 【其他】 商汤科技 2025 年收入超 50 亿元创历史新高，今年 Q2 将推基于第二代 NEO 架构全新模型
+https://www.ithome.com/0/932/300.htm
+3. 【其他】 雷蛇毒蝰 V4 专业版鼠标、巨甲虫 V2 专业版鼠标垫发布，1299/449 元
+https://www.ithome.com/0/932/297.htm
+4. 【终端/边缘】 OPPO A6X 手机现身中国电信终端产品库：至高 8GB+256GB 规格、配 6500mAh 电池
+https://www.ithome.com/0/932/296.htm
+5. 【其他】 打通AI落地最后1公里！上海加快培育FDE新型技术人才
+https://www.leiphone.com/category/industrynews/o2PAJtC98W1UTQyS.html
+6. 【其他】 小龙虾成龙记： 为什么创新的答案总能在上海找到
+https://www.leiphone.com/category/industrynews/yDq7NvacqhSpruML.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
