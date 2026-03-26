@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-27（抓取 2026-03-26）
+
+🌍 全球
+1. 【其他】 AMD makes the flagship Ryzen 9 9950X3D2 official — first dual-cache X3D CPU arrives in April, with 208MB cache, 200W TDP, promising modest performance gains
+https://www.tomshardware.com/pc-components/cpus/amd-makes-the-flagship-ryzen-9-9950x3d2-official-first-dual-cache-x3d-cpu-arrives-in-april-with-208mb-cache-200w-tdp-promising-modest-performance-gains
+2. 【其他】 Where to buy Intel's Core Ultra 5 250K Plus and Core Ultra 7 270K Plus — grab these impressive Arrow Lake Refresh CPUs from these retailers, starting from $219
+https://www.tomshardware.com/pc-components/cpus/where-to-buy-intels-core-ultra-5-250k-plus-and-core-ultra-7-270k-plus-grab-these-impressive-arrow-lake-refresh-cpus-from-these-retailers-starting-from-usd219
+3. 【终端/边缘】 Intel's upcoming 'Wildcat Lake' low-power series breaks cover in Geekbench listing — 'Core 3 304' is twice as fast in single-core performance versus last-gen
+https://www.tomshardware.com/pc-components/cpus/intels-upcoming-wildcat-lake-low-power-series-breaks-cover-in-geekbench-listing-core-3-304-is-twice-as-fast-in-single-core-performance-versus-last-gen
+4. 【芯片/算力】 US Senators call for a halt to Nvidia GPU exports in the wake of the Super Micro scandal — looming Chip Security Act may put a wrench into Huang's China ambitions
+https://www.tomshardware.com/tech-industry/us-senators-call-for-a-halt-to-nvidia-gpu-exports-in-the-wake-of-the-super-micro-scandal-looming-chip-security-act-may-put-a-wrench-into-huangs-china-ambitions
+5. 【其他】 OLED monitor sales surged 92% in 2025 — Asus led with 2.7 million units shipped as gamer-friendly panel tech goes mainstream
+https://www.tomshardware.com/monitors/oled-monitor-sales-surge-92-percent-in-2025-asus-leads-shipments-of-2-735-million-units-as-display-tech-takes-hold
+6. 【芯片/算力】 Class action alleges Nvidia hid more than $1B crypto-GPU income within its gaming revenues — investor lawsuit concerns business spanning 2017 and 2018
+https://www.tomshardware.com/pc-components/gpus/class-action-alleges-nvidia-hid-more-than-usd1b-crypto-gpu-income-within-its-gaming-revenues-investor-lawsuit-concerns-business-spanning-2017-and-2018
+
+🇨🇳 中国
+1. 【其他】 维基百科向直接用 AI 撰写条目说“不”，仍允许 AI 润色和翻译
+https://www.ithome.com/0/933/103.htm
+2. 【其他】 英伟达及黄仁勋遭投资者集体诉讼：被指隐瞒游戏显卡收入对加密货币挖矿的依赖
+https://www.ithome.com/0/933/102.htm
+3. 【其他】 问界汽车：关注到部分用户提出车辆软硬件升级的诉求，正在积极寻找解决方案
+https://www.ithome.com/0/933/098.htm
+4. 【其他】 192MB 的 L3：AMD 锐龙 9 9950X3D2 双缓存版台式处理器上线
+https://www.ithome.com/0/933/097.htm
+5. 【芯片/算力】 三星 Galaxy A57 5G 手机国行 4 月 11 日开售：Exynos 1680 芯片、5000mAh 电池，3299 元起
+https://www.ithome.com/0/933/092.htm
+6. 【其他】 被电装收购外的另一选择：消息称罗姆将就合并业务与三菱电机、东芝谈判
+https://www.ithome.com/0/933/091.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
