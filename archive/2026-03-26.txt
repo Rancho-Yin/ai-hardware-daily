@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-26（抓取 2026-03-25）
+
+🌍 全球
+1. 【其他】 Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance
+https://www.tomshardware.com/pc-components/ssds/samsungs-870-evo-sata-ssd-quietly-gets-8tb-variant-despite-ai-storage-struggle-new-model-spotted-in-europe-for-eur1-300-with-higher-cache-and-endurance
+2. 【芯片/算力】 Intel Arc Pro B70 and Arc Pro B65 GPUs bring 32GB of RAM to AI and pro apps — bigger Battlemage finally arrives, but it's not for gamers
+https://www.tomshardware.com/pc-components/gpus/intel-arc-pro-b70-and-arc-pro-b65-gpus-bring-32gb-of-ram-to-ai-and-pro-apps-bigger-battlemage-finally-arrives-but-its-not-for-gaming
+3. 【终端/边缘】 PC makers face shortages of Intel and AMD CPUs that stretch up to six months — lead time for orders jumps from just two weeks in the face of AI demand
+https://www.tomshardware.com/pc-components/cpus/pc-makers-face-shortages-of-intel-and-amd-cpus-that-stretch-up-to-six-months-lead-time-for-orders-jumps-from-just-two-weeks-in-the-face-of-ai-demand
+4. 【芯片/算力】 Google's TurboQuant reduces AI LLM cache memory capacity requirements by at least six times — up to 8x performance boost on Nvidia H100 GPUs, compresses KV caches to 3 bits with no accuracy loss
+https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-turboquant-compresses-llm-kv-caches-to-3-bits-with-no-accuracy-loss
+5. 【芯片/算力】 Intel officially releases Xeon 600 chips, announces new vPro Panther Lake CPUs — ‘all-new’ vPro platform goes all-in on AI
+https://www.tomshardware.com/pc-components/cpus/intel-officially-releases-xeon-600-chips-announces-new-vpro-panther-lake-cpus-all-new-vpro-platform-goes-all-in-on-ai
+6. 【终端/边缘】 Start your AM5 build off right with an incredible deal on a Ryzen 9 9900X processor — get $185 off and walk away with the centerpiece of your new or upgraded PC for only $314.99, an all-time low
+https://www.tomshardware.com/pc-components/start-your-am5-build-off-right-with-an-incredible-deal-on-a-ryzen-9-9900x-processor-get-usd185-off-and-walk-away-with-the-centerpiece-of-your-new-or-upgraded-pc-for-only-usd314-99-an-all-time-low
+
+🇨🇳 中国
+1. 【终端/边缘】 华为鸿蒙手机“龙虾”小艺 Claw 开启预约：适配 HarmonyOS 6，支持手机、平板设备
+https://www.ithome.com/0/932/710.htm
+2. 【终端/边缘】 realme 真我 GT8 Pro 手机适配 Android 17 开发者预览版教程说明发布
+https://www.ithome.com/0/932/709.htm
+3. 【芯片/算力】 Bigme 大我 HiBreak Plus 彩墨屏手写手机亮相：MTK6765 芯片、安卓 14 系统，预售价 1699 元
+https://www.ithome.com/0/932/708.htm
+4. 【其他】 特朗普将任命黄仁勋、扎克伯格等为科技顾问，为 AI 政策提供建议
+https://www.ithome.com/0/932/707.htm
+5. 【其他】 小米汽车回应试驾新一代 SU7 和前代动力感受不同，称首批新车前 300km 属「新手保护期」动力受限
+https://www.ithome.com/0/932/705.htm
+6. 【其他】 英特尔发布基于第三代酷睿 Ultra 处理器 vPro 平台，锐炫 Pro B70 / B65 专业显卡登场
+https://www.ithome.com/0/932/702.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
