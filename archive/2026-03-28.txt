@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-28（抓取 2026-03-27）
+
+🌍 全球
+1. 【芯片/算力】 Testing DirectStorage with GPU decompression — do Blackwell GPUs have the upper hand?
+https://www.tomshardware.com/pc-components/gpus/testing-directstorage-with-gpu-decompression-do-blackwell-gpus-have-the-upper-hand
+2. 【其他】 We handpicked the 24 best Big Spring Sale deals under $50
+https://www.theverge.com/gadgets/901519/best-cheap-tech-deals-under-50-amazon-big-spring-sale-2026
+3. 【其他】 Motorola’s Razr Ultra 2026 might be a hair thicker than last year’s version
+https://www.theverge.com/gadgets/902300/motorola-razr-ultra-2026-dimensions-leaked
+4. 【其他】 Sony increasing PlayStation 5 prices across all consoles, starting April 2 — PS5 and PS5 Digital Edition receive $100 hikes, while PS5 Pro will now sell for $900
+https://www.tomshardware.com/video-games/playstation/sony-increasing-playstation-5-prices-across-all-consoles-starting-april-2-ps5-and-ps5-digital-edition-receive-usd100-hikes-while-ps5-pro-will-now-sell-for-usd900
+5. 【芯片/算力】 SMIC sent chipmaking tools to Iran's military, Trump administration officials say — report claims exchange began a year ago, 'almost certainly included technical training on SMIC's semiconductor technology'
+https://www.tomshardware.com/tech-industry/smic-sent-chipmaking-tools-to-irans-military-trump-administration-officials-say
+6. 【其他】 US Supreme Court says ISPs aren’t liable for their users’ piracy — top judiciary body unanimously rules that Cox Communications did not commit copyright infringement
+https://www.tomshardware.com/tech-industry/big-tech/us-supreme-court-says-isps-arent-liable-for-their-users-piracy-top-judiciary-body-unanimously-rules-that-cox-communications-did-not-commit-copyright-infringement
+
+🇨🇳 中国
+1. 【其他】 英国政府建议家长严控幼儿屏幕使用时间：2 岁以下完全避免，2-5 岁每天不超 1 小时
+https://www.ithome.com/0/933/518.htm
+2. 【其他】 谷歌员工喜提全新智能体“Smith”：与《黑客帝国》反派同名，火到官方限制访问
+https://www.ithome.com/0/933/513.htm
+3. 【其他】 长城 X 系列金牌全模组电源开启新品预约：额定功率 1000/1200W，售价 699/799 元
+https://www.ithome.com/0/933/507.htm
+4. 【其他】 小米汽车谈“融资租赁方案”：合法合规，网上所说有违规风险、有套路均不属实
+https://www.ithome.com/0/933/505.htm
+5. 【其他】 艾利和 AK Cradle 扩展底座上市：支持 SP4000、PD10、PD20 等播放器，3299 元
+https://www.ithome.com/0/933/503.htm
+6. 【其他】 技嘉内存超频强板 Z890 AORUS ELITE DUO X 上市，2299 元
+https://www.ithome.com/0/933/501.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
