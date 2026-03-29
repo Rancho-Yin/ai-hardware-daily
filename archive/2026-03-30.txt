@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-03-30（抓取 2026-03-29）
+
+🌍 全球
+1. 【芯片/算力】 AMD’s dual-GPU Radeon HD 6990 launched 15 years ago — power, heat, and noise monster was crowned the fastest graphics card in the world
+https://www.tomshardware.com/pc-components/gpus/amds-dual-gpu-radeon-hd-6990-launched-15-years-ago-power-heat-and-noise-monster-was-crowned-the-fastest-graphics-card-in-the-world
+2. 【其他】 Can my favorite Game Boy gadget tell fake cartridges from real?
+https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection
+3. 【其他】 Get a 200Hz gaming monitor for just $85.49 — get 29% off as the MSI MAG 242F hits an all-time low and save more than $30
+https://www.tomshardware.com/pc-components/get-a-200hz-gaming-monitor-for-just-usd85-49-get-29-percent-off-as-the-msi-mag-242f-hits-an-all-time-low-and-save-more-than-usd30
+4. 【芯片/算力】 New Cambridge human brain-inspired chip could slash AI energy use — new type of memristor has roughly a million times lower switching current than conventional devices
+https://www.tomshardware.com/tech-industry/new-cambridge-human-brain-inspired-chip-could-slash-ai-energy-use
+5. 【机器人】 Chinese military reveals drone wolf pack capable of swarm operations — robot dogs can be equipped with grenade launchers and machine guns for urban combat
+https://www.tomshardware.com/tech-industry/chinese-military-reveals-drone-wolf-pack-capable-of-swarm-operations-robot-dogs-can-be-equipped-with-grenade-launchers-and-machine-guns-for-urban-combat
+6. 【其他】 Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder
+https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals
+
+🇨🇳 中国
+1. 【其他】 古尔曼：苹果试图通过发放奖金，阻止 iPhone 产品设计工程师跳槽至 OpenAI
+https://www.ithome.com/0/933/904.htm
+2. 【机器人】 古尔曼：苹果 iOS 27 将允许安装 ChatGPT 以外的第三方 AI 聊天机器人，拥有独立的 App Store 专区
+https://www.ithome.com/0/933/903.htm
+3. 【其他】 风云G会圆满落幕 共绘GEO行业可信协同发展新蓝图
+https://www.leiphone.com/category/industrynews/SPOQv8yCEw4FVYQZ.html
+4. 【机器人】 长安汽车在重庆获批 L4 级自研 Robotaxi 测试牌照
+https://www.ithome.com/0/933/900.htm
+5. 【其他】 （更新：已恢复）“DeepSeek 崩了”上热搜，无法加载内容
+https://www.ithome.com/0/933/898.htm
+6. 【其他】 “我国人工智能最高奖”吴文俊奖揭晓，116 个项目及个人获奖
+https://www.ithome.com/0/933/897.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
