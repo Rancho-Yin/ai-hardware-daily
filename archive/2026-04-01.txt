@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-01（抓取 2026-03-31）
+
+🌍 全球
+1. 【其他】 Geekbench investigates up to 30% jump with Intel's iBOT — performance gain attributed to newly-vectorized instructions
+https://www.tomshardware.com/pc-components/cpus/geekbench-investigates-up-to-30-percent-jump-with-intels-ibot-performance-gain-attributed-to-newly-vectorized-instructions
+2. 【其他】 Tryx Stage 360 AIO Review: Luxurious, unique, and quiet
+https://www.tomshardware.com/pc-components/liquid-cooling/tryx-stage-360-aio-review
+3. 【芯片/算力】 The global helium storage is a direct threat to the chipmaking supply chain — disruption impacts critical processes, high-capacity HDDs, and alternative supplies are plagued by delays
+https://www.tomshardware.com/tech-industry/semiconductors/the-global-helium-shortage-is-a-direct-threat-to-chipmaking
+4. 【其他】 One of JavaScript's most popular libraries compromised by hackers — Axios npm package hit in supply chain attack that deployed a cross-platform RAT
+https://www.tomshardware.com/tech-industry/cyber-security/axios-npm-package-compromised-in-supply-chain-attack-that-deployed-a-cross-platform-rat
+5. 【终端/边缘】 US PC sales grow by 3% in late 2025 as companies and consumers scrambled to replace Windows 10 — 2026 forecast sees 13% drop as storage and memory prices expected to climb another 60%
+https://www.tomshardware.com/tech-industry/us-pc-sales-grow-by-3-percent-in-late-2025-as-companies-and-consumers-scrambled-to-replace-windows-10-2026-forecast-sees-13-percent-drop-as-storage-and-memory-prices-expected-to-climb-another-60-percent
+6. 【终端/边缘】 This 32GB Corsair Pro Overclocking kit is the cheapest DDR5 RAM you'll find on sale right now — $309.99 sale price is $60 cheaper than its next-best rival and makes this the perfect deal for enthusiast gaming PC builds
+https://www.tomshardware.com/pc-components/ddr5/this-32gb-corsair-pro-overclocking-kit-is-the-cheapest-ddr5-ram-youll-find-on-sale-right-now-usd309-99-sale-price-is-usd60-cheaper-than-its-next-best-rival-and-makes-this-the-perfect-deal-for-enthusiast-gaming-pc-builds
+
+🇨🇳 中国
+1. 【其他】 微软 Win11/10 已弃用 SaRA 命令行工具：为安全让路，推荐使用 Get Help
+https://www.ithome.com/0/934/692.htm
+2. 【其他】 荣耀 WIN 游戏本“猎人武器库”首曝，支持联动发光 LOGO 进行换色等操作
+https://www.ithome.com/0/934/691.htm
+3. 【其他】 瞄准数十亿视力矫正人群：Meta 推出两款雷朋智能眼镜新品，499 美元起
+https://www.ithome.com/0/934/690.htm
+4. 【其他】 飞利浦“32M2N8900X“31.5 英寸显示器开售：4K 240Hz QD-OLED、AR 3.0 镜面屏 + 双扬，6999 元
+https://www.ithome.com/0/934/689.htm
+5. 【其他】 《幻兽♡帕鲁》恋爱模拟游戏最新宣传片公布：支持中文，发售日未定
+https://www.ithome.com/0/934/688.htm
+6. 【其他】 小米汽车回应“碳纤维方向盘是否会影响辅助驾驶脱手检测”，称可能存在误报打扰的情况
+https://www.ithome.com/0/934/687.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
