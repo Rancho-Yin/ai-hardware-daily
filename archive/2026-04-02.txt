@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-02（抓取 2026-04-01）
+
+🌍 全球
+1. 【芯片/算力】 Nvidia market share in China falls to less than 60% — Chinese chip makers deliver 1.65 million AI GPUs as the government pushes data centers to use domestic chips
+https://www.tomshardware.com/tech-industry/nvidia-market-share-in-china-falls-to-less-than-60-percent-chinese-chip-makers-deliver-1-65-million-ai-gpus-as-the-government-pushes-data-centers-to-use-domestic-chips
+2. 【其他】 Save $100 on the gaming powerhouse AMD Ryzen 5 7600X3D, now $246 on Amazon — budget-friendly X3D processor with 96MB cache, low power draw, and excellent gaming performance
+https://www.tomshardware.com/pc-components/save-usd100-on-the-gaming-powerhouse-amd-ryzen-5-7600x3d-now-usd246-on-amazon-budget-friendly-x3d-processor-with-96mb-cache-low-power-draw-and-excellent-gaming-performance
+3. 【其他】 Nvidia App adds 'Auto Shader Compilation' for faster load times in games — beta feature automatically recompiles shaders in the background after every driver update
+https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-app-adds-auto-shader-compilation-for-faster-load-times-in-games-beta-feature-automatically-recompiles-shaders-in-the-background-after-every-driver-update
+4. 【数据中心】 DRAM prices predicted to jump 63% in Q2, NAND up to 75% — follows 95% jumps in Q1, Trendforce says AI server demand keeps supply tight
+https://www.tomshardware.com/pc-components/dram/dram-and-nand-contract-prices-to-climb-again-in-q2
+5. 【其他】 Arm to sell its new AGI CPU in China — 'we would expect the demand for this product to be just as strong in China as it is in the rest of the world'
+https://www.tomshardware.com/pc-components/cpus/arm-to-sell-its-new-agi-cpu-in-china-we-would-expect-the-demand-for-this-product-to-be-just-as-strong-in-china-as-it-is-in-the-rest-of-the-world
+6. 【芯片/算力】 PC makers report surging prices across different components — increasing costs are going beyond memory chip and processors, now affecting PCBs, plastic materials, and more
+https://www.tomshardware.com/tech-industry/pc-makers-report-surging-prices-across-different-components-increasing-costs-are-going-beyond-memory-chip-and-processors-now-affecting-pcbs-plastic-materials-and-more
+
+🇨🇳 中国
+1. 【芯片/算力】 华硕推出全球首款 USB AI 加速器 UGen300：自带 8GB 内存，40 TOPS 算力即插即用
+https://www.ithome.com/0/935/125.htm
+2. 【其他】 尼安德特人在灭绝边缘生存了 35 万年
+https://www.solidot.org/story?sid=83935
+3. 【其他】 华为乾崑 | 启境 GT7 智能猎装车「茶卡银」实车官图发布，6 月上市发布
+https://www.ithome.com/0/935/120.htm
+4. 【其他】 隐藏功能提前解锁：罗技 MX Master 4 率先支持微软 Win11 原生触控反馈
+https://www.ithome.com/0/935/119.htm
+5. 【其他】 上海人工智能实验室联合商汤大装置等共建AI全链路验证平台与生态社区
+https://www.leiphone.com/category/ai/g9uztc7y94L82Eaw.html
+6. 【其他】 骷髅王登场：索尼科幻 / 奇幻动作电影《宇宙巨人：希曼崛起》正式预告发布，6 月 5 日北美上映
+https://www.ithome.com/0/935/117.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
