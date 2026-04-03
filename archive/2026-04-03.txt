@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-03（抓取 2026-04-02）
+
+🌍 全球
+1. 【其他】 Denuvo has been broken, company promises countermeasures against new DRM bypasses — zero-day game releases become norm as security concerns mount over hypervisor-based bypass
+https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-broken-company-promises-countermeasures-against-new-drm-bypasses-zero-day-game-releases-become-norm-as-security-concerns-mount-over-hypervisor-based-bypass
+2. 【芯片/算力】 China's homegrown silicon suppliers gain traction as Nvidia struggles to get its chips into the market — Huawei, Cambricon and more step up to fill crucial market gap
+https://www.tomshardware.com/tech-industry/chinas-homegrown-silicon-suppliers-gain-traction-as-nvidia-struggles-to-get-its-chips-into-the-market-huawei-cambricon-and-more-step-up-to-fill-crucial-market-gap
+3. 【其他】 IBM spruces up its mainframes with new support for modern Arm workloads — firm teams up with Arm to run Arm workloads on IBM Z mainframes
+https://www.tomshardware.com/desktops/servers/ibm-spruces-up-its-mainframes-with-new-support-for-modern-arm-workloads-firm-teams-up-with-arm-to-run-arm-workloads-on-ibm-z-mainframes
+4. 【其他】 Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps — one giant step beyond the S-band radio comms of the Apollo era
+https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era
+5. 【其他】 Ubuntu Linux raises minimum system memory requirements by 50% — requirements bumped to 6GB of RAM, previously raised from 1GB to 4GB in 2018
+https://www.tomshardware.com/software/operating-systems/ubunto-linux-raises-minimum-system-requirements-to-6gb-of-ram-it-was-previously-raised-from-1gb-to-4gb-in-2018
+6. 【终端/边缘】 1Hz laptop display reportedly helps deliver outstanding 43-hour battery life on the XPS 14 during web browser use — beats the M5 MacBook Air by more than 28 hours in the same test
+https://www.tomshardware.com/laptops/1hz-laptop-display-reportedly-helps-deliver-outstanding-43-hour-battery-life-on-the-xps-14-during-web-browser-use-beats-the-m5-macbook-air-by-more-than-28-hours-in-the-same-test
+
+🇨🇳 中国
+1. 【其他】 一次停滞观全局：自动驾驶安全冗余与产业发展定力
+https://www.leiphone.com/category/transportation/gAgvYoBEPZR6LBjm.html
+2. 【其他】 雷军总结新一代 SU7 拆车直播：全程 3 个半小时，把新一代 SU7 从整车拆到零部件级
+https://www.ithome.com/0/935/527.htm
+3. 【其他】 《幻兽帕鲁》法律纠纷再生变数，美国专利商标局驳回任天堂“召唤角色战斗”专利
+https://www.ithome.com/0/935/526.htm
+4. 【机器人】 Epic 喜加二：《克隆机器人大乱斗》《TOMAK：拯救地球 重生》免费领
+https://www.ithome.com/0/935/525.htm
+5. 【其他】 腾讯云 ClawPro 发布，宣称企业版龙虾最快 10 分钟上线
+https://www.ithome.com/0/935/523.htm
+6. 【其他】 消息称索尼 Alpha 7R VI 全画幅无反相机预计 5 月上市，搭载 6700 万像素 Exmor RS 堆栈式 CMOS
+https://www.ithome.com/0/935/522.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
