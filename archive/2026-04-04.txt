@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-04（抓取 2026-04-03）
+
+🌍 全球
+1. 【其他】 Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China — the AI build-out flips the breakers
+https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers
+2. 【芯片/算力】 Researchers build Wi-Fi chip that can operate inside a nuclear reactor — receiver uses special materials and design to withstand high doses of radiation for at least six months
+https://www.tomshardware.com/networking/routers/researchers-build-wi-fi-chip-that-can-operate-inside-a-nuclear-reactor-receiver-uses-special-materials-and-design-to-withstand-high-doses-of-radiation-for-at-least-six-months
+3. 【其他】 Save $240 on Intel's Core Ultra 7 270K Plus with 32GB of DDR5-6000 and Z890 motherboard — get Intel's newest, fastest gaming CPU in a bundle that's 23% off
+https://www.tomshardware.com/pc-components/save-usd240-on-intels-core-ultra-7-270k-plus-with-32gb-of-ddr5-6000-and-z890-motherboard-get-intels-newest-fastest-gaming-cpu-in-a-bundle-thats-23-percent-off
+4. 【终端/边缘】 I saved a doomed Windows laptop by embracing Linux
+https://www.theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad
+5. 【芯片/算力】 America’s AI chip rules keep changing — and the rest of the world is paying the price
+https://www.tomshardware.com/tech-industry/americas-ai-chip-rules-keep-changing-and-the-rest-of-the-world-is-paying-the-price
+6. 【其他】 Waiting for Trump Phone
+https://www.theverge.com/tech/905599/where-is-the-trump-phone-t1-april
+
+🇨🇳 中国
+1. 【其他】 微软更新服务条款声明 Copilot 仅供娱乐
+https://www.solidot.org/story?sid=83959
+2. 【终端/边缘】 联想摩托罗拉 moto razr fold 大折叠屏手机上架，5 月 31 日开启预约
+https://www.ithome.com/0/935/905.htm
+3. 【其他】 全汉 MEGA GM 850W 金牌全模组电源开启预约：可选 850/1000/1200W，首发 899 元起
+https://www.ithome.com/0/935/904.htm
+4. 【其他】 摩根大通：台积电 Q1 毛利率或超预期爬升，3nm 产能持续紧张、AI 需求上行成主因
+https://www.ithome.com/0/935/903.htm
+5. 【芯片/算力】 OPPO A6c 手机国际版曝光：6.75 英寸 120Hz 水滴屏，紫光展锐 T615 芯片
+https://www.ithome.com/0/935/901.htm
+6. 【其他】 AOC“AGP277QK”27 英寸显示器发售：2K 540Hz/720P 1000Hz 双模，5499 元
+https://www.ithome.com/0/935/899.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
