@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-05（抓取 2026-04-04）
+
+🌍 全球
+1. 【芯片/算力】 Nvidia AI tech claims to slash gaming GPU memory usage by 85% with zero quality loss — Neural Texture Compression demo reveals stunning visual parity between 6.5GB of VRAM and 970MB
+https://www.tomshardware.com/pc-components/gpus/nvidia-ai-tech-claims-to-slash-vram-usage-by-85-percent-with-zero-quality-loss-neural-texture-compression-demo-reveals-stunning-visual-parity-between-6-5gb-of-memory-and-970mb
+2. 【其他】 Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones
+https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones
+3. 【数据中心】 Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub
+https://www.tomshardware.com/pc-components/external-ssds/sharge-disk-pro-2tb-review
+4. 【其他】 My dream pair of AR gaming glasses needs to have these nine features
+https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2
+5. 【其他】 Really, you made this without AI? Prove it
+https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content
+6. 【其他】 Modder uses Claude AI to rewrite BIOS so they can boot unsupported 12 P-core Bartlett Lake CPU in Windows on a Z790 motherboard
+https://www.tomshardware.com/pc-components/cpus/modder-uses-claude-ai-to-rewrite-bios-so-they-can-boot-unsupported-12-p-core-bartlett-lake-cpu-in-windows-on-a-z790-motherboard
+
+🇨🇳 中国
+1. 【其他】 一元硬币上集成 218 个“嗅探器”：我国研制出微型臭氧监测传感器，实现 ppb 级臭氧精准检测
+https://www.ithome.com/0/936/062.htm
+2. 【其他】 《阿凡达：火与烬》数字版发售：19.99 美元，4K 铁盒版 5 月 19 日发售
+https://www.ithome.com/0/936/061.htm
+3. 【其他】 一汽奥迪 A6L e-tron 车型 4 月 10 日正式上市：搭载华为乾崑智驾，预售 31.3 万元起
+https://www.ithome.com/0/936/059.htm
+4. 【其他】 何小鹏：中国汽车行业已进入转折最关键阶段，规模只是第一个门槛
+https://www.ithome.com/0/936/058.htm
+5. 【数据中心】 美国近半数计划中的数据中心项目推迟或取消
+https://www.solidot.org/story?sid=83962
+6. 【其他】 千里科技 2025 年营收 99.99 亿元同比增长 42%，AI 转型与汽车业务双轮驱动
+https://www.ithome.com/0/936/055.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
