@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-06（抓取 2026-04-05）
+
+🌍 全球
+1. 【其他】 Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi — regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center
+https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center
+2. 【其他】 Researchers train living rat neurons to perform real-time AI computations — experiments could pave the way for new brain-machine interfaces
+https://www.tomshardware.com/tech-industry/researchers-train-living-rat-neurons-to-perform-real-time-ml-computations
+3. 【其他】 I let Gemini in Google Maps plan my day and it went surprisingly well
+https://www.theverge.com/tech/907015/gemini-google-maps-hands-on
+4. 【其他】 Limited edition Atari wristwatches dip under $500 in 20% off sale — classic console inspired rainbow designs available in five colorways
+https://www.tomshardware.com/video-games/retro-gaming/limited-edition-atari-wristwatches-dip-under-usd500-in-20-percent-off-sale-classic-console-inspired-rainbow-designs-available-in-five-colorways
+5. 【终端/边缘】 Intel's upcoming Wildcat Lake low-budget CPUs leak out again — OEM confirms specs for Core 7 350, Core 5 320, & Core 3 305 in first retail product datasheet
+https://www.tomshardware.com/pc-components/cpus/intels-upcoming-wildcat-lake-low-budget-cpus-leak-out-again-oem-confirms-specs-for-core-7-350-core-5-320-and-core-3-305-in-first-retail-product-datasheet
+6. 【其他】 Grammarly’s sloppelganger saga
+https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga
+
+🇨🇳 中国
+1. 【终端/边缘】 比官方预告时间更早：消息称“超级小爱”PC 客户端正推送给小米笔记本 Pro 14
+https://www.ithome.com/0/936/179.htm
+2. 【其他】 终身配件 1 折起：追觅 T60 除臭泡沫洗地机 2499 → 1828 元政府补贴
+https://www.ithome.com/0/936/178.htm
+3. 【其他】 鸿蒙智行 3 月车主用车报告发布，辅助驾驶活跃用户占比超 95%
+https://www.ithome.com/0/936/177.htm
+4. 【其他】 经典塔防游戏《植物大战僵尸 HD》iOS 版公告将从数字商店下架，今年 6 月 24 日关闭在线服务
+https://www.ithome.com/0/936/175.htm
+5. 【其他】 微星泰坦 18 Ultra 2026 (Titan 18 HX) 游戏本上市，标配 47999 元
+https://www.ithome.com/0/936/173.htm
+6. 【其他】 旗舰配置 25000Pa 吸力 + 95℃ 自清洁：石头 A30 CE 洗地机 1278 元免费用 15 天
+https://www.ithome.com/0/936/172.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
