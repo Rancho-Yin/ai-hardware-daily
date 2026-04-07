@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-07（抓取 2026-04-06）
+
+🌍 全球
+1. 【其他】 Iran threatens OpenAI’s Stargate data center in Abu Dhabi
+https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat
+2. 【其他】 The Artemis II astronauts will set a new distance record from Earth today
+https://www.theverge.com/science/907364/nasa-artemis-ii-astronauts-moon-orion-distance-record
+3. 【数据中心】 MSI MAG A1200PLS PCIE5 1200W power supply review: A competent 1200W unit, but pricey
+https://www.tomshardware.com/pc-components/power-supplies/msi-mag-a1200pls-pcie5-1200w-power-supply-review
+4. 【其他】 Grab the Ryzen 7 9800X3D, 32GB of RAM, and MSI X870E bundle and get free 240mm AIO and game — $350 total savings on combo bundle
+https://www.tomshardware.com/pc-components/grab-the-ryzen-7-9800x3d-32gb-of-ram-and-msi-x870e-bundle-and-get-free-240mm-aio-and-game-usd350-total-savings-on-combo-bundle
+5. 【其他】 80 different Microsoft Copilot products have been mapped out by expert, but there may be more than 100 — 'What happens when you name everything Copilot,' an AI consultant mapped out the myriad products
+https://www.tomshardware.com/software/microsoft-office/at-least-80-different-microsoft-copilot-products-have-been-mapped-out-by-expert-but-there-may-be-more-than-100-microsoft-doesnt-have-a-singular-list-available-so-ai-consultant-mapped-out-the-myriad-products
+6. 【其他】 Linux devs start removing support for 37-year-old Intel 486 CPU — head honcho Linus Torvalds says 'zero real reason' to continue support
+https://www.tomshardware.com/software/linux/linux-devs-start-removing-support-for-37-year-old-intel-486-cpu-head-honcho-linus-torvalds-says-zero-real-reason-to-continue-support
+
+🇨🇳 中国
+1. 【其他】 追觅推出 DL01 护眼台灯：上下立体光源、配微波雷达，599 元
+https://www.ithome.com/0/936/308.htm
+2. 【其他】 创维“G27 SE”27 英寸显示器发售：1080P 144Hz，549 元
+https://www.ithome.com/0/936/305.htm
+3. 【其他】 环球影业：《超级马力欧银河大电影》全球首周末票房 25.63 亿人民币，登顶当周北美及全球票房第一
+https://www.ithome.com/0/936/301.htm
+4. 【其他】 何刚公布华为折叠屏限时购机权益，含 2 年 4 次免费贴膜、1 年 HUAWEI Care+ 等
+https://www.ithome.com/0/936/300.htm
+5. 【其他】 Meta 为雷朋 Display 智能眼镜推出第二个重大更新：新增营养追踪、聊天消息摘要、屏幕录制功能...
+https://www.ithome.com/0/936/299.htm
+6. 【终端/边缘】 OPPO A6k 手机上市：天玑 6300 + LCD 直屏 + 7000mAh 电池，定价 1999 元起
+https://www.ithome.com/0/936/298.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
