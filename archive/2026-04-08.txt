@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-08（抓取 2026-04-07）
+
+🌍 全球
+1. 【其他】 Intel joins Elon Musk's TeraFab project — 'Intel is proud to join the Terafab project with SpaceX, xAI, and Tesla to help refactor silicon fab technology'
+https://www.tomshardware.com/tech-industry/semiconductors/intel-joins-elon-musks-terafab-project-intel-is-proud-to-join-the-terafab-project-with-spacex-xai-and-tesla-to-help-refactor-silicon-fab-technology
+2. 【其他】 GitHub user creates open-source Nvidia GeForce Now client alternative — removes tracking, telemetry, and AFK limitations
+https://www.tomshardware.com/video-games/cloud-gaming/github-user-creates-open-source-nvidia-geforce-now-client-alternative-removes-tracking-telemetry-and-afk-limitations
+3. 【芯片/算力】 Asus Zenbook A16 review: Snapdragon X2 Elite Extreme is a strong chip in a so-so package
+https://www.tomshardware.com/laptops/ultrabooks-ultraportables/asus-zenbook-a16-snapdragon-x2-elite-review
+4. 【终端/边缘】 Snag this 1440p iBuyPower gaming PC with a 7800X3D and RTX 5070 for just $2,049 right now — 32GB of fast DDR5 RAM and a 2TB SSD round off powerhouse specs, with an extra $200 off this custom-built AMD rig
+https://www.tomshardware.com/desktops/gaming-pcs/snag-this-1440p-ibuypower-gaming-pc-with-a-7800x3d-and-rtx-5070-for-just-usd2-049-right-now-32gb-of-fast-ddr5-ram-and-a-2tb-ssd-round-off-powerhouse-specs-with-an-extra-usd200-off-this-custom-built-amd-rig
+5. 【其他】 Save up to $150 on Apple's brand-new M5-powered MacBook Air 13, now from just $949 — all models receive the biggest discount to date
+https://www.tomshardware.com/laptops/macbooks/save-up-to-usd150-on-apples-brand-new-m5-powered-macbook-air-13-now-from-just-usd949-all-models-receive-the-biggest-discount-to-date
+6. 【其他】 Intel reportedly in talks with Google and Amazon over advanced packaging — major customers could take advantage of EMIB-T later this year
+https://www.tomshardware.com/tech-industry/semiconductors/intel-reportedly-in-talks-with-google-and-amazon-over-advanced-packaging
+
+🇨🇳 中国
+1. 【其他】 Netflix 真人剧《海贼王》第三季官宣明年回归，阿拉巴斯坦之战即将开启
+https://www.ithome.com/0/936/754.htm
+2. 【其他】 流行 NPM 软件包维护者成为 AI 深度伪造攻击目标
+https://www.solidot.org/story?sid=83979
+3. 【芯片/算力】 打破国外垄断！首款国产车规级 MCU 芯片 DF30 稳步推进量产上车
+https://www.ithome.com/0/936/752.htm
+4. 【其他】 曝《宝可梦：冠军》手游版 6 月上线，采用免费游玩、道具内购模式
+https://www.ithome.com/0/936/751.htm
+5. 【其他】 创维“G27Q”27 英寸显示器发售：2K 250Hz，969 元
+https://www.ithome.com/0/936/749.htm
+6. 【其他】 消息称苹果 MacBook Neo 热销致 A18 Pro 库存告急，面临成本与产能双重压力
+https://www.ithome.com/0/936/748.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
