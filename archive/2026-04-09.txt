@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-09（抓取 2026-04-08）
+
+🌍 全球
+1. 【芯片/算力】 Bain Capital's data center unit removes disgraced tenant suspected of smuggling Nvidia GPUs to China — Megaspeed previously alleged to have spent roughly $2 billion on AI processors for illicit distribution
+https://www.tomshardware.com/tech-industry/artificial-intelligence/bain-capitals-data-center-unit-removes-disgraced-tenant-suspected-of-smuggling-nvidia-gpus-to-china-megaspeed-previously-alleged-to-have-spent-roughly-usd2-billion-on-ai-processors-for-illicit-distribution
+2. 【其他】 British cryptographer Adam Back is the secret creator of Bitcoin, claims new report — Back refutes investigation, says parallels to Satoshi are just a coincidence
+https://www.tomshardware.com/tech-industry/cryptocurrency/british-cryptographer-adam-back-is-the-secret-creator-of-bitcoin-claims-new-report-back-refutes-investigation-says-parallels-to-satoshi-are-just-a-coincidence
+3. 【其他】 The vibes are off at OpenAI
+https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai
+4. 【其他】 Tech industry lays off nearly 80,000 employees in the first quarter of 2026 — almost 50% of affected positions cut due to AI
+https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai
+5. 【芯片/算力】 Taiwanese chip makers call on government to stockpile helium, liquid natural gas — TSIA pleads for strategic supplies as US and Iran sign ceasefire in Middle East
+https://www.tomshardware.com/tech-industry/taiwanese-chip-makers-call-on-government-to-stockpile-helium-lng-tsia-pleads-for-strategic-supplies-as-us-and-iran-sign-ceasefire-in-middle-east
+6. 【芯片/算力】 Grab an entire RTX 5090 gaming PC for just $8 more than the GPU itself and score a whopping $1,600 off — huge HP discount requires a $39 controller or monitor to secure you a 4K powerhouse with a 9800X3D, 32GB DDR5, and a 1TB SSD
+https://www.tomshardware.com/desktops/gaming-pcs/grab-an-entire-rtx-5090-gaming-pc-for-just-usd8-more-than-the-gpu-itself-and-score-a-whopping-usd1-600-off-huge-hp-discount-requires-a-usd39-controller-or-monitor-to-secure-you-a-4k-powerhouse-with-a-9800x3d-32gb-ddr5-and-a-1tb-ssd
+
+🇨🇳 中国
+1. 【其他】 古尔曼：苹果推进三年计划，由里到外“重新定义”iPhone
+https://www.ithome.com/0/937/201.htm
+2. 【其他】 华为鸿蒙电脑 HarmonyOS 6.0.0.328 花粉 Beta 版小艺升级点公布，新增投喂感应区、AI 音频播客等
+https://www.ithome.com/0/937/200.htm
+3. 【其他】 初创公司 Trettitre 推出模块化黑胶 / CD / 磁带播放器：支持 aptX HD 编解码器、内置 Magsafe 无线充
+https://www.ithome.com/0/937/193.htm
+4. 【其他】 东风日产首款增程 SUV 车型 NX8 上市 30 分钟累计订单 8423 台
+https://www.ithome.com/0/937/192.htm
+5. 【其他】 OpenAI 提议四天工作制应对 AI 对社会的冲击
+https://www.solidot.org/story?sid=83989
+6. 【其他】 联想 ThinkPad X13 Gen 7 笔记本发布：锐龙 AI Pro 400 / 酷睿 Ultra 300 系列处理器，936g 重
+https://www.ithome.com/0/937/191.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
