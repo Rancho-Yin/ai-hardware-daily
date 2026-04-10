@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-10（抓取 2026-04-09）
+
+🌍 全球
+1. 【芯片/算力】 Intel's EMIB-T packaging technology set for fab rollout this year — as TSMC CoWoS capacity remains limited,EMIB-T is preparing for advanced AI accelerator designs
+https://www.tomshardware.com/tech-industry/semiconductors/intels-emib-t-heads-for-fab-rollout-this-year
+2. 【其他】 UK navy tracked three Russian submarines near undersea cables, damage would 'have serious consequences,' Putin warned — US and allies expand seabed protection efforts
+https://www.tomshardware.com/tech-industry/uk-navy-tracked-russian-submarines-near-undersea-cables
+3. 【终端/边缘】 Build a $5,000 AM5 gaming PC for just $2,771 with this Newegg combo deal — 9800X3D and RTX 5070 also come with 128GB of DDR5 RAM, 4TB SSD, X870E motherboard, and AIO cooler
+https://www.tomshardware.com/desktops/gaming-pcs/build-a-usd5-000-am5-gaming-pc-for-just-usd2-771-with-this-newegg-combo-deal-9800x3d-and-rtx-5070-also-come-with-128gb-of-ddr5-ram-4tb-ssd-x870e-motherboard-and-aio-cooler
+4. 【其他】 Intel developing two-lever retention mechanism for LGA 1954 socket, according to new leak — Premium Nova Lake-S motherboards will feature 2L-ILM sockets
+https://www.tomshardware.com/pc-components/cpus/intel-developing-two-lever-retention-mechanism-for-lga-1954-socket-according-to-new-leak-premium-nova-lake-s-motherboards-will-feature-2l-ilm-sockets
+5. 【其他】 Go maintainer joins collective klaxon about encryption-breaking quantum computers — developer urges immediate switch to post-quantum methods to prevent worldwide disaster
+https://www.tomshardware.com/tech-industry/cyber-security/go-maintainer-joins-collective-klaxon-about-encryption-breaking-quantum-computers-developer-urges-immediate-switch-to-post-quantum-methods-to-prevent-worldwide-disaster
+6. 【其他】 Steam files suggest Valve is developing internal'SteamGPT' AI bot — aimed at tackling customer support tickets and CS2 anti-cheat
+https://www.tomshardware.com/tech-industry/artificial-intelligence/steam-files-suggest-valve-is-developing-internal-steamgpt-ai-bot-aimed-at-tackling-customer-support-tickets-and-cs2-anti-cheat
+
+🇨🇳 中国
+1. 【其他】 张雪机车申报三款新摩托，仿赛与复古街车亮相
+https://www.ithome.com/0/937/585.htm
+2. 【终端/边缘】 Omdia：Q1 全球 PC 出货量同比增长 3.2%，内存 SSD 涨价挤压全年利润
+https://www.ithome.com/0/937/584.htm
+3. 【其他】 5 天暴涨 30%，英特尔市值突破 3000 亿美元创 5 年新高
+https://www.ithome.com/0/937/581.htm
+4. 【其他】 奥海推出 170W 带屏移动电源：2C+1A，支持 PPS 100W/UFCS 63W 输出，25200mAh 售 299 元
+https://www.ithome.com/0/937/579.htm
+5. 【其他】 荣耀朱臣才透露新 Magic 视界整个系统稳定到一定程度会逐步推送，24 年以后产品基本可以升级
+https://www.ithome.com/0/937/578.htm
+6. 【其他】 理想 L 系列未来产品矩阵公布：分旗舰和高端 SUV 双线，全新 L8 三季度开启交付
+https://www.ithome.com/0/937/577.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
