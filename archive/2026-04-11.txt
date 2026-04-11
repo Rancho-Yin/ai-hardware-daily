@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-11（抓取 2026-04-10）
+
+🌍 全球
+1. 【其他】 Congress can finally close a mass surveillance loophole — but will they?
+https://www.theverge.com/policy/909229/fisa-702-reauthorization-davidson-wyden-warrant-reforms
+2. 【其他】 Framework founder says that ‘personal computing as we know it is dead’ — vows to keep building ‘computers that you can own at the deepest level’
+https://www.tomshardware.com/tech-industry/big-tech/framework-founder-says-that-personal-computing-as-we-know-it-is-dead-vows-to-keep-building-computers-that-you-can-own-at-the-deepest-level
+3. 【其他】 Anthropic's Claude Mythos isn't a sentient super-hacker, it's a sales pitch — claims of 'thousands' of severe zero-days rely on just 198 manual reviews
+https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-mythos-isnt-a-sentient-super-hacker-its-a-sales-pitch-claims-of-thousands-of-severe-zero-days-rely-on-just-198-manual-reviews
+4. 【其他】 Score the AMD Ryzen 7 9800X3D with 32GB of fast DDR5 RAM and an Asus X870E gaming motherboard for under $990 in this epic Newegg bundle — $200 saving brings the RAM cost down to just $196, with an AIO cooler and game thrown in for free
+https://www.tomshardware.com/pc-components/score-the-amd-ryzen-7-9800x3d-with-32gb-of-fast-ddr5-ram-and-an-asus-x870e-gaming-motherboard-for-under-usd990-in-this-epic-newegg-bundle-usd200-saving-brings-the-ram-cost-down-to-just-usd196-with-an-aio-cooler-and-game-thrown-in-for-free
+5. 【其他】 Get 32GB of Corsair DDR5 RAM for $101 - Newegg combo bundle also contains MSI's flagship X870E Godlike motherboard and AMD Ryzen 9800X3D for only $1,624.98
+https://www.tomshardware.com/pc-components/get-32gb-of-corsair-ddr5-ram-for-usd101-newegg-combo-bundle-also-contains-msis-flagship-x870e-godlike-motherboard-and-amd-ryzen-9800x3d-for-only-usd1-624-98
+6. 【其他】 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future
+https://www.tomshardware.com/pc-components/storage/30-years-of-lexar-what-a-look-inside-its-r-and-d-labs-and-factory-reveals-about-its-plans-for-an-ai-ready-future
+
+🇨🇳 中国
+1. 【其他】 FBI 利用 iPhone 通知数据恢复已删除 Signal 消息
+https://www.solidot.org/story?sid=84015
+2. 【其他】 有望让 Cookie 攻击走向历史，谷歌 Chrome 浏览器 Windows 版 146 更新引入 DBSC 功能
+https://www.ithome.com/0/938/016.htm
+3. 【其他】 海上平板车：海军最新型半潜船亮相，首次进行夜间装载潜浮训练
+https://www.ithome.com/0/938/015.htm
+4. 【其他】 消息称欧盟委员会计划将 ChatGPT 列为“超大型搜索引擎”，OpenAI 或面临更严格监管
+https://www.ithome.com/0/938/014.htm
+5. 【其他】 央视起底 AI 造谣乱象：制作门槛低、辟谣压力大，“AI 标注”并非免责牌
+https://www.ithome.com/0/938/013.htm
+6. 【芯片/算力】 三星 Galaxy A57 5G 手机国行发售：Exynos 1680 芯片、5000mAh 电池，3299 元起
+https://www.ithome.com/0/938/012.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
