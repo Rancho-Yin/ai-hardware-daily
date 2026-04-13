@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-13（抓取 2026-04-12）
+
+🌍 全球
+1. 【芯片/算力】 Lenovo hikes Legion Go 2 handheld gaming PC to almost $3,000 for 2 TB model — Handheld now costs more than AMD's Strix Halo devices despite relatively weaker Z2 Extreme chip
+https://www.tomshardware.com/video-games/handheld-gaming/lenovo-hikes-legion-go-2-handheld-gaming-pc-to-almost-usd3-000-for-2-tb-model-handheld-now-costs-more-than-amds-strix-halo-devices-despite-relatively-weaker-z2-extreme-chip
+2. 【其他】 Iran's forced nationwide internet blackout becomes second-longest on record as it passes 1,000 hours offline — possessing Starlink terminals punishable by death, country using 'military-grade jamming' against service
+https://www.tomshardware.com/tech-industry/iran-passes-1000-hours-offline
+3. 【终端/边缘】 Tiny 3-inch cube PCs bring a splash of color to the passive PC market with red, orange, green and blue options — Intel Twin Lake-powered Kubb Mini PCs start at $500
+https://www.tomshardware.com/desktops/mini-pcs/tiny-3-inch-cube-pcs-bring-a-splash-of-color-to-the-passive-pc-market-with-red-orange-green-and-blue-options-intel-twin-lake-powered-kubb-mini-pcs-start-at-usd500
+4. 【其他】 Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes — after months of fierce debate, Torvalds and maintainers come to an agreement
+https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement
+5. 【其他】 The Hisense UR9 is a great first shot against OLED’s bow
+https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review
+6. 【其他】 The AI code wars are heating up
+https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic
+
+🇨🇳 中国
+1. 【其他】 广汽科技日发布五大核心技术：星源插混让 2 吨大车油耗降至 3 升，昊铂 GT 攀登版 5 月上市
+https://www.ithome.com/0/938/364.htm
+2. 【其他】 黯然退场：苹果前 AI 负责人 Giannandrea 预计将于 4 月 15 日后离任
+https://www.ithome.com/0/938/363.htm
+3. 【其他】 Linux 对 AI 生成代码制定规则：允许使用 Copilot 等辅助工具，人类承担失误责任
+https://www.ithome.com/0/938/362.htm
+4. 【芯片/算力】 摩尔线程完成 MiniMax M2.7 大模型 Day-0 适配，支持 MTT S5000 训推一体全功能 GPU
+https://www.ithome.com/0/938/361.htm
+5. 【其他】 苹果 AI 智能眼镜细节曝光：多款框型配色、竖向椭圆形摄像头，有望 2027 年上市
+https://www.ithome.com/0/938/360.htm
+6. 【其他】 新石器 CEO 余恩源：无人车不会替代快递员，人类承担更具价值的服务
+https://www.ithome.com/0/938/355.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
