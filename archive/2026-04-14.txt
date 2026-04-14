@@ -1,0 +1,30 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-14（抓取 2026-04-13）
+
+🌍 全球
+1. 【芯片/算力】 Approvals for Nvidia and AMD AI chip exports to China stall under government bottleneck — 20% staff turnover hobbles Bureau of Industry and Security
+https://www.tomshardware.com/tech-industry/us-export-control-agency-has-lost-nearly-a-fifth-of-its-licensing-staff
+2. 【芯片/算力】 'CopprLink' destroys every eGPU standard in new test, achieves near-native-level performance with an RTX 5090 — setup requires $2,300 worth of additional hardware
+https://www.tomshardware.com/pc-components/gpus/copprlink-destroys-every-egpu-standard-in-new-test-achieves-near-native-level-performance-with-an-rtx-5090-setup-requires-usd2-300-worth-of-additional-hardware
+3. 【其他】 Why we spent 50+ hours retesting Intel’s Core Ultra 270K Plus and 250K Plus
+https://www.tomshardware.com/pc-components/cpus/why-we-spent-50-hours-retesting-intels-core-ultra-270k-plus-and-250k-plus
+4. 【终端/边缘】 Grab MSI’s RTX 5080 gaming laptop for just over $2,000 — offers fast 240 Hz QHD+ display, dual storage slots, and expandable DDR5 memory
+https://www.tomshardware.com/pc-components/grab-msis-rtx-5080-gaming-laptop-for-just-over-usd2-000-offers-fast-240-hz-qhd-display-dual-storage-slots-and-expandable-ddr5-memory
+
+🇨🇳 中国
+1. 【其他】 雷神黑武士 · 猎刃 Pro 游戏台式电脑上市，i5-14400F + RTX 5060 版本国补价 7999 元
+https://www.ithome.com/0/938/745.htm
+2. 【其他】 计算机科学的黄金期可能已结束
+https://www.solidot.org/story?sid=84035
+3. 【其他】 鸿蒙智行官方首曝全新一代问界 M9 系列星际贯穿式“大”蓝灯实车点亮效果
+https://www.ithome.com/0/938/744.htm
+4. 【其他】 大众 CEO 承认现有电动车产品脱节：全新 ID 系列将拨乱反正，回归品牌传统风格
+https://www.ithome.com/0/938/742.htm
+5. 【其他】 开源监控平台 Grafana 曝提示词漏洞，黑客可诱导 AI 助手泄露企业敏感数据
+https://www.ithome.com/0/938/736.htm
+6. 【其他】 OPPO Pad 5 Pro 平板现身官网：三色齐发，至高 16GB+512GB 规格
+https://www.ithome.com/0/938/733.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
