@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-15（抓取 2026-04-14）
+
+🌍 全球
+1. 【芯片/算力】 Intel's promising upcoming Nova Lake-S lineup reportedly includes an iGPU-focused SKU with 12 Xe3P cores — new leak claims a midrange 16-core CPU with powerful integrated graphics is in the works
+https://www.tomshardware.com/pc-components/cpus/intels-promising-upcoming-nova-lake-s-lineup-reportedly-includes-an-igpu-focused-sku-with-12-xe3p-cores-new-leak-claims-a-midrange-16-core-cpu-with-powerful-integrated-graphics-is-in-the-works
+2. 【终端/边缘】 Nvidia quashes rumor it’s planning to purchase a major PC manufacturer — says that it’s ‘not engaged in discussions to acquire any PC maker’
+https://www.tomshardware.com/tech-industry/big-tech/nvidia-squashes-rumor-its-planning-to-purchase-a-major-pc-manufacturer-says-that-its-not-engaged-in-discussions-to-acquire-any-pc-maker
+3. 【芯片/算力】 China's premiere memory-maker YMTC plans two additional Wuhan fabs using homegrown chipmaking tools — Phase 3 crosses 50% domestic tooling threshold
+https://www.tomshardware.com/tech-industry/semiconductors/ymtc-planms-two-additional-wuhan-fabs
+4. 【其他】 News outlets are blocking Wayback Machine from archiving their pages — 23 outlets concerned AI companies might abuse fair use and use it to train their models
+https://www.tomshardware.com/tech-industry/big-tech/news-outlets-are-blocking-wayback-machine-from-archiving-their-pages-23-outlets-concerned-ai-companies-might-abuse-fair-use-and-use-it-to-train-their-models
+5. 【其他】 Mark Zuckerberg reportedly working on AI clone of himself — Meta insiders claim 3D photoreal animated Zuck will be able to engage with employees on his behalf
+https://www.tomshardware.com/tech-industry/artificial-intelligence/mark-zuckerberg-reportedly-working-on-ai-clone-of-himself-meta-insiders-claim-3d-photoreal-animated-zuck-will-be-able-to-engage-with-employees-on-his-behalf
+6. 【终端/边缘】 Score a massive $700 off this 4K-ready Lenovo gaming PC with an RTX 5070 Ti, now just $1,899 — epic Legion Tower 5i pre-built ships with a 20-core Intel CPU, 32GB DDR5 and a 2TB SSD
+https://www.tomshardware.com/desktops/gaming-pcs/score-a-massive-usd700-off-this-4k-ready-lenovo-gaming-pc-with-an-rtx-5070-ti-now-just-usd1-899-epic-legion-tower-5i-pre-built-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-2tb-ssd
+
+🇨🇳 中国
+1. 【其他】 《GTA5》“莱斯特”配音演员否认参演《GTA6》
+https://www.ithome.com/0/939/165.htm
+2. 【其他】 OpenSSL 4.0 释出
+https://www.solidot.org/story?sid=84044
+3. 【终端/边缘】 立讯精密 2026 年一季度净利同比预增 20%~22%，部分消费电子终端客户缩减产量
+https://www.ithome.com/0/939/162.htm
+4. 【其他】 让英伟达 RTX 5090 显卡支持苹果 macOS，Tiny Corp 发布开源驱动
+https://www.ithome.com/0/939/163.htm
+5. 【其他】 小米 REDMI Buds 8 无线耳机官方超前开箱，新增防丢查找功能
+https://www.ithome.com/0/939/161.htm
+6. 【终端/边缘】 《天国：拯救 2》推出 Windows on Arm 原生版本：支持 Steam 平台，Xbox PC 暂未更新
+https://www.ithome.com/0/939/160.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
