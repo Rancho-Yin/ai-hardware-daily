@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-16（抓取 2026-04-15）
+
+🌍 全球
+1. 【其他】 YMTC's third Wuhan fab clears Beijing's 50% local tooling threshold as two more are planned — move positions company toward 3D NAND production to capitalize on wafer bonding strengths
+https://www.tomshardware.com/tech-industry/semiconductors/ymtcs-third-wuhan-fab-clears-beijings-50-percent-domestic-tooling-threshold-as-two-more-are-planned
+2. 【其他】 Valve might be adding a 30-day price tracker to Steam — feature is already available in some EU countries to spoof out fake discounts
+https://www.tomshardware.com/video-games/pc-gaming/valve-might-be-adding-a-30-day-price-tracker-to-steam-feature-is-already-available-in-some-eu-countries-to-spoof-out-fake-discounts
+3. 【芯片/算力】 Memory cards and flash drives prices rocket 124%, some products peak at 261% jump — increases from 2025 driven by AI chip shortage across a range of formats and capacities
+https://www.tomshardware.com/pc-components/storage/memory-cards-and-flash-drives-prices-rocket-124-percent-some-products-peak-at-261-percent-jump-increases-from-2025-driven-by-ai-chip-shortage-across-a-range-of-formats-and-capacities
+4. 【其他】 Netgear secures conditional approval from the FCC following router ban — company can continue importing foreign-made routers through October 2027
+https://www.tomshardware.com/networking/routers/netgear-secures-conditional-approval-from-the-fcc-following-router-ban-company-can-continue-importing-foreign-made-routers-through-october-2027
+5. 【其他】 China tests deep-sea electro-hydrostatic actuator that can cut undersea cables at a depth of 3,500 meters — state hails successful trial and hints at deployment readiness
+https://www.tomshardware.com/tech-industry/china-tests-deep-sea-electro-hydrostatic-actuator-that-can-cut-undersea-cables-at-a-depth-of-3-500-meters-state-hails-successful-trial-and-hints-at-deployment-readiness
+6. 【其他】 Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB Review: RAM customization made easy
+https://www.tomshardware.com/pc-components/ram/corsair-vengeance-rgb-custom-lab-cherry-blossom-ddr5-6000-c36-2x16gb-review
+
+🇨🇳 中国
+1. 【其他】 事关 L2 级辅助驾驶：相关强制性国标进一步公开征求意见，华为引望、小米汽车、比亚迪、特斯拉等单位联合起草
+https://www.ithome.com/0/939/644.htm
+2. 【其他】 九号推出 M3 85/95c MAX 闪骑智能铅酸电摩：首发价 4799/6299 元
+https://www.ithome.com/0/939/643.htm
+3. 【机器人】 上下水版 3501 元：石头 P20 Ultra Plus 扫拖机器人年内好价限今日
+https://www.ithome.com/0/939/642.htm
+4. 【其他】 美国国会新法案要求操作系统验证用户年龄
+https://www.solidot.org/story?sid=84056
+5. 【其他】 Steam 新一周游戏销量榜公布：《红色沙漠》全球四连冠，《杀戮尖塔 2》稳居第二
+https://www.ithome.com/0/939/641.htm
+6. 【其他】 龙芯中科官宣深度适配统信 UOS 桌面操作系统 V25，完成 LoongArch 全平台适配与调优
+https://www.ithome.com/0/939/639.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
