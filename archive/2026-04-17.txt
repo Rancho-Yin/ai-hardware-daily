@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-17（抓取 2026-04-16）
+
+🌍 全球
+1. 【芯片/算力】 Pragmata PC performance tested: 18 GPUs take us to the Moon
+https://www.tomshardware.com/video-games/pc-gaming/pragmata-pc-performance-review
+2. 【芯片/算力】 Chinese fabs import record volumes of US chipmaking equipment via Singapore and Malaysia — homegrown tool makers booked record 2025 revenues as price competition squeezes margins
+https://www.tomshardware.com/tech-industry/chinese-chip-tool-makers-booked-record-2025-revenues
+3. 【其他】 US appeals court restarts $3 billion patent infringement lawsuit against Intel — VLSI case from 2017 returns after court sets aside 2024 decision
+https://www.tomshardware.com/pc-components/cpus/us-appeals-court-restarts-usd3-billion-patent-infringement-lawsuit-against-intel-vlsi-case-from-2017-returns-after-court-sets-aside-2024-decision
+4. 【终端/边缘】 Two US citizens get combined 16 years in prison for running North Korean laptop farms — fake remote IT work scheme netted DPRK $5 million in around three years
+https://www.tomshardware.com/tech-industry/two-us-citizens-get-combined-18-years-in-prison-for-running-north-korean-laptop-farms-fake-remote-it-work-scheme-netted-dprk-usd5-million-in-around-three-years
+5. 【终端/边缘】 Intel launches Wildcat Lake as Core Series 3 for value laptops and edge systems — six consumer SKUs built on 18A promise 'all-day' battery life
+https://www.tomshardware.com/tech-industry/intel-launches-wildcat-lake-as-core-series-3
+6. 【其他】 Legendary Qualcomm, Apple, and Nuvia alumni form new CPU startup — Nuvacore promises to 'rewrite the rules of silicon'
+https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon
+
+🇨🇳 中国
+1. 【其他】 高阶编程能力提升，Anthropic 发布 Claude Opus 4.7 模型
+https://www.ithome.com/0/940/099.htm
+2. 【其他】 新研究再次证实 AI 有害大脑
+https://www.solidot.org/story?sid=84069
+3. 【其他】 华为鸿蒙 HarmonyOS 6.0.0.328 SP58 新版本开推：新增五一限时水印、图库艺术化视图功能等
+https://www.ithome.com/0/940/096.htm
+4. 【其他】 明日 20:00 起限 28 小时：整个 4 月就看这波，京东淘宝超级 18 狂促，华为小米国补新低
+https://www.ithome.com/0/940/094.htm
+5. 【其他】 Mozilla 宣布开源可自托管 AI 客户端 Thunderbolt
+https://www.solidot.org/story?sid=84068
+6. 【其他】 航嘉推出灵动 F45 Neo 2C 充电头：45W 输出、支持 AVS 3.2/UFCS 协议，79 元
+https://www.ithome.com/0/940/088.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
