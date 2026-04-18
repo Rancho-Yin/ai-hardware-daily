@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-18（抓取 2026-04-17）
+
+🌍 全球
+1. 【其他】 Dairy Queen is putting an AI chatbot in its drive-thrus
+https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto
+2. 【其他】 Analytics group signals possible delays at 40% of AI data center construction sites — companies deny schedule holdups, but satellite imagery indicates otherwise
+https://www.tomshardware.com/tech-industry/artificial-intelligence/analytics-group-signals-possible-delays-at-40-percent-of-ai-data-center-construction-sites-companies-deny-schedule-holdups-but-satellite-imagery-indicates-otherwise
+3. 【其他】 Local political revolts threaten to derail US data center projects — mounting delays are already costing AI hyperscalers billions
+https://www.tomshardware.com/tech-industry/local-political-revolts-threaten-to-derail-us-data-center-projects-mounting-delays-are-already-costing-ai-hyperscalers-billions
+4. 【其他】 The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price
+https://www.theverge.com/gadgets/913857/apple-airpods-pro-3-blink-video-doorbell-deal-sale
+5. 【其他】 Intel hires tenured Samsung exec to lead Foundry Services — signals company focus on winning business from potential Foundry suitors
+https://www.tomshardware.com/tech-industry/semiconductors/intel-hires-tenured-samsung-exec-to-lead-foundry-services-signals-company-focus-on-winning-business-from-potential-foundry-suitors
+6. 【其他】 Elon Musk pushing forward with Terafab at 'light speed' — staff reaching out to various suppliers and are reportedly willing to pay a premium to gain priority
+https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-pushing-forward-with-terafab-at-ight-speed-staff-reaching-out-to-various-suppliers-and-are-reportedly-willing-to-pay-a-premium-to-gain-priority
+
+🇨🇳 中国
+1. 【其他】 全球1100万台出货，追觅打造最聪明的扫地机
+https://www.leiphone.com/category/robot/uEF74MDYXKAhzOAp.html
+2. 【其他】 Firefox 加入了对 Web Serial API 的支持
+https://www.solidot.org/story?sid=84075
+3. 【其他】 壹号本确认 OneXPlayer X2 Mini 掌机将全球发售：AMD “Strix Halo”平台，85Wh 电池
+https://www.ithome.com/0/940/608.htm
+4. 【其他】 消息称苹果今年推出 OLED 屏幕版 MacBook Pro、iPad mini，三星显示供应
+https://www.ithome.com/0/940/607.htm
+5. 【其他】 消息称适马 9 月发布 65mm 自动对焦镜头新品，光圈大于 F1.2
+https://www.ithome.com/0/940/605.htm
+6. 【其他】 消息称 DeepSeek 正寻求首轮外部融资，估值超百亿美元
+https://www.ithome.com/0/940/604.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
