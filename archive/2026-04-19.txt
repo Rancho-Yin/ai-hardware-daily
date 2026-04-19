@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-19（抓取 2026-04-18）
+
+🌍 全球
+1. 【芯片/算力】 Nvidia RTX 3060 comeback in 2026 could alleviate soaring GPU prices and memory shortages — rumored RTX 5050 9GB abruptly shelved amid speculation
+https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3060-comeback-in-2026-could-alleviate-soaring-gpu-prices-and-memory-shortages-rumored-rtx-5050-9gb-abruptly-shelved-amid-speculation
+2. 【终端/边缘】 Nvidia RTX 5070 Ti gaming laptop is on sale for 19% off — MSI's Vector 16 has a 144 Hz screen, and comes with Pragmata for free
+https://www.tomshardware.com/laptops/gaming-laptops/nvidia-rtx-5070-ti-gaming-laptop-is-on-sale-for-19-percent-off-msis-vector-16-has-a-144-hz-screen-and-comes-with-pragmata-for-free
+3. 【其他】 Cheap stuff that doesn’t suck, take 3
+https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers
+4. 【其他】 Bluetooth tracker hidden in a postcard and mailed to a warship exposed its location — $5 gadget put a $585 million Dutch ship at risk for 24 hours
+https://www.tomshardware.com/tech-industry/cyber-security/bluetooth-tracker-hidden-in-a-postcard-and-mailed-to-a-warship-exposed-its-location-a-eur5-gadget-put-a-eur500-million-dutch-ship-at-risk-for-24-hours
+5. 【其他】 Minisforum's beastly N5 Max NAS comes powered by AMD Strix Halo — $2,899 for 'AI NAS' with pre-installed OpenClaw, supports up to 200TB capacity
+https://www.tomshardware.com/pc-components/nas/minisforums-beastly-n5-max-nas-comes-powered-by-amd-strix-halo-usd2-899-for-ai-nas-with-pre-installed-openclaw-supports-up-to-200tb-capacity
+6. 【终端/边缘】 Techie buys fake Ledger Nano S+ hardware crypto wallet and almost falls for phishing — a convincing clone would have caught newbies unaware
+https://www.tomshardware.com/tech-industry/cyber-security/techie-buys-fake-ledger-nano-s-hardware-crypto-wallet-and-almost-falls-for-phishing-a-convincing-clone-would-have-caught-newbies-unaware
+
+🇨🇳 中国
+1. 【其他】 国产光纤全球爆单：价格暴涨 650%，企业排产已至明年一季度
+https://www.ithome.com/0/940/806.htm
+2. 【其他】 DeepSeek 被曝启动首次外部融资，国资消息人士称完全投不进去
+https://www.ithome.com/0/940/804.htm
+3. 【其他】 联想 ThinkPlus 方胖子 190W 自带伸缩线移动电源开售：配备 2.01 英寸数显屏，349 元
+https://www.ithome.com/0/940/803.htm
+4. 【其他】 联力推出 439 元 V150 INF 紧凑型机箱：兼容 M-ATX 及背插主板，标配 3 个 ARGB 无限镜
+https://www.ithome.com/0/940/802.htm
+5. 【其他】 曝 Stripe 曾意图 12 亿美元收购 Airwallex 空中云汇，如今却正面交锋
+https://www.ithome.com/0/940/800.htm
+6. 【机器人】 天工 3.0 机器人斩获北京亦庄勇士挑战赛冠军，实现“全自主”通关
+https://www.ithome.com/0/940/799.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
