@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-20（抓取 2026-04-19）
+
+🌍 全球
+1. 【其他】 Russian-made Shahed drones are ‘disintegrating in the air before reaching their targets’ due to shoddy manufacturing, video shows — commentators call Russian clones of Iran's drones 'flying garbage'
+https://www.tomshardware.com/tech-industry/russian-made-shahed-drones-are-disintegrating-in-the-air-before-reaching-their-targets-due-to-shoddy-manufacturing-video-shows-commentators-call-russian-clones-of-irans-drones-flying-garbage
+2. 【其他】 Nothing’s modular CMF Headphone Pro are down to their lowest price to date
+https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal
+3. 【其他】 Bambu Lab overtakes Creality as the world's top-selling budget 3D printer brand — resurgence in 3D printer market fueled by budget options
+https://www.tomshardware.com/3d-printing/bambu-lab-overtakes-creality-as-the-worlds-top-selling-budget-3d-printer-brand
+4. 【芯片/算力】 40 years ago we entered the megabit memory era with IBM’s DRAM breakthrough — a major leap beyond the 64 kilobit chips common at the time
+https://www.tomshardware.com/pc-components/dram/40-years-ago-we-entered-the-megabit-memory-era-with-ibms-dram-breakthrough-a-major-leap-beyond-the-64-kilobit-chips-common-at-the-time
+5. 【其他】 Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet
+https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review
+6. 【数据中心】 Sudokoo SK620V and SK700V Review: Silent, Stylish AM5 cooling, with a built-in display
+https://www.tomshardware.com/pc-components/air-cooling/sudokoo-sk620v-and-sk700v-review
+
+🇨🇳 中国
+1. 【其他】 硬盘缺货潮波及售后：东芝拒换同款 20+TB 型号，仅能按原价退款
+https://www.ithome.com/0/940/961.htm
+2. 【其他】 行业内存短缺波及苹果：Mac Studio 预计推迟至 10 月，OLED 触控屏 MacBook Pro 恐延至明年
+https://www.ithome.com/0/940/959.htm
+3. 【其他】 华为乾崑智驾 ADS Pro 增强版推送城区 NCA 功能，主动安全与泊车体验同步升级
+https://www.ithome.com/0/940/958.htm
+4. 【其他】 古尔曼：苹果 WWDC 26 海报暗藏玄机，暗示 iOS 27 系统全新 Siri 界面
+https://www.ithome.com/0/940/955.htm
+5. 【其他】 漫威《复仇者联盟 5》首支完整预告片描述：美队雷神大战毁灭博士，尚气、X 战警、神奇四侠等超人气角色集体登场
+https://www.ithome.com/0/940/954.htm
+6. 【其他】 广州一斗虾赛现场各路选手比拼蒸馏，现场诞生近50个“技能包”
+https://www.leiphone.com/category/industrynews/3Z4Dznh0Tsbg24UJ.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
