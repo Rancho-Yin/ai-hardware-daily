@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-21（抓取 2026-04-20）
+
+🌍 全球
+1. 【其他】 AI cloud company Vercel breached after employee grants AI tool unrestricted access to Google Workspace — hacker seeking $2 million for stolen data
+https://www.tomshardware.com/tech-industry/cyber-security/vercel-breached-after-employee-grants-ai-tool-unrestricted-access-to-google-workspace
+2. 【芯片/算力】 Latest Intel Core Ultra 7 270K bundle includes a 2TB SSD and 64GB of RAM for just $1,499 — includes Z890 motherboard, case, and AIO cooler, just add a GPU and PSU for a complete PC build
+https://www.tomshardware.com/pc-components/latest-intel-core-ultra-7-270k-bundle-includes-a-2tb-ssd-and-64gb-of-ram-for-just-usd1-499-includes-z890-motherboard-case-and-aio-cooler-just-add-a-gpu-and-psu-for-a-complete-pc-build
+3. 【芯片/算力】 US gov't blocks China's largest LED chipmaker's $239 million bid to acquire Dutch lighting firm Lumileds — US blocks acquisition attempt of European firm
+https://www.tomshardware.com/tech-industry/us-blocks-chinese-acquisition-of-dutch-led-firm-lumileds-for-the-second-time
+4. 【终端/边缘】 This Acer gaming laptop features an RTX 5070 Ti, 64GB of RAM, and a 2TB SSD for under $2,000 — save $650 on the Predator Helios Neo, powered by Intel Core Ultra 9
+https://www.tomshardware.com/laptops/gaming-laptops/this-acer-gaming-laptop-features-an-rtx-5070-ti-64gb-of-ram-and-a-2tb-ssd-for-under-usd2-000-save-usd650-on-the-predator-helios-neo-powered-by-intel-core-ultra-9
+5. 【终端/边缘】 Apex Gaming PCs recalls nearly 18,000 power supplies over missing safety labels — the fix is a warning sticker sent by mail, units are entirely safe
+https://www.tomshardware.com/pc-components/power-supplies/apex-gaming-pcs-recalls-nearly-18000-power-supplies-over-missing-safety-labels
+6. 【其他】 Tokyo court rules movie and anime 'spoiler articles' are copyright infringement in landmark criminal case — detailed, monetized plot summaries land man in Japanese prison
+https://www.tomshardware.com/tech-industry/tokyo-court-rules-movie-and-anime-spoiler-articles-are-copyright-infringement-in-landmark-criminal-case-detailed-monetized-plot-summaries-land-man-in-japanese-prison
+
+🇨🇳 中国
+1. 【其他】 猛士汽车 × 华为乾崑合作产品 / 渠道 / 生态升级：未来 2 年投放 4 款车型，新车 4 月 24 日亮相
+https://www.ithome.com/0/941/375.htm
+2. 【其他】 支付宝官宣华为 AI 眼镜可用鸿蒙版 App“看一下支付”
+https://www.ithome.com/0/941/374.htm
+3. 【其他】 绿联推出新款 45W 氮化镓单 USB-C 接口充电头：支持 PD 3.2 AVS，79 元
+https://www.ithome.com/0/941/366.htm
+4. 【其他】 鸿蒙智行全新一代问界 M9 汽车官宣行业首发双百万像素全彩智慧投影大灯、一镜双投影院等配置
+https://www.ithome.com/0/941/365.htm
+5. 【其他】 华为 WATCH GT6 系列智能手表获鸿蒙 HarmonyOS 6.1.0.117 版本升级，新增微运动等功能
+https://www.ithome.com/0/941/364.htm
+6. 【终端/边缘】 消息称苹果 iOS 27 抛弃 iPhone 11 / Pro / Max 及 SE 2 等手机
+https://www.ithome.com/0/941/363.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
