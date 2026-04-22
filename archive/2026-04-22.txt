@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-22（抓取 2026-04-21）
+
+🌍 全球
+1. 【其他】 AMD Ryzen 9 9950X3D2 review: More cache, more cash
+https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x3d2-review
+2. 【终端/边缘】 Save a huge $460 on this RTX 5080 gaming PC with a 9800X3D, 32GB of DDR5 RAM, and a 2TB SSD — $3,039.99 sale price nets you this Newegg ABS pre-built powerhouse that's made for 4K gaming
+https://www.tomshardware.com/desktops/gaming-pcs/save-a-huge-usd460-on-this-rtx-5080-gaming-pc-with-a-9800x3d-32gb-of-ddr5-ram-and-a-2tb-ssd-usd3-039-99-sale-price-nets-you-this-newegg-abs-pre-built-powerhouse-thats-made-for-4k-gaming
+3. 【其他】 Cerebras files for IPO — company remains unprofitable despite 20x revenue growth
+https://www.tomshardware.com/tech-industry/artificial-intelligence/cerebras-files-for-ipo-company-remains-unprofitable-despite-20x-revenue-growth
+4. 【芯片/算力】 Save $500 on Lenovo's Legion 5i gaming laptop at only $1,599 — bright OLED display, 32GB of RAM, and powerful RTX 5070 GPU
+https://www.tomshardware.com/laptops/gaming-laptops/save-usd500-on-lenovos-legion-5i-gaming-laptop-at-only-usd1-599-bright-oled-display-32gb-of-ram-and-powerful-rtx-5070-gpu
+5. 【其他】 Biohacker claims to have sequenced their own genome at the kitchen table with M3 Ultra Mac Studio, Claude, and a $3,200 sequencer — DIY project requires 100GB of data storage per run, oodles of RAM
+https://www.tomshardware.com/tech-industry/artificial-intelligence/biohacker-claims-to-have-sequenced-their-own-genome-at-the-kitchen-table-with-m3-ultra-mac-studio-claude-and-a-usd3-200-sequencer-diy-project-requires-100gb-of-data-storage-per-run-oodles-of-ram
+6. 【其他】 Enthusiasts build an interactive online ‘Listening Museum’ of iconic mechanical keyboard audio samples — 36 mechanical masterpieces available for you to audibly try out
+https://www.tomshardware.com/peripherals/mechanical-keyboards/enthusiasts-build-an-interactive-online-listening-museum-of-iconic-keyboard-audio-samples-36-mechanical-masterpieces-available-for-you-to-audibly-try-out
+
+🇨🇳 中国
+1. 【其他】 没抢到鸿蒙 6.1 也有更新：华为畅享 90 Pro Max 开推“6.0.0.150 SP8”版本，新增智感握姿等功能
+https://www.ithome.com/0/941/857.htm
+2. 【机器人】 中国首台原生开发 Robotaxi 原型车官宣“即将发布”，曹操出行深度定制版计划 27 年量产
+https://www.ithome.com/0/941/856.htm
+3. 【其他】 奕境曾清林：X9 旗舰大六座 SUV 从项目立项之初就与华为全程联合研发，全栈原生共创
+https://www.ithome.com/0/941/851.htm
+4. 【其他】 消息称苹果 iPhone 18 标准版屏幕规格“开倒车”，改用 iPhone 14 Pro 时代的 M12+ 发光基材
+https://www.ithome.com/0/941/850.htm
+5. 【其他】 创意软件行业向 Adobe 宣战
+https://www.solidot.org/story?sid=84109
+6. 【其他】 24 个月完成开发：大众、小鹏合作第二款车型与众 09 亮相，下半年上市
+https://www.ithome.com/0/941/844.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
