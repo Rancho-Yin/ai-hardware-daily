@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-23（抓取 2026-04-22）
+
+🌍 全球
+1. 【芯片/算力】 Samsung engineer sentenced to 7 years in prison for selling chipmaking trade secrets to Chinese chipmaker — ex-employee supplied 10nm DRAM data to CXMT for $2 million
+https://www.tomshardware.com/tech-industry/samsung-engineer-sentenced-to-7-years-in-prison-for-selling-chipmaking-trade-secrets-to-chinese-chipmaker-ex-employee-supplied-10nm-dram-data-to-cxmt-for-usd2-million
+2. 【其他】 Linux may be ending support for older network drivers due to influx of false AI-generated bug reports — maintenance has become too burdensome for old largely-unused systems
+https://www.tomshardware.com/software/linux/linux-may-be-ending-support-for-older-network-drivers-due-to-influx-of-false-ai-generated-bug-reports-maintenance-has-become-too-burdensome-for-old-largely-unused-systems
+3. 【其他】 Where to buy AMD's Ryzen 9 9950X3D2 — more L3 cache and dual 3D V-cache-stacked CCDs
+https://www.tomshardware.com/pc-components/cpus/where-to-buy-amds-ryzen-9-9950x3d2-more-l3-cache-and-dual-3d-v-cache-stacked-ccds
+4. 【其他】 Alienware Area-51 gaming desktop now available with AMD’s flagship Ryzen 9 9950X3D2 Dual Edition — top CPU config starts at $4,449.99 with RTX 5070 and 32GB DDR5
+https://www.tomshardware.com/desktops/gaming-pcs/alienware-area-51-gaming-desktop-now-available-with-amds-flagship-ryzen-9-9950x3d2-dual-edition-base-config-starts-at-usd4-299-99-with-rtx-5070-and-32gb-ddr5
+5. 【数据中心】 Microsoft facing $2.8 billion UK lawsuit for overcharging 60,000 businesses using Microsoft Server on other clouds — Azure users allegedly received lower wholesale pricing
+https://www.tomshardware.com/tech-industry/big-tech/microsoft-facing-usd2-8-billion-uk-lawsuit-for-overcharging-60-000-businesses-using-microsoft-server-on-other-clouds-azure-users-allegedly-recieved-lower-wholesale-pricing
+6. 【其他】 Ransomware negotiator pleads guilty after leaking victims' insurance details to 'BlackCat' hackers — perp gave attackers a precise picture of exactly how much each target could afford to pay
+https://www.tomshardware.com/tech-industry/cyber-security/florida-man-pleads-guilty-after-leaking-victims-insurance-details-to-blackcat-hackers
+
+🇨🇳 中国
+1. 【终端/边缘】 真我手机 realme UI 系统 4 月升级计划公布，大量 AI 功能上线、车机投屏将支持微信 App
+https://www.ithome.com/0/942/341.htm
+2. 【其他】 机械革命发布 3 款无界 14 2026 笔记本，国补到手价 3654.15 元起
+https://www.ithome.com/0/942/340.htm
+3. 【芯片/算力】 标配8255芯片与CDC，奇瑞试图终结“燃油车无智驾”时代
+https://www.leiphone.com/category/industrynews/RPPU8Rz2Rkh7Mvkq.html
+4. 【其他】 华为余承东：鸿蒙智行智界 V9 预售 1 小时订单破 1.25 万台，发布会一结束何刚就下订了
+https://www.ithome.com/0/942/338.htm
+5. 【芯片/算力】 Google 发布第八代自研 AI 芯片 TPU 8t 和 TPU 8i
+https://www.solidot.org/story?sid=84122
+6. 【其他】 华为余承东：鸿蒙智行全新一代问界 M9 系列汽车 1 小时预订量突破 11500 台
+https://www.ithome.com/0/942/336.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
