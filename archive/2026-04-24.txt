@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-24（抓取 2026-04-23）
+
+🌍 全球
+1. 【其他】 Intel shutters open-source evangelism program and archives key community projects — closures point to significant shift in open-source leadership
+https://www.tomshardware.com/software/intel-shutters-open-source-evangelism-program-and-archives-key-community-projects-closures-point-to-significant-shift-in-open-source-leadership
+2. 【其他】 Crypto scam takes advantage of Strait of Hormuz crisis by taking fake payments, leading to two ships being fired upon — two vessels reportedly fell victim and paid fake 'Iranian authorities'
+https://www.tomshardware.com/tech-industry/cryptocurrency/crypto-scam-takes-advantage-of-strait-of-hormuz-crisis-fake-iranian-authorities-take-payments-leading-to-two-ships-being-fired-upon-two-vessels-reportedly-fall-victim-and-were-fired-upon-by-iranians-despite-payment
+3. 【其他】 Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest
+https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-surpasses-biggest-rival-openai-in-secondary-market-valuation-surges-to-usd1-trillion-amid-frantic-investor-interest
+4. 【芯片/算力】 SpaceX says it is going to begin manufacturing GPUs — $1.75 trillion IPO listing reportedly includes in-house GPU production
+https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-says-it-is-going-to-begin-manufacturing-gpus-usd1-75-trillion-ipo-listing-reportedly-includes-in-house-gpu-production
+5. 【其他】 UK spy agency releases malware-blocking gadget for HDMI and DisplayPort cables — SilentGlass blocks malicious traffic traveling between display and computer
+https://www.tomshardware.com/tech-industry/cyber-security/uk-spy-agency-releases-malware-blocking-gadget-for-hdmi-and-displayport-cables-silentglass-blocks-malicious-traffic-traveling-between-display-and-computer
+6. 【终端/边缘】 Hands On: Corsair’s Frame Configurator brings dozens of customization options (and rippling wood) to its 4000 Series PC cases
+https://www.tomshardware.com/pc-components/pc-cases/hands-on-corsairs-frame-configurator-brings-dozens-of-customization-options-and-rippling-wood-to-its-4000-series-pc-cases
+
+🇨🇳 中国
+1. 【其他】 马斯克 560 亿美元薪酬恢复后，特斯拉撤销其 290 亿美元临时薪酬方案
+https://www.ithome.com/0/942/832.htm
+2. 【其他】 比亚迪腾势 N8L 闪充版汽车内饰公布：Nappa 云感舒压座椅、二排娱乐屏等
+https://www.ithome.com/0/942/831.htm
+3. 【其他】 阿维塔 06T 全场景运动轿车官宣首批升级华为乾崑 ADS 5
+https://www.ithome.com/0/942/829.htm
+4. 【其他】 移远通信把汽车“下半场”的野心，搬进北京车展
+https://www.leiphone.com/category/transportation/DYvxVVejv1XSyLKZ.html
+5. 【其他】 华为乾崑 | 奕境车标发布：两星 + 盾牌设计，首款旗舰 SUV 将标配 ADS 5 及赤兔平台
+https://www.ithome.com/0/942/828.htm
+6. 【其他】 敲定！全新一代红旗 H9 汽车官宣搭载华为乾崑智驾 ADS 5
+https://www.ithome.com/0/942/819.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
