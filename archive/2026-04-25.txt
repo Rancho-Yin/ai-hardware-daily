@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-25（抓取 2026-04-24）
+
+🌍 全球
+1. 【其他】 New 3D device computes using living brain cells — bioelectronic device uses 3D electronic mesh design paired with living tissue
+https://www.tomshardware.com/tech-industry/big-tech/new-3d-device-computes-using-living-brain-cells-bioelectronic-device-uses-3d-electronic-mesh-design-paired-with-living-tissue
+2. 【其他】 360-degree cameras have a new superpower
+https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity
+3. 【芯片/算力】 NEO Semiconductor's revolutionary 3D X-DRAM for AI processors has passed proof-of-concept validation — company secures funding to develop next-gen memory HBM alternative
+https://www.tomshardware.com/tech-industry/artificial-intelligence/neo-semiconductors-revolutionary-3d-x-dram-for-ai-processors-has-passed-proof-of-concept-validation-company-secures-funding-to-develop-next-gen-memory-hbm-alternative
+4. 【其他】 Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?
+https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings
+5. 【终端/边缘】 How a cavalcade of blunders gave unauthorized users access to Claude Mythos — restricted model accessed by third parties, thanks to knowledge from data breach
+https://www.tomshardware.com/tech-industry/cyber-security/how-a-cavalcade-of-blunders-gave-unauthorized-users-access-to-claude-mythos-restricted-model-accessed-by-third-parties-thanks-to-knowledge-from-data-breach
+6. 【芯片/算力】 CPU requirements for AI workloads are multiplying, driving intensifying shortages and price hikes — Intel already shifting production from consumer chips to Xeon as inference workloads drive server CPU ratios back toward parity with GPUs
+https://www.tomshardware.com/pc-components/cpus/shifting-need-for-cpus-in-ai-workloads-drives-intensifying-shortages-price-hikes
+
+🇨🇳 中国
+1. 【其他】 英特尔股价盘中一度飙升 27%，有望打破 2000 年互联网泡沫时代最高纪录
+https://www.ithome.com/0/943/371.htm
+2. 【其他】 佰维发布车规级 UFS 3.1 嵌入式存储 TAU208，获 AEC-Q100 Grade 2 认证
+https://www.ithome.com/0/943/369.htm
+3. 【其他】 时隔 6 个月，英伟达市值再次突破 5 万亿美元
+https://www.ithome.com/0/943/368.htm
+4. 【其他】 陈立武：英特尔 14A 节点成熟度与良率优于 18A 同期，特斯拉 Terafab 项目确定采用 14A 工艺
+https://www.ithome.com/0/943/367.htm
+5. 【其他】 曝微软计划年内将更多《使命召唤》旧作加入 XGP
+https://www.ithome.com/0/943/362.htm
+6. 【其他】 宏碁掠夺者战斧 9 / 10 Neo 游戏本上架：搭载满功耗 RTX 5060
+https://www.ithome.com/0/943/361.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
