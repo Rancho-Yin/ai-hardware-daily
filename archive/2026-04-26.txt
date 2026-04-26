@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-26（抓取 2026-04-25）
+
+🌍 全球
+1. 【数据中心】 Intel's upcoming Xeon 7 "Diamond Rapids" server CPUs reportedly delayed to 2027 — Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak
+https://www.tomshardware.com/pc-components/cpus/intels-upcoming-xeon-7-diamond-rapids-server-cpus-reportedly-delayed-to-2027-next-gen-coral-rapids-lineup-lands-2028-but-can-be-accelerated-according-to-new-leak
+2. 【其他】 Maine governor vetoes bill that bans large new data centers — says legislature should’ve exempted one particular well-supported data center
+https://www.tomshardware.com/desktops/servers/maine-governor-vetoes-bill-that-bans-large-new-data-centers-says-legislature-shouldve-exempted-one-particular-well-supported-data-center
+3. 【其他】 The Govee smart lamp brightened up my room, and then my life
+https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease
+4. 【芯片/算力】 Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc "Celestial" family — gaming GPU remains uncertain even for the next-gen Xe4 "Druid" lineup that lands in 2027
+https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027
+5. 【其他】 Xbox’s weirdest studio is on a roll
+https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam
+6. 【其他】 Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7800X3D — Can Intel finally beat X3D?
+https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-amd-ryzen-7-7800x3d-cpu-faceoff
+
+🇨🇳 中国
+1. 【其他】 从“新”出发，启“程”远航：neueHCT踏上品牌焕新征程
+https://www.leiphone.com/category/industrynews/4rQtoyVlOs1IRN18.html
+2. 【其他】 AMD 锐龙 9 9950X3D2 评测遇冷，但首发仍冲入亚马逊热销 Top10
+https://www.ithome.com/0/943/551.htm
+3. 【其他】 Momenta曹旭东：希望和中国所有AI公司书写东方硅谷传奇
+https://www.leiphone.com/category/industrynews/7rRKjs2EaP3lQ7uT.html
+4. 【其他】 我国科学家发布“灵境造物”智能科研工具，面向全球科研主体开放
+https://www.ithome.com/0/943/529.htm
+5. 【其他】 DeepSeek-V4-Pro 开启 API 限时 2.5 折优惠，活动持续至 5 月 6 日前
+https://www.ithome.com/0/943/528.htm
+6. 【其他】 30 天不联网就没法玩？曝索尼为部分 PS4/PS5 数字版游戏增添 DRM 机制
+https://www.ithome.com/0/943/527.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
