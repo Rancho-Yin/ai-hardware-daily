@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-27（抓取 2026-04-26）
+
+🌍 全球
+1. 【其他】 RTX 4090 sent for repair is a sophisticated fake with laser-etched VRAM and core, 'This is the best scam I've ever seen' — Scammers pulled a factory-level job to sell a dud to unsuspecting customer
+https://www.tomshardware.com/pc-components/gpus/rtx-4090-sent-for-repair-is-a-sophisticated-fake-with-laser-etched-vram-and-core-this-is-the-best-scam-ive-ever-seen-scammers-pulled-a-factory-level-job-to-sell-a-dud-to-unsuspecting-customer
+2. 【数据中心】 Toyota’s limited edition $3,500 Crown gaming chair has heating, cooling, and a USB-C seatbelt buckle — Toyota Crown front car seat turned into gaming chair, enjoy in-car comforts while on your PC
+https://www.tomshardware.com/peripherals/gaming-chairs/toyotas-limited-edition-usd3-500-crown-gaming-chair-has-heating-cooling-and-a-usb-c-seatbelt-buckle-enjoy-in-car-comforts-while-you-are-on-your-pc
+3. 【其他】 Skylight’s 15-inch smart calendar is down to its lowest price to date
+https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale
+4. 【其他】 New metal 3D printer shrinks industrial tech down to workbench size with laser powder bed fusion system — aims to bring laser metal printing to workshops and labs for $9,600
+https://www.tomshardware.com/3d-printing/new-metal-3d-printer-shrinks-industrial-tech-down-to-workbench-size-with-laser-powder-bed-fusion-system-aims-to-bring-laser-metal-printing-to-workshops-and-labs-for-usd9-600
+5. 【其他】 AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU
+https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review
+6. 【其他】 After three months on Linux, I don’t miss Windows at all
+https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows
+
+🇨🇳 中国
+1. 【其他】 微软 Xbox 新掌舵人阿莎 · 夏尔马暗示：未来或将继续收购游戏工作室
+https://www.ithome.com/0/943/750.htm
+2. 【其他】 华硕 X870 主板测试 AMD EXPO 1.2 支持：新增超低延迟模式，B850 后续更新
+https://www.ithome.com/0/943/749.htm
+3. 【其他】 QEMU 11.0 发布：补全龙芯 LoongArch TCG 指令与 RISC-V 扩展，x86 新增英特尔 Diamond Rapids CPU 模型
+https://www.ithome.com/0/943/751.htm
+4. 【其他】 Sigmaintell 预测：苹果今年有望成为全球第三大笔记本制造商
+https://www.ithome.com/0/943/747.htm
+5. 【其他】 古尔曼：库克为苹果留下十大新产品线研发计划，新任 CEO 特努斯首秀定档 9 月折叠屏 iPhone 发布会
+https://www.ithome.com/0/943/744.htm
+6. 【机器人】 李力耘加入众擎，全栈智驾大脑与顶级人形本体的双向奔赴
+https://www.leiphone.com/category/robot/EbmFRcvpt7TBjb3P.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
