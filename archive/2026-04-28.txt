@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-28（抓取 2026-04-27）
+
+🌍 全球
+1. 【终端/边缘】 Complex that supplies 70% of global critical PCB base targeted in Iranian strike — attack could fracture the already disrupted electronics supply chain
+https://www.tomshardware.com/tech-industry/complex-that-supplies-70-percent-of-global-critical-pcb-base-targeted-in-iranian-strike-attack-could-fracture-the-already-disrupted-electronics-supply-chain
+2. 【其他】 Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue
+https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue
+3. 【其他】 New AI data center in Utah will generate and consume more than twice the amount of power the entire state uses — Kevin O'Leary's 9 Gigawatt Utah data center campus approved
+https://www.tomshardware.com/tech-industry/kevin-o-learys-9-gw-utah-data-center-campus-approved
+4. 【终端/边缘】 Hacktivists share a guide on making working electronics PCBs made from natural clay with prehistoric technique — ethical hardware tutorial explains how to find clay, stamp 3D printed circuits, paint traces, and fire tablets
+https://www.tomshardware.com/3d-printing/hacktivists-share-a-guide-on-making-working-electronics-pcbs-made-from-natural-clay-with-prehistoric-technique-ethical-hardware-tutorial-explains-how-to-find-clay-stamp-3d-printed-circuits-paint-traces-and-fire-tablets
+5. 【芯片/算力】 TSMC's details next-gen CoWoS roadmap: over 14-reticle packages and 48x leap in compute power expected by 2029 — massive size enables 24 HBM5E stacks and additional memory bandwidth jump
+https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-details-next-gen-cowos-roadmap-over-14-reticle-packages-and-48x-leap-in-compute-power-expected-by-2029-massive-size-enables-24-hbm5e-stacks-and-additional-memory-bandwidth-jump
+6. 【芯片/算力】 Save a colossal $1,184 on a 9950X3D2, 64GB DDR5, and a 4TB Samsung SSD for a powerhouse gaming PC build — epic Newegg deal comes with AMD's first dual X3D chip and a flagship Asus ROG board for $2,899
+https://www.tomshardware.com/pc-components/save-a-colossal-usd1-184-on-a-9950x3d2-64gb-ddr5-and-a-4tb-samsung-ssd-for-a-powerhouse-gaming-pc-build-epic-newegg-deal-comes-with-amds-first-dual-x3d-chip-and-a-flagship-asus-rog-board-for-usd2-899
+
+🇨🇳 中国
+1. 【其他】 三星 Galaxy Glasses 智能眼镜外观曝光：骁龙 AR1 处理器，无屏设计
+https://www.ithome.com/0/944/197.htm
+2. 【其他】 因含 AI 生成虚构参考文献，南非首份国家 AI 政策草案被撤回
+https://www.ithome.com/0/944/196.htm
+3. 【终端/边缘】 被传与 OpenAI 合作开发 AI 智能手机处理器后，高通股价飙升 13%
+https://www.ithome.com/0/944/193.htm
+4. 【终端/边缘】 iPhone Ultra 折叠屏手机与 MacBook Ultra 笔记本在列，消息称苹果计划明年推出两款超高端新品
+https://www.ithome.com/0/944/192.htm
+5. 【其他】 洛斐推出全球首款机械磁轴键盘 Hyzen：搭载凯华定制 Nexus 线性轴
+https://www.ithome.com/0/944/191.htm
+6. 【其他】 拓荆科技 2026 年一季度净利润 5.70 亿元
+https://www.ithome.com/0/944/189.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
