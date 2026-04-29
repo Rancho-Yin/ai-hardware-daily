@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-29（抓取 2026-04-28）
+
+🌍 全球
+1. 【其他】 Market slumps as OpenAI reportedly misses internal targets for active users and revenue — Nvidia, Oracle, AMD, and CoreWeave shares all tremble on the news
+https://www.tomshardware.com/tech-industry/artificial-intelligence/market-slumps-as-openai-reportedly-misses-internal-targets-for-active-users-and-revenue-nvidia-oracle-amd-and-coreweave-shares-all-tremble-on-the-news
+2. 【其他】 Sony rolls out 30-day online DRM check-in for PlayStation digital games — players could temporarily lose access if they don't keep their consoles online
+https://www.tomshardware.com/video-games/playstation/sony-rolls-out-30-day-online-drm-check-in-for-playstation-digital-games-players-could-temporarily-lose-access-if-they-dont-keep-their-consoles-online
+3. 【芯片/算力】 China announces CPU-only exascale supercomputer with 47,000 homemade processors, record 2 Exaflops of performance without GPUs — Lingshen super said to use Huawei Kunpeng servers and no foreign-made components
+https://www.tomshardware.com/tech-industry/china-plans-cpu-only-exascale-supercomputer-with-47000-domestic-processors
+4. 【其他】 Ubuntu's AI roadmap revealed, universal AI 'kill switch' and forced AI integration are not part of the plan — cloud tracking, local inference, and agentic system tools take center stage
+https://www.tomshardware.com/software/operating-systems/ubuntus-ai-roadmap-revealed-universal-ai-kill-switch-and-forced-ai-integration-are-not-part-of-the-plan-cloud-tracking-local-inference-and-agentic-system-tools-take-center-stage
+5. 【芯片/算力】 Legendary ZSNES Nintendo emulator rewritten from scratch with GPU-acceleration, no vibe coding — new Super ZSNES has ‘far more accurate CPU and audio cores than the original’
+https://www.tomshardware.com/video-games/nintendo/legendary-zsnes-nintendo-emulator-rewritten-from-scratch-with-gpu-acceleration-no-vibe-coding-new-super-zsnes-has-far-more-accurate-cpu-and-audio-cores-than-the-original
+6. 【其他】 OpenAI and Microsoft's alliance fractures as cloud exclusivity deal ends — Azure's single-provider monopoly for ChatGPT is officially over
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsofts-alliance-fractures-as-cloud-exclusivity-deal-ends-azures-single-provider-monopoly-for-chatgpt-is-officially-over
+
+🇨🇳 中国
+1. 【其他】 格力电器 2025 年净利润 290.03 亿元，同比下降 9.89%
+https://www.ithome.com/0/944/725.htm
+2. 【其他】 格力电器 2026 年一季度净利润 60.82 亿元，同比增长 3.01%
+https://www.ithome.com/0/944/724.htm
+3. 【其他】 立讯精密 2026 年净利润 78.40 亿元 ~81.06 亿元，同比预增 18%~22%
+https://www.ithome.com/0/944/723.htm
+4. 【其他】 立讯精密 2026 年一季度净利润 36.59 亿元，同比增长 20.24%
+https://www.ithome.com/0/944/722.htm
+5. 【其他】 隆基绿能 2026 年一季度亏损 19.199 亿元，同比亏损扩大 33.7%
+https://www.ithome.com/0/944/708.htm
+6. 【其他】 小米澎湃 OS 开发者预览版 Android 17 Beta 2 发布，适配 17、17 Ultra 等机型
+https://www.ithome.com/0/944/706.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
