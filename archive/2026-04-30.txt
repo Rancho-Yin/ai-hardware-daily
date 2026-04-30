@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-04-30（抓取 2026-04-29）
+
+🌍 全球
+1. 【其他】 iGame X870E Vulcan OC V14 Motherboard Review: Colorful enters the high-end overclocking scene
+https://www.tomshardware.com/pc-components/motherboards/igame-x870e-vulcan-oc-v14-motherboard-review-colorful-enters-the-high-end-overclocking-scene
+2. 【其他】 Google signs classified Pentagon AI deal but exits $100 million drone swarm program — report claims employees revolted over ethical fears, delivered letter to CEO Pichai
+https://www.tomshardware.com/software/security-software/google-signs-classified-pentagon-ai-deal-but-exits-100-million-drone-swarm-program
+3. 【芯片/算力】 TSMC SoIC 3D stacking roadmap outlines path from 6-micron pitches today to 4.5-micron in 2029 — Fujitsu's Monaka CPU to benefit from face-to-face chiplet stacking
+https://www.tomshardware.com/tech-industry/semiconductors/tsmc-soic-3d-stacking-roadmap-outlines-path-from-6-micron-pitches-today-to-4-5-micron-in-2029-fujitsus-monaka-cpu-to-benefit-from-face-to-face-chiplet-stacking
+4. 【其他】 Framework's new RTX 5070 12GB graphics module costs a whopping $1,199 — 72% more expensive than $699 8GB version, says pricing is beyond its control
+https://www.tomshardware.com/pc-components/gpus/frameworks-new-rtx-5070-12gb-graphics-module-costs-a-whopping-usd1-199-72-percent-more-expensive-than-usd699-8gb-version-says-pricing-is-beyond-its-control
+5. 【芯片/算力】 US stops exports of tools to China’s number two chip maker — Hua Hong and Huali Microelectronics reportedly on the cusp of starting a 7-nm fab in Shanghai
+https://www.tomshardware.com/tech-industry/us-stops-exports-of-chip-making-tools-to-chinas-number-two-chip-maker-hua-hong-and-huali-microelectronics-reportedly-on-the-cusp-of-starting-a-7-nm-fab-in-shanghai
+6. 【芯片/算力】 Palit Group says Galax GPU brand will continue to operate following restructure — Galax management centralized under Palit Group in 'pre-planned' shakeup
+https://www.tomshardware.com/pc-components/gpus/palit-group-says-galax-gpu-brand-will-continue-to-operate-following-restructure-galax-management-centralized-under-palit-group-in-pre-planned-shakeup
+
+🇨🇳 中国
+1. 【其他】 Zed 编辑器发布 1.0 版本
+https://www.solidot.org/story?sid=84187
+2. 【其他】 倍耐力买下 Univrses 30% 股份，加码 AI 轮胎技术
+https://www.ithome.com/0/945/234.htm
+3. 【其他】 高德地图 × 迪迦奥特曼达成联动，堵车时可以释放哉佩利敖光线
+https://www.ithome.com/0/945/232.htm
+4. 【其他】 华为鸿蒙“龙虾”小艺 Claw 迎重磅更新：上线“自进化”能力、接入 DeepSeek V4
+https://www.ithome.com/0/945/229.htm
+5. 【其他】 破解 Win11 应用生态“网页化”困局，微软工程师确认原生应用将回归
+https://www.ithome.com/0/945/228.htm
+6. 【其他】 .icu 域名被短暂劫持
+https://www.solidot.org/story?sid=84185
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
