@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-01（抓取 2026-04-30）
+
+🌍 全球
+1. 【其他】 Crucial Taiwan undersea cable severed by old shipwreck — backup microwave communications activated to keep population connected
+https://www.tomshardware.com/networking/crucial-taiwan-undersea-cable-severed-by-old-shipwreck-backup-microwave-communications-activated-to-keep-population-connected
+2. 【芯片/算力】 Samsung and SK hynix warn AI-driven memory shortages could last until 2027 and beyond, as HBM demand explodes — customers already reserving supply years ahead, while the wider DRAM market begins to tighten
+https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-and-sk-hynix-warn-ai-driven-memory-shortages-could-last-until-2027-and-beyond-as-hbm-demand-explodes-customers-already-reserving-supply-years-ahead-while-the-wider-dram-market-begins-to-tighten
+3. 【其他】 Newegg finally has a worthwhile Intel combo that includes memory, saving almost $240 — snag an Intel Core Ultra 7 270K Plus, ASRock Z890 motherboard, and 32GB of GSkill Trident Z5 DDR5 RAM for only $768.34
+https://www.tomshardware.com/pc-components/newegg-finally-has-a-worthwhile-intel-combo-that-includes-memory-saving-almost-usd240-snag-an-intel-core-ultra-7-270k-plus-asrock-z890-motherboard-and-32gb-of-gskill-trident-z5-ddr5-ram-for-only-usd768-34
+4. 【其他】 Sony confirms PS4 and PS5 digital games don't require an online check-in every 30 days — new DRM policy only checks once for license to combat against refund scams
+https://www.tomshardware.com/video-games/playstation/sony-confirms-ps4-and-ps5-digital-games-dont-require-an-online-check-in-every-30-days-new-drm-policy-only-checks-once-for-license-to-combat-against-refund-scams
+5. 【其他】 Victim of AI agent that deleted company's entire database gets their data back — cloud provider recovers critical files and broadens its 48-hour delayed delete policy
+https://www.tomshardware.com/tech-industry/artificial-intelligence/victim-of-ai-agent-that-deleted-companys-entire-database-gets-their-data-back-cloud-provider-recovers-critical-files-and-broadens-its-48-hour-delayed-delete-policy
+6. 【其他】 Apple 'has given up' on Vision Pro, report claims — costly price and weight behind purported failure, but the company continues to hire into its Vision Production Group
+https://www.tomshardware.com/virtual-reality/apple-has-given-up-on-vision-pro-report-claims-costly-price-and-weight-behind-purported-failure-but-the-company-continues-to-hire-into-its-vision-production-group
+
+🇨🇳 中国
+1. 【其他】 微星 Intel Arc G3 Extreme 掌机 Claw 8 EX AI+ 规格现身意大利电商
+https://www.ithome.com/0/945/747.htm
+2. 【其他】 三星和 SK 海力士纷纷警告：AI 导致的内存短缺问题可能持续至 2027 年及以后
+https://www.ithome.com/0/945/745.htm
+3. 【其他】 机械革命耀世 18 Pro 游戏本可选 270HX Plus + 5070 12GB，到手 10499 元
+https://www.ithome.com/0/945/741.htm
+4. 【其他】 DeepSeek 公布多模态模型技术报告
+https://www.ithome.com/0/945/740.htm
+5. 【其他】 KTC 推出“M27P6S”显示器：4K 160Hz/1080P 320Hz 双模 Mini LED，2999 元
+https://www.ithome.com/0/945/739.htm
+6. 【其他】 微星神影 16 Max 2026 游戏本新增配置，5 月 13 日发售
+https://www.ithome.com/0/945/736.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
