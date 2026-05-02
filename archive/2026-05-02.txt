@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-02（抓取 2026-05-01）
+
+🌍 全球
+1. 【芯片/算力】 Skyrocketing component prices push Big Tech capex to record $725 billion — Microsoft alone attributes $25 billion of AI budget to increased memory and chip costs
+https://www.tomshardware.com/tech-industry/big-tech/microsoft-attributed-25-billion-of-its-record-ai-budget-to-memory-chip-costs
+2. 【机器人】 SoftBank plans robotics and AI firm in the US to build data centers — aims for $100 billion valuation and an IPO this year
+https://www.tomshardware.com/tech-industry/softbank-plans-robotics-and-ai-firm-in-the-us-to-build-data-centers-aims-for-usd100-billion-valuation-and-an-ipo-this-year
+3. 【芯片/算力】 Huawei could seize China’s AI chip crown in 2026 as Nvidia's H200 shipments stall in regulatory limbo — Beijing pushes homegrown AI hardware dominance in a market projected to hit $67 billion by 2030
+https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-could-seize-chinas-ai-chip-crown-in-2026-as-nvidias-h200-shipments-stall-in-regulatory-limbo-beijing-pushes-homegrown-ai-hardware-dominance-in-a-market-projected-to-hit-usd67-billion-by-2030
+4. 【芯片/算力】 ASML's roadmap for chipmaking lithography tools examined — from DUV to Low-NA, High-NA, Hyper-NA, and beyond
+https://www.tomshardware.com/tech-industry/semiconductors/asml-lithograpy-roadmap-examined-from-duv-to-hyper-na
+5. 【其他】 Wingtech posts $1.3 billion loss and faces Shanghai delisting as Nexperia audit collapses — 57% of company's assets can't be verified
+https://www.tomshardware.com/tech-industry/wingtech-posts-1-3-billion-loss-and-faces-shanghai-delisting-as-nexperia-audit-collapses
+6. 【终端/边缘】 Save a huge $400 on this Acer Predator OLED gaming laptop with an RTX 5070 Ti and 32GB DDR5, now under $1,800 — big saving on Helios Neo 16S AI rig that ships with a 24-core Intel CPU, 1TB SSD, and a 240Hz refresh rate
+https://www.tomshardware.com/laptops/gaming-laptops/save-a-huge-usd400-on-this-acer-predator-oled-gaming-laptop-with-an-rtx-5070-ti-and-32gb-ddr5-now-under-usd1-800-big-saving-on-helios-neo-16s-ai-rig-that-ships-with-a-24-core-intel-cpu-1tb-ssd-and-a-240hz-refresh-rate
+
+🇨🇳 中国
+1. 【其他】 安伯尼克 Anbernic 掌机 RG Rotate 更多信息公布：3.5 英寸 720×720 旋屏，87.99 美元起
+https://www.ithome.com/0/945/947.htm
+2. 【其他】 Ubiquiti 推出 UniFi Dream Machine Beast 网关，14 网口 + 2 盘位
+https://www.ithome.com/0/945/944.htm
+3. 【其他】 消息称 SpaceX“星舰”项目投入超 150 亿美元，力求“航空式”火箭技术
+https://www.ithome.com/0/945/939.htm
+4. 【其他】 美国防部与 OpenAI、谷歌、英伟达、微软等 7 家 AI 公司达成协议
+https://www.ithome.com/0/945/912.htm
+5. 【其他】 罗技任命 Robin Piispanen 为电竞业务 Logitech G 全球负责人
+https://www.ithome.com/0/945/905.htm
+6. 【其他】 闪极随行 Mini Flow 移动电源发售：1C+1A，10000mAh 售 188 元
+https://www.ithome.com/0/945/904.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
