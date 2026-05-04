@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-04（抓取 2026-05-03）
+
+🌍 全球
+1. 【其他】 Reggie Fils-Aimé says Amazon once asked Nintendo to break the law
+https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal
+2. 【终端/边缘】 Enthusiast builds a PC big enough to live in — humans in this RGB-lit fish tank case look just like figurines
+https://www.tomshardware.com/desktops/pc-building/techtuber-builds-a-pc-big-enough-to-live-in-humans-in-this-rgb-lit-fish-tank-case-look-just-like-figurines
+3. 【其他】 Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo
+https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale
+4. 【其他】 Nvidia accelerates end-of-life for some Jetson AI processors due to memory shortages — RAMpocalypse sends older DDR4-based modules to the great scrapheap in the sky
+https://www.tomshardware.com/maker-stem/nvidia-accelerates-end-of-life-for-some-jetson-ai-processors-due-to-memory-shortages-rampocalypse-sends-older-ddr4-based-modules-to-the-great-scrapheap-in-the-sky
+5. 【其他】 Save $370 on this AMD Ryzen 9 9950X3D2 Dual Edition with an X870E motherboard and 32GB of RAM — big savings for your next high-end build
+https://www.tomshardware.com/pc-components/save-usd370-on-this-amd-ryzen-9-9950x3d2-dual-edition-with-an-x870e-motherboard-and-32gb-of-ram-big-savings-for-your-next-high-end-build
+6. 【其他】 Popular 90s search engine ‘Ask Jeeves’ finally bites the dust — parent company shutters website that pioneered natural language queries, only a placeholder results page remains
+https://www.tomshardware.com/software/search-engines/popular-90s-search-engine-ask-jeeves-finally-bites-the-dust-parent-company-shutters-website-that-pioneered-natural-language-queries-only-a-placeholder-results-page-remains
+
+🇨🇳 中国
+1. 【其他】 VS Code 默认在 commit 中插入 Co-Authored-by Copilot
+https://www.solidot.org/story?sid=84209
+2. 【其他】 我国高分辨大宽带集成光子光谱仪成功实现天文观测
+https://www.ithome.com/0/946/195.htm
+3. 【其他】 Steam 用户中使用 Linux 比例占 4.52%
+https://www.solidot.org/story?sid=84207
+4. 【其他】 继“液态玻璃”之后：苹果 iOS 27 将重心转向 AI，Siri 迎来独立 App 并将深度整合到相机应用中
+https://www.ithome.com/0/946/194.htm
+5. 【其他】 古尔曼：苹果新 CEO 特努斯将改变现金策略，并购与研发投入有望加码
+https://www.ithome.com/0/946/190.htm
+6. 【其他】 消息称微软《光环》系列三部曲全面改用虚幻引擎 5 重制，两款新作同步开发中
+https://www.ithome.com/0/946/189.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
