@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-05（抓取 2026-05-04）
+
+🌍 全球
+1. 【其他】 Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI
+https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
+2. 【其他】 CISA flags actively exploited ‘Copy Fail’ Linux kernel flaw enabling root takeover across major distros — unpatched systems may remain vulnerable to attack
+https://www.tomshardware.com/software/linux/cisa-flags-actively-exploited-copy-fail-linux-kernel-flaw-enabling-root-takeover-across-major-distros-unpatched-systems-may-remain-vulnerable-to-attack
+3. 【芯片/算力】 Intel's Arc Pro B70 workstation GPU with 32GB of VRAM gets tested in games — Roughly twice as fast as Arc B580 on average, beats RTX 5060 Ti in some titles
+https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-with-32gb-of-vram-gets-tested-in-games-roughly-twice-as-fast-as-arc-b580-on-average-beats-rtx-5060-ti-in-some-titles
+4. 【其他】 Nvidia's exposure to Asian supply chains for components hits 90% of its production costs — marked increase from 65% could intensify as physical AI adds even more exposure
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-asian-supply-chain-hits-90-percent-of-production-costs
+5. 【其他】 Save $1,100 on this prebuilt gaming rig with Nvidia RTX 5070 Ti, Intel 14900KF, 32GB of RAM, and 2TB of storage — AB Kaze II Aqua on deep discount
+https://www.tomshardware.com/pc-components/save-usd1-100-on-this-prebuilt-gaming-rig-with-nvidia-rtx-5070-ti-intel-14900kf-32gb-of-ram-and-2tb-of-storage-ab-kaze-ii-aqua-on-deep-discount
+6. 【其他】 AMD Ryzen AI Max+ PRO 495 APU could arrive with 192GB of unified memory — leaked PassMark benchmarks suggest modest update over Strix Halo
+https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-max-pro-495-apu-could-arrive-with-192gb-of-unified-memory-leaked-passmark-benchmarks-suggest-modest-update-over-strix-halo
+
+🇨🇳 中国
+1. 【其他】 Claude Token 榜：迪士尼「榜一大哥」9 天 46 万次，Meta 月烧 60 万亿
+https://www.ithome.com/0/946/323.htm
+2. 【其他】 倍耐力把传感器塞进轮胎，力图让车辆知道自身精确位置、应对周边环境
+https://www.ithome.com/0/946/322.htm
+3. 【其他】 被“AI 教父”辛顿“判死刑”十年后，美国放射科医生平均年薪达 57.1 万美元
+https://www.ithome.com/0/946/318.htm
+4. 【终端/边缘】 英国警方扩大 AI 人脸识别应用，利用手机等设备实时比对数据库确认人员身份
+https://www.ithome.com/0/946/317.htm
+5. 【其他】 “AI 面试”逐渐受企业追捧，近四成求职者因此主动选择放弃机会
+https://www.ithome.com/0/946/316.htm
+6. 【其他】 未来视野推出“RV200 Turbo”27 英寸显示器：4K 120Hz / FHD 240Hz 双模、USB-C 90W + 光线传感器，1683 元
+https://www.ithome.com/0/946/315.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
