@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-06（抓取 2026-05-05）
+
+🌍 全球
+1. 【其他】 Palantir co-founder Peter Thiel backs $140M wave-powered AI data center startup — Panthalassa aims to run offshore compute nodes using ocean energy
+https://www.tomshardware.com/tech-industry/artificial-intelligence/palantir-co-founder-peter-thiel-backs-usd140m-wave-powered-ai-data-center-startup-panthalassa-aims-to-run-offshore-compute-nodes-using-ocean-energy
+2. 【其他】 Google, Microsoft, and xAI agree to let US government test AI models before public release — OpenAI and Anthropic also on board after renegotiating deals with Washington
+https://www.tomshardware.com/tech-industry/artificial-intelligence/google-microsoft-and-xai-agree-to-let-us-govenment-test-ai-models-before-public-release
+3. 【芯片/算力】 Huawei braces for $12 billion in AI chip revenue driven by homegrown AI model demand — Chinese fabs can barely keep up as Nvidia's market share craters within the region
+https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero
+4. 【芯片/算力】 JSR to build first Taiwan photoresist plant to co-develop advanced resists with TSMC — multi-million dollar plant could come online as early as 2028
+https://www.tomshardware.com/tech-industry/jsr-to-build-first-taiwan-photoresist-plant-to-co-develop-advanced-resists-with-tsmc
+5. 【芯片/算力】 Apple considering Intel and Samsung for US chip production, report claims — consumer electronics giant looks to diversify supply chain amid chip shortages
+https://www.tomshardware.com/tech-industry/semiconductors/apple-considering-intel-and-samsung-for-us-chip-production-report-claims-consumer-electronics-giant-looks-to-diversify-supply-chain-amid-chip-shortages
+6. 【其他】 Inland QN450 1TB SSD Review: Maximum efficiency, minimum spend
+https://www.tomshardware.com/pc-components/ssds/inland-qn450-1tb-ssd-review
+
+🇨🇳 中国
+1. 【其他】 美国政府与微软、谷歌、xAI 达成协议，将提前审查其前沿 AI 模型
+https://www.ithome.com/0/946/484.htm
+2. 【其他】 创维“G27Q MAX”27 英寸显示器发售：2K 220Hz QD-Mini LED，999 元
+https://www.ithome.com/0/946/477.htm
+3. 【终端/边缘】 MS Edge 被发现会在内存中明文加载所有密码
+https://www.solidot.org/story?sid=84213
+4. 【其他】 微星“MAG 276QRDY54”27 英寸显示器发售：2K 540Hz/720P 720Hz 双模、原生 10-Bit 色彩，6299 元
+https://www.ithome.com/0/946/475.htm
+5. 【其他】 新华三 H3C MegaBook Air 14 英寸笔记本开售：酷睿 Ultra 5 226V/228V、重量小于 1kg，7999 元起
+https://www.ithome.com/0/946/473.htm
+6. 【其他】 鸿海 2026 年 4 月营收 8321 亿新台币：同比 +29.74%、环比 +3.53%
+https://www.ithome.com/0/946/470.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
