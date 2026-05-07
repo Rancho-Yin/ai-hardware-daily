@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-07（抓取 2026-05-06）
+
+🌍 全球
+1. 【其他】 Survey shows that nearly half of Americans don't want new data centers built near their homes — 47% oppose the construction of new AI data centers in their neighborhood
+https://www.tomshardware.com/tech-industry/artificial-intelligence/survey-shows-that-nearly-half-of-americans-dont-want-new-data-centers-built-near-their-homes-47-percent-oppose-the-construction-of-new-ai-data-centers-in-their-neighborhood
+2. 【终端/边缘】 New Linux StarFighter laptop family debuts starting at $1,878 — Star Labs Systems' laptops arrive with spacious RAM, several options
+https://www.tomshardware.com/laptops/new-linux-starfighter-laptop-family-debuts-starting-at-usd1-878-star-labs-systems-laptops-arrive-with-spacious-ram-several-options
+3. 【其他】 AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture — increased customization to better address evolving AI and cloud needs
+https://www.tomshardware.com/pc-components/cpus/amd-to-broaden-and-specialize-epyc-cpus-already-working-on-zen-7-architecture-increased-customization-to-better-address-evolving-ai-and-cloud-needs
+4. 【其他】 Score this 500Hz 27-inch Samsung Odyssey OLED gaming monitor at its lowest ever price, now just $649.99 — huge $349 saving nets you ultra-fast G60SF display with Nvidia G-Sync support
+https://www.tomshardware.com/monitors/gaming-monitors/score-this-500hz-27-inch-samsung-odyssey-oled-gaming-monitor-at-its-lowest-ever-price-now-just-usd649-99-huge-usd349-saving-nets-you-ultra-fast-g60sf-display-with-nvidia-g-sync-support
+5. 【芯片/算力】 SpaceX files for $55 billion semiconductor fab in rural Texas for Musk's Terafab — total chipmaking fab investment could reach $119 billion
+https://www.tomshardware.com/tech-industry/spacex-files-for-55-billion-semiconductor-fab-in-rural-texas
+6. 【其他】 Apple quietly axes 128GB Mac Studio amid supply constraints and local AI frenzy — highest memory capacity reduced to 96GB, two months after discontinuation of 512GB model
+https://www.tomshardware.com/desktops/apple-quietly-axes-128gb-mac-studio-amid-supply-constraints-and-local-ai-frenzy-highest-memory-capacity-reduced-to-96gb-two-months-after-discontinuation-of-512gb-model
+
+🇨🇳 中国
+1. 【其他】 夏尔马新官上任三把火，宣布下周将推新版 Xbox 主机开机动画及音效
+https://www.ithome.com/0/947/021.htm
+2. 【其他】 爱彼迎 CEO 切斯基：只负责“管人”的管理者将很快会被 AI 时代淘汰
+https://www.ithome.com/0/947/020.htm
+3. 【其他】 心理施压攻破安全防线，Anthropic Claude 竟主动输出违禁内容
+https://www.ithome.com/0/947/019.htm
+4. 【其他】 OpenAI 总裁被迫在法庭作证时阅读自己的个人日记
+https://www.solidot.org/story?sid=84226
+5. 【其他】 奥斯卡奖拒绝 AI 演员和 AI 创作的剧本
+https://www.solidot.org/story?sid=84225
+6. 【其他】 华硕天选 7 Pro 锐龙版游戏本同步上架：9955HX + 5060 / 5070
+https://www.ithome.com/0/947/014.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
