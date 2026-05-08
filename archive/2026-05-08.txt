@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-08（抓取 2026-05-07）
+
+🌍 全球
+1. 【数据中心】 Lian Li’s new DK07 Wood motorized standing desk doubles as a dual-PC chassis with support for E-ATX systems and massive cooling setups — five new wood-finished models are available now
+https://www.tomshardware.com/pc-components/pc-cases/lian-lis-new-dk07-wood-motorized-standing-desk-doubles-as-a-dual-pc-chassis-with-support-for-e-atx-systems-and-massive-cooling-setups-five-new-wood-finished-models-are-available-now
+2. 【芯片/算力】 Motherboard sales 'collapse' by more than 25% as chipmakers strangle enthusiast PC market to build more AI chips — Asus projected to sell 5 million fewer boards in 2025, Gigabyte, MSI, and ASRock also expected to see reduced sales numbers
+https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers
+3. 【其他】 Now 15% off, Razer's fantastic Basilisk V3 Pro wireless mouse with 30K DPI sensor is reduced to clear in this limited deal — 30K DPI sensor, optical switches, and long battery life for only $84
+https://www.tomshardware.com/peripherals/gaming-mice/now-15-percent-off-razers-fantastic-basilisk-v3-pro-wireless-mouse-with-30k-dpi-sensor-is-reduced-to-clear-in-this-limited-deal-30k-dpi-sensor-optical-switches-and-long-battery-life-for-only-usd84
+4. 【其他】 Intel Core Ultra 5 225 review: Arrow Lake’s forgotten CPU needs a price cut
+https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-225-review
+5. 【芯片/算力】 Musk's SpaceX has rented out access to its supercomputer's 220,000 Nvidia GPUs and 300 megawatts of AI compute power to rival Anthropic — Musk says “No one set off my evil detector,” Antrhropic also interested in orbital data centers
+https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-spacex-has-rented-out-access-to-its-supercomputers-220-000-nvidia-gpus-and-300-megawatts-of-ai-compute-power-to-rival-anthropic-musk-says-no-one-set-off-my-evil-detector-antrhropic-also-interested-in-orbital-data-centers
+6. 【其他】 Save $1,100 on this powerful gaming rig with Nvidia RTX 5070 Ti, Intel 14900KF, 32GB of RAM, and 2TB of storage — ABS Stratos Aqua on deep discount
+https://www.tomshardware.com/pc-components/save-usd1-100-on-this-powerful-gaming-rig-with-nvidia-rtx-5070-ti-intel-14900kf-32gb-of-ram-and-2tb-of-storage-abs-stratos-aqua-on-deep-discount
+
+🇨🇳 中国
+1. 【其他】 微信安卓版 8.0.72 最新官方内测版下载发布
+https://www.ithome.com/0/947/452.htm
+2. 【其他】 2023 年被罢免后，OpenAI CEO 奥尔特曼“短信轰炸”穆拉蒂寻求复职
+https://www.ithome.com/0/947/451.htm
+3. 【其他】 《小黄人与大怪兽》定档 7 月 3 日中国内地上映，官方预告公布
+https://www.ithome.com/0/947/450.htm
+4. 【其他】 太空科幻片《挽救计划》将于 5 月 12 日数字上线，《火星救援》同作者小说改编
+https://www.ithome.com/0/947/448.htm
+5. 【其他】 索尼官宣 5 月 13 日发布新品：呈现新一代 R
+https://www.ithome.com/0/947/444.htm
+6. 【其他】 扎克伯格被控个人授权和鼓励公司侵犯版权
+https://www.solidot.org/story?sid=84230
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
