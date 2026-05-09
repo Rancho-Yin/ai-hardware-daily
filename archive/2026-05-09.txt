@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-09（抓取 2026-05-08）
+
+🌍 全球
+1. 【其他】 Nintendo is raising the price of the Switch 2 by $50 starting in September — Console will soon cost $499, but you can avoid the price hike if you buy now
+https://www.tomshardware.com/video-games/nintendo/nintendo-is-raising-the-price-of-the-switch-2-by-usd50-starting-in-september-console-will-soon-cost-usd499-but-you-can-avoid-the-price-hike-if-you-buy-now
+2. 【其他】 Maingear MG-1 (2026) review: Fast and clean, for a price
+https://www.tomshardware.com/desktops/gaming-pcs/maingear-mg-1-2026-review
+3. 【其他】 AI data center bans are rapidly multiplying across the US — 69 jurisdictions block new builds, with four moves noted as permanent
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-data-center-bans-are-rapidly-multiplying-across-the-us-69-jurisdictions-block-new-builds-with-four-moves-noted-as-permanent
+4. 【终端/边缘】 Save $444 on this top-tier gaming PC combo with Asus Prime RTX 5070, Ryzen 9850X3D, X870E motherboard, and 32GB of RAM — world's fastest gaming CPU meets copious amount of RAM
+https://www.tomshardware.com/pc-components/save-usd444-on-a-stellar-gaming-pc-combo-with-asus-prime-rtx-5070-ryzen-9850x3d-x870e-motherboard-and-32gb-of-ram-worlds-fastest-gaming-cpu-meets-copious-amount-of-ram
+5. 【终端/边缘】 Save $575 off this stellar gaming PC armed with a 16GB RTX 5060 Ti and 32GB of DDR5 memory — $1424.99 ABS Flux II Aqua Gaming PC prebuilt costs less than some of its parts
+https://www.tomshardware.com/peripherals/gaming-mice/save-usd575-off-this-stellar-gaming-pc-armed-with-a-16gb-rtx-5060-ti-and-32gb-of-ddr5-memory-usd1424-99-abs-flux-ii-aqua-gaming-pc-prebuilt-costs-less-than-some-of-its-parts
+6. 【其他】 Senator at center of Utah AI data center debate gets physical, slaps phone out of reporter’s hand — reporter covering cases of harassment against his business
+https://www.tomshardware.com/tech-industry/artificial-intelligence/senator-at-center-of-utah-ai-data-center-debate-gets-physical-slaps-phone-out-of-reporters-hand-reporter-covering-cases-of-harassment-against-his-business
+
+🇨🇳 中国
+1. 【其他】 消息称三星存储器部门劳资谈判现转机：管理层同意 10% 奖金方案并写入制度
+https://www.ithome.com/0/947/988.htm
+2. 【其他】 文件称微软一度担心 OpenAI 会投奔亚马逊，还会“污蔑”Azure
+https://www.ithome.com/0/947/987.htm
+3. 【其他】 安全公司曝光黑客架设山寨 Claude AI 网站，散播 Beagle 新型恶意木马
+https://www.ithome.com/0/947/981.htm
+4. 【其他】 火山引擎携手中国移动，首创机密模型服务新模式
+https://www.leiphone.com/category/industrynews/qMyCzGke8pn9Ddrk.html
+5. 【芯片/算力】 紫光展锐发布端边 AI 芯片平台 N9 系列：4nm 工艺，Arm v9.2 CPU
+https://www.ithome.com/0/947/978.htm
+6. 【其他】 小米汽车详解“OTA 首批体验招募活动”：后续新版本将重新开放招募
+https://www.ithome.com/0/947/976.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
