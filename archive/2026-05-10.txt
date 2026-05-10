@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-10（抓取 2026-05-09）
+
+🌍 全球
+1. 【其他】 FCC reverses course, allows software updates for foreign-made drones and routers until 2029 — agency says blocking security patches could create cybersecurity risks
+https://www.tomshardware.com/networking/routers/fcc-reverses-course-allows-software-updates-for-foreign-made-drones-and-routers-until-2029-agency-says-blocking-security-patches-could-create-cybersecurity-risks
+2. 【终端/边缘】 Maryland citizens slapped with $2 billion power grid upgrade bill for out-of-state AI data centers — state complains to federal energy regulators, says additional cost breaks ‘ratepayer protection pledge’ promises
+https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises
+3. 【其他】 These great digital gifts will arrive just in time for Mother’s Day
+https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026
+4. 【其他】 Cloudflare cuts 20% of its jobs due to AI, and its stock takes a 19% spill — 1,100 jobs disappearing as company increased usage of AI sixfold over past months
+https://www.tomshardware.com/tech-industry/big-tech/cloudflare-cuts-20-percent-of-its-jobs-due-to-ai-and-its-stock-takes-a-19-percent-spill-1-100-jobs-disappearing-as-company-increased-usage-of-ai-sixfold-over-past-months
+5. 【其他】 Save $290 on this Ryzen 7 9800X3D, 32GB DDR5, Samsung 9100 Pro 1TB combo from Newegg — $949.99 bundle includes free 750W power supply and one-year VPN subscription
+https://www.tomshardware.com/pc-components/save-usd290-on-this-ryzen-7-9800x3d-32gb-ddr5-samsung-9100-pro-1tb-combo-from-newegg-usd949-99-bundle-includes-free-750w-power-supply-and-one-year-vpn-subscription
+6. 【终端/边缘】 Best budget gaming laptops of 2026: The best cheap laptops we've tested and benchmarked
+https://www.tomshardware.com/laptops/gaming-laptops/best-budget-gaming-laptops
+
+🇨🇳 中国
+1. 【机器人】 两台 Figure AI 人形机器人大秀新技能：不到两分钟铺好一张床
+https://www.ithome.com/0/948/378.htm
+2. 【其他】 预售价区间 45 万-50 万元，比亚迪腾势 N9 闪充版 5 月 18 日上市
+https://www.ithome.com/0/948/377.htm
+3. 【机器人】 韩国人形机器人皈依我佛
+https://www.solidot.org/story?sid=84257
+4. 【其他】 北京奔驰国产 GLE L 申报：轴距加长至 3115mm，车长 5051mm
+https://www.ithome.com/0/948/375.htm
+5. 【其他】 预售 66.98 万元起，鸿蒙智行全新一代问界 M9 Ultimate 领世加长版申报
+https://www.ithome.com/0/948/374.htm
+6. 【其他】 奕境 X9 申报图公布：东风、华为乾崑合作大六座 SUV
+https://www.ithome.com/0/948/371.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
