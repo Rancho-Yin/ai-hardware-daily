@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-11（抓取 2026-05-10）
+
+🌍 全球
+1. 【其他】 AMD's excellent Radeon RX 9070 with 16 GB of VRAM hits all-time low pricing — PowerColor Hellhound variant is 23% off list price
+https://www.tomshardware.com/pc-components/amds-excellent-radeon-rx-9070-with-16-gb-of-vram-hits-all-time-low-pricing-powercolor-hellhound-variant-is-23-percent-off-list-price
+2. 【机器人】 MIT researchers revive 40-year-old triangular zipper concept now made possible by 3D printing, creates shape-shifting robots and deployable structures — 3D-printed 'Y-Zipper' turns floppy tentacles into rigid beams in seconds
+https://www.tomshardware.com/3d-printing/mit-researchers-revive-40-year-old-triangular-zipper-concept-now-made-possible-by-3d-printing-creates-shape-shifting-robots-and-deployable-structures-3d-printed-y-zipper-turns-floppy-tentacles-into-rigid-beams-in-seconds
+3. 【其他】 Former Epic director is building a European rival to the Unreal and Unity game engines — 'The Immense Engine' dev sees opportunity for AI agents to 'do the work of ten or fifteen people'
+https://www.tomshardware.com/software/developer-tools/former-epic-director-is-building-a-european-rival-to-the-unreal-and-unity-game-engines-the-immense-engine-dev-sees-opportunity-for-ai-agents-to-do-the-work-of-ten-or-fifteen-people
+4. 【其他】 Cricut’s $99 craft cutting machine helped me feel creative again
+https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on
+5. 【其他】 China's Hanyuan-2 debuts as 'world's first' dual-core quantum computer — 200-qubit claims incredible power efficiency, but lacks critical performance benchmarks
+https://www.tomshardware.com/tech-industry/quantum-computing/china-claims-worlds-first-dual-core-quantum-computer
+6. 【其他】 3DMakerPro Toucan 3D Scanner review: All-in-one 3D scanning
+https://www.tomshardware.com/3d-printing/3d-scanning/3dmakerpro-toucan-3d-scanner-review
+
+🇨🇳 中国
+1. 【其他】 古尔曼：苹果 iOS / macOS 27 的 Safari 浏览器将引入 AI 自动整理标签页功能
+https://www.ithome.com/0/948/556.htm
+2. 【其他】 奇瑞捷途纵横 F700 皮卡完成申报：插混动力，轴距 3350mm
+https://www.ithome.com/0/948/555.htm
+3. 【芯片/算力】 任正非罕见出镜：华为芯片基础技术研究实验室亮相《新闻联播》
+https://www.ithome.com/0/948/553.htm
+4. 【其他】 华为官网确认：畅连 App「实时对讲」功能后续将支持部分机型无网状态使用，此前已有用户内测体验
+https://www.ithome.com/0/948/548.htm
+5. 【其他】 微信鸿蒙版 App 全面“回归”华为 HiCar 车机端，适配更多尺寸 / 比例屏幕
+https://www.ithome.com/0/948/547.htm
+6. 【终端/边缘】 昆仑万维董事长方汉：豆包手机没有渠道，出生第一天就注定必然失败
+https://www.ithome.com/0/948/546.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
