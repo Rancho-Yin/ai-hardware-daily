@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-12（抓取 2026-05-11）
+
+🌍 全球
+1. 【终端/边缘】 Best gaming and productivity laptop deals under $1,000 — beat rising laptop prices with these refreshing deals
+https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-and-productivity-laptop-deals-under-1-000
+2. 【芯片/算力】 Samsung holds desperate final talks with union over 18-day chip factory strike that could cost $20 billion — government-mediated summit seeks to avert industrial action that could hit HBM production
+https://www.tomshardware.com/tech-industry/samsung-and-union-resume-talks-10-days-before-planned-18-day-chip-factory-strike
+3. 【其他】 The tech industry is moving faster than ever. Keep up with Tom’s Hardware Premium, available from just $7 per month
+https://www.tomshardware.com/tech-industry/the-tech-industry-is-moving-faster-than-ever-keep-up-with-toms-hardware-premium-available-from-just-usd7-per-month
+4. 【其他】 Arm's $2 billion in AGI CPU sales are still not enough to penetrate 5% of overall market share, analyst reveals — at least $90 million worth of CPUs to be shipped before FY2027
+https://www.tomshardware.com/pc-components/cpus/arms-usd2-billion-in-agi-cpu-sales-are-still-not-enough-to-penetrate-5-percent-of-overall-market-share-analyst-reveals-at-least-usd90-million-worth-of-cpus-to-be-shipped-before-fy2027
+5. 【其他】 AI data center developers target rural territory to bypass city construction bans and regulations — rural locations allow sites to bypass city council approvals, rezoning votes, land-use reviews, and reduce public scrutiny
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-data-center-developers-target-rural-territory-to-bypass-city-construction-bans-and-regulations-rural-locations-allow-sites-to-bypass-city-council-approvals-rezoning-votes-land-use-reviews-and-reduce-public-scrutiny
+6. 【芯片/算力】 Intel, SK hynix shares surge following reports of chip packaging partnership — SK is said to be testing Intel's 2.5D EMIB for HBM integration
+https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership
+
+🇨🇳 中国
+1. 【其他】 SpaceXAI 组建进行时，马斯克已提交商标注册申请
+https://www.ithome.com/0/949/033.htm
+2. 【其他】 菲尔兹奖得主亲测 ChatGPT 5.5 Pro：17 分钟出论文级成果，替学生拉响红色警报
+https://www.ithome.com/0/949/032.htm
+3. 【其他】 MiniMax 启动“10x Team”合作计划，提供无限的 Token
+https://www.ithome.com/0/949/029.htm
+4. 【其他】 领克 07 GT 旅行车蓝色外观公布，配备专属运动套件
+https://www.ithome.com/0/949/028.htm
+5. 【其他】 OpenAI 豪掷 40 亿美元成立新公司，要帮企业部署 AI
+https://www.ithome.com/0/949/027.htm
+6. 【其他】 消息称 AMD 准备推出 Radeon RX 9050 8GB 显卡
+https://www.ithome.com/0/949/026.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
