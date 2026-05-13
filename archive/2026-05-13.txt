@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-13（抓取 2026-05-12）
+
+🌍 全球
+1. 【其他】 Trump administration reportedly debating ban on Chinese cellular modules in expansion of FCC crackdown — potential restrictions could impact everything from smart devices and routers to connected cars and industrial IoT systems
+https://www.tomshardware.com/tech-industry/trump-administration-reportedly-debating-ban-on-chinese-cellular-modules-in-expansion-of-fcc-crackdown-potential-restrictions-could-impact-everything-from-smart-devices-and-routers-to-connected-cars-and-industrial-iot-systems
+2. 【芯片/算力】 TSMC allocates $20 billion to Arizona expansion — project faces water and labor shortages, complicated by visa rules
+https://www.tomshardware.com/tech-industry/semiconductors/tsmc-allocates-usd20-billion-to-arizona-expansion-project-faces-water-and-labor-shortages-complicated-by-visa-rules
+3. 【其他】 Jensen Huang snubbed by White House for President Trump’s China state visit — Nvidia CEO not on roster, which includes Apple's Tim Cook and Elon Musk
+https://www.tomshardware.com/tech-industry/jensen-huang-snubbed-by-white-house-for-president-trumps-china-state-visit-nvidia-ceo-not-on-roster-which-includes-apples-tim-cook-and-elon-musk
+4. 【其他】 Amazon employees admit to using AI unnecessarily to pump up internal usage scores — workers complain of intense pressure to use AI tools
+https://www.tomshardware.com/tech-industry/big-tech/big-tech-has-a-tokenmaxxing-habit
+5. 【其他】 Compromised Mistral AI and TanStack packages may have exposed GitHub, cloud and CI/CD credentials in 'mini Shai Hulud' malware infection — supply-chain campaign spreads across npm and AI developer ecosystems like wildfire
+https://www.tomshardware.com/tech-industry/cyber-security/compromised-mistral-ai-and-tanstack-packages-may-have-exposed-github-cloud-and-ci-cd-credentials-in-mini-shai-hulud-malware-infection-supply-chain-campaign-spreads-across-npm-and-ai-developer-ecosystems-like-wildfire
+6. 【终端/边缘】 Dell SupportAssist update is crashing PCs with constant blue screens and reboot loops — the boot service built for system recovery is the culprit of unending instability
+https://www.tomshardware.com/software/windows/dell-supportassist-update-is-crashing-pcs-with-constant-blue-screens-and-reboot-loops
+
+🇨🇳 中国
+1. 【其他】 美光向合作伙伴交付 256GB DDR5 RDIMM 内存样品：基于 1-gamma 技术，9200 MT/s 速率
+https://www.ithome.com/0/949/537.htm
+2. 【其他】 OpenAI 前 CTO 的创业模型首秀，与面壁智能「撞车」了
+https://www.leiphone.com/category/industrynews/jwMxsiSwMNl3Wmju.html
+3. 【其他】 乐橙×火山引擎：给安防注入AI能力，让监控从“被动记录”进化为“主动思考”
+https://www.leiphone.com/category/industrynews/SaxKkVxHTp7fQEq9.html
+4. 【机器人】 普罗宇宙机器人全球合作伙伴大会启幕，正式发布全域共生生态战略
+https://www.leiphone.com/category/industrynews/i0S6E3PbvdhtjDhl.html
+5. 【其他】 Digg 再次尝试重启，将转向 AI 新闻聚合
+https://www.solidot.org/story?sid=84277
+6. 【机器人】 对话简智朱雁鸣：不卷模型卷基建，具身智能核心是读懂人的数据
+https://www.leiphone.com/category/robot/vNZuXhOJsA0EWTuG.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
