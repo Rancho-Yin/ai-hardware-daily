@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-14（抓取 2026-05-13）
+
+🌍 全球
+1. 【其他】 Asus Prime Z890-P Wifi Motherboard Review: Primed and ready for your Core Ultra processor
+https://www.tomshardware.com/pc-components/motherboards/asus-prime-z890-p-wifi-motherboard-review
+2. 【芯片/算力】 Japanese chemical giant JSR expands to Taiwan for EUV photoresist production near TSMC — plant to fill missing chemical link to scale EUV materials
+https://www.tomshardware.com/tech-industry/jsr-builds-first-taiwan-photoresist-plant-as-japanese-materials-makers-race-to-embed-next-to-tsmc
+3. 【其他】 $1,260 off a Sandisk 8TB external SSD is a deal you can't ignore at 11 cents per gigabyte — pro storage at blistering 1GB/s speeds for $739
+https://www.tomshardware.com/pc-components/external-ssds/usd1-260-off-a-sandisk-8tb-external-ssd-is-a-deal-you-cant-ignore-at-11-cents-per-gigabyte-pro-storage-at-blistering-1gb-s-speeds-for-usd739
+4. 【其他】 AMD expands its Ryzen 9000 PRO lineup with six new SKUs, now featuring 3D V-Cache for the first time — new workstation CPUs have up to 170W TDPs, available with OEMs later this year
+https://www.tomshardware.com/pc-components/cpus/amd-expands-its-ryzen-9000-pro-lineup-with-six-new-skus-now-featuring-3d-v-cache-for-the-first-time-new-workstation-cpus-have-up-to-170w-tdps-available-with-oems-later-this-year
+5. 【终端/边缘】 Grab a big $250 savings on this RTX 5070 Ti and 9850X3D combo deal for your next 4K gaming PC build — Newegg discount brings together one of AMD's fastest X3D gaming CPUs for just $1,264
+https://www.tomshardware.com/pc-components/grab-a-big-usd250-savings-on-this-rtx-5070-ti-and-9850x3d-combo-deal-for-your-next-4k-gaming-pc-build-newegg-discount-brings-together-one-of-amds-fastest-x3d-gaming-cpus-for-just-usd1-264
+6. 【芯片/算力】 Samsung's critical union negotiations break down eight days before planned 18-day chip factory strike that's projected to cost $700 million per day — Korean PM calls emergency meeting as strike looms
+https://www.tomshardware.com/tech-industry/samsungs-last-ditch-union-talks-collapse-eight-days-before-planned-18-day-chip-factory-strike
+
+🇨🇳 中国
+1. 【其他】 美国左右派都对 AI 表示担忧
+https://www.solidot.org/story?sid=84289
+2. 【其他】 美联储：AI 使用者更倾向于认为其会助力职业发展，而非替代自己
+https://www.ithome.com/0/950/072.htm
+3. 【其他】 法国一公司推出《刺客信条：黑旗》重制版主题现实寻宝活动，奖品价值 50 万美元
+https://www.ithome.com/0/950/071.htm
+4. 【其他】 中国科学家成功研制“九章四号”量子计算原型机
+https://www.ithome.com/0/950/070.htm
+5. 【其他】 微软承认：用户手动安装的最新显卡驱动会被 Win11 更新换回老版本
+https://www.ithome.com/0/950/069.htm
+6. 【其他】 34.4% vs 32.3%，数据显示 Anthropic 商业客户数首次反超 OpenAI
+https://www.ithome.com/0/950/068.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
