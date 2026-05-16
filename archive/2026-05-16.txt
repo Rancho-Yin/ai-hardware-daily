@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-16（抓取 2026-05-15）
+
+🌍 全球
+1. 【其他】 Google floats reduced initial 5GB free cloud storage limit, users claim — 15GB to require extra security measures, company confirms it is 'testing a new storage policy for new accounts'
+https://www.tomshardware.com/software/cloud-storage/google-floats-reduced-initial-5gb-free-cloud-storage-limit-users-claim-15gb-to-require-extra-security-measures-company-confirms-it-is-testing-a-new-storage-policy-for-new-accounts
+2. 【其他】 Pennsylvania residents complain they are being 'bulldozed' over AI data center concerns — lambast Gov. Shapiro in two-hour town hall, say he is losing support base
+https://www.tomshardware.com/tech-industry/big-tech/pennsylvania-residents-complain-they-are-being-bulldozed-over-ai-data-center-concerns-lambast-gov-shapiro-in-two-hour-town-hall-say-he-is-losing-support-base
+3. 【芯片/算力】 Trump says China is blocking Nvidia H200 purchases despite US approval — says country 'chose not to' sanction purchases, pushing homegrown chips instead
+https://www.tomshardware.com/tech-industry/trump-says-china-is-blocking-h200-purchases
+4. 【数据中心】 Save a huge $229 on a two-year NordVPN subscription and get three extra months free — massive 73% saving for privacy-focused VPN with no-logs policy unlocks access to over 7400 servers across 118 different countries for just $83
+https://www.tomshardware.com/software/vpn/save-a-huge-usd229-on-a-two-year-nordvpn-subscription-and-get-three-extra-months-free-massive-73-percent-saving-for-privacy-focused-vpn-with-no-logs-policy-unlocks-access-to-over-7400-servers-across-118-different-countries-for-just-usd83
+5. 【芯片/算力】 Samsung starts winding down chip production six days before planned 18-day strike — company enters 'emergency management mode,' daily losses could hit $2 billion
+https://www.tomshardware.com/tech-industry/samsung-starts-winding-down-chip-producton-six-days-before-planned-18-day-strike
+6. 【终端/边缘】 Acer's monster 18-inch Predator Helios Neo 18 AI gaming laptop drops to $1799 — save $400 on this 5070 Ti desktop replacement
+https://www.tomshardware.com/laptops/gaming-laptops/acers-monster-18-inch-predator-helios-neo-18-ai-gaming-laptop-drops-to-usd1799-save-usd400-on-this-5070-ti-desktop-replacement
+
+🇨🇳 中国
+1. 【其他】 中欧合作揭示地球磁场的形状
+https://www.solidot.org/story?sid=84310
+2. 【其他】 消息称上汽奥迪 AUDI E7X 原计划售 42 万-61 万元，后续将推行政属性 C 级轿车
+https://www.ithome.com/0/951/146.htm
+3. 【其他】 英国对 MS Office 涉嫌垄断展开调查
+https://www.solidot.org/story?sid=84309
+4. 【数据中心】 英国多部门联合警告：当前最先进 AI 模型网络攻击能力已远超专业人员，企业应做好防范措施
+https://www.ithome.com/0/951/144.htm
+5. 【其他】 瑞安 · 雷诺兹新片《Mayday》官宣：间谍惊悚喜剧，9 月上线苹果 Apple TV
+https://www.ithome.com/0/951/143.htm
+6. 【其他】 中国一汽悦意 08 全球首台量产车下线，本月底开启预售
+https://www.ithome.com/0/951/142.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
