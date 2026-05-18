@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-18（抓取 2026-05-17）
+
+🌍 全球
+1. 【芯片/算力】 ASML to equip India’s first commercial chip fab — $11 billion Dholera project targets 50,000 wafers a month
+https://www.tomshardware.com/tech-industry/asml-partners-with-tata-electronics-to-equip-indias-first-commercial-semiconductor-fab
+2. 【其他】 LinkedIn user hides AI prompt injection in bio to force recruitment spam to be sent in Olde English prose — bots also manipulated to address user as ‘My Lord’
+https://www.tomshardware.com/tech-industry/artificial-intelligence/linkedin-recruitment-spam-becomes-olde-english-prose-after-user-hides-ai-prompt-injection-in-bio-bots-also-also-manipulated-to-address-user-as-my-lord
+3. 【其他】 Fujifilm’s X Half is even more whimsical with a $300 price cut
+https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale
+4. 【机器人】 ElliQ is a surprisingly helpful companion robot for older adults
+https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on
+5. 【其他】 Russia’s Mikron is selling framed test wafers with up to 120,000 processors as souvenirs — 12 designs, priced around $170 each, sold alongside $2 vials of cleanroom air
+https://www.tomshardware.com/tech-industry/semiconductors/russias-mikron-is-selling-framed-test-wafers-with-up-to-120-000-processors-as-souvenirs-12-designs-priced-around-usd170-each-sold-alongside-usd2-vials-of-cleanroom-air
+6. 【其他】 Chatbots at the drive-thru are just the beginning
+https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys
+
+🇨🇳 中国
+1. 【其他】 Eric Sc​​hmidt 在毕业典礼上谈 AI 收到了学生的嘘声
+https://www.solidot.org/story?sid=84320
+2. 【终端/边缘】 调查显示六成 PC 玩家未来两年没有升级 PC 的计划
+https://www.solidot.org/story?sid=84319
+3. 【其他】 古尔曼：苹果 iOS 27 将引入智能推荐 Genmoji 功能，基于相册照片与输入记录自动生成表情
+https://www.ithome.com/0/951/580.htm
+4. 【其他】 古尔曼：全新苹果 Siri 支持自动删除聊天记录功能
+https://www.ithome.com/0/951/579.htm
+5. 【数据中心】 上海移动宣布 5G-A 超级上行网络能力规模商用，推出 1 元 40 万 Tokens 通用服务
+https://www.ithome.com/0/951/578.htm
+6. 【其他】 618 预热大促 18 日大加码：AirPods 4 / Pro 3 官方 636 元起 7 天免费用，30 秒速读 518 攻略
+https://www.ithome.com/0/951/577.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
