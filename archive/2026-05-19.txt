@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-19（抓取 2026-05-18）
+
+🌍 全球
+1. 【数据中心】 China says 'world's first' offshore wind-powered underwater data center has entered full operation, houses 2,000 servers — 24 megawatt subsea AI facility uses ocean water for passive cooling and offshore wind for power
+https://www.tomshardware.com/tech-industry/china-says-worlds-first-offshore-wind-powered-underwater-data-center-has-entered-full-operation-houses-2-000-servers-24-megawatt-subsea-ai-facility-uses-ocean-water-for-passive-cooling-and-offshore-wind-for-power
+2. 【其他】 Linus Torvalds says flood of duplicate AI-generated vulnerability reports have made Linux security mailing list 'almost entirely unmanageable' — private list 'a waste of time for everybody involved' in switch to new public system
+https://www.tomshardware.com/software/linux/linus-torvalds-says-ai-bug-reports-have-made-the-linux-security-mailing-list-almost-entirely-unmanageable
+3. 【芯片/算力】 AMD's flagship RX 9070 XT GPU hits an all-time low $629 in Amazon lightning sale — Gigabyte's Gaming OC graphics card now $110 off
+https://www.tomshardware.com/pc-components/gpus/amds-flagship-rx-9070-xt-gpu-hits-an-all-time-low-usd629-in-amazon-lightning-sale-gigabytes-gaming-oc-graphics-card-now-usd110-off
+4. 【其他】 Samsung granted court injunction against imminent strike action in last-minute reprieve — talks resume as unions barred from occupying or locking facilities, obstructing workers
+https://www.tomshardware.com/tech-industry/samsung-granted-court-injunction-against-imminent-strike-action-in-last-minute-reprieve-talks-resume-as-unions-barred-from-occupying-or-locking-facilities-obstructing-workers
+5. 【芯片/算力】 Samsung meeting transcripts show memory workers offered incredible 607% bonus worth $477,000, while logic chip staff get as little as 50% — union says misbalance 'creates a retention crisis the company cannot afford'
+https://www.tomshardware.com/tech-industry/leaked-samsung-meeting-transcripts-show-memory-workers-offered-607-percent-bonus
+6. 【其他】 Enthusiast crams reversed-engineered PS2 into a handheld, designs custom motherboard — bespoke "PlayStation 2 Portable" pairs modern features with original silicon
+https://www.tomshardware.com/video-games/handheld-gaming/enthusiast-crams-reversed-engineered-ps2-into-a-handheld-designs-custom-motherboard-bespoke-playstation-2-portable-pairs-modern-features-with-original-silicon
+
+🇨🇳 中国
+1. 【机器人】 何小鹏：小鹏 Robotaxi 将在广州开启示范运营
+https://www.ithome.com/0/952/038.htm
+2. 【其他】 伊朗要求通过霍尔木兹海峡的海底光缆付费
+https://www.solidot.org/story?sid=84332
+3. 【其他】 20万级满配运动SUV昊铂S600开启预售，权益价18.89万起
+https://www.leiphone.com/category/industrynews/yne3Fm0PxYViXV0g.html
+4. 【终端/边缘】 16+1T 3999 元：REDMI K90 Pro Max 手机直降，骁龙 8 Gen5 至尊版 + Bose 调音
+https://www.ithome.com/0/952/034.htm
+5. 【终端/边缘】 微软将修改 Edge 加载密码的方式
+https://www.solidot.org/story?sid=84331
+6. 【其他】 百度2026年Q1：总营收321亿元 AI业务占比达52%
+https://www.leiphone.com/category/industrynews/WJpPWsLeXYUvPFEn.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
