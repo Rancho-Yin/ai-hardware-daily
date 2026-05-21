@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-21（抓取 2026-05-20）
+
+🌍 全球
+1. 【其他】 Samsung and SK Hynix employees are reportedly abandoning overseas training programs to nab up to $400,000 performance bonuses — online dating grades rise as female members 'seeking out SK hynix employees'
+https://www.tomshardware.com/tech-industry/big-tech/samsung-and-sk-hynix-employees-are-reportedly-abandoning-overseas-training-programs-to-nab-up-to-usd400-000-performance-bonuses-online-dating-grades-rise-as-female-members-seeking-out-sk-hynix-employees
+2. 【芯片/算力】 Russia's Sberbank wants Chinese chips for its GigaChat AI in the face of Western sanctions — faces a long wait behind ByteDance and Alibaba
+https://www.tomshardware.com/tech-industry/artificial-intelligence/russias-sberbank-wants-chinese-chips-for-its-gigachat-ai
+3. 【其他】 Intel kicks off development on next-decade 10A and 7A process technologies — 14A node remains on track for critical October PDK release
+https://www.tomshardware.com/tech-industry/semiconductors/intel-kicks-off-development-on-next-decade-10a-and-7a-process-technologies-14a-node-remains-on-track-for-critical-october-pdk-release
+4. 【芯片/算力】 China banned Nvidia 5090D V2 while CEO Jensen Huang was in town, report claims — move comes as Beijing pushes its AI tech companies to use homegrown chips
+https://www.tomshardware.com/tech-industry/china-banned-nvidia-5090d-v2-while-ceo-jensen-huang-was-in-town-report-claims-move-comes-as-beijing-pushes-its-ai-tech-companies-to-use-homegrown-chips
+5. 【终端/边缘】 Grab the RX 9070 XT for just $504, $95 below its MSRP, in this Newegg combo deal with the 9850X3D — epic discount on high spec AMD parts for a 4K gaming PC saves you nearly $200 in total
+https://www.tomshardware.com/pc-components/grab-the-rx-9070-xt-for-just-usd504-usd95-below-its-msrp-in-this-newegg-combo-deal-with-the-9850x3d-epic-discount-on-high-spec-amd-parts-for-a-4k-gaming-pc-saves-you-nearly-usd200-in-total
+6. 【终端/边缘】 Hacker group hits 3,800 internal GitHub repositories via poisoned developer plugin — TeamPCP claims source code theft and attempts $50,000 sale, employee installed malicious VS Code extension
+https://www.tomshardware.com/tech-industry/cyber-security/hacker-group-hits-3-800-internal-github-repositories-via-poisoned-developer-plugin-teampcp-claims-source-code-theft-and-attempts-usd50-000-sale-employee-installed-malicious-vs-code-extension
+
+🇨🇳 中国
+1. 【其他】 Stability AI 推出音频模型 Stability Audio 3.0，可生成最长 6 分钟专业级歌曲
+https://www.ithome.com/0/953/086.htm
+2. 【其他】 1 分钟速通 618·521 攻略：线上线下发票随手一抽都是钱，小米 G100 智能门锁 358 元探底
+https://www.ithome.com/0/953/084.htm
+3. 【其他】 赣锋锂业：400Wh/kg 固态电池循环寿命突破 1100 次，500Wh/kg 级 10Ah 产品小批量量产
+https://www.ithome.com/0/953/082.htm
+4. 【其他】 三星电子与工会达成共识：半导体部门 10.5% 营业利润作为绩效奖励发放，不设上限
+https://www.ithome.com/0/953/081.htm
+5. 【终端/边缘】 【IT之家开箱】iQOO 15T 手机图赏：首发天玑 9500 Monster 旗舰芯，升级 8000mAh 电池
+https://www.ithome.com/0/953/078.htm
+6. 【其他】 《天国：拯救》开发商 Warhorse 官宣新作：《指环王》主题 RPG 游戏
+https://www.ithome.com/0/953/077.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
