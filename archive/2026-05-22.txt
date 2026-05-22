@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-22（抓取 2026-05-21）
+
+🌍 全球
+1. 【芯片/算力】 Nvidia's memory costs soar 485%, latest AI systems now cost $7.8 million to build — memory now comprises 25% of the total cost, Rubin GPUs a mere $50,000 apiece
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece
+2. 【芯片/算力】 EU forced to exempt banned Chinese chipmaker after auto industry warns of supply crisis — European car factories warn of imminent supply chain collapse
+https://www.tomshardware.com/tech-industry/eu-moves-to-exempt-sanctioned-chinese-chipmaker-after-auto-industry-warns-of-weeks-long-supply-crisis
+3. 【芯片/算力】 Samsung reportedly set to distribute up to $26.6 billion to staff in AI-driven semiconductor bonuses after last-minute union deal — average payouts could approach $400,000 per chip employee
+https://www.tomshardware.com/tech-industry/big-tech/samsung-reportedly-set-to-distribute-up-to-usd26-6-billion-to-staff-in-ai-driven-semiconductor-bonuses-after-last-minute-union-deal-average-payouts-could-approach-usd400-000-per-chip-employee
+4. 【芯片/算力】 Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling — hunts three fugitives for document forgery, fraudulent declarations in Super Micro smuggling case
+https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case
+5. 【其他】 Get up to 25% off Herman Miller gaming chairs and desks in this Memorial Day Sale — save hundreds on premium office hardware
+https://www.tomshardware.com/peripherals/gaming-chairs/get-up-to-25-percent-herman-miller-gaming-chairs-and-desks-in-this-memorial-day-sale-save-hundreds-on-premium-office-hardware
+6. 【其他】 The custom AI ASIC state of play (May 2026) — Broadcom deals, Google TPUs, Meta MTIA & beyond
+https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia
+
+🇨🇳 中国
+1. 【其他】 蔚来李斌：汽车行业材料成本压力非常大，将保持价格稳定
+https://www.ithome.com/0/953/667.htm
+2. 【其他】 Epic 喜加二：《逃出百慕大》《古墓丽影 1-3 复刻版》游戏免费领
+https://www.ithome.com/0/953/665.htm
+3. 【其他】 摩根大通未来将扩招 AI 专家、缩招传统银行家，迎战人工智能时代
+https://www.ithome.com/0/953/664.htm
+4. 【芯片/算力】 消息称某厂 7 英寸 2K 大屏性能机测试天玑 9 系芯片，预计为小米旗下
+https://www.ithome.com/0/953/663.htm
+5. 【机器人】 自动驾驶车辆因洪水被困，Waymo 暂停亚特兰大地区 Robotaxi 服务
+https://www.ithome.com/0/953/661.htm
+6. 【其他】 英伟达 GeForce NOW 更新：终级会员 5 月 27 日可获《007：初露锋芒》
+https://www.ithome.com/0/953/651.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
