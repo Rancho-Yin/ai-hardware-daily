@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-23（抓取 2026-05-22）
+
+🌍 全球
+1. 【其他】 Chinese memory maker CXMT enters mainstream consumer memory with Corsair Vengeance DDR5 kit — Chinese-made DRAM emerges as an antidote for crushing shortages
+https://www.tomshardware.com/pc-components/ddr5/chinese-memory-maker-cxmt-enters-the-mainstream-consumer-memory-with-corsair-vengeance-ddr5-kit-chinese-made-dram-emerges-as-an-antidote-for-crushing-shortages
+2. 【其他】 Meta data center allegedly muddies Georgia town's drinking water, investigation underway — EPA promises immediate investigation after congresswoman brings dirty jars of water to hearing
+https://www.tomshardware.com/tech-industry/big-tech/meta-data-center-allegedly-muddies-georgia-towns-drinking-water-investigation-underway-epa-promises-immediate-investigation-after-congresswoman-brings-dirty-jars-of-water-to-hearing
+3. 【其他】 Save up to $300 on a new 3D printer right now, thanks to these Memorial Day deals — filament and resin 3DP deals from Bambu Lab, Elegoo, Creality, and more are perfect for beginners and pros
+https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-usd300-on-a-new-3d-printer-right-now-thanks-to-these-memorial-day-discounts-filament-and-resin-3dp-deals-from-bambu-lab-elegoo-creality-and-more-are-perfect-for-beginners-and-pros
+4. 【其他】 After a year, Firefox finally stops crashing on Intel's Raptor Lake CPUs — Mozilla releases new version patch critical flaw on Intel 13th-gen and 14th-gen CPUs
+https://www.tomshardware.com/software/mozilla-firefox/after-a-year-firefox-finally-stops-crashing-on-intels-raptor-lake-cpus-mozilla-releases-new-version-patch-critical-flaw-on-intel-13th-gen-and-14th-gen-cpus
+5. 【数据中心】 Analyst says Nvidia poised to capture two-thirds of the x86 server CPU market from Intel and AMD with expected $20 billion in revenue — 'Nvidia is already on track'to deliver 4 million Vera CPUs in FY2027
+https://www.tomshardware.com/pc-components/cpus/analyst-says-nvidia-poised-to-capture-two-thirds-of-the-x86-server-cpu-market-from-intel-and-amd-with-expected-usd20-billion-in-revenue-nvidia-is-already-on-track-to-deliver-4-million-vera-cpus-in-fy2027
+6. 【芯片/算力】 AI is starting to out-design chip engineers in narrow areas as LLMs accelerate software chip design tool development — "There is still a lot of human guidance" says Berkley researcher
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-starting-to-out-design-chip-engineers-in-narrow-areas-as-llms-accelerate-software-chip-design-tool-development-there-is-still-a-lot-of-human-guidance-says-berkley-researcher
+
+🇨🇳 中国
+1. 【其他】 2099 元，中兴 G5 Pro 高性能版 5G 移动路由器 CPE 将于 5 月 28 日开售
+https://www.ithome.com/0/954/221.htm
+2. 【其他】 鸿蒙智行全新一代问界 M9 系列旗舰 SUV 选配信息大公开，Ultimate 领世加长版大满配价格逼近百万
+https://www.ithome.com/0/954/220.htm
+3. 【其他】 美光弗州 1α DRAM 产线投产，保障美国 (LP) DDR4 内存供应
+https://www.ithome.com/0/954/217.htm
+4. 【其他】 微软 35 年老将优素福 · 迈赫迪宣布离职，最后一年将协助 Windows 适应 Agent 时代
+https://www.ithome.com/0/954/215.htm
+5. 【终端/边缘】 全系降价后销量回升，消息称苹果 iPhone 17 系列手机中国区累积激活超 3 千万台
+https://www.ithome.com/0/954/212.htm
+6. 【其他】 Linus Torvalds 谈 AI
+https://www.solidot.org/story?sid=84376
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
