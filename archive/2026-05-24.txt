@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-24（抓取 2026-05-23）
+
+🌍 全球
+1. 【终端/边缘】 The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab
+https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech
+2. 【其他】 Here are 38 Memorial Day deals we recommend for $50 or less
+https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50
+3. 【芯片/算力】 Samsung's $400,000 payout for memory workers sparks revolt as other divisions get only $4,000, fueling intentional production slowdowns — internal resentment disrupts packaging operations, major AI chip project decisions to a complete halt
+https://www.tomshardware.com/tech-industry/samsungs-bonus-dispute-spreads-to-chip-packaging-divisions-threatening-hbm-delivery-schedules
+4. 【其他】 AI cost crisis hits tech giants as employee 'tokenmaxxing' backfires, sparking corporate pullback at Microsoft, Meta, and Amazon — agentic AI eats up to 1000x more tokens than standard AI
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon
+5. 【其他】 Hanging out in my favorite virtual coffee shop in Tokyo
+https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam
+6. 【芯片/算力】 Huawei develops 122TB SSD with new packaging tech to sidestep US sanctions on 3D NAND chips — Chinese firm develops proprietary tech to cram more NAND dies in a smaller footprint
+https://www.tomshardware.com/pc-components/ssds/huawei-introduces-122tb-ssd-without-using-sanctioned-3d-nand-chips-chinese-tech-firm-develops-proprietary-tech-to-cram-more-nand-dies-in-a-smaller-footprint
+
+🇨🇳 中国
+1. 【其他】 OpenAI 开出最高 44.5 万美元年薪招聘研究员，要求有品位、有策略性
+https://www.ithome.com/0/954/455.htm
+2. 【其他】 地平线：大众与众 06/07 车型年底将推出酷睿程高阶辅助驾驶版本
+https://www.ithome.com/0/954/453.htm
+3. 【其他】 消息称 Anthropic 最快下周完成逾 300 亿美元融资，有望推动估值反超 OpenAI
+https://www.ithome.com/0/954/452.htm
+4. 【其他】 微星推出 MAG 346CQDF E20 显示器：UWQHD 200Hz 双模，1500R 曲率
+https://www.ithome.com/0/954/450.htm
+5. 【其他】 撼与推出英特尔 Arc Pro B50 16GB Blower 显卡：单槽全高，4× DP
+https://www.ithome.com/0/954/445.htm
+6. 【其他】 4299 → 678 元低过闲鱼：追觅 H20 Ultra S 洗地机 3 期免息，无需联网操作
+https://www.ithome.com/0/954/444.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
