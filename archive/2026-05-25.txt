@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-25（抓取 2026-05-24）
+
+🌍 全球
+1. 【其他】 On Trails is a wandering tale that blends hiking, science, and history
+https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review
+2. 【其他】 Drone breaks world speed record with 453 mph in test run — exotic sawtooth carbon fiber propeller blades one of the key advances in the Blackbird design
+https://www.tomshardware.com/tech-industry/drone-breaks-world-speed-record-with-453-mph-in-test-run-exotic-sawtooth-carbon-fiber-propeller-blades-one-of-the-key-advances-in-the-blackbird-design
+3. 【其他】 Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day
+https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale
+4. 【芯片/算力】 After $2.5 billion Supermicro smuggling bust, Nvidia CEO urges company to fix export control compliance — Taiwan also begins to crack down on AI GPU chip smuggling to China
+https://www.tomshardware.com/tech-industry/jensen-huang-urges-super-micro-to-tighten-compliance
+5. 【终端/边缘】 Steam Machine appears in Vulkan’s conformant product database — upcoming Valve console is certified compliant with the graphics API
+https://www.tomshardware.com/video-games/console-gaming/steam-machine-appears-in-vulkans-conformant-product-database-upcoming-valve-console-is-certified-compliant-with-the-graphics-api
+6. 【其他】 We tested Advanced Shader Delivery on the RX 9070 XT in six games — up to 95% improvement in load times and 33 percent faster 1% Low FPS
+https://www.tomshardware.com/pc-components/gpus/we-tested-advanced-shader-delivery-on-the-rx-9070-xt
+
+🇨🇳 中国
+1. 【其他】 古尔曼：苹果 watchOS 27 更新将主要关注稳定性、较小优化，而不是引入重大新功能
+https://www.ithome.com/0/954/640.htm
+2. 【其他】 为遵守欧盟法规，古尔曼称苹果 iOS 27 将允许第三方投屏协议替代 AirPlay
+https://www.ithome.com/0/954/639.htm
+3. 【其他】 古尔曼：苹果 iOS 27 将大幅改进 AirPods 设置界面
+https://www.ithome.com/0/954/635.htm
+4. 【机器人】 中国移动机器人加速出海，4 月我国工业机器人出口量同比暴增 9 成
+https://www.ithome.com/0/954/633.htm
+5. 【其他】 别克至境 E7 上市首月交付破万，刷新合资新能源最快交付纪录
+https://www.ithome.com/0/954/632.htm
+6. 【其他】 超越《光环：无限》，《极限竞速：地平线 6》成 Steam 在线峰值最高 Xbox 游戏
+https://www.ithome.com/0/954/630.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
