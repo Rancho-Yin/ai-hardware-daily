@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-26（抓取 2026-05-25）
+
+🌍 全球
+1. 【其他】 Imec builds world's first High-NA EUV-fabricated quantum dot qubit device — breakthrough could pull quantum computing onto the same manufacturing roadmap as next-gen AI processors, compressing timelines
+https://www.tomshardware.com/tech-industry/semiconductors/imec-builds-worlds-first-high-na-euv-fabricated-quantum-dot-qubit-device-breakthrough-could-pull-quantum-computing-onto-the-same-manufacturing-roadmap-as-next-gen-ai-processors-compressing-timelines
+2. 【芯片/算力】 Testing GPU Safeguard+ on the MSI MPG Ai1600TS PSU – solution aims to tame melting 16-pin connectors
+https://www.tomshardware.com/pc-components/gpus/testing-gpu-safeguard-on-the-msi-mpg-ai1600ts-psu-solution-aims-to-tame-melting-16-pin-connectors
+3. 【芯片/算力】 Save up to $200 on a 13-inch or 15-inch MacBook Air with M5 chip and 16GB of RAM — Memorial Day discounts get you Apple's latest and best consumer laptop for as low as $899
+https://www.tomshardware.com/pc-components/save-up-to-usd200-on-a-13-inch-or-15-inch-macbook-air-with-m5-chip-and-16gb-of-ram-memorial-day-discounts-get-you-apples-latest-and-best-consumer-laptop-for-as-low-as-usd899
+4. 【其他】 Pope Leo calls for being ‘profoundly human’ in the age of AI
+https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare
+5. 【其他】 Here are our favorite last-minute deals from REI’s giant Anniversary Sale
+https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026
+6. 【其他】 Star Citizen reaches $1 billion in lifetime funding, 14 years after the project was first announced — game still in early access with no release window, including 'Squadron 42' campaign
+https://www.tomshardware.com/video-games/pc-gaming/star-citizen-reaches-usd1-billion-in-lifetime-funding-14-years-after-the-project-was-first-announced-game-still-in-early-access-with-no-release-window-including-squadron-42-campaign
+
+🇨🇳 中国
+1. 【其他】 小米汽车：YU7 GT 目前暂无登陆《跑车浪漫旅 7》游戏的计划
+https://www.ithome.com/0/955/074.htm
+2. 【其他】 小米米家洗衣机 Pro 波轮 10kg 开售：1.28 洗净比、9 重减震降噪，899 元
+https://www.ithome.com/0/955/073.htm
+3. 【终端/边缘】 Galaxy S26 Ultra 手机装上骑仕 V3 Pro 手柄，三星、雷蛇在中东及北非发起联动
+https://www.ithome.com/0/955/072.htm
+4. 【机器人】 33 岁智元机器人 CTO“稚晖君”彭志辉正式出任上纬新材公司董事长
+https://www.ithome.com/0/955/071.htm
+5. 【其他】 过河拆桥？扎克伯格一边计划裁员，一边称“让 Meta 员工参与训练 AI 效果更好”
+https://www.ithome.com/0/955/070.htm
+6. 【其他】 【IT之家开箱】OPPO Reno16 Pro 怦然星动图赏：3D 悬浮星球，辨识度拉满
+https://www.ithome.com/0/955/067.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
