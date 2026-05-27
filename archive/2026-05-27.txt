@@ -1,0 +1,30 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-27（抓取 2026-05-26）
+
+🌍 全球
+1. 【其他】 AMD leaves Linux FPGA users in the lurch with controversial Vivado licensing update — new tier model restricts future free versions to Windows
+https://www.tomshardware.com/software/linux/amd-leaves-linux-fpga-users-in-the-lurch-with-controversial-vivado-licensing-update-new-tier-model-restricts-future-free-versions-to-windows
+2. 【其他】 Saving for a Switch 2 is easier with Newegg’s gift card deal
+https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale
+3. 【其他】 Intel’s new Bartlett Lake flagship loses fight to a four-year-old CPU — Core 9 273PQE has 50% more P-cores but can't surpass Core i9-13900K in games
+https://www.tomshardware.com/pc-components/cpus/intels-new-bartlett-lake-flagship-loses-fight-to-a-four-year-old-cpu-core-9-273pqe-has-50-percent-more-p-cores-but-cant-surpass-core-i9-13900k-in-games
+4. 【其他】 Tryx launches new liquid AIO cooler with holographic display — uses beam splitters to create a hologram-like display effect inside the pump block
+https://www.tomshardware.com/pc-components/liquid-cooling/tryx-launches-new-liquid-aio-cooler-with-holographic-display-uses-beam-splitters-to-create-a-hologram-like-display-effect-inside-the-pump-block
+5. 【其他】 Arctic Freezer 36-S Review: Small size, effective performance, low price
+https://www.tomshardware.com/pc-components/air-cooling/arctic-freezer-36-s-review
+6. 【芯片/算力】 SK hynix unveils 'iHBM' thermal architecture that cools AI memory at the source — integrated cooling elements inside HBM interface cut thermal resistance by 30%, target next-gen HBM5 accelerators and dense AI data centers
+https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers
+
+🇨🇳 中国
+1. 【其他】 在内存天价时代 Meta 更新了 CacheLib 项目
+https://www.solidot.org/story?sid=84407
+2. 【其他】 Uber COO 称愈来愈难以证明最大化词元花的钱是合理的
+https://www.solidot.org/story?sid=84404
+3. 【其他】 教宗呼吁不可用 AI 作恶
+https://www.solidot.org/story?sid=84398
+4. 【其他】 欧洲执法部门黑进 VPN 服务识别勒索组织用户
+https://www.solidot.org/story?sid=84397
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
