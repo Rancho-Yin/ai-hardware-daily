@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-28（抓取 2026-05-27）
+
+🌍 全球
+1. 【数据中心】 Get your hands on a 2TB Samsung 990 Pro SSD for under $390 — $250 savings brings one of the fastest PCIe 4.0 SSDs to its lowest price in months
+https://www.tomshardware.com/pc-components/get-your-hands-on-a-2tb-samsung-990-pro-ssd-for-under-usd390-usd250-savings-brings-one-of-the-fastest-pcie-4-0-ssds-to-its-lowest-price-in-months
+2. 【其他】 Nvidia offers restricted access to Vera CPU in first round of Linux benchmarks - 88-core monster competes with or beats Epyc and Xeon in selected tests
+https://www.tomshardware.com/desktops/servers/nvidias-vera-cpu-tested-in-common-linux-benchmarks-88-core-monster-competes-or-beats-amd-epyc-intel-xeon-in-carefully-curated-test
+3. 【其他】 Erin Brockovich starts tracking AI data centers, calls on affected communities to submit issues — website shows more than 2,700 reports from across the US raising various concerns
+https://www.tomshardware.com/tech-industry/artificial-intelligence/erin-brockovich-starts-tracking-ai-data-centers-calls-on-affected-communities-to-submit-issues-website-shows-more-than-2-700-reports-from-across-the-us-raising-various-concerns
+4. 【芯片/算力】 China adds homegrown AI chips to 'secure and reliable' procurement list for the first time — nine options added as move away from Nvidia continues
+https://www.tomshardware.com/tech-industry/semiconductors/china-certifies-nine-domestic-ai-chips-for-government-procurement
+5. 【终端/边缘】 Prototype of the ‘world’s first fluid circuit board’ can be physically rewired in less than a minute, startup claims — could make hardware iteration 1,000 times faster than traditional PCB
+https://www.tomshardware.com/tech-industry/prototype-of-the-worlds-first-fluid-circuit-board-can-be-physically-rewired-in-less-than-a-minute-startup-claims-could-make-hardware-iteration-1-000-times-faster-than-traditional-pcb
+6. 【芯片/算力】 SpaceX admits it can't find enough chips for orbital AI yet, requires 'significantly more than are currently available to us' — firm's risk factors in IPO paperwork also says ambitious TeraFab project may not be successful
+https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-admits-it-cant-find-enough-chips-for-orbital-ai-yet-requires-significantly-more-than-are-currently-available-to-us-firms-risk-factors-in-ipo-paperwork-also-says-ambitious-terafab-project-may-not-be-successful
+
+🇨🇳 中国
+1. 【其他】 谷歌健康应用 Fitbit 变身“Google Health”后引发大量用户不满，官方承诺改进
+https://www.ithome.com/0/956/238.htm
+2. 【终端/边缘】 苹果 iPhone Fold 折叠屏手机首批第三方保护壳亮相
+https://www.ithome.com/0/956/236.htm
+3. 【其他】 罗技萌宠乐园系列限定 K98M PLUS 机械键盘新增“冰淇淋小熊”键帽版本，569 元
+https://www.ithome.com/0/956/233.htm
+4. 【其他】 东风着陆场完成最后一次全系统综合演练，准备就绪迎接神二十一航天员回家
+https://www.ithome.com/0/956/232.htm
+5. 【其他】 腾讯代理《彩虹六号：攻势》国服技术首测定档 6 月 17 日开启
+https://www.ithome.com/0/956/230.htm
+6. 【其他】 腾讯代理“3A 撤离冒险射击游戏”《弧光猎人 ARC Raiders》国服开启预约
+https://www.ithome.com/0/956/229.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
