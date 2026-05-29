@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-29（抓取 2026-05-28）
+
+🌍 全球
+1. 【其他】 Leaks reveal US authorities concerned about the rise of ‘anti-tech extremists’ as AI data center issues become increasingly contentious — critics say this could lead to surveillance, criminalization of peaceful opposition
+https://www.tomshardware.com/tech-industry/artificial-intelligence/leaks-reveal-us-authorities-concerned-about-the-rise-of-anti-tech-extremists-as-ai-data-center-issues-become-increasingly-contentious-critics-say-this-could-lead-to-surveillance-criminalization-of-peaceful-opposition
+2. 【其他】 Your gaming chair and desk deserves an upgrade this Memorial Day with up to 80% savings at FlexiSpot
+https://www.tomshardware.com/peripherals/desks/your-gaming-chair-and-desk-deserves-an-upgrade-this-memorial-day-with-up-to-80-percent-savings-at-flexispot
+3. 【其他】 Researchers say they can spy on your browsing by measuring SSD activity through a browser API — claim FROST attack requires no permissions or user interaction to identify which apps and websites you're using
+https://www.tomshardware.com/tech-industry/cyber-security/researchers-say-they-can-spy-on-your-browsing-by-measuring-ssd-activity-through-a-browser-api
+4. 【芯片/算力】 Intel challenges AMD’s handheld dominance with new Arc G3 chips — Panther Lake silicon brings up to 14 cores, Arc B390 graphics to handhelds
+https://www.tomshardware.com/video-games/handheld-gaming/intel-challenges-amds-handheld-dominance-with-new-arc-g3-chips-panther-lake-silicon-brings-up-to-14-cores-arc-b390-graphics-to-handhelds
+5. 【芯片/算力】 Qualcomm announces Snapdragon C Platform for $300 and up laptops — Windows on Arm and NPUs for the budget tier
+https://www.tomshardware.com/laptops/qualcomm-announces-snapdragon-c-platform-for-usd300-and-up-laptops-windows-on-arm-and-npus-for-the-budget-market
+6. 【其他】 Asus ROG Crosshair 2006 motherboard review: 20 years of ROG
+https://www.tomshardware.com/pc-components/motherboards/asus-rog-crosshair-2006-motherboard-review
+
+🇨🇳 中国
+1. 【其他】 零零科技发布全球首款 100% 防水飞行相机哈浮 AQUA，8999 元起
+https://www.ithome.com/0/956/823.htm
+2. 【其他】 华为余承东：全新途灵龙行平台首创全域融合架构、全链路八大冗余设计，为 L3 时代做好了准备
+https://www.ithome.com/0/956/821.htm
+3. 【其他】 2026粤港澳大湾区车展前瞻：何以成为“湾区风向标”？
+https://www.leiphone.com/category/industrynews/R6G0ZteT8JRCxgAK.html
+4. 【其他】 拼多多推动生态治理常态化：上半年出台40余项举措 主动筑牢合规防线
+https://www.leiphone.com/category/industrynews/gguT0yJQDBSmeUmf.html
+5. 【其他】 腾讯云AI加速出海 ：Agent基建升级，WorkBuddy、Miora全球上线
+https://www.leiphone.com/category/industrynews/50cgx7AdZ3LM8Ka1.html
+6. 【其他】 卓驭科技欧洲总部正式开业，多项核心业务进展发布！
+https://www.leiphone.com/category/industrynews/4X5RtJYs2Gy4RyWj.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
