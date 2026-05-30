@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-30（抓取 2026-05-29）
+
+🌍 全球
+1. 【其他】 At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal
+https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale
+2. 【其他】 You can buy two of Anker’s Qi2 wireless chargers for under $25
+https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale
+3. 【终端/边缘】 Hands-on with Corsair's 3200D RS ARGB Mid-tower PC Case: Budget chassis includes three fans and doesn’t empty your wallet
+https://www.tomshardware.com/pc-components/pc-cases/hands-on-corsair-3200d-rs-argb-mid-tower-pc-case
+4. 【终端/边缘】 Acer unveils its first Ryzen 9 9955X3D gaming laptop — refreshed Nitro 16 joins new Predator Helios 18 AI and streaming-only Nitro Blaze Link handheld
+https://www.tomshardware.com/laptops/gaming-laptops/acer-unveils-first-ryzen-9-9955x3d-gaming-laptop-refreshed-nitro-16-joins-new-predator-helios-18-ai-and-streaming-only-nitro-blaze-link-handheld
+5. 【数据中心】 Pocket a huge $252 saving on a two-year PIA VPN subscription and score two months for free — 88% discount on no-logs provider with servers in 90 different countries and support for unlimited connections
+https://www.tomshardware.com/software/vpn/pocket-a-huge-usd252-saving-on-a-two-year-pia-vpn-subscription-and-score-two-months-for-free-88-percent-discount-on-no-logs-provider-with-servers-in-90-different-countries-and-support-for-unlimited-connections
+6. 【终端/边缘】 Save $575 on this OLED Asus gaming laptop with RTX 5070, now just $1,575 — ROG Zephyrus G16 comes with 240 Hz refresh rate, Intel Core Ultra 9, 16GB of RAM, and a 1TB SSD
+https://www.tomshardware.com/laptops/gaming-laptops/save-usd575-on-this-oled-asus-gaming-laptop-with-rtx-5070-now-just-usd1-575-rog-zephyrus-g16-comes-with-240-hz-refresh-rate-intel-core-ultra-9-16gb-of-ram-and-a-1tb-ssd
+
+🇨🇳 中国
+1. 【其他】 Flathub 禁止 AI 生成的应用
+https://www.solidot.org/story?sid=84437
+2. 【其他】 Google 恨你和我
+https://www.solidot.org/story?sid=84436
+3. 【其他】 宏碁推出多款游戏新品：两款笔记本、一款串流掌机，还有键盘、背包
+https://www.ithome.com/0/957/386.htm
+4. 【其他】 航天英雄杨利伟：我国载人登月计划正常推进
+https://www.ithome.com/0/957/384.htm
+5. 【其他】 绑定中通！无人车战略分野，佑驾创新下了盘大棋
+https://www.leiphone.com/category/industrynews/jz5to5DmlbMM9D38.html
+6. 【其他】 消息称千里科技将整合吉利辅助驾驶团队，剑指“第二个华为”
+https://www.ithome.com/0/957/383.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
