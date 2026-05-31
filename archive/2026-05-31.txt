@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-05-31（抓取 2026-05-30）
+
+🌍 全球
+1. 【其他】 Two of our favorite art TVs are more than 40 percent off this weekend
+https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal
+2. 【其他】 AMD Ryzen 7 5800X and Nvidia RTX 5060 combo is only $439 — deal includes a free CPU cooler, totaling out to $150 in savings for a great budget setup
+https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-5800x-and-nvidia-rtx-5060-combo-is-only-usd439-deal-includes-a-free-cpu-cooler-totaling-out-to-usd150-in-savings-for-a-great-budget-setup
+3. 【其他】 ATX12VO V3 standard shrinks the connector and maximizes power efficiency — new 8-pin connector also brings smarter power supply monitoring
+https://www.tomshardware.com/pc-components/power-supplies/atx12vo-v3-standard-shrinks-the-connector-and-maximizes-power-efficiency-new-8-pin-connector-also-brings-smarter-power-supply-monitoring
+4. 【其他】 How one founder’s bet on ‘the old school web’ is paying off
+https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai
+5. 【其他】 AI grifters are creating fake Black people to sell Shein junk
+https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping
+6. 【芯片/算力】 Nikon weaponizes lower prices to break ASML's lithography monopoly — tech giant leverages in-house manufacturing to slash prices to lure back American chipmakers
+https://www.tomshardware.com/tech-industry/nikon-plans-to-undercut-asml-on-price-to-win-back-chipmaking-lithography-customers
+
+🇨🇳 中国
+1. 【终端/边缘】 降价力度堪比旗舰手机：小米全效空气净化器 Ultra 增强版 5799 → 2428 元
+https://www.ithome.com/0/957/695.htm
+2. 【其他】 2B 参数“四两拨千斤”，智元自研世界模型 GE 2.0 登顶 WorldArena 榜单
+https://www.ithome.com/0/957/692.htm
+3. 【机器人】 小米米家扫拖机器人 6 Pro 国补探新低：水箱版 2343 元、上下水版 2665 元
+https://www.ithome.com/0/957/691.htm
+4. 【终端/边缘】 消息称微软下周发布英伟达处理器 Windows PC，戴尔也会跟进
+https://www.ithome.com/0/957/690.htm
+5. 【其他】 小米米家冰箱 Pro 对开 620L 开售：双系统双循环，首发价 2499 元
+https://www.ithome.com/0/957/689.htm
+6. 【其他】 一家美国公司一个月内在 Claude AI 上花费了 5 亿美元
+https://www.solidot.org/story?sid=84441
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
