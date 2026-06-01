@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-01（抓取 2026-05-31）
+
+🌍 全球
+1. 【其他】 United flight forced to turn around because of a Bluetooth speaker name
+https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb
+2. 【其他】 Nvidia's long-awaited N1/N1X SoC specs leak ahead of Computex launch — N1 to feature up to 20 Arm-based cores, standard N1 equipped with 12- and 10-core configs
+https://www.tomshardware.com/pc-components/cpus/nvidias-long-awaited-n1-n1x-soc-specs-leak-ahead-of-computex-launch-n1-to-feature-up-to-20-arm-based-cores-standard-n1-equipped-with-12-and-10-core-configs
+3. 【终端/边缘】 Core i7-14700F gaming PC with RTX 5060, 32GB of RAM, and 1TB of storage gets $470 discount — Newegg's ABS Cyclone Aqua prebuilt is $1,329 with code
+https://www.tomshardware.com/desktops/gaming-pcs/core-i7-14700f-gaming-pc-with-rtx-5060-32gb-of-ram-and-1tb-of-storage-gets-usd470-discount-neweggs-abs-cyclone-aqua-prebuilt-is-usd1-329-with-code
+4. 【终端/边缘】 This extravagant gaming laptop could ruin other screens for you
+https://www.theverge.com/tech/940221/asus-rog-strix-scar-18-elmb-gaming-laptop-motion-blur-handson-impressions
+5. 【其他】 SoftBank to spend up to $87 billion on French AI data centers — country offers ample nuclear grid that US sites lack
+https://www.tomshardware.com/tech-industry/softbank-to-spend-up-to-75-billion-on-french-ai-data-centers
+6. 【其他】 007 First Light is already discounted for the PS5 and Steam
+https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale
+
+🇨🇳 中国
+1. 【其他】 微星 Claw 8 EX AI+ 掌机 6 月 23 日发售：搭载英特尔 Arc G3 Extreme 售 1500 美元
+https://www.ithome.com/0/957/899.htm
+2. 【其他】 去掉 VAE 之后，商汤用 8B 参数重新定义了开源生图的上限
+https://www.leiphone.com/category/industrynews/hBRYpm9vvt6sWbhJ.html
+3. 【其他】 GenFlow 4.0，终于挖开百度网盘的富矿
+https://www.leiphone.com/category/industrynews/lDqYfGMVuIQmMV88.html
+4. 【其他】 看屏幕、用键鼠，我的 OpenClaw「睁眼」了
+https://www.leiphone.com/category/industrynews/uV7OmZjvBiOcHxFD.html
+5. 【其他】 四道题评测 Qwen3.7-Max：从空间推理到 3D 建模，它离 Agent 更近了吗？
+https://www.leiphone.com/category/industrynews/fWQzQKY9BezOu5is.html
+6. 【其他】 为老父亲做的桌面 Agent，不小心在 GitHub 霸榜一周
+https://www.leiphone.com/category/industrynews/PzHnE8Ws2NDiVqrk.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
