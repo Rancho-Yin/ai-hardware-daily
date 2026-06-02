@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-02（抓取 2026-06-01）
+
+🌍 全球
+1. 【其他】 An affordable, long-lasting AirTag alternative is $15 right now
+https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale
+2. 【其他】 Asus rolls out a ROG 20th anniversary chair and backpack, alongside commemorative components and peripherals — ROG Destrier Edition 20, ROG SLASH Hard-case Luggage Edition 20 are back in black (and gold)
+https://www.tomshardware.com/peripherals/asus-rolls-out-a-rog-20th-anniversary-chair-and-backpack-alongside-commemorative-components-and-peripherals-rog-destrier-edition-20-rog-slash-hard-case-luggage-edition-20-are-back-in-black-and-gold
+3. 【其他】 Tom's Hardware Unfiltered: Computex 2026, Day 0 — peek behind the curtain to see how we're covering the biggest trade show of the year
+https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-0-peek-behind-the-curtain-to-see-how-were-covering-the-biggest-trade-show-of-the-year
+4. 【芯片/算力】 Nvidia says RTX Spark chip will support all major anti-cheat and DRM technologies — Fortnite, Valorant, Denuvo, and more to work natively with Windows on Arm
+https://www.tomshardware.com/pc-components/cpus/nvidia-says-rtx-spark-chip-will-support-all-major-anti-cheat-and-drm-technologies-fortnite-valorant-denuvo-and-more-to-work-natively-with-windows-on-arm
+5. 【数据中心】 Supermicro shows off Vera Rubin NVL72 rack with all-new type of coolant — company claims coolant offers 1,000 times higher electrical impedance over standard cooling
+https://www.tomshardware.com/desktops/servers/supermicro-shows-off-vera-rubin-nvl72-rack-with-all-new-type-of-coolant-company-claims-coolant-offers-1-000-times-higher-electrical-impedance-over-standard-cooling
+6. 【芯片/算力】 US closes loophole that allowed Chinese-owned subsidiaries located outside China to buy AI chips — report claims that hundreds of thousands of advanced AI chips have been acquired through BIS blind spot
+https://www.tomshardware.com/tech-industry/us-closes-loophole-that-allowed-chinese-owned-subsidiaries-located-outside-china-to-buy-ai-chips-report-claims-that-hundreds-of-thousands-of-advanced-ai-chips-have-been-acquired-through-bis-blind-spot
+
+🇨🇳 中国
+1. 【芯片/算力】 中国批准首例侵入式脑机接口芯片之后
+https://www.solidot.org/story?sid=84454
+2. 【机器人】 星海图新一代具身基础模型G0.5发布，全面提升零样本泛化能力，让机器人边思考边行动
+https://www.leiphone.com/category/industrynews/i8V0VCdEywlci8jo.html
+3. 【其他】 美团电话会：“小美”与腾讯“元宝”的合作将于近期上线
+https://www.leiphone.com/category/industrynews/MYA0O3dUUzFSpCDF.html
+4. 【其他】 一颗288核的至强6+，为什么能同时运行500个Agent？
+https://www.leiphone.com/category/chips/WxcUhbV0RIXlGVdR.html
+5. 【其他】 AOMedia 发布 AV2 规范
+https://www.solidot.org/story?sid=84452
+6. 【机器人】 ICRA 2026｜狭窄空间中机器人主动感知与操作
+https://www.leiphone.com/category/robot/jaAehYeDHYw3l3Zi.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
