@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-03（抓取 2026-06-02）
+
+🌍 全球
+1. 【芯片/算力】 Cooler Master shows off new MWE Gold V4 Power supplies and GPU Shield adapter — per-pin monitoring can dynamically scale down power to stop cables melting
+https://www.tomshardware.com/pc-components/power-supplies/cooler-master-shows-off-new-mwe-gold-v4-power-supplies-and-gpu-shield-adapter-per-pin-monitoring-can-dynamically-scale-down-power-to-stop-cables-melting
+2. 【其他】 Mainland Chinese exhibitors reportedly locked out of Computex 2026, as Taiwan entry permits stall — parties complain applications left pending or hit with last-minute documentation requests
+https://www.tomshardware.com/tech-industry/mainland-chinese-exhibitors-locked-out-of-computex-2026
+3. 【其他】 Intel reportedly no longer working on 6-core Nova Lake mobile SKU, alleges new rumor — Wildcat Lake Refresh to become focus for next-gen budget markets instead
+https://www.tomshardware.com/pc-components/cpus/intel-reportedly-no-longer-working-on-6-core-nova-lake-mobile-sku-alleges-new-rumor-wildcat-lake-refresh-to-become-focus-for-next-gen-budget-markets-instead
+4. 【芯片/算力】 AMD is considering a potential Ryzen 5 9600X3D — company says six-core Zen 5 X3D chip 'maybe something we look at doing... later this year'
+https://www.tomshardware.com/pc-components/cpus/amd-is-considering-a-potential-ryzen-5-9600x3d-company-says-six-core-zen-5-x3d-chip-maybe-something-we-look-at-doing-later-this-year
+5. 【其他】 Cooler Master shows off new HAF II 500 chassis, aluminum fans, and new air coolers — New V8 Cooler, Masterfan A, and updated Silencio 600 and HAF chassis’ add to an already comprehensive product stack
+https://www.tomshardware.com/pc-components/cooling/cooler-master-shows-off-new-haf-500-chassis-aluminum-fans-and-new-air-coolers-new-v8-cooler-masterfan-anm-and-updated-silencio-600-and-haf-chassis-add-to-an-already-comprehensive-product-stack
+6. 【数据中心】 Phison shows PCIe 6.0 X3 SSD controller with 28 GB/s of bandwidth and 6.8 million IOPS, supports 2 petabytes per drive— also new power-sipping E37T SSDs for PCIe 5.0 systems consume a mere 4.5W
+https://www.tomshardware.com/pc-components/ssds/phison-shows-pcie-6-0-x3-ssd-controller-with-28-gb-s-of-bandwidth-and-6-8-million-iops-supports-2-petabytes-per-drive-also-new-power-sipping-e37t-ssds-for-pcie-5-0-systems-consume-a-mere-4-5w
+
+🇨🇳 中国
+1. 【其他】 富铁免疫细胞帮助信鸽导航
+https://www.solidot.org/story?sid=84465
+2. 【其他】 BCS 2026|齐向东：中美网安产业相差12倍，AI革命催生千亿级增量市场
+https://www.leiphone.com/category/industrynews/ruUeurLUnJpRTu9J.html
+3. 【机器人】 橡木果发布“本能驱动”技术路线，为机器人赋予“具身本能”
+https://www.leiphone.com/category/industrynews/kUT9gYphwdNIkstm.html
+4. 【其他】 滴滴2026Q1财报：国内基本盘稳固 国际业务成第二增长引擎
+https://www.leiphone.com/category/industrynews/TLncvcB4REobjDD1.html
+5. 【其他】 对话灵初智能王启斌：「操作才是皇冠上的明珠，移动只是入场券」
+https://www.leiphone.com/category/ai/NdytmjkC1MmPszoq.html
+6. 【其他】 AI出海「血管」大堵塞，钱付不出去，卡申不下来，谁在给中国AI当输血管？
+https://www.leiphone.com/category/ai/5vSr76eWChdbpFwY.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
