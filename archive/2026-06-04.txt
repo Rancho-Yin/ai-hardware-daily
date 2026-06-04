@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-04（抓取 2026-06-03）
+
+🌍 全球
+1. 【芯片/算力】 Samsung shows first HBM5 mockup with Heat Path Block cooling — thermal race with SK hynix shaping up
+https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling
+2. 【其他】 Computex 2026 Day Two Wrap-Up: Intel atones for Arrow Lake, Wi-Fi 8 comes into focus
+https://www.tomshardware.com/pc-components/cpus/computex-2026-day-two-wrap-up-intel-atones-for-arrow-lake-wi-fi-8-comes-into-focus
+3. 【其他】 Corsair launches lightweight budget-friendly HS35 v3 gaming headsets — wired version weighs a cool 230 grams
+https://www.tomshardware.com/peripherals/gaming-headsets/corsair-launches-lightweight-budget-friendly-hs35-v3-gaming-headsets
+4. 【其他】 AMD executives react to Nvidia’s RTX Spark — ‘you’re just wrong if you don’t get a Strix Halo notebook’
+https://www.tomshardware.com/pc-components/cpus/amd-executives-react-to-nvidias-rtx-spark-youre-just-wrong-if-you-dont-get-a-strix-halo-notebook
+5. 【芯片/算力】 Microsoft unveils Project Solara AI, a chip-to-cloud platform built to power a new generation of 'agent-first' enterprise devices — hardware designed to run AI agents instead of traditional apps
+https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-unveils-project-solara-ai-a-chip-to-cloud-platform-built-to-power-a-new-generation-of-agent-first-enterprise-devices-hardware-designed-to-run-ai-agents-instead-of-traditional-apps
+6. 【其他】 Trump signs AI executive order seeking 30-day government access to frontier models before release — voluntary framework will include classified benchmark to determine which models qualify
+https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-signs-ai-executive-order-seeking-30-day-government-access-to-frontier-models-before-release
+
+🇨🇳 中国
+1. 【其他】 马斯克 SpaceX 上市在即：多名白宫官员被曝持股，预计可带来数百万美元账面收益
+https://www.ithome.com/0/959/581.htm
+2. 【终端/边缘】 拼好饭上“岛”、窥屏保护实装等：荣耀 Magic8 系列手机 MagicOS 10.0.0.160 版本开推
+https://www.ithome.com/0/959/580.htm
+3. 【其他】 今年 4000 名新人入职美国银行，将面对正被 AI 改写的华尔街
+https://www.ithome.com/0/959/579.htm
+4. 【其他】 Meta 给予员工每次最多 30 分钟退出跟踪
+https://www.solidot.org/story?sid=84477
+5. 【其他】 数学家警告 AI 对数学专业的威胁
+https://www.solidot.org/story?sid=84476
+6. 【其他】 NUS 余浩泳教授：外骨骼的轻量化与任务感知丨ICRA 2026
+https://www.leiphone.com/category/ai/MCcFD9ZyKWLuFSwB.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
