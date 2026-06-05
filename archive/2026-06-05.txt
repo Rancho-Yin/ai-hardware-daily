@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-05（抓取 2026-06-04）
+
+🌍 全球
+1. 【终端/边缘】 This RTX 5070 Ti gaming laptop is just $1,499 — Walmart fights AI price crisis with $500 discount
+https://www.tomshardware.com/laptops/gaming-laptops/this-rtx-5070-ti-gaming-laptop-is-just-usd1-499-walmart-fights-ai-price-crisis-with-usd500-discount
+2. 【芯片/算力】 Elon Musk's SpaceX secures 100% property tax exemption for planned $55 billion Terafab semiconductor factory in Texas — county approves 35-year deal worth hundreds of millions despite resident backlash
+https://www.tomshardware.com/tech-industry/big-tech/elon-musks-spacex-secures-100-percent-property-tax-exemption-for-planned-usd55-billion-terafab-semiconductor-factory-in-texas-county-approves-35-year-deal-worth-hundreds-of-millions-despite-resident-backlash
+3. 【其他】 US tech layoffs record single-highest month in two years, and more than any other sector — nearly 40,000 get the axe, AI the most cited reason for layoffs
+https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-sector-cut-us-jobs-by-38242-in-may
+4. 【芯片/算力】 TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;
+https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles
+5. 【其他】 Best of Computex 2026: Innovating despite disruptions
+https://www.tomshardware.com/tech-industry/best-of-computex-2026
+6. 【其他】 AMD's Helios MI455X AI platform breaks cover, initial systems use UALink-over-Ethernet interconnects — AMD's Vera Rubin rival surfaces, but the downsides of Ethernet could hamstring performance
+https://www.tomshardware.com/tech-industry/artificial-intelligence/amds-helios-mi455x-ai-platform-breaks-cover-initial-systems-use-ualink-over-ethernet-interconnects-amds-vera-rubin-rival-surfaces-but-the-downsides-of-ethernet-could-hamstring-performance
+
+🇨🇳 中国
+1. 【终端/边缘】 IDC 称下半年全球 PC 市场将迎动荡期：短期没有“速效药”，核心问题是缺内存
+https://www.ithome.com/0/960/180.htm
+2. 【其他】 铭瑄首发 Panther Lake、Wildcat Lake 芯 MoDT 主板，将移动处理器引入桌面平台
+https://www.ithome.com/0/960/179.htm
+3. 【终端/边缘】 惠普-法拉利车队联手打造 AI PC：6 月 12 日上市，5599 美元限量 4999 台
+https://www.ithome.com/0/960/178.htm
+4. 【其他】 30 秒速读 6 月 5 日 618 攻略：iPhone 17 PM 2T 美版 9439 元，京东 PLUS 会员年卡 49.5 元学生专享
+https://www.ithome.com/0/960/177.htm
+5. 【其他】 高盛：若 SpaceX IPO 可支撑 1.78 万亿美元估值，到 2030 年 AI 部门收入需增百倍
+https://www.ithome.com/0/960/176.htm
+6. 【机器人】 全球首台机器人塔吊式 3D 打印机亮相：最高可建 100 米混凝土高楼
+https://www.ithome.com/0/960/175.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
