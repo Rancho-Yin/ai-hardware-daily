@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-06（抓取 2026-06-05）
+
+🌍 全球
+1. 【其他】 Seattle to pass one-year AI data center moratorium next week — will use window to study community impact of AI buildouts
+https://www.tomshardware.com/tech-industry/artificial-intelligence/seattle-to-pass-one-year-ai-data-center-moratorium-next-week-will-use-window-to-study-community-impact-of-ai-buildouts
+2. 【其他】 Nvidia is reportedly still planning fabled RTX 50 Super series for 2026, leak claims — lineup could now include a potential 'RTX 5060 Super' with 12GB of VRAM
+https://www.tomshardware.com/pc-components/gpus/nvidia-is-reportedly-still-planning-fabled-rtx-50-super-series-for-2026-leak-claims-lineup-could-now-include-a-potential-rtx-5060-super-with-12gb-of-vram
+3. 【芯片/算力】 Industry coalition urges Trump administration to take urgent action as AI data centers' extreme memory consumption threatens other industries — AI-driven memory chip shortage could raise prices in automotive, medical, telecommunications sectors
+https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors
+4. 【其他】 Anthropic warns Claude AI is building itself faster than expected, calls for option to halt frontier development —'recursive self improvement' increases risk humans lose control of AI
+https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-now-writes-more-than-80-percent-of-its-merged-code
+5. 【其他】 Tom's Hardware Unfiltered: Computex 2026, Day 4 — the B2B shift, and we say farewell to Taipei
+https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-4-the-b2b-shift-and-we-say-farewell-to-taipei
+6. 【机器人】 Jensen Huang says 'every edge device will become autonomous' — Nvidia maps one computing pattern from the cloud to robotics
+https://www.tomshardware.com/tech-industry/jensen-huang-says-every-edge-device-will-become-autonomous
+
+🇨🇳 中国
+1. 【其他】 Brave 以 60 美元出售精简版本
+https://www.solidot.org/story?sid=84500
+2. 【其他】 谷歌 CEO 皮查伊力捧 AI，员工内部疯狂吐槽
+https://www.ithome.com/0/960/749.htm
+3. 【其他】 黄仁勋与多位韩企掌门人在烤肉店共进晚餐，称英伟达已着手在韩国新建 AI 技术中心项目
+https://www.ithome.com/0/960/747.htm
+4. 【其他】 剑桥大学团队 AI 设计通用疫苗完成首次人类临床试验，未来有望提前“拦截”大流行病
+https://www.ithome.com/0/960/746.htm
+5. 【其他】 微软 365 安卓版被曝低级漏洞：因误开 Debug 模式，任意第三方 App 均可静默窃取账户登录凭证
+https://www.ithome.com/0/960/743.htm
+6. 【其他】 加南 Kannan K2 智能眼镜发布：25.8g 重、32MP 摄像头，2350 元
+https://www.ithome.com/0/960/740.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
