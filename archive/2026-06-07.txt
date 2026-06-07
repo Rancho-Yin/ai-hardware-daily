@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-07（抓取 2026-06-06）
+
+🌍 全球
+1. 【数据中心】 Upgrade your PC with a 2TB PCIe 4.0 SSD, 750W power supply, and 240mm AIO for $300 — hardware bundle saves you nearly $200
+https://www.tomshardware.com/pc-components/upgrade-your-pc-with-a-2tb-pcie-4-0-ssd-750w-power-supply-and-240mm-aio-for-usd300-hardware-bundle-saves-you-nearly-usd200
+2. 【其他】 Benn Jordan longs for the days of tech that didn’t spy on you
+https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire
+3. 【其他】 Meta made its own AI-generated clickbait news feed
+https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles
+4. 【其他】 Gigabyte Z890 Aorus Elite Wifi7 Plus Motherboard Review: Cost-conscious refresh board delivers (almost) all the fixens
+https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890-aorus-elite-wifi7-plus-motherboard-review
+5. 【其他】 Lexar regional manager says that RAM prices are expected to double by the end of the year — 'discounts' and stabilized prices result from distributors getting rid of old stock or sourcing products from other regions
+https://www.tomshardware.com/pc-components/ram/lexar-regional-manager-says-that-ram-prices-are-expected-to-double-by-the-end-of-the-year-discounts-and-stabilized-prices-result-from-distributors-getting-rid-of-old-stock-or-sourcing-products-from-other-regions
+6. 【其他】 Taiwanese startup FormulaV Line wants to break into US market with two new unique cases — company expects products to become available on Newegg later this year
+https://www.tomshardware.com/pc-components/pc-cases/taiwanese-startup-formulav-line-wants-to-break-into-us-market-with-two-new-unique-cases-company-expects-products-to-become-available-on-newegg-later-this-year
+
+🇨🇳 中国
+1. 【其他】 《使命召唤：现代战争 4》DMZ 详解：支持 PvPvE、搜打撤与悬赏追杀玩法，10 月 23 日随游戏本体发售
+https://www.ithome.com/0/960/990.htm
+2. 【其他】 马斯克将出席阿斯麦 ASML 闭门技术研讨会，讨论 TeraFab 项目
+https://www.ithome.com/0/960/988.htm
+3. 【其他】 刷新世界纪录：技嘉联手海盗船将 DDR5 内存超至 13556 MT/s，并联合芝奇夺得 10 项全球第一
+https://www.ithome.com/0/960/986.htm
+4. 【其他】 消息称百度 MEG 组织架构调整：数字人创新业务部升级独立部门，合并商业部与电商事业部
+https://www.ithome.com/0/960/985.htm
+5. 【芯片/算力】 车规级存储芯片三个月暴涨 180%，新能源车企被迫涨价或收紧优惠
+https://www.ithome.com/0/960/984.htm
+6. 【其他】 体育主播暂时不用担心失业了：研究称 AI 模型分析球赛“几乎靠猜”
+https://www.ithome.com/0/960/983.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
