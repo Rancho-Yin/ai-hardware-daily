@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-08（抓取 2026-06-07）
+
+🌍 全球
+1. 【其他】 Anycubic Photon Mono 4 dips below $190 saving you 21% off its retail price — Amazon deal saves $50 on this entry-level resin 3D printer
+https://www.tomshardware.com/pc-components/anycubic-photon-mono-4-dips-below-usd190-saving-you-21-percent-off-its-retail-price-amazon-deal-saves-usd50-on-this-entry-level-resin-3d-printer
+2. 【其他】 Ukraine’s birds adapt to battlefield environment, weaving nests out of drone fiber-optic cables — resourceful wildlife adapts to miles of littered drone fibers
+https://www.tomshardware.com/networking/ukraines-birds-adapt-to-battlefield-environment-weaving-optical-fiber-nests-for-warmth-canny-feathered-friends-repurpose-scraps-of-this-spun-off-insulator-material
+3. 【芯片/算力】 AMD's RDNA 5 gaming GPUs are coming late next year, according to AIBs at Computex — manufacturers expect new Team Red cards in the second half of 2027 alongside Nvidia
+https://www.tomshardware.com/pc-components/gpus/amds-rdna-5-gaming-gpus-are-coming-late-next-year-according-to-aibs-at-computex-manufacturers-expect-new-team-red-cards-in-the-second-half-of-2027-alongside-nvidia
+4. 【其他】 Google signs $920M monthly compute deal with SpaceX — company’s projected annual data center revenue to exceed its combined proceeds from Starlink, launch services, and AI in 2025
+https://www.tomshardware.com/tech-industry/artificial-intelligence/google-signs-usd920m-monthly-compute-deal-with-spacex-companys-projected-annual-data-center-revenue-to-exceed-its-combined-proceeds-from-starlink-launch-services-and-ai-in-2025
+5. 【其他】 Russia’s new ‘Starlink‑Style’ Rassvet fleet loses its first satellite after weeks — Object 4 drops out of orbit but 15 others remain
+https://www.tomshardware.com/tech-industry/russias-rassvet-constellation-loses-its-first-satellite-to-orbital-decay
+6. 【芯片/算力】 Ludicrous overclock slams 1.7 volts into 6700K in an attempt to stop CPU from bottlenecking an RTX 3080 — 5.2 GHz on aging four-core pushes GPU utilization from 60% to 74%
+https://www.tomshardware.com/pc-components/cpus/youtube-slams-1-7-volts-into-6700k-in-an-attempt-to-stop-the-cpu-from-bottlenecking-an-rtx-3080-pushes-gpu-utilization-from-60-percent-to-74-percent
+
+🇨🇳 中国
+1. 【其他】 古尔曼：苹果高层曾在去年年初召开重大会议，重塑 AI、Siri 战略就此发生大转弯
+https://www.ithome.com/0/961/190.htm
+2. 【其他】 美国政府考虑在 AI 公司持有股份
+https://www.solidot.org/story?sid=84509
+3. 【芯片/算力】 英伟达 CEO 黄仁勋明日会见三星电子副会长全永铉，HBM、机器人合作计划成焦点
+https://www.ithome.com/0/961/189.htm
+4. 【其他】 量子计算公司本源量子完成近 30 亿元融资，投前估值超 200 亿元
+https://www.ithome.com/0/961/188.htm
+5. 【芯片/算力】 英伟达黄仁勋：新款 Vera 芯片将采用 SK 海力士的内存产品
+https://www.ithome.com/0/961/187.htm
+6. 【机器人】 高考首日机器人现身考场：穿大红旗袍跳舞、与考生碰拳花式助考
+https://www.ithome.com/0/961/186.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
