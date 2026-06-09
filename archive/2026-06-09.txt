@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-09（抓取 2026-06-08）
+
+🌍 全球
+1. 【芯片/算力】 Demand for data center CPUs has surged, and AI agents are responsible – why the CPU to GPU ratio is more important than ever for hyperscalers
+https://www.tomshardware.com/pc-components/cpus/demand-for-data-center-cpus-has-surged-and-ai-agents-are-responsible-why-the-cpu-to-gpu-ratio-is-more-important-than-ever-for-hyperscalers
+2. 【其他】 Disgruntled ASML employees threaten to boycott Elon Musk conference appearance — staff express ire at political involvement and 'Nazi sympathies'
+https://www.tomshardware.com/tech-industry/asml-staff-want-to-boycott-musk
+3. 【其他】 Nvidia and SK hynix ink multi-year memory co-development and supply agreement — seeks to address extended development cycles
+https://www.tomshardware.com/pc-components/dram/nvidia-and-sk-hynix-ink-multi-year-memory-co-development-and-supply-agreement-seeks-to-address-extended-development-cycles
+4. 【其他】 Intel introduced ‘the first processor in the x86 series and the first 8086 microprocessor’ on this day in 1978 — CPU was designed as a temporary substitute for the delayed iAPX 432 project
+https://www.tomshardware.com/pc-components/cpus/intel-introduced-the-first-processor-in-the-x86-series-and-the-first-8086-microprocessor-on-this-day-in-1978-cpu-was-designed-as-a-temporary-substitute-for-the-delayed-iapx-432-project
+5. 【其他】 Executives are cutting jobs for an AI future that hasn't fully arrived yet, even as productivity gains remain difficult to prove — data neither confirms nor refutes an AI unemployment apocalypse
+https://www.tomshardware.com/tech-industry/artificial-intelligence/executives-are-cutting-jobs-for-an-ai-future-that-hasnt-fully-arrived-yet-even-as-productivity-gains-remain-difficult-to-prove-data-neither-confirms-nor-refutes-an-ai-unemployment-apocalypse
+6. 【芯片/算力】 Amazon is offering a $324 Nvidia RTX 5060 GPU deal in a lightning sale, making it the cheapest model available — 1080p gaming on a budget
+https://www.tomshardware.com/pc-components/gpus/amazon-is-offering-a-usd324-nvidia-rtx-5060-gpu-deal-in-a-lightning-sale-making-it-the-cheapest-model-available-1080p-gaming-on-a-budget
+
+🇨🇳 中国
+1. 【其他】 首发|美团接入微信AI生态，将提供本地生活等AI服务体验
+https://www.leiphone.com/category/industrynews/2cdA62bqRxvASS8z.html
+2. 【机器人】 重载具身，步履荒野：灵锶智能肖恺受邀ICRA 2026发表主题演讲，定义野外自主新高度
+https://www.leiphone.com/category/industrynews/PHqfkUzjY2xaDmae.html
+3. 【其他】 可泛化高精准，NAVIAI 亮相 ATC 落地汽车全流程装配
+https://www.leiphone.com/category/industrynews/q6pmfP8kpxIamcaw.html
+4. 【其他】 平台算法给民主带来风险
+https://www.solidot.org/story?sid=84521
+5. 【其他】 对腾讯来说，AI为什么是一场「长期游戏」？
+https://www.leiphone.com/category/industrynews/e6NKPw4t7jJlxPpd.html
+6. 【终端/边缘】 独家丨瑞浦兰钧AIDC电芯年底量产，终端客户是阿里腾讯
+https://www.leiphone.com/category/transportation/mOmmRp3HA5LMXY70.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
