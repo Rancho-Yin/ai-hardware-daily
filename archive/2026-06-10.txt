@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-10（抓取 2026-06-09）
+
+🌍 全球
+1. 【芯片/算力】 Taiwan weighs criminal ban on AI chip exports to all of China — stricter measures beyond blacklisted firms would make smuggling servers a crime
+https://www.tomshardware.com/tech-industry/taiwan-weighs-criminal-ban-on-ai-chip-exports-to-all-of-china-as-us-trade-talks-continue
+2. 【芯片/算力】 Elon Musk's first-gen orbital data center craft spans wider than a Boeing 747 and runs an interchangeable chip payload — AI1 satellite compute payload is 120 kW, peaks at 150 kW
+https://www.tomshardware.com/tech-industry/spacex-details-its-ai1-compute-satellite
+3. 【终端/边缘】 HVAC tech finds former AMD CEO Rory Read's PC in a customer's basement, signed by Lisa Su — unused 2014 desktop had Bulldozer-era hardware inside and a wrapped Windows 8.1 CD
+https://www.tomshardware.com/desktops/pc-building/hvac-tech-finds-former-amd-ceo-rory-reads-pc-in-a-customers-basement-signed-by-lisa-su-unused-2014-desktop-had-bulldozer-era-hardware-inside-and-a-wrapped-windows-8-1-cd
+4. 【其他】 SpaceX unveils 11-million-square-foot Gigasat factory, a new manufacturing facility for space-based data centers — aims for 1 GW/year of space AI compute by late 2027 from its satellites
+https://www.tomshardware.com/tech-industry/big-tech/spacex-unveils-11-million-square-foot-gigasat-factory-a-new-manufacturing-facility-for-space-based-data-centers-aims-for-1-gw-year-of-space-ai-compute-by-late-2027-from-its-satellites
+5. 【其他】 Startup’s ‘miracle’ solid-state battery actually uses lithium-ion chemistry, according to third-party tests — Donut Lab raised $25M and is valued at $1.25B on what now appear to be debunked claims
+https://www.tomshardware.com/tech-industry/startups-miracle-solid-state-battery-actually-uses-lithium-ion-chemistry-according-to-third-party-tests-donut-lab-raised-usd25m-and-is-valued-at-usd1-25b-on-what-now-appear-to-be-debunked-claims
+6. 【终端/边缘】 Grab a huge $550 saving on this 4K-ready gaming PC with an RTX 5070 and 7800X3D right now — just $1,449 for this liquid-cooled iBuyPower rig with 16GB DDR5 and a 1TB SSD
+https://www.tomshardware.com/desktops/gaming-pcs/grab-a-huge-usd550-saving-on-this-4k-ready-gaming-pc-with-an-rtx-5070-and-7800x3d-right-now-just-usd1-449-for-this-liquid-cooled-ibuypower-rig-with-16gb-ddr5-and-a-1tb-ssd
+
+🇨🇳 中国
+1. 【其他】 美团发布AI浏览器Tabbit 1.0，可自动执行各类任务
+https://www.leiphone.com/category/industrynews/l1NRaMPNtbIamRZp.html
+2. 【其他】 企业批准员工以宗教理由不使用 AI
+https://www.solidot.org/story?sid=84528
+3. 【其他】 从诺奖项目到生成式药物设计，Latent Labs 创始人 Simon Kohl：AI 正在让生物学进入「可编程时代」 | CVPR 2026
+https://www.leiphone.com/category/ai/KDFY44S9EzFIKxVD.html
+4. 【其他】 滴滴率先接入微信 AI 生态，一键唤起叫车服务全程不跳转
+https://www.leiphone.com/category/transportation/gb1m547vcoMiTJRR.html
+5. 【其他】 Agent时代的CPU军备竞赛，至强6+如何把Agentic AI变成生产力？
+https://www.leiphone.com/category/chips/8QdT8eNj1uWJ7cQt.html
+6. 【其他】 苹果宣布 Google Gemini 驱动的 Siri AI
+https://www.solidot.org/story?sid=84525
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
