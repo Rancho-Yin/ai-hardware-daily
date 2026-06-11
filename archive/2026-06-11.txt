@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-11（抓取 2026-06-10）
+
+🌍 全球
+1. 【芯片/算力】 Google reportedly books Intel for packaging more than 3 million TPUs in 2028 — SK hynix is testing Intel's EMIB packaging for HBM integration
+https://www.tomshardware.com/tech-industry/google-reportedly-books-intel-for-more-than-3-million-tpus-in-2028
+2. 【其他】 Samsung Heavy Industries recruits Greek shipowner and Supermicro to bring 50MW floating AI data centers to market — can be powered by solid oxide fuel cells running on liquefied natural gas
+https://www.tomshardware.com/tech-industry/samsung-heavy-industries-recruits-greek-shipowner-and-supermicro-to-bring-50mw-floating-ai-data-centers-to-market
+3. 【其他】 Valve to discontinue physical Steam gift cards by the end of 2026 due to scammers — says nefarious actors continue to exploit them despite years of restrictions
+https://www.tomshardware.com/video-games/pc-gaming/valve-to-discontinue-physical-steam-gift-cards-by-the-end-of-2026-due-to-scammers-says-nefarious-actors-continue-to-exploit-them-despite-years-of-restrictions
+4. 【其他】 Overenthusiastic GTA 6 fan claims to be monitoring oxygen levels, acoustic noise from the bushes at Rockstar North HQ — promises trailer 3 launch is imminent based on heightened activity
+https://www.tomshardware.com/video-games/console-gaming/overenthusiastic-gta-6-fan-claims-to-be-monitoring-oxygen-levels-acoustic-noise-from-the-bushes-at-rockstar-north-hq-promises-trailer-3-launch-is-imminent-based-on-heightened-activity
+5. 【芯片/算力】 Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks
+https://www.tomshardware.com/tech-industry/semiconductors/analyzing-tsmcs-fab-expansion-roadmap-multi-fab-n2-ramp-cowos-soic-and-uncorking-bottlenecks
+6. 【终端/边缘】 Gigabyte's sensational RTX 5070 Ti Aorus Prime 5 gaming PC has had $500 slashed off the list price at Walmart — 32GB of DDR5 RAM, and 2TB of storage for just $1,999
+https://www.tomshardware.com/desktops/gaming-pcs/gigabytes-sensational-rtx-5070-ti-aorus-prime-5-gaming-pc-has-had-usd500-slashed-off-the-list-price-at-walmart-32gb-of-ddr5-ram-and-2tb-of-storage-for-just-usd1-999
+
+🇨🇳 中国
+1. 【其他】 会写字、懂排版、能分镜：HiDream-O1-Image-1.5 全能图像生成能力解析
+https://www.leiphone.com/category/ai/6WL1SBqJQM2LVl94.html
+2. 【其他】 半导体月销售额首次突破 1100 亿美元
+https://www.solidot.org/story?sid=84541
+3. 【其他】 德国法庭裁决 Google 要对 AI Overviews 内容承担责任
+https://www.solidot.org/story?sid=84540
+4. 【其他】 离谱！哈啰单车员工曾计划殴打竞品核心人员，公司回应；员工「迟开电脑8分钟」被开除，法院判了；丰巢取件得先看广告，客服称暂无法关闭
+https://www.leiphone.com/category/zaobao/920O0mJxY30OIE6r.html
+5. 【其他】 火山引擎与周星驰比高集团达成版权合作，打造AI 视频 IP 合作新模式
+https://www.leiphone.com/category/industrynews/g1yZBjmsWQ6XRHdJ.html
+6. 【其他】 比亚迪一年 200 次 OTA，次数远超竞争对手
+https://www.solidot.org/story?sid=84538
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
