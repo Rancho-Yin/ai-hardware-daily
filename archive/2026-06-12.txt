@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-12（抓取 2026-06-11）
+
+🌍 全球
+1. 【其他】 After spat with Chinese gov't, Meta cuts AI Manus off from its internal systems and is 'sunsetting' platform, report claims — Beijing-ordered breakup of $2 billion AI deal begins
+https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-cuts-manus-off-from-its-internal-systems-as-china-ordered-breakup-of-2-billion-ai-deal-begins
+2. 【终端/边缘】 Gaming PC deflects bullet shot through wall by neighbour, saving owner's life — criminal negligence charges for culprit who claims 'firearm was accidentally discharged by her dog'
+https://www.tomshardware.com/desktops/pc-building/gaming-pc-deflects-bullet-shot-through-wall-by-neighbour-saving-owners-life-criminal-negligence-charges-for-culprit-who-claims-firearm-was-accidentally-discharged-by-her-dog
+3. 【终端/边缘】 Get 32GB DDR5 for just $280, $100 less than elsewhere, in this epic Newegg combo deal — save 23% on this gaming PC parts bundle featuring Intel's fastest gaming CPU in years, along with a Z890 motherboard for just $769.99
+https://www.tomshardware.com/pc-components/get-32gb-ddr5-for-just-usd280-usd100-less-than-elsewhere-in-this-epic-newegg-combo-deal-save-23-percent-on-this-gaming-pc-parts-bundle-featuring-intels-fastest-gaming-cpu-in-years-along-with-a-z890-motherboard-for-just-usd769-99
+4. 【其他】 AI is set to consume up to 600 billion gallons of water by 2030 — rising energy consumption primarily to blame as data center power demands rise
+https://www.tomshardware.com/tech-industry/ai-is-set-to-consume-up-to-600-billion-gallons-of-water-by-2030-rising-energy-consumption-primarily-to-blame-as-data-center-power-demands-rise
+5. 【其他】 Massive 8TB SD cards are set to ship 'shortly' after a two-year delay — mind-blowing storage at possibly bank-breaking prices
+https://www.tomshardware.com/pc-components/microsd-cards/8tb-sd-cards-are-set-to-ship-shortly-after-a-two-year-delay-mind-blowing-storage-at-possibly-bank-breaking-prices
+6. 【其他】 Louis Rossmann is suing Samsung after firm offers $330 refund for defective SSD while selling the drives on Amazon for $949 — spat over 4TB 990 Pro SSD is headed to court
+https://www.tomshardware.com/pc-components/ssds/louis-rossman-threatens-to-take-samsung-to-court-over-dead-4tb-990-pro-ssd-after-ssd-maker-failed-to-replace-the-drive-under-warranty
+
+🇨🇳 中国
+1. 【其他】 苹果研发低温铝回收工艺：125℃ 即可从废旧合金中提取高纯度铝，提升 iPhone 和 MacBook 环保价值
+https://www.ithome.com/0/963/226.htm
+2. 【其他】 科技巨头大举借债
+https://www.solidot.org/story?sid=84553
+3. 【其他】 2590.8 万元，千里智驾收购视觉毫米波融合雷达企业融感科技 100% 股权
+https://www.ithome.com/0/963/225.htm
+4. 【其他】 小米汽车：YU7 全系车型配备三重冗余车门把手，极端场景下仍可实现中控解锁、机械开门
+https://www.ithome.com/0/963/224.htm
+5. 【其他】 游荡在 Fedora 项目的可疑 AI 智能体
+https://www.solidot.org/story?sid=84552
+6. 【其他】 微软联合创始人比尔 · 盖茨自称曾遭爱泼斯坦勒索：否认参与犯罪活动，现在就是十分后悔与其往来
+https://www.ithome.com/0/963/223.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
