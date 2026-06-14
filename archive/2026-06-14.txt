@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-14（抓取 2026-06-13）
+
+🌍 全球
+1. 【其他】 My first 24 hours with Siri AI on the Mac
+https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence
+2. 【终端/边缘】 Save $500 on this beastly gaming rig with an RTX 5060 Ti 16GB, Ryzen 7800X3D, and 32GB of RAM — Skytech's desktop gaming PC now just $1,499
+https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-beastly-gaming-rig-with-an-rtx-5060-ti-16gb-ryzen-7800x3d-and-32gb-of-ram-skytechs-desktop-gaming-pc-now-just-usd1-499
+3. 【其他】 More than 75 data center build-outs worth $130 billion have been successfully blocked in the first three months of 2026 — bipartisan opposition mounts nationwide over fears of soaring power and water costs
+https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-75-data-center-build-outs-worth-usd130-billion-have-been-successfully-blocked-in-the-first-four-months-of-2026-bipartisan-opposition-mounts-nationwide-over-fears-of-soaring-power-and-water-costs
+4. 【其他】 AMD challenges Nvidia's DGX Spark with $3,999 Ryzen AI Halo with Windows 11 support — Strix Halo desktop undercuts Nvidia by $700, packs 128GB of unified memory
+https://www.tomshardware.com/desktops/mini-pcs/amd-challenges-nvidias-dgx-spark-with-usd3-999-ryzen-ai-halo-with-windows-11-support-strix-halo-desktop-undercuts-nvidia-by-usd700-packs-128gb-of-unified-memory
+5. 【其他】 Netgear countersues TP-Link, saying firm 'remains, at its core, a Chinese company selling Chinese-made products' — alleges its 'American company' rebrand is false advertising
+https://www.tomshardware.com/networking/routers/netgear-countersues-tp-link-alleging-its-american-company-rebrand-is-false-advertising
+6. 【芯片/算力】 Nvidia raises RTX Pro 6000 Blackwell GPU pricing to $13,250 — 55% increase over MSRP in a year's time
+https://www.tomshardware.com/pc-components/gpus/nvidia-raises-rtx-pro-6000-blackwell-gpu-pricing-to-usd13-250-55-percent-increase-over-msrp-in-a-years-time
+
+🇨🇳 中国
+1. 【数据中心】 为什么轨道数据中心比硅谷认为的更困难？
+https://www.solidot.org/story?sid=84571
+2. 【其他】 科技领袖纷纷开启“反思模式”，修正此前“AI 会带来就业末日”论调
+https://www.ithome.com/0/963/990.htm
+3. 【其他】 《命运 2》最终大型更新“凯旋纪念碑”上线：付费内容打包卖 102.09 元，原价 859.35 元
+https://www.ithome.com/0/963/989.htm
+4. 【其他】 全球首条百万片级体全息光波导自动化产线在天津投产，消费级 AR 核心显示技术重大量产突破
+https://www.ithome.com/0/963/988.htm
+5. 【其他】 知名会计师事务所毕马威 AI 行业报告被指是“AI 写的”：充斥幻觉、错误百出
+https://www.ithome.com/0/963/986.htm
+6. 【其他】 智谱 AI 编程工具 ZCode 3.0 版本发布：切换自研 ZCode Agent 内核，深度适配 GLM-5.2
+https://www.ithome.com/0/963/985.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
