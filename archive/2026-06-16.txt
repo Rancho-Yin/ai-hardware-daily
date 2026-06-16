@@ -1,0 +1,32 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-16（抓取 2026-06-15）
+
+🌍 全球
+1. 【芯片/算力】 China's supreme court bans Infineon from selling GaN power chips in China — market-leader Innoscience secures major victory in multi-region patent war
+https://www.tomshardware.com/tech-industry/chinas-top-court-bars-infineon-from-selling-gan-power-chips-in-china
+2. 【终端/边缘】 Score 32GB of DDR5 RAM from only $240 in these Newegg hardware bundles for Intel and AMD gaming PC builds — huge savings on premium Gigabyte motherboards coupled with popular Corsair Vengeance memory
+https://www.tomshardware.com/pc-components/score-32gb-of-ddr5-ram-from-only-usd240-in-these-newegg-hardware-bundles-for-intel-and-amd-gaming-pc-builds-huge-savings-on-premium-gigabyte-motherboards-coupled-with-popular-corsair-vengeance-memory
+3. 【其他】 FBI dismantles Chinese phishing service that coached buyers to generate scam sites using AI —$88 cybercrime product linked to $1.9 billion in losses, 3.87 million stolen cards
+https://www.tomshardware.com/tech-industry/cyber-security/fbi-and-google-dismantle-chinese-phishing-service-that-coached-buyers-to-generate-scam-sites-with-gemini
+4. 【数据中心】 42% slashed off Samsung's 990 Pro SSD, 2TB now $369 — $270 savings brings one of the fastest PCIe 4.0 SSDs to its lowest price in months
+https://www.tomshardware.com/pc-components/42-percent-slashed-of-samsungs-990-pro-ssd-2tb-now-usd369-usd270-savings-brings-one-of-the-fastest-pcie-4-0-ssds-to-its-lowest-price-in-months
+5. 【其他】 2021 Honda Civic infotainment system can be jailbroken via USB — flaw uses public Android test keys to install unauthorized apps, enables for 'EvilValet' attacks
+https://www.tomshardware.com/tech-industry/cyber-security/2021-honda-civic-infotainment-system-can-be-jailbroken-via-usb-flaw-uses-public-android-test-keys-to-install-unauthorized-apps-enables-for-evilvalet-attacks
+
+🇨🇳 中国
+1. 【机器人】 对话它石智航丁文超：具身智能，如何迈进「2.0时代」？| ICRA 2026
+https://www.leiphone.com/category/robot/CphF1Mc5RZX5xaWN.html
+2. 【机器人】 对话速腾聚创杨先声：机器人的通用智能，先从一双「不骗人」的眼睛开始 | ICRA 2026
+https://www.leiphone.com/category/robot/04blpoyMgJFliCK9.html
+3. 【其他】 腾讯AI下半场，智能体加速场景落地
+https://www.leiphone.com/category/industrynews/Zlsk48Iv88fVZ3N9.html
+4. 【其他】 英国将禁止 16 岁以下青少年访问社交媒体
+https://www.solidot.org/story?sid=84584
+5. 【其他】 测试显示 AI 的数学解题能力仍然不如人类专家
+https://www.solidot.org/story?sid=84583
+6. 【其他】 蔚来ES9正式上市，定位科技行政旗舰SUV
+https://www.leiphone.com/category/transportation/KSYxJzfPdVeIgGXz.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
