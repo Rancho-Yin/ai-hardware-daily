@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-17（抓取 2026-06-16）
+
+🌍 全球
+1. 【终端/边缘】 'The retail SSD market has almost disappeared,' says Silicon Motion exec — PC OEMs are buying third-party drives as direct NAND supply dries up
+https://www.tomshardware.com/pc-components/ssds/the-retail-ssd-market-has-almost-disappeared-says-silicon-motion-exec-pc-oems-are-buying-third-party-drives-as-direct-nand-supply-dries-up
+2. 【其他】 Chinese fab SMIC's 7nm metal pitch beats Intel 18A but lags 38% on density, teardown finds — Huawei's sanctions-beating HiSilicon Kirin 9030 is the first subject of SemiAnalysis's new teardown lab
+https://www.tomshardware.com/tech-industry/semiconductors/semianalysis-opens-its-own-chip-teardown-lab
+3. 【其他】 Noctua finally releases its first AIO coolers — prices start at $220 for 240mm, features the company’s legendary A-series fans
+https://www.tomshardware.com/pc-components/liquid-cooling/noctua-finally-releases-its-first-aio-coolers-prices-start-at-usd220-for-240mm-features-the-companys-legendary-a-series-fans
+4. 【数据中心】 SMI's PCIe 6.0 SSD controller for consumer SSDs coming next year, but severe NAND shortages will get even worse in 2027 as AI data centers swallow supply — An interview with Silicon Motion's SVP Nelson Duann
+https://www.tomshardware.com/pc-components/ssds/smis-pcie-6-0-ssd-controller-for-consumer-ssds-coming-next-year-but-severe-nand-shortages-will-get-even-worse-in-2027-as-ai-data-centers-swallow-supply-an-interview-with-silicon-motions-svp-nelson-duann
+5. 【其他】 MSI MPG Coreliquid P22 360 Review: Low noise, strong performance, budget price
+https://www.tomshardware.com/pc-components/liquid-cooling/msi-mpg-coreliquid-p22-360-review
+6. 【芯片/算力】 Microsoft debuts Surface Pro and Surface Laptop with new jade green color and Qualcomm Snapdragon X2 chips — refreshed devices start at $1,499 with 16GB of RAM
+https://www.tomshardware.com/laptops/microsoft-debuts-surface-pro-and-surface-laptop-with-new-jade-green-color-and-qualcomm-snapdragon-x2-chips-refreshed-devices-start-at-usd1-499-with-16gb-of-ram
+
+🇨🇳 中国
+1. 【数据中心】 亚马逊数据中心 2025 年使用了 25 亿加仑的水
+https://www.solidot.org/story?sid=84598
+2. 【数据中心】 Commodore 宣布反社交网络的翻盖手机
+https://www.solidot.org/story?sid=84597
+3. 【机器人】 2026博世互联世界大会（BCW）: 传感器到系统解决方案，博世持续推进自动化与机器人技术创新
+https://www.leiphone.com/category/industrynews/lyFKlXW7XiM2y35v.html
+4. 【其他】 超百万现金激励，TRAE AI创造力大赛正式启动
+https://www.leiphone.com/category/industrynews/8apNrrdq14vz5adL.html
+5. 【其他】 开源模型能否战胜 OpenAI？
+https://www.solidot.org/story?sid=84595
+6. 【其他】 六连冠！文远知行再度刷新中国智驾大赛连胜纪录
+https://www.leiphone.com/category/industrynews/OGB505tOpxc2313T.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
