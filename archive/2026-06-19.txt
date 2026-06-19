@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-19（抓取 2026-06-18）
+
+🌍 全球
+1. 【其他】 MSI's new Claw 8 EX AI+ handheld with an Intel Arc G3 Extreme and 32GB of RAM costs $1,799 — company says it'll be 'a tough year' with chances of 'another price hike'
+https://www.tomshardware.com/video-games/handheld-gaming/msis-new-claw-8-ex-ai-handheld-with-an-intel-arc-g3-extreme-and-32gb-of-ram-costs-usd1-799-company-says-itll-be-a-tough-year-with-chances-of-another-price-hike
+2. 【终端/边缘】 Ditching the cloud for local AI — how I use two mini PCs to process millions of tokens a day and save money on costly API fees
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ditching-the-cloud-for-local-ai-how-i-use-two-mini-pcs-to-process-millions-of-tokens-a-day-and-save-money-on-costly-api-fees
+3. 【其他】 Noctua NL-LC1-36 Review: Compromise paves the way
+https://www.tomshardware.com/pc-components/liquid-cooling/noctua-nl-lc1-36-review
+4. 【其他】 Retro pirate gets two-year suspended jail sentence for being stuck in the past, burning and selling remix CDs of famous artists — four-year investigation into copyright infringement on 40-year-old medium began in 2018
+https://www.tomshardware.com/pc-components/storage/retro-pirate-gets-two-year-suspended-jail-sentence-for-being-stuck-in-the-past-burning-and-selling-remix-cds-of-famous-artists-four-year-investigation-into-copyright-infringement-on-40-year-old-medium-began-in-2018
+5. 【其他】 Apple CEO Tim Cook warns AI-driven price increases are unavoidable — says company is trying its best but 'the situation has become unsustainable'
+https://www.tomshardware.com/laptops/apple-ceo-tim-cook-warns-ai-driven-price-increases-are-unavoidable-says-company-is-trying-its-best-but-the-situation-has-become-unsustainable
+6. 【芯片/算力】 Trump says Apple has agreed to 'build' chips with Intel — neither company confirms deal as Intel share price rockets
+https://www.tomshardware.com/tech-industry/trump-says-apple-agreed-to-build-chips-with-intel
+
+🇨🇳 中国
+1. 【芯片/算力】 最先自研芯片的朱江明，有什么理由劝大家“别造了”？
+https://www.leiphone.com/category/transportation/8YqmG5gzTCDsi2cQ.html
+2. 【其他】 龙芯 3C6000＋砺算 LX PRO 24G，挚科乾启 ZK3C60S-W 纯血国产工作站正式发布
+https://www.ithome.com/0/966/282.htm
+3. 【其他】 Stellantis：正与两家潜在伙伴商谈玛莎拉蒂合作事宜，很快就会作出决定
+https://www.ithome.com/0/966/277.htm
+4. 【其他】 Epic 喜加二：《深空梦里人》《ROBOBEAT》游戏免费领
+https://www.ithome.com/0/966/276.htm
+5. 【其他】 我国首部 L3/L4 自动驾驶强制性国标公示：2027 年 7 月起正式实施，车企靠模糊宣传抢市场的阶段结束
+https://www.ithome.com/0/966/272.htm
+6. 【芯片/算力】 三星确认 Exynos 2700 芯片正在研发中，下一代旗舰智能手机率先采用
+https://www.ithome.com/0/966/271.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
