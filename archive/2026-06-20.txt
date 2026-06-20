@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-20（抓取 2026-06-19）
+
+🌍 全球
+1. 【其他】 Amazon workers who testified against AI data centers say they were intimidated by the company, monitored at work — employees face possible termination for violating company policy, speaking as representatives
+https://www.tomshardware.com/tech-industry/data-centers/amazon-workers-who-testified-against-ai-data-centers-say-they-were-intimidated-by-the-company-monitored-at-work-employees-face-possible-termination-for-violating-company-policy-speaking-as-representatives
+2. 【其他】 The NTS Radio Player brings the best of internet radio to your hi-fi
+https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming
+3. 【其他】 Bernie Sanders files bill proposing 50% public ownership of US AI firms and giving out $1,000 dividends — VP Vance says Trump supports giving the American people a stake in AI companies, prefers ‘pre-distribution’ over giving away cash
+https://www.tomshardware.com/tech-industry/artificial-intelligence/bernie-sanders-files-bill-proposing-50-percent-public-ownership-of-us-ai-firms-and-giving-out-usd1-000-dividends-vp-vance-says-trump-supports-giving-the-american-people-a-stake-in-ai-companies-prefers-pre-distribution-over-giving-away-cash
+4. 【芯片/算力】 ASML denies US government report that its EUV chipmaking tool was shipped to China — says 'rumors' are 'inaccurate and damaging to our reputation'
+https://www.tomshardware.com/tech-industry/semiconductors/asml-denies-us-government-report-that-its-euv-chipmaking-tool-was-shipped-to-china-says-rumors-are-inaccurate-and-damaging-to-our-reputation
+5. 【其他】 The film about Sam Altman has been dropped by Amazon MGM
+https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
+6. 【其他】 Our long national sunscreen nightmare is almost over
+https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health
+
+🇨🇳 中国
+1. 【其他】 强推 AI 引用户反感，谷歌 AI 建议用户不想看 AI 就用 DuckDuckGo
+https://www.ithome.com/0/966/444.htm
+2. 【其他】 加州亿万富翁税提案获得足够签名有资格在 11 月公投
+https://www.solidot.org/story?sid=84628
+3. 【其他】 2D 材料晶体管告别实验室：imec 联手台积电、ASML 实现 50nm 栅距 300mm 晶圆验证
+https://www.ithome.com/0/966/443.htm
+4. 【其他】 印度首富安巴尼：印度必须成为 AI 的创造者和全球领导者
+https://www.ithome.com/0/966/442.htm
+5. 【其他】 开发者福音：HTTP QUERY 新方法将成为正式标准，只读查询不再尴尬借用 POST
+https://www.ithome.com/0/966/439.htm
+6. 【数据中心】 应对 AI 耗电激增，美国要求 6 家电网运营商加速给数据中心供电
+https://www.ithome.com/0/966/435.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
