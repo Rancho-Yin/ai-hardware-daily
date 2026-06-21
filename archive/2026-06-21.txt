@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-21（抓取 2026-06-20）
+
+🌍 全球
+1. 【终端/边缘】 Save $300 on this 1440p-ready gaming PC with 32GB DDR5 RAM — grab the Asus ROG GM700 with AMD's Ryzen 7 8700F and RX 9060 XT for just $1,199
+https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-ready-gaming-pc-with-32gb-ddr5-ram-grab-the-asus-rog-gm700-with-amds-ryzen-7-8700f-and-rx-9060-xt-for-just-usd1-199
+2. 【其他】 Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives
+https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview
+3. 【其他】 Award-winning resin 3D printer for beginners is 36% off — grab the Anycubic Photon P1 with dual-color material kit for $619.99
+https://www.tomshardware.com/3d-printing/award-winning-resin-3d-printer-for-beginners-is-36-percent-off-grab-the-anycubic-photon-p1-with-dual-color-material-kit-for-usd619-99
+4. 【芯片/算力】 China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX — Beijing's forced chip and satellite alliance announced a week before Musk’s AI1 reveal
+https://www.tomshardware.com/tech-industry/data-centers/china-unifies-tech-sector-to-build-grid-free-orbiting-satellite-ai-data-centers-challenging-elon-musks-spacex-beijings-forced-chip-and-satellite-alliance-announced-a-week-before-musks-ai1-reveal
+5. 【其他】 Rare ASML Special Edition Monopoly board unearthed in social media trade — enthusiast swaps 2007 employee gift for High-NA EUV Lego kit
+https://www.tomshardware.com/tech-industry/semiconductors/rare-asml-special-edition-monopoly-board-unearthed-in-social-media-trade-enthusiast-swaps-2007-employee-gift-for-high-na-euv-lego-kit
+6. 【其他】 Intel and AMD's new ACE CPU extensions bring an efficient AI-oriented instruction set to x86 — a new design makes matrix multiplication more power- and density-efficient
+https://www.tomshardware.com/pc-components/cpus/intel-and-amds-new-ace-cpu-extensions-bring-an-efficient-ai-oriented-instruction-set-to-x86-a-new-design-makes-matrix-multiplication-more-power-and-density-efficient
+
+🇨🇳 中国
+1. 【其他】 中山大学联合团队首次实时观察到碲纳米线在液体中的生长全过程，铋籽晶调控成核与沉积效率
+https://www.ithome.com/0/966/576.htm
+2. 【芯片/算力】 SK 海力士大规模招聘引发行业巨震，中小规模芯片企业“深感不安”
+https://www.ithome.com/0/966/575.htm
+3. 【其他】 软银将其持有的波士顿动力剩余股份全部出售给现代汽车
+https://www.solidot.org/story?sid=84631
+4. 【其他】 宝马推出印度产 MINI Countryman C 车型，由超过 120 家本土供应商提供零部件支持
+https://www.ithome.com/0/966/574.htm
+5. 【其他】 AI 使用是否会导致技能退化？
+https://www.solidot.org/story?sid=84630
+6. 【其他】 《幻兽帕鲁》发行主管：我们没必要使用生成式 AI，因为玩家不想要
+https://www.ithome.com/0/966/571.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
