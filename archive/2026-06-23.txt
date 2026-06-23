@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-23（抓取 2026-06-22）
+
+🌍 全球
+1. 【终端/边缘】 These are the best Prime Day deals I've found on tools I use to maintain my PC — from screwdrivers to air blowers, these tools will keep your PC in tip-top shape
+https://www.tomshardware.com/desktops/pc-building/best-pc-tool-deals
+2. 【其他】 2003-era DDR2 memory prices jump up to 60% — AI-driven DRAM shortage reaches the oldest standard still in production
+https://www.tomshardware.com/pc-components/dram/ddr2-memory-prices-jump-up-to-60-percent
+3. 【其他】 One of the best-looking gaming chairs of 2026 is less than half price ahead of Prime Day — Porsche-inspired Thermaltake Argent E700 is only $620, but stock is low
+https://www.tomshardware.com/pc-components/one-of-the-best-looking-gaming-chairs-of-2026-is-more-than-half-price-ahead-of-prime-day-porsche-inspired-thermaltake-argent-e700-is-only-usd620-but-stock-is-low
+4. 【其他】 Ludicrous $999 Steam game lasts just 10 minutes — ‘Congratulations On Your Purchase’ is pure conspicuous consumption with its golden ticket Steam Achievement
+https://www.tomshardware.com/video-games/pc-gaming/ludicrous-usd999-steam-game-lasts-just-10-minutes-congratulations-on-your-purchase-is-pure-conspicuous-consumption-with-its-golden-ticket-steam-achievement
+5. 【其他】 Get a 4TB SSD for $399 this Prime Day — 9.7 cents per GB is as good as it gets thanks to the AI pricing crisis
+https://www.tomshardware.com/pc-components/ssds/get-a-4tb-ssd-for-usd399-this-prime-day-9-7-cents-per-gb-is-as-good-as-it-gets-thanks-to-the-ai-pricing-crisis
+6. 【其他】 M3 MacBook Air plunges to $799 in early Amazon Prime Day sale — 38% discount blows the MacBook Neo out of the water
+https://www.tomshardware.com/laptops/macbooks/m3-macbook-air-plunges-to-usd799-in-early-amazon-prime-day-sale-38-percent-discount-blows-the-macbook-neo-out-of-the-water
+
+🇨🇳 中国
+1. 【其他】 谷歌 DeepMind 杰出工程师费恩伯格：想进入顶尖 AI 实验室，得“像条狗一样拼命干”
+https://www.ithome.com/0/967/237.htm
+2. 【芯片/算力】 合约最高价值 63 亿美元，SpaceX 与开源 AI 初创企业 Reflection 签署算力合作协议
+https://www.ithome.com/0/967/236.htm
+3. 【其他】 消息称三星显示已获苹果量产认证，将为折叠屏 iPhone 独供 OLED 面板
+https://www.ithome.com/0/967/235.htm
+4. 【其他】 华为乾崑｜启境 GT7“新一代智能猎装”进入量产阶段，广汽集团公开新车核心亮点
+https://www.ithome.com/0/967/229.htm
+5. 【其他】 长川科技 2026 年半年度归母净利润 9 亿元 ~10 亿元，同比预增 110.76%~134.18%
+https://www.ithome.com/0/967/170.htm
+6. 【其他】 Fable 5 刚被封杀，OpenRouter 用「多模型协作」搞出了「平替天团」
+https://www.leiphone.com/category/yanxishe/9TGZvtD8CvNeaEKw.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
