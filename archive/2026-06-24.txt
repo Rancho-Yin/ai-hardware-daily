@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-24（抓取 2026-06-23）
+
+🌍 全球
+1. 【数据中心】 Get a 4TB Samsung 9100 Pro SSD for just $459 in blockbuster Prime Day sale — remarkable deal shaves $900 off PCIe 5.0 NVMe drive to bring it below MSRP [Updated]
+https://www.tomshardware.com/pc-components/save-an-amazing-usd900-off-a-4tb-samsung-9100-pro-ssd-in-blockbuster-prime-day-deal-remarkable-sale-brings-pcie-5-0-nvme-drive-from-usd1-360-down-to-just-usd459
+2. 【其他】 Save $250 on the cheapest RTX 5080 around this Prime Day — Gigabyte Gaming OC GeForce RTX 5080 at stellar pricing on Newegg
+https://www.tomshardware.com/pc-components/save-usd250-on-the-cheapest-rtx-5080-around-this-prime-day-gigabyte-gaming-oc-geforce-rtx-5080-at-stellar-pricing-on-newegg
+3. 【其他】 The Swiss army knife of USB DVD drives is on sale, also features a built-in M.2 SSD slot, USB hub, and SATA hard drive dock — $26 for DVD writer and hub, $39 gets an added SATA or M.2 SSD dock
+https://www.tomshardware.com/pc-components/storage/the-swiss-army-knife-of-usb-dvd-drives-is-on-sale-also-features-a-built-in-m-2-ssd-slot-usb-hub-and-sata-hard-drive-dock-usd26-for-dvd-writer-and-hub-usd39-gets-an-added-sata-or-m-2-ssd-dock
+4. 【终端/边缘】 Best Prime Day Gaming PC Deals 2026 — deals from Amazon, Best Buy, Newegg, Dell, Lenovo, and others
+https://www.tomshardware.com/desktops/gaming-pcs/best-gaming-pc-deals-prebuilts
+5. 【其他】 Best Prime Day SSD deals 2026 — savings on Samsung, WD, Crucial, and other SSDs at Amazon, Newegg, and others
+https://www.tomshardware.com/pc-components/ssds/best-ssd-deals-discounts
+6. 【芯片/算力】 Geekom launches Mini PC Prime Day offers with up to 34% off, also an exclusive 8% discount code — oodles of sleek mini PC choices packing AMD Ryzen and Intel Core Ultra chips
+https://www.tomshardware.com/pc-components/geekom-launches-mini-pc-prime-day-offers-with-up-to-34-percent-off-also-an-exclusive-8-percent-discount-code-oodles-of-sleek-mini-pc-choices-packing-amd-ryzen-and-intel-core-ultra-chips
+
+🇨🇳 中国
+1. 【其他】 小米 MiMo-V2.5-Pro-UltraSpeed 限时体验官宣延期，下线时间将根据资源情况另行安排
+https://www.ithome.com/0/967/698.htm
+2. 【其他】 中国新超算灵晟登顶 Top500 榜单
+https://www.solidot.org/story?sid=84657
+3. 【机器人】 研究揭示 AI 聊天机器人或成“妄想放大器”：个性化互动能让用户越聊越偏执
+https://www.ithome.com/0/967/697.htm
+4. 【其他】 荣耀 MagicOS 11 液态玻璃尝鲜版先锋活动计划在 7 月 31 日前启动二期报名
+https://www.ithome.com/0/967/696.htm
+5. 【其他】 领克 07GT 时间限量版官图公布：超跑版内外饰颜色，6 月 29 日全球首秀
+https://www.ithome.com/0/967/693.htm
+6. 【芯片/算力】 在 HBM 领域占据明显优势后，消息称 SK 海力士将优先生产通用型 DRAM
+https://www.ithome.com/0/967/691.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
