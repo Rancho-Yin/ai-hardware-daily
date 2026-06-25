@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-25（抓取 2026-06-24）
+
+🌍 全球
+1. 【其他】 Secretlab gaming chairs and desks hit Prime Day week sales, up to $129 off — save on the Titan Evo, Magnus, and more
+https://www.tomshardware.com/gift-guides-seasonal-sales/secretlab-gaming-chairs-and-desks-hit-prime-day-week-sales-up-to-usd129-off-save-on-the-titan-evo-magnus-and-more
+2. 【终端/边缘】 Geekom Prime Day deals take up to 34% off a new mini PC with our exclusive promo code — Get an AMD or Intel mini PC for less now
+https://www.tomshardware.com/desktops/mini-pcs/mini-pc-amazon-prime-day-sale-geekom
+3. 【终端/边缘】 These four portable monitors are on sale for Prime Day: Get a second screen for your PC or console for as little as $39
+https://www.tomshardware.com/monitors/portable-monitors/these-four-portable-monitors-are-on-sale-for-prime-day-get-a-second-screen-for-your-pc-or-console-for-as-little-as-usd39
+4. 【芯片/算力】 TSMC is reportedly hiking prices for 'all advanced nodes,' accounting for 74% of the company’s wafer business — Nvidia, AMD, Apple, Qualcomm, and others will face higher wafer costs
+https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-reportedly-hiking-prices-for-all-advanced-nodes-accounting-for-74-percent-of-the-companys-wafer-business-nvidia-amd-apple-qualcomm-and-others-will-face-higher-wafer-costs
+5. 【其他】 Logitech goes off the rails with Prime Day gaming mouse savings of up to 47% - Eight of its top-tier gaming mice with incredible discounts
+https://www.tomshardware.com/pc-components/logitech-goes-off-the-rails-with-prime-day-gaming-mouse-savings-of-up-to-47-percent-upgrade-the-most-frequently-used-pc-peripheral-on-the-cheap
+6. 【其他】 SK hynix files to raise up to $29 billion in historic Nasdaq listing — all proceeds going to advanced AI memory fabs and EUV tool orders
+https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing
+
+🇨🇳 中国
+1. 【其他】 亚马逊推出升级版 Zoox 自动驾驶出租车：星空顶 + 面对面座椅，乘坐体验更平静
+https://www.ithome.com/0/968/216.htm
+2. 【终端/边缘】 Netflix 恐怖游戏《Unhinged》6 月 30 日上线：用手机当控制器，用真实来电营造沉浸感
+https://www.ithome.com/0/968/215.htm
+3. 【其他】 华为擎云 H3550 商用智能手表发布：升级 6 LED + 6 PD PPG 模组、支持星闪查找 / 车钥匙
+https://www.ithome.com/0/968/214.htm
+4. 【其他】 海军辽宁舰编队完成远海实训，靠电子战系统等迅速甩掉“偷窥者”
+https://www.ithome.com/0/968/212.htm
+5. 【其他】 华为鸿蒙“龙虾”小艺 Claw 全机型开放，HarmonyOS 5.0 及以上设备可用
+https://www.ithome.com/0/968/211.htm
+6. 【芯片/算力】 消息称三星 Galaxy Z Flip8 小折叠手机国行、美版机型将搭载骁龙芯片
+https://www.ithome.com/0/968/209.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
