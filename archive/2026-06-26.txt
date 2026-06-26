@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-26（抓取 2026-06-25）
+
+🌍 全球
+1. 【其他】 The AI tokenmaxxing party is crashing over spiraling costs — leaked consulting firm audio suggests no one is sure how to measure AI effectiveness
+https://www.tomshardware.com/tech-industry/artificial-intelligence/the-ai-tokenmaxxing-party-is-crashing-over-spiraling-costs-leaked-consulting-firm-audio-suggests-no-one-is-sure-how-to-measure-ai-effectiveness
+2. 【其他】 Asus beta BIOS updates restore Ryzen 9000 memory encryption ahead of AMD’s July timeline — TSME returns to select AM5 boards after silent backlash over removal
+https://www.tomshardware.com/pc-components/cpus/asus-beta-bios-updates-restore-ryzen-9000-memory-encryption-ahead-of-amds-july-timeline-tsme-returns-to-select-am5-boards-after-silent-backlash-over-removal
+3. 【其他】 Want an RTX 5070 Ti? Here’s where to get one for $899 — don't pay retail and save $220 today
+https://www.tomshardware.com/pc-components/gpus/want-an-rtx-5070-ti-heres-where-to-get-one-for-usd899-dont-pay-retail-and-save-usd220-today
+4. 【其他】 Anthropic claims that China's Alibaba used 25,000 fake accounts and 28.8 million exchanges to illicitly 'distill' its Claude model — violations occurred from April to June 2026
+https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-that-chinas-alibaba-illicitly-distilled-its-models-from-april-to-june-2026-says-effort-involved-25-000-fake-accounts-and-28-8-million-exchanges-on-claude
+5. 【芯片/算力】 Qualcomm plans China-specific data center chips — new Dragonfly lineup will include nerfed AI accelerators that comply with export thresholds
+https://www.tomshardware.com/tech-industry/qualcomm-plans-china-specific-data-center-chips-built-to-clear-us-export-limits
+6. 【其他】 Steam Machines will only come with one 16GB stick of RAM — company may change this to two 8GB sticks in the future, but the first batch of consoles is limited to single-channel memory
+https://www.tomshardware.com/video-games/console-gaming/steam-machines-will-only-come-with-one-16gb-stick-of-ram-company-may-change-this-to-two-8gb-sticks-in-the-future-but-the-first-batch-of-consoles-is-limited-to-single-channel-memory
+
+🇨🇳 中国
+1. 【其他】 核心研究员接连离职后，消息称谷歌重组 AI 编程小组试图追赶 Anthropic
+https://www.ithome.com/0/968/722.htm
+2. 【其他】 雪铁龙推出 C3 Aircross 法国海军 400 周年特别版，个性小车化身“轮上战舰”
+https://www.ithome.com/0/968/721.htm
+3. 【其他】 苹果代工厂塔塔电子被黑，部分 iPhone 18 Pro 与 A20 Pro 资料确认泄露
+https://www.ithome.com/0/968/710.htm
+4. 【其他】 《赛博朋克：边缘行者 2》首波情报：新角色威克 · 金斯利揭晓
+https://www.ithome.com/0/968/709.htm
+5. 【其他】 华硕率先发布测试版 BIOS，为 AMD 锐龙 9000 非 PRO 处理器恢复 TSME 内存加密支持
+https://www.ithome.com/0/968/708.htm
+6. 【其他】 这次是阿里！中国的大模型团队快被 Anthropic 告完了
+https://www.leiphone.com/category/yanxishe/vzVNtknYIRqTX0Wv.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
