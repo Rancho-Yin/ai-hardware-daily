@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-27（抓取 2026-06-26）
+
+🌍 全球
+1. 【其他】 The Ryzen 7 5800X3D is tough to find, but these Prime Day CPUs with DDR5 are cheaper — offset the cost of a DDR5 upgrade with a CPU discount
+https://www.tomshardware.com/pc-components/the-ryzen-7-5800x3d-is-sold-out-but-these-prime-day-cpus-with-ddr5-are-cheaper-offset-the-cost-of-a-ddr5-upgrade-with-a-cpu-discount
+2. 【其他】 OpenAI's ChatGPT-5.6 gets the same banhammer treatment as Anthropic’s Mythos from the federal government — source says that Washington cautioned OpenAI against releasing the model without receiving approval
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-chatgpt-5-6-gets-the-same-banhammer-treatment-as-anthropics-mythos-from-the-federal-government-source-says-that-washington-cautioned-openai-against-releasing-the-model-without-receiving-approval
+3. 【数据中心】 Framework's Laptop 13 Pro DIY Edition now costs less than before, but a CPU price hike might be coming — Cheaper PCIe 5.0 drives from Adata upgrade customers from 500GB to 1TB for free
+https://www.tomshardware.com/laptops/frameworks-laptop-13-pro-diy-edition-now-costs-less-than-before-but-a-cpu-price-hike-might-be-coming-cheaper-pcie-5-0-drives-from-adata-upgrade-customers-from-500gb-to-1tb-for-free
+4. 【芯片/算力】 Apple will skip its high-end M6 Mac chips and fast-track an AI-focused M7 generation for 2027, report claims — may release a base M6 chip for entry-level Macs this year
+https://www.tomshardware.com/tech-industry/apple-will-skip-its-high-end-m6-mac-chips-and-fast-track-an-ai-focused-m7-generation-for-2027
+5. 【数据中心】 Solidigm VP talks PCIe 6.0 SSDs, next-gen floating gate NAND, liquid cooled storage and more — Avi Shetty, VP of AI, Solutions & Market Enablement discusses the future of enterprise storage tech
+https://www.tomshardware.com/pc-components/ssds/solidigm-vp-talks-pcie-6-0-ssds-next-gen-floating-gate-nand-liquid-cooled-storage-and-more-avi-shetty-vp-of-ai-solutions-and-market-enablement-discusses-the-future-of-enterprise-storage-tech
+6. 【其他】 AMD Ryzen 7 5800X3D vs Intel Core i7-14700K faceoff — A new battle for DDR4 supremacy in 2026
+https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-5800x3d-vs-intel-core-i7-14700k-faceoff
+
+🇨🇳 中国
+1. 【其他】 高端 Z990 主板将提供三组 8pin CPU 供电接口，英特尔 Nova Lake 双芯型号 PL2 功耗可达 474W
+https://www.ithome.com/0/969/267.htm
+2. 【芯片/算力】 古尔曼：苹果首款触屏 MacBook 笔记本搭载 M5 Pro / Max 芯片，M7 机型稍后推出
+https://www.ithome.com/0/969/266.htm
+3. 【其他】 2026 款奇瑞捷途山海 T1 四驱版车型上市：搭 1.5T 混合动力系统，限时焕新价 14.99 万元起
+https://www.ithome.com/0/969/265.htm
+4. 【其他】 23.99 万元起启境 GT7“玩家首发版”上线：Ultra / Ultra 超长续航版现车，赠送整车延长保修服务
+https://www.ithome.com/0/969/264.htm
+5. 【芯片/算力】 龙芯中科公布 16 核服务器芯片 3C3000，通用计算性能对标 3C5000
+https://www.ithome.com/0/969/263.htm
+6. 【其他】 2026 款奇瑞捷途自由者 7 PLUS 燃油 SUV 正式上市，限时焕新价 11.99 万元起
+https://www.ithome.com/0/969/262.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
