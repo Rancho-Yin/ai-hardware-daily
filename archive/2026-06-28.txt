@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-28（抓取 2026-06-27）
+
+🌍 全球
+1. 【其他】 The Guardian&#8217;s Kai Wright refuses to buy a new phone
+https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire
+2. 【芯片/算力】 Apple reportedly lobbies Uncle Sam for access to Chinese memory chips — tech giant allegedly wants to buy from blacklisted CXMT
+https://www.tomshardware.com/tech-industry/apple-reportedly-lobbies-uncle-sam-for-access-to-chinese-memory-chips-tech-giant-allegedly-wants-to-buy-from-blacklisted-cxmt
+3. 【其他】 Intel's next-gen 52-core Nova Lake CPU could pull up to 474W — high-end LGA1954 motherboards may need three 8-pin power connectors to feed the monster
+https://www.tomshardware.com/pc-components/cpus/intels-next-gen-52-core-nova-lake-cpu-could-pull-up-to-474w-high-end-lga1954-motherboards-may-need-three-8-pin-power-connectors-to-feed-the-monster
+4. 【其他】 Indie developers got tired of waiting for a new Star Fox, so they’re making their own
+https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games
+5. 【其他】 Why is Apple asking me to pay more for Big Tech’s AI obsession?
+https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
+6. 【芯片/算力】 Best Amazon Prime Day tech deals you can still get LIVE, last chance for hot deals — PC hardware deals on GPUs, CPUs, SSDs, and more
+https://www.tomshardware.com/live/news/best-amazon-prime-day-deals-2026
+
+🇨🇳 中国
+1. 【终端/边缘】 Commodore 宣布使用回收内存且不配耳机，使 Callback 8020 翻盖手机降价 100 美元
+https://www.ithome.com/0/969/519.htm
+2. 【其他】 英国斥资 7.5 亿英镑新建国家级超算，能模拟量子、地震、宇宙膨胀
+https://www.ithome.com/0/969/517.htm
+3. 【其他】 美国政府允许 Anthropic 将 Mythos 5 模型提供给少数客户使用
+https://www.solidot.org/story?sid=84694
+4. 【其他】 20.99 万-32.99 万元，启境 GT7 上市 24 小时大定突破 5200 台
+https://www.ithome.com/0/969/515.htm
+5. 【其他】 塔塔汽车公布 2031 战略：产品线扩至 25 款，电动汽车目标年销 40 万辆
+https://www.ithome.com/0/969/514.htm
+6. 【其他】 2026 款新大洲本田 NS150LA 摩托车上市，14280 元起
+https://www.ithome.com/0/969/512.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
