@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-29（抓取 2026-06-28）
+
+🌍 全球
+1. 【其他】 Prosecutors used ChatGPT logs as evidence in the Palisades fire trial
+https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial
+2. 【其他】 Lenovo says the 'RAMageddon' is the new normal, outlines survival guide — at ISC 2026 an exec said 'it will never be like it was last year'
+https://www.tomshardware.com/pc-components/ram/lenovo-says-the-ramageddon-is-the-new-normal-outlines-survival-guide-at-isc-2026-an-exec-said-it-will-never-be-like-it-was-last-year
+3. 【其他】 AMD engineer 3D-prints Steam Machine-a-like with diagonal mobo mounting — parts include a Mini ITX motherboard, RTX 5060, and a flex ATX PSU
+https://www.tomshardware.com/desktops/pc-building/diy-3d-printed-steam-machine-a-like-uses-diagonal-mobo-mounting-parts-include-a-mini-itx-motherboard-rtx-5060-and-a-flex-atx-psu
+4. 【其他】 400 domains used for illegal 2026 World Cup streams seized by US Justice Department — operation is five times the scale of the previous crackdown
+https://www.tomshardware.com/service-providers/streaming/us-seizes-nearly-400-domains-streaming-the-2026-world-cup
+5. 【芯片/算力】 China’s Loongson launches homegrown 16-core server CPU built on LoongArch architecture — 40W chip with DDR4 ECC and 32 PCIe lanes targets cheap SMB file, database, and web servers
+https://www.tomshardware.com/pc-components/cpus/chinas-loongson-launches-homegrown-16-core-server-cpu-built-on-loongarch-architecture-40w-chip-with-ddr4-ecc-and-32-pcie-lanes-targets-cheap-smb-file-database-and-web-servers
+6. 【其他】 AI coding agents can be tricked into installing malware via 'clean' GitHub repositories — Mozilla's 0din team shows how Claude Code can be exploited by its own helpfulness
+https://www.tomshardware.com/tech-industry/cyber-security/ai-coding-agents-can-be-tricked-into-installing-malware-via-clean-github-repositories-mozillas-0din-team-shows-how-claude-code-can-be-exploited-by-its-own-helpfulness
+
+🇨🇳 中国
+1. 【芯片/算力】 古尔曼预计苹果今年发布搭载 M5 Ultra 芯片的 Mac Studio，M7 Ultra 机型 2028 年推出
+https://www.ithome.com/0/969/730.htm
+2. 【其他】 机械革命星耀 15 笔记本发售：可选 AI 9 H 365/AI 9 HX 470，6799 元起
+https://www.ithome.com/0/969/723.htm
+3. 【其他】 CDPR《赛博朋克：边缘行者 2》海报公布，2026 年秋季 Netflix 播出
+https://www.ithome.com/0/969/722.htm
+4. 【其他】 七彩虹隐星 P15 Pro 笔记本新增“i5-14450HX + 16G + 1T + RTX5050”规格，售 7399 元
+https://www.ithome.com/0/969/721.htm
+5. 【其他】 应对美国高端 AI 限制，奥地利推动欧盟引入 Anthropic 落地运营
+https://www.ithome.com/0/969/719.htm
+6. 【其他】 戴尔推出 2026 款灵越 Plus 16 英寸笔记本：Ultra 5-225U、搭 45% NTSC 色域 1200P 面板，7004 元起
+https://www.ithome.com/0/969/718.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
