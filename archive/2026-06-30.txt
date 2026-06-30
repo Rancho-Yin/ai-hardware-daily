@@ -1,0 +1,32 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-06-30（抓取 2026-06-29）
+
+🌍 全球
+1. 【芯片/算力】 South Korea unveils $520 billion investment plan with Samsung and SK Hynix to expand memory chip dominance — plan includes four new fabs and HBM facilities, amid strong government support
+https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support
+2. 【终端/边缘】 Steamroller becomes first prebuilt gaming PC to ship with SteamOS — Ryzen 9600X, Radeon RX 7600, 16GB DDR5 RAM system available for preorder at $1,299
+https://www.tomshardware.com/desktops/gaming-pcs/steamroller-becomes-first-prebuilt-gaming-pc-to-ship-with-steamos-ryzen-9600x-radeon-rx-7600-16gb-ddr5-ram-system-available-for-preorder-at-usd1-299
+3. 【芯片/算力】 Samsung, SK hynix, and Micron sued over alleged DRAM price fixing amid record memory costs — lawsuit claims coordinated HBM shift was cover to curtail DDR3 and DDR4 production
+https://www.tomshardware.com/tech-industry/samsung-sk-hynix-and-micron-sued-over-alleged-dram-price-fixing-amid-record-memory-costs
+4. 【其他】 Imec's 2026 roadmap details 0.3nm nodes by 2038, CFET transistors become viable at 0.7nm — company redefines Moore's Law as cell sizes gain importance for density
+https://www.tomshardware.com/tech-industry/semiconductors/imecs-2026-roadmap-details-0-3nm-nodes-by-2038-cfet-transistors-become-viable-at-0-7nm-company-redefines-moores-law-as-cell-sizes-gain-importance-for-density
+5. 【其他】 China’s hollow-core fiber trial pushes 51.3 Tb/s over 128 miles without signal regeneration — milestone targets AI-era networking bottlenecks
+https://www.tomshardware.com/networking/chinas-hollow-core-fiber-trial-pushes-51-3-tb-s-over-128-miles-without-signal-regeneration-milestone-targets-ai-era-networking-bottlenecks
+
+🇨🇳 中国
+1. 【其他】 《赛博朋克：边缘行者 2》官方预告公开：新成员新故事，今年秋季播出
+https://www.ithome.com/0/970/234.htm
+2. 【其他】 世界各地的学生使用智能眼镜在考试中作弊
+https://www.solidot.org/story?sid=84711
+3. 【其他】 防止蒸馏第三方模型，Meta 限制 AI 工程师使用 Claude 与 Codex
+https://www.ithome.com/0/970/233.htm
+4. 【其他】 安全公司曝光黑客滥用 OpenAI 组织邀请功能，对公司员工进行精准钓鱼攻击
+https://www.ithome.com/0/970/231.htm
+5. 【其他】 AOC 推出“Q24B35E”23.8 英寸显示器：2K 75Hz，599 元
+https://www.ithome.com/0/970/228.htm
+6. 【其他】 同程旅行拟全面要约收购嘀嗒出行，已获后者核心股东支持
+https://www.ithome.com/0/970/227.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
