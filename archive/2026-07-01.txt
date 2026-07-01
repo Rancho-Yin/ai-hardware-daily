@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-01（抓取 2026-06-30）
+
+🌍 全球
+1. 【其他】 Meta releases version two of its brain-computer interface that can turn thoughts into keypresses — non-invasive magnetoencephalography scanner can measure changes in brain activity
+https://www.tomshardware.com/peripherals/wearable-tech/meta-releases-version-two-of-its-brain-computer-interface-that-can-turn-thoughts-into-keypresses-non-invasive-magnetoencephalography-scanner-can-measure-changes-in-brain-activity
+2. 【芯片/算力】 Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, report claims — complex design purportedly scrapped over 'manufacturing execution concerns'
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-cancels-quad-die-rubin-ultra-gpu-in-favor-of-dual-gpu-design-report-claims-complex-design-purportedly-scrapped-over-manufacturing-execution-concerns
+3. 【其他】 Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban — blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon
+https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon
+4. 【其他】 Taiwan raids Supermicro and two supply-chain partners in widening Nvidia smuggling probe — nine sites hit as six people summoned for questioning
+https://www.tomshardware.com/tech-industry/taiwan-raids-super-micro-and-two-supply-chain-partners-in-widening-nvidia-smuggling-probe
+5. 【其他】 Cargo thieves target AI data center supplies in $1.3 million heists — $300,000 worth of copper wire and $1 million worth of equipment recovered outside Chicago
+https://www.tomshardware.com/tech-industry/data-centers/cargo-thieves-target-ai-data-center-supplies-in-usd1-3-million-heists-usd300-000-worth-of-copper-wire-and-usd1-million-worth-of-equipment-recovered-outside-chicago
+6. 【芯片/算力】 Meta fights soaring hardware costs by reusing old DDR4 server memory in new DDR5-only servers — custom CXL 2.0 chip marries legacy DDR4-2400 with cutting-edge DDR5-6400
+https://www.tomshardware.com/pc-components/dram/meta-fights-soaring-hardware-costs-by-reusing-old-ddr4-server-memory-in-new-ddr5-only-servers-custom-cxl-2-0-chip-marries-legacy-ddr4-2400-with-cutting-edge-ddr5-6400
+
+🇨🇳 中国
+1. 【芯片/算力】 中国信通院牵头，首个智算运维智能体评测基准正式落地，覆盖 5 款主流国产芯片
+https://www.leiphone.com/category/ai/i94gGHABXfqBbfYn.html
+2. 【数据中心】 数据中心碳排放比预想的严重
+https://www.solidot.org/story?sid=84721
+3. 【其他】 对话岚图汽车李博晓：我们不对标BBA，它们的产品力已落后
+https://www.leiphone.com/category/transportation/ZLc7hGJmVdErbalZ.html
+4. 【其他】 中国大学停招众多语言专业
+https://www.solidot.org/story?sid=84719
+5. 【其他】 消费级3D打印第一股诞生后，谁将接受估值大考？
+https://www.leiphone.com/category/weiwu/Q3sZpnI68UYu4mya.html
+6. 【其他】 独家丨字节、大疆背景创业者入局AI运动训练，APP排名进入多国榜单前列
+https://www.leiphone.com/category/weiwu/jv7iAaM9GWqpKyre.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
