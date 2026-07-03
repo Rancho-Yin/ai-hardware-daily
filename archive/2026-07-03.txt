@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-03（抓取 2026-07-02）
+
+🌍 全球
+1. 【其他】 Nvidia offers to take a cut of AI cloud revenue on top of hardware sales in new optional financing vehicle — trades tokens for revenue cut
+https://www.tomshardware.com/tech-industry/nvidia-to-take-a-cut-of-ai-cloud-revenue-on-top-of-hardware-sales
+2. 【其他】 Save up to 39% on a new 3D printer this weekend, thanks to these July 4th deals — discounted printers, filament, and resin from Bambu Lab, Creality, Elegoo, and more for 3DP beginners and experienced pros alike
+https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-39-percent-on-a-new-3d-printer-this-weekend-thanks-to-these-july-4th-deals-discounted-printers-filament-and-resin-from-bambu-lab-creality-elegoo-and-more-for-3dp-beginners-and-experienced-pros-alike
+3. 【其他】 Tesla&#8217;s Q2 sales jump 25 percent
+https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report
+4. 【芯片/算力】 Supermicro denies that its offices were raided by Taiwanese authorities in Nvidia GPU smuggling case — company says that it coordinated with the police and provided access to investigated employees’ workstations and gadgets
+https://www.tomshardware.com/desktops/servers/supermicro-denies-that-its-offices-were-raided-by-taiwanese-authorities-in-nvidia-gpu-smuggling-case-company-says-that-it-coordinated-with-the-police-and-provided-access-to-investigated-employees-workstations-and-gadgets
+5. 【其他】 AI won’t save advertising, says Digitas’ Amy Lanzi
+https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators
+6. 【其他】 Montech NX600 Review: A budget dual tower with jet-engine fans
+https://www.tomshardware.com/pc-components/air-cooling/montech-nx600-review
+
+🇨🇳 中国
+1. 【其他】 华为鸿蒙 HarmonyOS API 设备量占比数据更新：7.0.0 Beta1 突破 0.17%，5.0 多个版本归零
+https://www.ithome.com/0/971/956.htm
+2. 【其他】 快手：初始投资者同意向北京可灵注资 20.28 亿美元
+https://www.ithome.com/0/971/954.htm
+3. 【机器人】 何小鹏：2030 年中国新能源汽车渗透率会超过 90%，未来每一辆汽车都是四个轮子的机器人
+https://www.ithome.com/0/971/952.htm
+4. 【其他】 何小鹏：自动驾驶发展速度超过预期，未来 3 到 5 年可以看到 L4 甚至 L5 落地
+https://www.ithome.com/0/971/951.htm
+5. 【其他】 小鹏汽车：MONA L03 预售订单量打破小鹏所有车型同期小订纪录
+https://www.ithome.com/0/971/947.htm
+6. 【其他】 荣耀 MagicOS 七月更新首曝，聚焦动效、灵动胶囊、锁屏、AI 和智慧互联升级
+https://www.ithome.com/0/971/945.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
