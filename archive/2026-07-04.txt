@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-04（抓取 2026-07-03）
+
+🌍 全球
+1. 【其他】 Intel reportedly adding two new 22-core SKUs with game-boosting cache to Nova Lake-S lineup — 125W unlocked and 65W locked part rumored to be part of single-tile Core Ultra 5 tier
+https://www.tomshardware.com/pc-components/cpus/intel-reportedly-adding-two-new-22-core-skus-with-game-boosting-cache-to-nova-lake-s-lineup-125w-unlocked-and-65w-locked-part-rumored-to-be-part-of-single-tile-core-ultra-5-tier
+2. 【其他】 This slim camera has a transparent LCD screen for a viewfinder
+https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen
+3. 【数据中心】 Intel confirms price hikes on select consumer and server CPUs citing supply costs and demand — select Xeon processors now over $1,000 more expensive
+https://www.tomshardware.com/pc-components/cpus/intel-confirms-price-hikes-on-select-consumer-and-server-cpus-citing-supply-costs-and-demand-select-xeon-processors-now-over-usd1-000-more-expensive
+4. 【芯片/算力】 Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases
+https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit
+5. 【芯片/算力】 Brand new Steam Machine hit with 'red line of death' GPU failure after playing No Man's Sky for just five minutes — console 'bricked itself' following update in failure that echoes the horror of the Xbox 360's infamous RROD
+https://www.tomshardware.com/video-games/console-gaming/brand-new-steam-machine-hit-with-red-line-of-death-gpu-failure-after-playing-no-mans-sky-for-just-five-minutes-console-bricked-itself-following-update-in-incident-eerily-reminiscent-of-xbox-360-launch
+6. 【其他】 Anthropic wants to develop its own drugs
+https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
+
+🇨🇳 中国
+1. 【其他】 英特尔 Nova Lake-S 新增两款 22 核主流型号：配 144MB 大缓存，125W 与 65W 双版本
+https://www.ithome.com/0/972/460.htm
+2. 【其他】 消息称字节豆包视频生成模型 Seedance 2.5 预计 7 月 6 日上线体验中心，一周后开放 API
+https://www.ithome.com/0/972/458.htm
+3. 【其他】 首发 10899 元：微星神影 16 魔龙姬限定款游戏本价格公布，i9-14900HX + RTX 5060
+https://www.ithome.com/0/972/457.htm
+4. 【芯片/算力】 华为 Mate 80 Pro 性能解禁：麒麟 9030 Pro GPU 相比 9020 提升 76%，《原神》能效表现优于高通骁龙 8 Gen3
+https://www.ithome.com/0/972/456.htm
+5. 【其他】 京东方：已成立 Micro LED 光互连系统及玻璃载板 CPO 技术攻关项目组
+https://www.ithome.com/0/972/455.htm
+6. 【其他】 索尼官宣 7 月 9 日发布新款 RX10 系列黑卡相机，预计为 RX10 V
+https://www.ithome.com/0/972/451.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
