@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-05（抓取 2026-07-04）
+
+🌍 全球
+1. 【数据中心】 Chinese YMTC SSDs make their way into retail Lenovo laptops — media outlet slams YMTC PCIe 4.0 drive for 'below average for an SSD in an office laptop' in review
+https://www.tomshardware.com/pc-components/ssds/chinese-ymtc-ssds-make-their-way-into-retail-lenovo-laptops-media-outlet-slams-ymtc-pcie-4-0-drive-for-below-average-for-an-ssd-in-an-office-laptop-in-review
+2. 【其他】 Hey number pad lovers, this is a keyboard we can finally agree on
+https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review
+3. 【其他】 The fanfiction community is at war with AI — and itself
+https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector
+4. 【其他】 Memory price surge begins to cool as consumers hit affordability limit — AI demand still keeps DRAM and NAND prices climbing through Q3 2026
+https://www.tomshardware.com/pc-components/ram/memory-price-surge-begins-to-cool-as-consumers-hit-affordability-limit-ai-demand-still-keeps-dram-and-nand-prices-climbing-through-q3-2026
+5. 【数据中心】 Windows guru uses 19th-century Stirling Engine tech for auxiliary cooling on AMD Threadripper 3970X system — waste heat energy spins the $40 engine's flywheel
+https://www.tomshardware.com/pc-components/cooling/windows-guru-uses-stirling-engine-to-cool-amd-threadripper-3970x-waste-heat-energy-spins-the-engines-flywheel
+6. 【其他】 Startup unveils 3D-printed nuclear reactor module to power AI data centers —touted as ‘the world’s first subcritical, solid-state, factory-built thorium nuclear reactor’
+https://www.tomshardware.com/3d-printing/startup-unveils-3d-printed-nuclear-reactor-module-to-power-ai-data-centers-touted-as-the-worlds-first-subcritical-solid-state-factory-built-thorium-nuclear-reactor
+
+🇨🇳 中国
+1. 【其他】 我国海水淡化日产水量已超 300 万吨，国家级公共测试平台在天津投用
+https://www.ithome.com/0/972/675.htm
+2. 【其他】 填补黑洞演化“缺失的一环”：我国科学家发现银河系中心或藏匿中等质量黑洞
+https://www.ithome.com/0/972/672.htm
+3. 【其他】 传输速率 12800MT/s，澜起科技 MRDIMM 处于第二子代产品规模试用阶段
+https://www.ithome.com/0/972/671.htm
+4. 【数据中心】 Meta 数据中心施工废水含罕见细菌：污染城市用水，引发数月清理
+https://www.ithome.com/0/972/667.htm
+5. 【其他】 蔚来 NIO Day 2026 申办候选城市公布：哈尔滨、武汉、厦门
+https://www.ithome.com/0/972/666.htm
+6. 【其他】 小米推送新规 2026 年 8 月 1 日生效：消息类型扩至 75 类，新增订阅消息功能
+https://www.ithome.com/0/972/662.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
