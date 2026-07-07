@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-07（抓取 2026-07-06）
+
+🌍 全球
+1. 【其他】 Microsoft 'resets' Xbox by cutting 3,200 jobs this year, divesting five game studios — firm cites 'margins that are 3-10x lower than comparable platform and publishing businesses'
+https://www.tomshardware.com/video-games/xbox/microsoft-resets-xbox-by-cutting-3-200-jobs-this-year-divesting-five-game-studios-firm-cites-margins-that-are-3-10x-lower-than-comparable-platform-and-publishing-businesses
+2. 【其他】 Working prototype of open-source printer that promises user-repairability and no subscriptions appears in first video — DRM-free 'Open Printer' inkjet still has no announced price, ship date, or print speed, nine months after it first appeared
+https://www.tomshardware.com/peripherals/printers/raspberry-pi-powered-open-source-printer-earns-design-award-nomination-but-still-has-no-price-nine-months-after-reveal
+3. 【其他】 The DJI Osmo Pocket 3 lookalike is down to $329
+https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale
+4. 【其他】 AMD Ryzen AI Halo review: AMD builds a DGX Spark of its own
+https://www.tomshardware.com/pc-components/gpus/embargo-mon-july-6-8am-pt-1100-edt-amd-ryzen-ai-halo-review
+5. 【其他】 Inside the big business of the creator economy, with the agents making it happen
+https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing
+6. 【终端/边缘】 Nvidia's Kyber rack for Rubin Ultra reportedly delayed to 2028, stopgap solution also axed due to customer pushback — Analyst firm SemiAnalysis says PCB midplane problems led to the delay [Updated]
+https://www.tomshardware.com/pc-components/gpus/nvidias-kyber-rack-for-rubin-ultra-slips-to-2028
+
+🇨🇳 中国
+1. 【其他】 机械革命 2026 款极光 X 笔记本新增“i7-14650HX + 16G + 512G + RTX 5060”版，8699 元（国补 7394.15 元起）
+https://www.ithome.com/0/973/303.htm
+2. 【其他】 被社媒用户指控是 AI 创作的短篇小说赢得英联邦短篇小说奖
+https://www.solidot.org/story?sid=84768
+3. 【其他】 国产独立生存建造游戏《By My Side》登陆 Steam：国区售价 59 元，带忠犬荒野求生
+https://www.ithome.com/0/973/281.htm
+4. 【其他】 研究员发现 ChatGPT 暗藏漏洞，可通过提示词注入绕过文件访问限制
+https://www.ithome.com/0/973/295.htm
+5. 【其他】 消息称索尼黑卡 RX10 V 相机支持 4K 120fps 视频拍摄
+https://www.ithome.com/0/973/294.htm
+6. 【其他】 Windows 版 Claude Desktop 应用沙箱隔离机制曝安全缺陷，黑客可获取虚拟机 Root 权限
+https://www.ithome.com/0/973/292.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
