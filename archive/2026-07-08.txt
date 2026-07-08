@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-08（抓取 2026-07-07）
+
+🌍 全球
+1. 【终端/边缘】 Save nearly $2,000 on this RTX 5090 OLED gaming laptop right now — massive discount on powerhouse 16-inch Lenovo rig with 240Hz refresh rate, 32GB DDR5 RAM, 2TB SSD, and a 24-core Intel CPU, all for $3,199
+https://www.tomshardware.com/pc-components/save-nearly-usd2-000-on-this-rtx-5090-oled-gaming-laptop-right-now-massive-discount-on-powerhouse-16-inch-lenovo-rig-with-240hz-refresh-rate-32gb-ddr5-ram-2tb-ssd-and-a-24-core-intel-cpu-all-for-usd3-199
+2. 【其他】 AVX-512 support is reportedly returning with Intel's next-gen Nova Lake CPUs — Latest Linux kernel patches reveal P-cores and E-cores will gain native 512-bit execution
+https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution
+3. 【其他】 Steam Machines with the ‘Red Line of Death’ get a simple, official cure: Clear the CMOS — clearing the CMOS can revive flat(red)-lining cubes
+https://www.tomshardware.com/desktops/mini-pcs/steam-machines-with-the-red-line-of-death-get-a-simple-official-cure-clear-the-cmos-clearing-the-cmos-can-revive-flat-red-lining-cubes
+4. 【其他】 Snag 32GB of DDR5 memory, Ryzen 7 9800X3D, and Gigabyte X870E motherboard for $233 off — deal includes 'free' AIO in a four-item combo from Newegg
+https://www.tomshardware.com/pc-components/snag-32gb-of-ddr5-memory-ryzen-7-9800x3d-and-gigabyte-x870e-motherboard-for-usd233-off-deal-includes-free-aio-in-a-four-item-combo-from-newegg
+5. 【终端/边缘】 Hands-on with Corsair's 2800X RS-R ARGB Micro-ATX PC Case – smaller footprint, roomy internals, includes three fans
+https://www.tomshardware.com/pc-components/pc-cases/corsair-2800x-rs-r-argb-micro-atx-pc-case-hands-on
+6. 【其他】 Dev ports Linux to Atari's notorious Jaguar console from 1993 — the first 64-bit console features 2MB of RAM, 13.3 MHz CPU, and Tom and Jerry co-processors; the Jag was notoriously difficult to program and flopped
+https://www.tomshardware.com/software/linux/dev-ports-linux-to-ataris-notorious-jaguar-console-from-1993-the-first-64-bit-console-features-2mb-of-ram-13-3-mhz-cpu-and-tom-and-jerry-co-processors-the-jag-was-notoriously-difficult-to-program-and-flopped
+
+🇨🇳 中国
+1. 【其他】 微信鸿蒙版 App 获 8.0.19.37 邀测升级，支持连接实体键盘时通过快捷键发送消息
+https://www.ithome.com/0/973/813.htm
+2. 【其他】 小鹏 MONA L03 官宣首搭驾驶员失能辅助系统：自动靠边、呼叫救援
+https://www.ithome.com/0/973/811.htm
+3. 【芯片/算力】 消息称 DeepSeek 正在自研 AI 芯片：面向推理场景，减少依赖英伟达、华为
+https://www.ithome.com/0/973/810.htm
+4. 【芯片/算力】 三星预热全新形态新品：预计为 Galaxy Z Fold8 阔折叠手机，搭载第五代骁龙 8 至尊版定制版芯片
+https://www.ithome.com/0/973/809.htm
+5. 【其他】 华为智能手表 HarmonyOS 7 版本新特性首曝：腕上控家，一键执行预设场景
+https://www.ithome.com/0/973/808.htm
+6. 【其他】 苹果停止签署 iOS26.5/iOS 26.5.1 系统，已升级 26.5.2 的 iPhone 用户无法再降级
+https://www.ithome.com/0/973/807.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
