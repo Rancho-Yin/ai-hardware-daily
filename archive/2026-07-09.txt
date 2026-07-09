@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-09（抓取 2026-07-08）
+
+🌍 全球
+1. 【数据中心】 China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' — Gov't claims Claude sends sensitive information to remote servers without consent
+https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent
+2. 【其他】 Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers — Chinese company's firmware allows admin access without a password
+https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password
+3. 【其他】 Budget smartphone market collapses under the weight of memory shortages, sales expected to drop 22% — memory alone now comprises up to 64% of the total cost of lower-tier smartphones
+https://www.tomshardware.com/phones/budget-smartphone-market-collapses-under-the-weight-of-memory-shortages-sales-expected-to-drop-22-percent-memory-alone-now-comprises-up-to-64-percent-of-the-total-cost-of-lower-tier-smartphones
+4. 【芯片/算力】 JEDEC releases new SPHBM4 standard to slash AI memory costs — Narrow 512-bit interface enables dropping expensive interposers for organic substrates
+https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates
+5. 【机器人】 This jumping $800 robot camera dog filled me with joy
+https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview
+6. 【终端/边缘】 SiPearl's long-awaited Rhea CPU finally gets in the lab, opening the door for Europe's first sovereign HPC CPU — 'availability of Rhea1 is scheduled for end of 2026' SiPearl VP says, following long development process
+https://www.tomshardware.com/pc-components/cpus/sipearls-long-awaited-rhea-cpu-finally-gets-in-the-lab-opening-the-door-for-europes-first-sovereign-hpc-cpu-availability-of-rhea1-is-scheduled-for-end-of-2026-sipearl-vp-says-following-long-development-process
+
+🇨🇳 中国
+1. 【其他】 腾讯 QQ 鸿蒙版 App 获 9.2.39 邀测升级：新增支持设置主题、消息气泡、个性头像等功能
+https://www.ithome.com/0/974/273.htm
+2. 【其他】 小米卢伟冰：成本暴涨对千元机影响最大，更考验产品定义
+https://www.ithome.com/0/974/270.htm
+3. 【其他】 推理成本仅为顶级闭源模型的 1/10：英伟达 Nemotron 3 Ultra 获开源模型最高准确率
+https://www.ithome.com/0/974/269.htm
+4. 【其他】 腾达推出 3000M WiFi 路由放大器 A33 V2.0：支持 Mesh 组网、2 颗外置 FEM，169 元
+https://www.ithome.com/0/974/266.htm
+5. 【其他】 苹果宣布 macOS 28 将不再支持“Mac OS 扩展（日志式，加密）”文件系统格式
+https://www.ithome.com/0/974/263.htm
+6. 【其他】 官方确认不会涨价：《幻兽帕鲁》1.0 正式版上线后依然维持原价
+https://www.ithome.com/0/974/262.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
