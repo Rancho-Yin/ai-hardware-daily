@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-10（抓取 2026-07-09）
+
+🌍 全球
+1. 【芯片/算力】 Ingenious father fixes dead RTX 3070 with a jerry-rigged capacitor from an old radio — Saves worried son $120 in repair costs, GPU 'works better than before' now
+https://www.tomshardware.com/pc-components/gpus/ingenious-father-fixes-dead-rtx-3070-with-a-jerry-rigged-capacitor-from-an-old-radio-saves-worried-son-usd120-in-repair-costs-gpu-works-better-than-before-now
+2. 【其他】 Schlage’s Sense Pro unlocks the door so I don’t have to
+https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock
+3. 【芯片/算力】 While the U.S. flip-flops on chip sanctions, China is building its own chip supply market — export controls are creating conditions for a Sino-Russian chip trade alliance
+https://www.tomshardware.com/tech-industry/while-the-u-s-flip-flops-on-chip-sanctions-china-is-building-its-own-chip-supply-market-export-controls-are-creating-conditions-for-a-sino-russian-chip-trade-alliance
+4. 【终端/边缘】 AMD revives aging Zen 2 processor for budget PCs — Ryzen 7 4700LE resurfaces in a new $800 RTX 3050 prebuilt
+https://www.tomshardware.com/pc-components/cpus/amd-revives-aging-zen-2-processor-for-budget-pcs-ryzen-7-4700le-resurfaces-in-a-new-usd800-rtx-3050-prebuilt
+5. 【芯片/算力】 Intel preps 28-core Nova Lake-S CPUs for Dunlow workstation platform — Entry-level Xeon chip features LGA1954 socket
+https://www.tomshardware.com/pc-components/cpus/intel-preps-28-core-nova-lake-s-cpus-for-dunlow-workstation-platform-entry-level-xeon-chip-features-lga1954-socket
+6. 【芯片/算力】 Nvidia shows off GeForce Trading Cards Series 1 — collectible cards show off games, GPUs, and tech demos, and will be available for free at upcoming events
+https://www.tomshardware.com/pc-components/gpus/nvidia-shows-off-geforce-trading-cards-series-1-collectible-cards-show-off-games-gpus-and-tech-demos-and-will-be-available-for-free-at-upcoming-events
+
+🇨🇳 中国
+1. 【其他】 继父用 11 岁继女的照片生成数千张 CSAM 图像
+https://www.solidot.org/story?sid=84794
+2. 【机器人】 消息称特斯拉三代擎天柱人形机器人初步定型，马斯克放话达不成产能目标就开掉整个采购团队
+https://www.ithome.com/0/974/782.htm
+3. 【其他】 SpaceX 与 AI 公司排队造富，私人飞机行业意外先被新贵们带火了
+https://www.ithome.com/0/974/780.htm
+4. 【其他】 Epic 喜加二：《Nova Lands》《纹身大亨》游戏免费领取
+https://www.ithome.com/0/974/779.htm
+5. 【其他】 安全公司曝光黑客山寨苹果 macOS 剪贴板管理软件 Maccy 官网，借此传播恶意木马
+https://www.ithome.com/0/974/778.htm
+6. 【机器人】 全球首例：美国研究团队远程操控宇树 G1 人形机器人完成活体动物外科手术
+https://www.ithome.com/0/974/777.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
