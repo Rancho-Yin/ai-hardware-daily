@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-11（抓取 2026-07-10）
+
+🌍 全球
+1. 【其他】 Asus ROG Strix Scar 18 (2026) Review: Stunning Mini‑LED, serious muscle, and a few missed steps
+https://www.tomshardware.com/laptops/gaming-laptops/asus-rog-strix-scar-18-2026-review
+2. 【其他】 Tencent is reportedly in talks to acquire Manus from Meta, following Beijing intervention — company expects to remain independent of Chinese tech giant
+https://www.tomshardware.com/tech-industry/artificial-intelligence/tencent-is-reportedly-in-talks-to-acquire-manus-from-meta-following-beijing-intervention-company-expects-to-remain-independent-of-chinese-tech-giant
+3. 【芯片/算力】 SK hynix raises a record $26.5 billion in historic U.S. IPO — South Korean memory giant to fund massive HBM manufacturing expansions
+https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions
+4. 【芯片/算力】 Japanese chipmaker Rapidus to offer lower wafer pricing than TSMC — 2nm class silicon to be priced around $20,000 on 2027 launch
+https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch
+5. 【数据中心】 Save 84% on a two-year ExpressVPN subscription, offering four additional months for free — upgrade your privacy for under $70 with no-logs access to servers in 105 countries worldwide
+https://www.tomshardware.com/software/vpn/save-84-percent-on-a-two-year-expressvpn-subscription-offering-four-additional-months-for-free-upgrade-your-privacy-for-under-usd70-with-no-logs-access-to-servers-in-105-countries-worldwide
+6. 【芯片/算力】 Researchers turn HBM on its side to tackle AI memory’s heat wall — Korean V-Die and Japanese MOSAIC designs promise higher bandwidth, denser stacks, and cooler future GPUs
+https://www.tomshardware.com/tech-industry/semiconductors/researchers-turn-hbm-on-its-side-to-tackle-ai-memorys-heat-wall-korean-v-die-and-japanese-mosaic-designs-promise-higher-bandwidth-denser-stacks-and-cooler-future-gpus
+
+🇨🇳 中国
+1. 【其他】 SK 集团会长崔泰源：AI 驱动内存需求呈指数级增长，未来五年产能翻倍仍难满足
+https://www.ithome.com/0/975/364.htm
+2. 【其他】 募资 265 亿美元超阿里创外企赴美 IPO 纪录：SK 海力士 ADR 预示开盘价 180 美元，首日涨超 20%
+https://www.ithome.com/0/975/362.htm
+3. 【机器人】 人形机器人成功完成远超手术
+https://www.solidot.org/story?sid=84801
+4. 【其他】 小米回应澎程 SkyNomad 未上市新车遭恶意抹黑：纯粹的造谣，简直是匪夷所思
+https://www.ithome.com/0/975/360.htm
+5. 【其他】 北通鲲鹏 70 手柄《异环》联名款上市：安魂曲、薄荷双色可选，699 元
+https://www.ithome.com/0/975/357.htm
+6. 【其他】 告别卓易通：飞牛 fnOS 鸿蒙原生 App 开启首轮测试招募
+https://www.ithome.com/0/975/355.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
