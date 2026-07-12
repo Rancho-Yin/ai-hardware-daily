@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-12（抓取 2026-07-11）
+
+🌍 全球
+1. 【其他】 Newegg packs Ryzen 5 9600X and 16GB DDR5 into a $520 combo — bundles also include a B650 motherboard and 240mm AIO liquid cooler
+https://www.tomshardware.com/pc-components/newegg-packs-ryzen-5-9600x-and-16gb-ddr5-into-a-usd520-combo-bundles-also-include-a-b650-motherboard-and-240mm-aio-liquid-cooler
+2. 【其他】 FL Studio head Constantin Koehncke turns to Reddit for feedback and fun
+https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview
+3. 【其他】 AMD RX 9070 GRE collapses to $499 to save 1440p gaming — RDNA 4 price slips 9% to steal a piece of Nvidia's mid-range pie
+https://www.tomshardware.com/pc-components/gpus/amd-rx-9070-gre-collapses-to-usd499-to-save-1440p-gaming-rdna-4-price-slips-9-percent-to-steal-a-piece-of-nvidias-mid-range-pie
+4. 【其他】 White House taps the guy who keeps crying ‘aliens’ to run UFO group
+https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council
+5. 【其他】 ICE are heavily armed killers. They’re also huge losers
+https://www.theverge.com/policy/964302/ice-donald-trump-killings
+6. 【其他】 SK Hynix says 2027 will be the 'worst year' for memory shortage, forecasts crunch to last until 2030 — CEO shares grim outlook on the day SK Hynix gets listed on Nasdaq
+https://www.tomshardware.com/pc-components/dram/sk-hynix-says-2027-will-be-the-worst-year-for-memory-shortage-forecasts-crunch-to-last-until-2030-ceo-shares-grim-outlook-on-the-day-sk-hynix-gets-listed-on-nasdaq
+
+🇨🇳 中国
+1. 【其他】 2027 款凯迪拉克凯雷德首次站上 10 万美元大关，豪华 SUV 价格门槛提升
+https://www.ithome.com/0/975/623.htm
+2. 【其他】 知情人士回应“腾讯考虑入股 Manus”：预计股权变更完成后，腾讯方面仍只是持有少数股份的外部股东
+https://www.ithome.com/0/975/622.htm
+3. 【其他】 微软 Xbox 裁员波及黑曜石：《宣誓》艺术总监马特 · 汉森被炒，此前曾因 DEI 言论引发争议
+https://www.ithome.com/0/975/621.htm
+4. 【其他】 智谱创始人唐杰发内部信：开启 Touch High 摸高计划，继续聚焦于 AGI 研究、而不是短期商业变现
+https://www.ithome.com/0/975/620.htm
+5. 【其他】 雅迪联动米哈游《绝区零》推出莱卡恩、艾莲、邦布款电摩 / 电自：4199~7399 元，赠游戏 CDK 礼包及周边
+https://www.ithome.com/0/975/617.htm
+6. 【其他】 丰田、日产、本田 2026 年上半年在华新车销量均同比下滑
+https://www.ithome.com/0/975/615.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
