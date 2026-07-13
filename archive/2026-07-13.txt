@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-13（抓取 2026-07-12）
+
+🌍 全球
+1. 【芯片/算力】 Lenovo's Legion 7a gaming laptop now comes with an RTX 5070 12GB GPU option — but it costs $3,375 paired with a Ryzen AI 9 CPU, SKU was previously limited to RTX 5060
+https://www.tomshardware.com/laptops/lenovos-legion-7a-gaming-laptop-now-comes-with-an-rtx-5070-12gb-gpu-option-but-it-costs-usd3-375-paired-with-a-ryzen-ai-9-cpu-sku-was-previously-limited-to-rtx-5060
+2. 【数据中心】 Ireland’s data centers consumed nearly as much electricity as every home in the country combined in 2025 — server farms gulped 23% of national power despite years of grid restrictions
+https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions
+3. 【其他】 One of SteelSeries&#8217; best gaming headsets is over $100 off
+https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale
+4. 【其他】 Sega Dreamcast driver fixes appear in Linux 7.2-rc3 — fabled console remains in favor while iconic computing architectures like i486 fall by the wayside
+https://www.tomshardware.com/software/linux/sega-dreamcast-driver-fixes-appear-in-linux-7-2-rc3-fabled-console-remains-in-favor-while-iconic-computing-architectures-like-i486-fall-by-the-wayside
+5. 【其他】 Grab a blazing-fast dual-interface M.2 SSD enclosure for just $59 on Amazon — Asus' tool-less ROG Strix Aiolos is 14% off right now, featuring transfer speeds up to 20 Gbps
+https://www.tomshardware.com/pc-components/grab-a-blazing-fast-dual-interface-m-2-ssd-enclosure-for-just-usd59-on-amazon-asus-tool-less-rog-strix-aiolos-is-14-percent-off-right-now-featuring-transfer-speeds-up-to-20-gbps
+6. 【其他】 Blue Prince became a bonding — and learning — experience for my family
+https://www.theverge.com/games/964262/blue-prince-family-bonding
+
+🇨🇳 中国
+1. 【其他】 华硕 ROG“XG32UQWMS”31.5 英寸显示器发售：4K 240Hz / FHD 480Hz 双模 Tandem WOLED 面板，5999 元
+https://www.ithome.com/0/975/834.htm
+2. 【芯片/算力】 古尔曼：苹果 M7 Ultra 芯片最高支持 1.5TB 内存，是 M5 Ultra 的两倍
+https://www.ithome.com/0/975/833.htm
+3. 【其他】 Meta 发布多模态推理模型 Muse Spark 1.1，强化 AI 智能体任务能力
+https://www.ithome.com/0/975/832.htm
+4. 【其他】 酷冷至尊推出雷霆金系列金牌全模组电源：可选 750/850W，499 元起
+https://www.ithome.com/0/975/831.htm
+5. 【其他】 大众、小鹏合作第二款车型与众 09 下半年上市，号称“智能化水平跻身第一梯队”
+https://www.ithome.com/0/975/828.htm
+6. 【其他】 小米米家定时燃气灶 3 白色 5200W 开售：一级能效、双边定时，1199 元
+https://www.ithome.com/0/975/826.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
