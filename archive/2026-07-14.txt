@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-14（抓取 2026-07-13）
+
+🌍 全球
+1. 【其他】 Now, defenders are embracing the prompt injection, too
+https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/
+2. 【其他】 Cooler Master HAF II 500 Case Review: New HAF delivers on its name, with impressive airflow and a roomy chassis
+https://www.tomshardware.com/pc-components/pc-cases/cooler-master-haf-ii-500-case-review
+3. 【其他】 Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates — says it plans to invest over $1 billion in local infrastructure improvements
+https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements
+4. 【其他】 AMD FSR Multi-Frame Generation with 8x mode spotted — experimental driver settings could hint at FSR's next evolution
+https://www.tomshardware.com/pc-components/gpu-drivers/amd-fsr-multi-frame-generation-with-8x-mode-spotted-experimental-driver-settings-could-hint-at-fsrs-next-evolution
+5. 【其他】 Flashforge Creator 5 review: Basic and affordable tool changer
+https://www.tomshardware.com/3d-printing/flashforge-creator-5-review
+6. 【其他】 Apple's rumored M7 Ultra targets 1.5TB of memory and Blackwell-class AI performance, report claims — monster 2028 offering would depend on memory shortage easing
+https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai
+
+🇨🇳 中国
+1. 【其他】 消息称华为鸿蒙 HarmonyOS 7 消费者 Beta 版预计下个月开启测试
+https://www.ithome.com/0/976/239.htm
+2. 【其他】 周星驰导演电影《功夫女足》上映 3 天票房超 5.6 亿，登顶 2026 年暑期档票房榜
+https://www.ithome.com/0/976/238.htm
+3. 【其他】 累计破 12 万辆：理想 i6 超小米 YU7、方程豹钛 7，拿下今年上半年中大 SUV 销量冠军
+https://www.ithome.com/0/976/236.htm
+4. 【其他】 荣耀全新 YOYO Next 能力一览曝光，支持 App 操控、复杂任务、控虾等功能
+https://www.ithome.com/0/976/231.htm
+5. 【其他】 OPPO ColorOS 16 开放锁屏指纹样式自定义，支持汉字、数字、字母、表情、动画自由组合
+https://www.ithome.com/0/976/230.htm
+6. 【其他】 2026 款福特锐界 L 车型新增“四驱五座舒享版”上市：搭 2.0T 发动机，25.98 万元
+https://www.ithome.com/0/976/227.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
