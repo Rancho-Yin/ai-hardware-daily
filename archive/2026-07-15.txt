@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-15（抓取 2026-07-14）
+
+🌍 全球
+1. 【其他】 Elon Musk’s Colossus 2 data center installed 59 natural gas turbines without permission, report claims — thousands of tons of pollutants reportedly impact black communities in Mississippi already suffering from elevated lung disease rates
+https://www.tomshardware.com/tech-industry/data-centers/elon-musks-colossus-2-data-center-installed-59-natural-gas-turbines-without-permission-report-claims-thousands-of-tons-of-pollutants-reportedly-impact-black-communities-in-mississippi-already-suffering-from-elevated-lung-disease-rates
+2. 【芯片/算力】 China claims chip exports nearly doubled to $177 billion in the first half of 2026 as memory prices surged — 96% year-on-year increase inflated by hikes
+https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026
+3. 【其他】 Intel invests $5.7 billion in Ireland fab — aims to boost output of Xeon 6, next-gen Xeon products built on Intel 3 process
+https://www.tomshardware.com/pc-components/cpus/intel-invests-usd5-7-billion-in-ireland-fab-aims-to-boost-output-of-xeon-6-next-gen-xeon-products-built-on-intel-3-process
+4. 【其他】 New York enacts one-year data center ban on projects larger than 50 megawatts — first US state to implement moratorium; will also pursue repealing tax exemptions
+https://www.tomshardware.com/tech-industry/data-centers/new-york-enacts-one-year-data-center-ban-on-projects-larger-than-50-megawatts-first-us-state-to-implement-moratorium-will-also-pursue-repealing-tax-exemptions
+5. 【其他】 AMD Ryzen 7 5800X3D is back in stock with up to $173 in savings, thanks to these Newegg deals — free $70 MSI MAG cooler brings costs well below MSRP for the standalone CPU, alongside an extra $100 off for a 16GB RAM and motherboard bundle
+https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-5800x3d-is-back-in-stock-with-up-to-usd173-in-savings-thanks-to-these-newegg-deals-free-usd70-msi-mag-cooler-brings-costs-well-below-msrp-for-the-standalone-cpu-alongside-an-extra-usd100-off-for-a-16gb-ram-and-motherboard-bundle
+6. 【芯片/算力】 Nvidia slashes list of authorized customers in Asia in a bid to reduce AI chip smuggling, report claims — company sent field inspectors, called customers to check if business is genuine after pressure from Washington
+https://www.tomshardware.com/tech-industry/big-tech/nvidia-slashes-list-of-authorized-customers-in-asia-in-a-bid-to-reduce-ai-chip-smuggling-report-claims-company-sent-field-inspectors-called-customers-to-check-if-business-is-genuine-after-pressure-from-washington
+
+🇨🇳 中国
+1. 【终端/边缘】 REDMI Note 17 Pro 手机体验：延续“小金刚”基因，抗摔防水大电量
+https://www.ithome.com/0/976/760.htm
+2. 【其他】 2026 年度总票房破 190 亿，《飞驰人生 3》《给阿嬷的情书》《镖人：风起大漠》暂列前三
+https://www.ithome.com/0/976/758.htm
+3. 【终端/边缘】 REDMI Note 17 Pro 手机图赏：简洁之中透露小精致
+https://www.ithome.com/0/976/757.htm
+4. 【其他】 谷歌 DeepMind CEO 哈萨比斯呼吁美国牵头建立全球 AI 监管机构
+https://www.ithome.com/0/976/756.htm
+5. 【其他】 小米新媒体高级工程师谈澎程未上市新车遭恶意抹黑：毒瘤不除，人人自危
+https://www.ithome.com/0/976/755.htm
+6. 【其他】 IBM 股价大跌 25%，创 1987 年以来最大单日跌幅
+https://www.ithome.com/0/976/752.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
