@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-16（抓取 2026-07-15）
+
+🌍 全球
+1. 【芯片/算力】 Intel becomes the first company to ship high-volume logic chips made with ASML's High NA EUV — select Panther Lake layers on 18A are now dual-qualified for 0.55 NA scanners
+https://www.tomshardware.com/tech-industry/semiconductors/intel-becomes-the-first-company-to-ship-high-volume-logic-chips-made-with-asmls-high-na-euv-select-panther-lake-layers-on-18a-are-now-dual-qualified-for-0-55-na-scanners
+2. 【芯片/算力】 Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints — Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative
+https://www.tomshardware.com/tech-industry/semiconductors/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints-googles-reported-decision-for-9th-gen-tpus-highlights-intels-attractive-alternative
+3. 【数据中心】 'PCIe Gen7 development has already started,' says Silicon Motion's Alex Chou — Nvidia's Storage Next initiative is becoming a focal point
+https://www.tomshardware.com/pc-components/ssds/pcie-gen7-development-has-already-started-says-silicon-motions-alex-chou-nvidias-storage-next-initiative-is-becoming-a-focal-point
+4. 【芯片/算力】 Palit officially announces RTX 3060 return with 'new' Infinity 2 OC launch — 2021 GPU with 12GB of VRAM is an AI crisis stopgap
+https://www.tomshardware.com/pc-components/gpus/palit-officially-announces-rtx-3060-return-with-new-infinity-2-oc-launch-2021-gpu-with-12gb-of-vram-is-an-ai-crisis-stopgap
+5. 【终端/边缘】 Best Buy has slashed $900 off this Asus 64GB 2-in-1 touchscreen gaming laptop — $2,099 RoG Flow Z13 is great for both gaming and AI use
+https://www.tomshardware.com/laptops/best-buy-has-slashed-usd900-off-this-asus-64gb-2-in-1-touchscreen-gaming-laptop-usd2-099-rog-flow-z13-is-great-for-both-gaming-and-ai-use
+6. 【终端/边缘】 Nvidia and Sega team up to deliver RTX Spark support for future games — partnership kicks off next year with upcoming Virtua Fighter Crossroads
+https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads
+
+🇨🇳 中国
+1. 【其他】 网传追光动画电影“三国”系列首作《三国第一部：争洛阳》撤档，官方辟谣
+https://www.ithome.com/0/977/245.htm
+2. 【芯片/算力】 消息称苹果正寻求收购人工智能芯片企业
+https://www.ithome.com/0/977/243.htm
+3. 【其他】 IBM 称客户倾向于采购 AI 硬件而不是大型机
+https://www.solidot.org/story?sid=84842
+4. 【终端/边缘】 努比亚全球首款 AI 智能体手机局部外观公布，或采用横向镜组设计方案
+https://www.ithome.com/0/977/242.htm
+5. 【其他】 DC 独立超英电影《新蝙蝠侠 2》首曝先导预告片，影片延至 2028 年 2 月 18 日上映
+https://www.ithome.com/0/977/241.htm
+6. 【其他】 远景动力宜昌超级工厂正式投产运营，790 安时全球最大方壳卷绕电芯量产下线
+https://www.ithome.com/0/977/240.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
