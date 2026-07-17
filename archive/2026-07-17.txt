@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-17（抓取 2026-07-16）
+
+🌍 全球
+1. 【其他】 Energy IPOs surge as investors hunt for ways to play AI boom
+https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/
+2. 【芯片/算力】 Tower Semiconductor revives shuttered Panasonic-era fab in $3 billion Japan photonics expansion — METI-backed plan targets $3.6 billion revenue by 2028
+https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion
+3. 【芯片/算力】 Nvidia and Japan unveil world's first national AI infrastructure — Noetra consortium to build a 140MW Rubin AI factory with 27,500 GPUs
+https://www.tomshardware.com/pc-components/gpus/nvidia-and-japans-noetra-consortium-to-build-140mw-rubin-ai-factory-with-27500-gpus
+4. 【其他】 AMD Ryzen 7 7700X3D review: A slower 7800X3D, but not necessarily a cheaper one
+https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-cpu-review
+5. 【其他】 Elon Musk spent estimated $1 billion on an energy company to power xAI, filings reveal — APR Energy owns a fleet of trailer-mounted gas and diesel turbines capable of generating more than 1 gigawatt
+https://www.tomshardware.com/tech-industry/data-centers/elon-musk-spent-estimated-usd1-billion-on-an-energy-company-to-power-xai-filings-reveal-apr-energy-owns-a-fleet-of-trailer-mounted-gas-and-diesel-turbines-capable-of-generating-more-than-1-gigawatt
+6. 【芯片/算力】 TSMC commits another $100 billion to Arizona for at least four more 2nm fabs — 2026 capex could hit $64 billion following another record quarterly earnings
+https://www.tomshardware.com/tech-industry/tsmc-commits-another-100-billion-to-arizona-for-at-least-four-more-2nm-fabs
+
+🇨🇳 中国
+1. 【其他】 华为靳玉志：预计今年年底，乾崑智驾 ADS 累计辅助驾驶里程将破 200 亿公里
+https://www.ithome.com/0/977/817.htm
+2. 【机器人】 荣耀黄非晒 Robot Phone 新机 AI 功能，称对未来科技的想象真照进了现实
+https://www.ithome.com/0/977/816.htm
+3. 【其他】 小鹏 MONA L03 新车“战绩”刷新，上市 1 小时大定 46859 台
+https://www.ithome.com/0/977/803.htm
+4. 【其他】 中国无人车首入中亚，百度萝卜快跑将驶入哈萨克斯坦
+https://www.ithome.com/0/977/802.htm
+5. 【其他】 澜起科技：公司韩国办公室被首尔中央地方检察厅现场搜查及取证，涉及反垄断法规事宜
+https://www.ithome.com/0/977/800.htm
+6. 【其他】 澜起科技 2026 年半年度归母净利润 19 亿元 ~21 亿元，同比增长 63.9%~81.2%
+https://www.ithome.com/0/977/798.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
