@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-18（抓取 2026-07-17）
+
+🌍 全球
+1. 【芯片/算力】 ASML's planned Low-NA EUV machine price hikes reportedly frustrate TSMC — lithography machine maker comes knocking to make bank on TSMC's profitable fabs, potentially costing the Taiwanese chipmaker billions
+https://www.tomshardware.com/tech-industry/semiconductors/asmls-planned-low-na-euv-machine-price-hikes-reportedly-frustrate-tsmc-lithography-machine-maker-comes-knocking-to-make-bank-on-tsmcs-profitable-fabs-potentially-costing-the-taiwanese-chipmaker-billions
+2. 【其他】 Samsung&#8217;s redesigned Z Fold 8 with a wide display just leaked
+https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak
+3. 【其他】 Is America ready for this quirky Jeep-looking EV that can park itself?
+https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price
+4. 【其他】 Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware
+https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest
+5. 【芯片/算力】 TSMC confirms significant yield and performance improvements in A14 update — strong interest from AI/HPC and smartphone customers
+https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-significant-yield-and-performance-improvements-in-a14-update-strong-interest-from-ai-hpc-and-smartphone-customers
+6. 【其他】 Florida man arrested after allegedly stealing $220,000 in crypto using malware hidden in Steam Games — 8,000 devices infected
+https://www.tomshardware.com/tech-industry/cyber-security/fbi-arrests-florida-man-in-steam-malware-investigaton-after-tracing-stolen-bitcoin-to-uber-eats-gift-cards
+
+🇨🇳 中国
+1. 【其他】 JDG、AL、BLG 均止步八强：《英雄联盟》2026 EWC 淘汰赛 DK 2-1 战胜 BLG 晋级半决赛，T1 2-0 战胜 HLE
+https://www.ithome.com/0/978/322.htm
+2. 【终端/边缘】 微软 2026 款 Surface Laptop 证明：8GB 内存难以满足 Win11 需求，日常使用多次卡顿
+https://www.ithome.com/0/978/321.htm
+3. 【其他】 消息称索尼 FX5 电影摄影机有 16 档动态范围，海外售价 5399 欧元
+https://www.ithome.com/0/978/318.htm
+4. 【其他】 ASML 拟向全球约 4.5 万名员工发放 2 万欧元股票奖励，2030 年解禁
+https://www.ithome.com/0/978/314.htm
+5. 【其他】 漫威 & 索尼超英电影《蜘蛛侠：崭新之日》发行通知出炉：片长 145 分钟，7 月 29 日上映
+https://www.ithome.com/0/978/313.htm
+6. 【其他】 WAIC 2026 “镇馆之宝” STEPX Neo亮相， 引领人机交互新范式
+https://www.leiphone.com/category/ai/6bAs7hkIF5NN2HVv.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
