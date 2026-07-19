@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-19（抓取 2026-07-18）
+
+🌍 全球
+1. 【其他】 Grab AMD’s Ryzen 7 5800X3D 10th Anniversary CPU with motherboard and 16GB RAM for just $529 — save over $100 on this epic AMD gaming bundle
+https://www.tomshardware.com/pc-components/cpus/grab-amds-ryzen-7-5800x3d-10th-anniversary-cpu-with-motherboard-and-16gb-ram-for-just-usd529-save-over-usd100-on-this-epic-amd-gaming-bundle
+2. 【芯片/算力】 Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing — 3GB GDDR7 module costs triple the price of 2GB
+https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb
+3. 【其他】 Nvidia CEO Jensen Huang’s trademark leather jacket raises nearly $1 Million at charity auction — bidding makes $60,000 valuation look like pocket change
+https://www.tomshardware.com/peripherals/wearable-tech/nvidia-ceo-jensen-huangs-trademark-leather-jacket-raises-nearly-usd1-million-at-charity-auction-bidding-makes-usd60-000-valuation-look-like-pocket-change
+4. 【其他】 More games should be on rails (literally)
+https://www.theverge.com/games/961152/denshattack-review
+5. 【芯片/算力】 Security engineer ports password cracker hashcat to Gameboy Advance — 16.8 MHz chip can perform a meager 727 hashes a second, 30 million times slower than a modern rig
+https://www.tomshardware.com/video-games/nintendo/security-engineer-ports-password-cracker-hashcat-to-gameboy-advance-16-8-mhz-chip-can-perform-a-meager-727-hashes-a-second-30-million-times-slower-than-a-modern-rig
+6. 【其他】 AGI AI828 SSD Review: A near-last resort for those on a budget
+https://www.tomshardware.com/pc-components/ssds/agi-ai828-ssd-review
+
+🇨🇳 中国
+1. 【其他】 英伟达 N1X 首个 Cinebench 2026 跑分曝光：微软 Surface Ultra 工程样机现身，单核成绩接近苹果 M3 Max
+https://www.ithome.com/0/978/600.htm
+2. 【终端/边缘】 英伟达 RTX Spark 首批 Win11 Arm 驱动发布：最高 6144 个 Blackwell 核心，N1X PC 预计今秋登场
+https://www.ithome.com/0/978/599.htm
+3. 【其他】 AMD Zen 6 APU 跑分再曝光：单核跑分超越锐龙 AI 9 365 近 35%
+https://www.ithome.com/0/978/598.htm
+4. 【芯片/算力】 摩尔线程联合创始人王东：推理市场没有“万能芯片”，而是解决方案的组合
+https://www.ithome.com/0/978/597.htm
+5. 【其他】 马斯克：Grok 4.6 训练进入最后阶段，2 万亿参数模型下周完成初步训练
+https://www.ithome.com/0/978/595.htm
+6. 【其他】 浙大等团队联合攻克顶级原子级材料合成三十余年难题，成果登《科学》
+https://www.ithome.com/0/978/594.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
