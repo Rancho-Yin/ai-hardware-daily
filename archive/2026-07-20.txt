@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-20（抓取 2026-07-19）
+
+🌍 全球
+1. 【其他】 Orchid is a delightfully retro and approachable hipster synth
+https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review
+2. 【其他】 Creality K2 SE 3D printer price slashed by 17%, now under $250 — grab a competitive entry-level high-speed multicolor device at a bargain price
+https://www.tomshardware.com/pc-components/creality-k2-se-3d-printer-price-slashed-by-17-percent-now-under-usd250-grab-a-competitive-entry-level-high-speed-multicolor-device-at-a-bargain-price
+3. 【其他】 Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices
+https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale
+4. 【芯片/算力】 AMD's next-gen 10-core 'Medusa Point' APU shows up on Geekbench again, with its best score yet — leaked SKU outpaces every other x86 mobile chip in the single-core test
+https://www.tomshardware.com/pc-components/cpus/amds-next-gen-10-core-medusa-point-apu-shows-up-on-geekbench-again-with-its-best-score-yet-leaked-sku-outpaces-every-other-x86-mobile-chip-in-the-single-core-test
+5. 【芯片/算力】 Memory chip boss admits RAM prices are 'abnormally high' — SK Group chairman considering building a semiconductor plant in the US to expand supply, calm ‘chipflation’
+https://www.tomshardware.com/tech-industry/policy/memory-chip-boss-admits-ram-prices-are-abnormally-high-sk-group-chairman-considering-building-a-semiconductor-plant-in-the-us-to-expand-supply-calm-chipflation
+6. 【其他】 The Clapper was a bad smart home gadget — and a viral sensation
+https://www.theverge.com/podcast/967642/the-clapper-version-history
+
+🇨🇳 中国
+1. 【其他】 月之暗面 Kimi：暂停 C 端新用户订阅，保障已订阅用户的全部权益不受影响
+https://www.ithome.com/0/978/808.htm
+2. 【其他】 周星驰《功夫女足》跻身 2026 年电影票房前三，上映 9 天超 14.57 亿
+https://www.ithome.com/0/978/807.htm
+3. 【其他】 深空矩阵发布“星环计划”，第一阶段目标部署约 210 颗卫星
+https://www.ithome.com/0/978/806.htm
+4. 【其他】 科幻 Roguelike 卡牌游戏《穿雾列车》登陆 Steam，首发价 44.25 元
+https://www.ithome.com/0/978/326.htm
+5. 【其他】 千里科技在 WAIC 公布多项进展：阶跃 Step AOS 将应用于汽车，年底推 ASD 5.0
+https://www.ithome.com/0/978/803.htm
+6. 【其他】 V社为 Steam Deck 掌机推送 SteamOS 3.8.16 更新：修复《刺客信条：黑旗记忆重置》游戏黑屏问题
+https://www.ithome.com/0/977/868.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
