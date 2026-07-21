@@ -1,0 +1,30 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-21（抓取 2026-07-20）
+
+🌍 全球
+1. 【芯片/算力】 Dutch chip sector at very high risk of Chinese interference, government-funded study warns — calls for stricter vetting at sites like ASML
+https://www.tomshardware.com/tech-industry/government-funded-dutch-report-rates-chip-sector-at-very-high-risk-of-chinese-interference
+2. 【其他】 Microsoft will deploy AMD’s Helios rack-scale AI accelerator ‘at scale’ on Azure – Radeon Instinct MI455X and Epyc Venice power will be available through Redmond’s cloud infrastructure
+https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-will-deploy-amds-helios-rack-scale-ai-accelerator-at-scale-on-azure-radeon-instinct-mi455x-and-epyc-venice-power-will-be-available-through-redmonds-cloud-infrastructure
+3. 【其他】 Government can seize private land to make way for new AI data center transmission lines, report says — takeovers could be implemented using eminent domain law when private citizens refuse to sell land
+https://www.tomshardware.com/tech-industry/artificial-intelligence/power-companies-can-seize-private-land-to-make-way-for-new-ai-data-center-transmission-lines-report-says-takeovers-could-be-implemented-using-eminent-domain-law-when-private-citizens-refuse-to-sell-land
+4. 【其他】 Save $148 on an AMD Ryzen 7 9800X3D bundle with 32GB of RAM, motherboard, and liquid AIO — start your AM5 gaming build for just $1,039
+https://www.tomshardware.com/pc-components/save-usd148-on-an-amd-ryzen-7-9800x3d-bundle-with-32gb-of-ram-motherboard-and-liquid-aio-start-your-am5-gaming-build-for-just-usd1-039
+
+🇨🇳 中国
+1. 【其他】 华为超充上线上汽大众充电地图，首批 574 座城市超充站
+https://www.ithome.com/0/979/259.htm
+2. 【其他】 AI 生成的盗版书泛滥，苹果图书和亚马逊上出现大量假冒作品
+https://www.ithome.com/0/979/258.htm
+3. 【其他】 爱诗科技，实时视频模型在杀进互娱赛场
+https://www.leiphone.com/category/industrynews/lzZb9yStwJLM2GRz.html
+4. 【机器人】 WAIC 观察：通用具身智能要在有生之年实现，急需「物理 AI 基建狂魔」
+https://www.leiphone.com/category/industrynews/0EQFNlP882jwJCi7.html
+5. 【其他】 ATK 推出烈空 X1 V2 大师版 + 鼠标：PAW3955 MASTER，首发到手价 299.2 元
+https://www.ithome.com/0/979/254.htm
+6. 【机器人】 泛化涌现！原力灵机三级火箭助推具身智能落地
+https://www.leiphone.com/category/industrynews/7QJ1nQHxTCiYBs2N.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
