@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-22（抓取 2026-07-21）
+
+🌍 全球
+1. 【其他】 Amazon data center in Bahrain struck and destroyed by Iranian cruise missiles, state media claims — attacks launched against AWS site in response to alleged US strikes on an under-construction nuclear plant
+https://www.tomshardware.com/tech-industry/data-centers/amazon-data-center-in-bahrain-struck-and-destroyed-by-iranian-cruise-missiles-state-media-claims-attacks-launched-against-aws-site-in-response-to-alleged-us-strikes-on-an-under-construction-nuclear-plant
+2. 【其他】 Behind the scenes at Nvidia's Engineering SuperLab — Vera Rubin NVL72 running OpenAI workloads, 800VDC demonstrated, and more
+https://www.tomshardware.com/tech-industry/artificial-intelligence/behind-the-scenes-at-nvidias-engineering-superlab-vera-rubin-nvl72-running-openai-workloads-800vdc-demonstrated-and-more
+3. 【芯片/算力】 Nvidia details Rubin architectural optimizations for inference – improvements target better performance and efficiency from the GPU to the rack
+https://www.tomshardware.com/pc-components/gpus/nvidia-details-rubin-architectural-optimizations-for-inference-improvements-target-better-performance-and-efficiency-from-the-gpu-to-the-rack
+4. 【其他】 Nvidia deep dives Vera CPU for AI data centers — SPEC CPU 2026 benchmarks revealed, Olympus architecture specifics, and more
+https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more
+5. 【芯片/算力】 Nvidia has shipped 'hundreds of thousands of Grace standalone servers’ — GPU firm pivots messaging as CPUs take center stage in agentic data centers
+https://www.tomshardware.com/pc-components/cpus/nvidia-has-shipped-hundreds-of-thousands-of-grace-standalone-servers-gpu-firm-pivots-messaging-as-cpus-take-center-stage-in-agentic-data-centers
+6. 【其他】 Kimi K3 rocks the AI industry as Moonshot AI undercuts closed-source American competitors on price — but the huge 2.8T open-weight model still needs serious hardware to deploy at scale
+https://www.tomshardware.com/tech-industry/artificial-intelligence/kimi-k3-rocks-the-ai-industry-as-moonshot-ai-undercuts-closed-source-american-competitors-on-price-but-the-huge-2-8t-open-weight-model-still-needs-serious-hardware-to-deploy-at-scale
+
+🇨🇳 中国
+1. 【其他】 华为鸿蒙 HarmonyOS 6.1.0.135 版本“隐藏”特性曝光：默认图标优化、耳机控制页面布局调整
+https://www.ithome.com/0/979/804.htm
+2. 【其他】 独家丨腾讯整合Workbuddy与QClaw团队
+https://www.leiphone.com/category/CorporateServices/EVvkkNduzRvpxmRi.html
+3. 【机器人】 全球首款机器人手机：荣耀 Robot Phone 拍照页面曝光，将支持大师电影模式
+https://www.ithome.com/0/979/801.htm
+4. 【其他】 微软间接确认 AMD 将推配备 3D V-Cache 的 "Zen 6" EPYC 处理器
+https://www.ithome.com/0/979/800.htm
+5. 【其他】 飞利浦推出 Evnia 32M2N6901A 显示器，搭载 32 英寸 4K 165Hz QD-OLED 面板
+https://www.ithome.com/0/979/799.htm
+6. 【其他】 面积仅 46mm²：xMEMS 发布全球最小主动式微型风扇 XMC-1200，专为 AR、XR 智能眼镜设计
+https://www.ithome.com/0/979/798.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
