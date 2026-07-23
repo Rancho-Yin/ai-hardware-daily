@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-23（抓取 2026-07-22）
+
+🌍 全球
+1. 【其他】 Preorders for Samsung’s new Z Fold and Flip 8 come with up to $350 in gift cards
+https://www.theverge.com/gadgets/968716/samsung-galaxy-z-flip-fold-8-ultra-how-to-buy-preorder-price-release-date
+2. 【芯片/算力】 AMD to supply Anthropic with 2 gigawatts of Instinct MI450 GPUs — will invest up to $5 billion in the Claude developer, which is already using MI355X GPUs
+https://www.tomshardware.com/tech-industry/amd-to-supply-anthropic-with-2-gigawatts-of-instinct-mi450-gpus
+3. 【其他】 Philips’ new smart toothbrush shows you where you didn’t properly brush
+https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush
+4. 【其他】 Apple reportedly working on Mac leasing program in partnership with Klarna to fight RAM price increases — 'Apple Upgrade' would let users finance hardware over 36 months, budget models excluded
+https://www.tomshardware.com/tech-industry/apple-reportedly-working-on-mac-leasing-program-in-partnership-with-klarna-to-fight-ram-price-increases-apple-upgrade-would-let-users-finance-hardware-over-36-months-budget-models-excluded
+5. 【其他】 AI tech companies have ‘hidden debt’ worth around $1.65 trillion, report claims — amount is 122% of debt reflected on the balance sheets of Alphabet, Amazon, Meta, Microsoft, and Oracle
+https://www.tomshardware.com/tech-industry/big-tech/ai-tech-companies-have-hidden-debt-worth-around-usd1-65-trillion-report-claims-amount-is-122-percent-of-debt-reflected-on-the-balance-sheets-of-alphabet-amazon-meta-microsoft-and-oracle
+6. 【其他】 Chinese modder gets GeForce RTX 4060 working in Windows 11 on Huawei Arm workstation — uses modified driver borrowed from an Nvidia RTX Spark
+https://www.tomshardware.com/pc-components/gpu-drivers/chinese-modder-gets-geforce-rtx-4060-working-in-windows-11-on-huawei-arm-workstation-uses-modified-driver-borrowed-from-an-nvidia-rtx-spark
+
+🇨🇳 中国
+1. 【其他】 篮球游戏《NBA 2K27》将于 9 月 4 日发售，文班亚马成标准版封面球星
+https://www.ithome.com/0/980/338.htm
+2. 【其他】 喜剧动画电影《八仙！》上映 5 天票房突破 4 亿，总票房预测上调至超 21 亿
+https://www.ithome.com/0/980/337.htm
+3. 【其他】 苹果未来 Mac 产品路线图曝光：OLED 屏 MacBook Pro、新款 iMac 等蓄势待发
+https://www.ithome.com/0/980/334.htm
+4. 【其他】 Firefox 预览原生多账户容器功能
+https://www.solidot.org/story?sid=84896
+5. 【其他】 微信鸿蒙版 App 获 8.0.19.43 邀测升级，消息通知提示音和铃声自定义功能灰度中
+https://www.ithome.com/0/980/327.htm
+6. 【其他】 索尼 FX5 电影摄影机发布：支持 Open Gate 录制功能，单机定价 3.2 万元
+https://www.ithome.com/0/980/325.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
