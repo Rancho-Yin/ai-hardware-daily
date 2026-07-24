@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-24（抓取 2026-07-23）
+
+🌍 全球
+1. 【其他】 AI memory shortage is now increasing the price of cars — GM warns of vast cost increases, BYD hikes driver assistance prices 20%
+https://www.tomshardware.com/pc-components/ram/ai-memory-shortage-is-now-increasing-the-price-of-cars-gm-warns-of-vast-cost-increases-byd-hikes-driver-assistance-prices-20-percent
+2. 【其他】 Kill switches for most powerful AI models proposed by Bipartisan bill — DHS could order throttling or full shutdown, with fines up to $20 million per day
+https://www.tomshardware.com/tech-industry/artificial-intelligence/bipartisan-bill-would-require-kill-switches-on-the-most-powerful-ai-models
+3. 【其他】 Inside optical and the battle for scale – how the AI industry is racing to integrate photonic interconnects
+https://www.tomshardware.com/tech-industry/inside-optical-and-the-battle-for-scale-how-the-ai-industry-is-racing-to-integrate-photonic-interconnects
+4. 【数据中心】 Intel and AMD sign long-term server CPU deals with Chinese customers as prices jump over 40%, report claims — agreements purportedly guarantee purchase volumes for about a year without fixing prices
+https://www.tomshardware.com/pc-components/cpus/intel-and-amd-sign-long-term-server-cpu-deals-with-chinese-customers-as-prices-jump-over-40-percent
+5. 【其他】 Arctic Senza AI 370 review: Strix Point in a stealthy under-desk fanless design
+https://www.tomshardware.com/desktops/mini-pcs/arctic-senza-ai-370-fanless-mini-pc-review
+6. 【其他】 142 AI data center protests staged in 42 states as public opposition increases — organizers brand 'unaccountable' buildouts as an 'unacceptable infringement on our liberty'
+https://www.tomshardware.com/tech-industry/policy/142-ai-data-center-protests-staged-in-42-states-as-public-opposition-increases-organizers-brand-unaccountable-buildouts-as-an-unacceptable-infringement-on-our-liberty
+
+🇨🇳 中国
+1. 【芯片/算力】 英伟达 Jetson 芯片将登陆月球，驱动月面机器人自主运行
+https://www.ithome.com/0/980/866.htm
+2. 【其他】 Epic 喜加一：叙事卡牌游戏《预言奇谈》免费领取
+https://www.ithome.com/0/980/864.htm
+3. 【其他】 先马推出 S300-360 一体式水冷散热器：冷头配 6 英寸磁吸面板，黑白双色均售 499 元
+https://www.ithome.com/0/980/862.htm
+4. 【其他】 华为小艺获 11.6.6.300 版本升级，鸿蒙“龙虾”小艺 Claw 接入 Kimi K3 旗舰模型
+https://www.ithome.com/0/980/861.htm
+5. 【其他】 《恐怖黎明：阿斯特卡恩之牙》大型 DLC 发售，国区首发价 65.7 元
+https://www.ithome.com/0/980/855.htm
+6. 【其他】 2026 款微星泰坦 16 笔记本新增“酷睿 Ultra 7 255HX + 16G + 1T + RTX5070Ti”版本，18599 元
+https://www.ithome.com/0/980/860.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
