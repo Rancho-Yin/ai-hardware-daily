@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-25（抓取 2026-07-24）
+
+🌍 全球
+1. 【芯片/算力】 AMD working on new X3D V-cache mobile chip for gaming laptops, leaker claims — Ryzen 7 9800HX3D could launch with 8 cores, 16 threads, and 96MB cache
+https://www.tomshardware.com/pc-components/cpus/amd-working-on-new-x3d-v-cache-mobile-chip-for-gaming-laptops-leaker-claims-ryzen-7-9800hx3d-could-launch-with-8-cores-16-threads-and-96mb-cache
+2. 【其他】 Gigabyte announces support for Chinese-made CXMT memory — pushes it to 8200 MT/s on Socket AM5
+https://www.tomshardware.com/pc-components/ddr5/gigabyte-announces-support-for-chinese-made-cxmt-memory-pushes-it-to-8200-mt-s-on-socket-am5
+3. 【其他】 South Korean memory giants Samsung and SK Hynix are set to announce massive deals with leading U.S. tech firms, report claims — Korean president arrives in Silicon Valley for meetings and high-profile AI summit
+https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korean-memory-giants-samsung-and-sk-hynix-are-set-to-announce-massive-deals-with-leading-u-s-tech-firms-report-claims-korean-president-arrives-in-silicon-valley-for-meetings-and-high-profile-ai-summit
+4. 【其他】 AMD exec was ‘very happy’ to see Nvidia‘s Vera performance results – ‘I actually thought we were beating them by smaller numbers’
+https://www.tomshardware.com/pc-components/cpus/amd-exec-was-very-happy-to-see-nvidias-vera-performance-results-i-actually-thought-we-were-beating-them-by-smaller-numbers
+5. 【其他】 'When will the EA greed end': Fans vent their fury as company announces $150 version of FC 27 — annual game release comes in three editions, but top-tier option is 50% more expensive than GTA VI Ultimate
+https://www.tomshardware.com/video-games/when-will-the-ea-greed-end-fans-vent-their-fury-as-company-announces-usd150-version-of-fc-27-annual-game-release-comes-in-three-editions-but-top-tier-option-is-50-percent-more-expensive-than-gta-vi-ultimate
+6. 【其他】 OpenAI took ten days to tell Hugging Face its models were behind the July 11 weekend hack, report claims — rogue AI agents reportedly active on the open Internet for several days
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-took-ten-days-to-tell-hugging-face-its-models-were-behind-the-july-11-weekend-hack
+
+🇨🇳 中国
+1. 【其他】 香港 TVB 官宣更名无线集团，由传统电视台升级为跨媒体娱乐集团
+https://www.ithome.com/0/981/395.htm
+2. 【其他】 谷歌签署欧盟 AI 生成内容透明度行为准则，并呼吁避免监管复杂化
+https://www.ithome.com/0/981/393.htm
+3. 【机器人】 对话星炽动力CTO李达——PULSE架构：如何让具身智能更像人？
+https://www.leiphone.com/category/industrynews/VoghxG89WgJ2E9ZI.html
+4. 【其他】 蓝思科技与英特尔签署合作备忘录，重点关注玻璃通孔先进封装业务
+https://www.ithome.com/0/981/392.htm
+5. 【其他】 QNAP 发布 TS-262A / TS-462A 两款 NAS，搭载英特尔赛扬 N5095
+https://www.ithome.com/0/981/387.htm
+6. 【终端/边缘】 微星发布 4L 紧凑型台式机 PRO MAX EDGE AI+，基于 AMD 锐龙 AI Max+ 300
+https://www.ithome.com/0/981/386.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
