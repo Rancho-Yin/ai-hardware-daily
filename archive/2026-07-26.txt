@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-26（抓取 2026-07-25）
+
+🌍 全球
+1. 【其他】 'RAM Machine' case probably costs more than the entire build — Nvidia RTX 5060, Core Ultra 5 CPU, and 32GB DDR5-8200 RAM are hiding inside
+https://www.tomshardware.com/desktops/gaming-pcs/ram-machine-case-probably-costs-more-than-the-entire-build-nvidia-rtx-5060-core-ultra-5-cpu-and-32gb-ddr5-8200-ram-are-hiding-inside
+2. 【终端/边缘】 Grab an Nvidia RTX 5060 Ti gaming PC with Core Ultra 7 CPU and 32GB RAM for under $1,200 — Thermaltake's View u2660T-170 slashed by 33%
+https://www.tomshardware.com/pc-components/grab-an-nvidia-rtx-5060-ti-gaming-pc-with-core-ultra-7-cpu-and-32gb-ram-for-under-usd1-200-thermaltakes-view-u2660t-170-slashed-by-33-percent
+3. 【其他】 Warner Bros. is suing Amazon for poaching employees
+https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees
+4. 【其他】 Nvidia and SK Group enter $500 billion AI partnership — plan to supercharge AI infrastructure with next-gen memory and massive AI factories
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-sk-group-enter-usd500-billion-ai-partnership-plan-to-supercharge-ai-infrastructure-with-next-gen-memory-and-massive-ai-factories
+5. 【其他】 Folding and flipping phones are getting seriously good
+https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer
+6. 【其他】 Game Compressor can save you hundreds of GB across your game library — as storage prices remain high, utility leverages Windows' built-in LZX compression for substantial space savings
+https://www.tomshardware.com/pc-components/storage/game-compressor-can-save-you-hundreds-of-gigs-across-your-game-library-usd6-utility-leverages-windows-built-in-lzx-compression-for-substantial-space-savings
+
+🇨🇳 中国
+1. 【其他】 飞利浦推出 26.5" QHD 144Hz QD-OLED 显示器 27M2N6500NS/11
+https://www.ithome.com/0/981/604.htm
+2. 【其他】 Debian 讨论是否允许使用 LLM
+https://www.solidot.org/story?sid=84922
+3. 【其他】 原生适配：腾讯 WorkBuddy 上架华为鸿蒙电脑 App Gallery 应用商店
+https://www.ithome.com/0/981/602.htm
+4. 【终端/边缘】 NECPC 公布 Windows 商用平板电脑 LAVIE BT53C，可选 Ultra 7 365
+https://www.ithome.com/0/981/600.htm
+5. 【机器人】 2025 年我国服务机器人产量达 1858.1 万套，同比增长 16.1%
+https://www.ithome.com/0/981/599.htm
+6. 【其他】 Nothing 联合创始人：并未退出任何市场，网传裁员数量被严重夸大
+https://www.ithome.com/0/981/598.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
