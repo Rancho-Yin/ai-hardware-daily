@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-27（抓取 2026-07-26）
+
+🌍 全球
+1. 【其他】 Carrie is just trying to make a friend in the new trailer
+https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con
+2. 【其他】 Physicists turn particles in chaotic orbits into liquid computers — but this fluid hardware still trails memristor rivals
+https://www.tomshardware.com/tech-industry/physicists-build-a-computer-from-400-particles-orbiting-in-liquid-with-10-times-the-error-of-memristor-rivals
+3. 【其他】 Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more
+https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con
+4. 【其他】 Open-source 3D-printed portable MRI machine built for under $70,000 — DIY medical equipment costs less than 7% of a full-sized MRI machine’s $1.1 million starting price
+https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-3d-printed-portable-mri-machine-built-for-under-usd70-000-diy-medical-equipment-costs-less-than-7-percent-of-a-full-sized-mri-machines-usd1-1-million-starting-price
+5. 【其他】 Chinese CXMT DRAM doesn't look like the budget savior many were expecting — new modules enter the market, but prices still track the big three
+https://www.tomshardware.com/pc-components/dram/chinese-cxmt-dram-doesnt-look-like-the-budget-savior-many-were-expecting-new-modules-enter-the-market-but-prices-still-track-the-big-three
+6. 【其他】 XFX Radeon RX 9070 XT drops to its lowest price of the summer — save $90 on AMD's flagship RDNA 4 graphics card
+https://www.tomshardware.com/pc-components/xfx-radeon-rx-9070-xt-drops-to-its-lowest-price-of-the-summer-save-usd90-on-amds-flagship-rdna-4-graphics-card
+
+🇨🇳 中国
+1. 【其他】 国产科幻电影《群星闪耀时》上映 2 天宣布撤档，豆瓣评分 7.5
+https://www.ithome.com/0/981/814.htm
+2. 【其他】 中国工程院外籍院士赫尔佐格：AI 下一个突破口是小型智能体协作
+https://www.ithome.com/0/981/813.htm
+3. 【其他】 商务部：享受汽车以旧换新补贴的新能源车占比逐步提升，6 月达 65.4%
+https://www.ithome.com/0/981/812.htm
+4. 【其他】 古尔曼：苹果智能眼镜计划最早在明年 WWDC27 上亮相、同年秋季发布，隐私保护是重中之重
+https://www.ithome.com/0/981/811.htm
+5. 【其他】 BIGME 大我 B7 Pro 彩色墨水屏电纸书新增“8+128GB”版本，2299 元
+https://www.ithome.com/0/981/810.htm
+6. 【其他】 雷神“JQ27F280L”27 英寸 2K 280Hz 显示器开售，1110 元
+https://www.ithome.com/0/981/808.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
