@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-28（抓取 2026-07-27）
+
+🌍 全球
+1. 【终端/边缘】 Upgrading an MSI Claw 8 EX AI+ handheld gaming PC with a 2TB SSD
+https://www.tomshardware.com/video-games/handheld-gaming/upgrading-an-msi-claw-8-ex-ai-handheld-gaming-pc-with-a-2tb-ssd
+2. 【芯片/算力】 Intel unveiled its iconic Core 2 Duo family 20 years ago — legendary chip dethroned AMD Athlon, restoring the chipmaker’s performance lead
+https://www.tomshardware.com/pc-components/cpus/intel-unveiled-its-iconic-core-2-duo-family-20-years-ago-legendary-chip-dethroned-amd-athlon-restoring-the-chipmakers-performance-lead
+3. 【终端/边缘】 This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800
+https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review
+4. 【其他】 Tariffs didn’t bring manufacturing jobs back to the US
+https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada
+5. 【芯片/算力】 Nvidia weighs $250 billion guarantee so OpenAI can lease SoftBank's 10-gigawatt Ohio campus, report claims — Nvidia also said to be discussing $350 billion deal to finance chips for the site
+https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus
+6. 【其他】 AI developer runs 28.9-million-parameter model on $10 ESP32-S3 microcontroller — uses Google's Per-Layer Embeddings technique, stores table on 16MB Flash memory
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory
+
+🇨🇳 中国
+1. 【芯片/算力】 英伟达 CUDA 的 20 年护城河一个周末崩了，Claude 独自跑通 AMD 新 GPU
+https://www.ithome.com/0/982/264.htm
+2. 【其他】 1928 → 758 元再降价：追觅 T1 滚筒洗衣机 3 年质保，配备 AI 直驱变频电机
+https://www.ithome.com/0/982/263.htm
+3. 【其他】 科技行业力挺开源 AI，Anthropic 因保持沉默遭同行批评
+https://www.ithome.com/0/982/260.htm
+4. 【其他】 月之暗面开源 Kimi K3 模型，2.8 万亿参数
+https://www.ithome.com/0/982/259.htm
+5. 【其他】 限 1 小时：绿联 45W 伸缩线 3 口充电器头 109 → 55 元，45W 屏显充电宝 6 折
+https://www.ithome.com/0/982/257.htm
+6. 【其他】 长城推出海王星 H5W 无立柱海景房机箱：兼容 360mm 水冷、10 风扇位，369 元
+https://www.ithome.com/0/982/254.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
