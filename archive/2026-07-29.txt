@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-29（抓取 2026-07-28）
+
+🌍 全球
+1. 【其他】 OpenAI CEO Sam Altman says AI has entered the singularity — two weeks after OpenAI models cheated a benchmark by hacking Hugging Face
+https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-says-ai-has-entered-the-singularity
+2. 【其他】 One year into the AI-induced RAM apocalypse — how much does memory actually cost, and is there hope for a more affordable future?
+https://www.tomshardware.com/pc-components/ram/one-year-into-the-ai-induced-ram-apocalypse-how-much-does-memory-actually-cost-and-is-there-hope-for-a-more-affordable-future
+3. 【其他】 Apple launches official program for leasing Macs as AI price crunch bites — 24- and 36-month leasing options provided by Klarna
+https://www.tomshardware.com/laptops/macbooks/apple-launches-official-program-for-leasing-macs-as-ai-price-crunch-bites-24-and-36-month-leasing-options-provided-by-klarna
+4. 【其他】 The Neo Geo AES+ retro console is now available to pre-order starting from $249 — game cartridges cost $90 each; the Ultimate Edition with all games and accessories will run you $1,000
+https://www.tomshardware.com/video-games/console-gaming/the-neo-geo-aes-retro-console-is-now-available-to-pre-order-starting-from-usd249-game-cartridges-cost-usd90-each-the-ultimate-edition-with-all-games-and-accessories-will-run-you-usd1-000
+5. 【芯片/算力】 Save $1,000 on this RTX 5090 gaming PC from MSI, just 17% more than the GPU's standalone cost right now —score this 4K powerhouse with 64GB DDR5 and a 2TB SSD for $4,899
+https://www.tomshardware.com/desktops/gaming-pcs/save-usd1-000-on-this-rtx-5090-gaming-pc-from-msi-just-17-percent-more-than-the-gpus-standalone-cost-right-now-score-this-4k-powerhouse-with-64gb-ddr5-and-a-2tb-ssd-for-usd4-899
+6. 【其他】 16-hour Xbox outage even stopped physical games from working — company blames licensing issue for incident that prohibited gaming across three generations of console
+https://www.tomshardware.com/video-games/xbox/xbox-blames-a-licensing-service-outside-xbox-for-the-16-hour-outage-that-blocked-disc-games
+
+🇨🇳 中国
+1. 【其他】 《赛博朋克：边缘行者》衍生 2.5D 格斗游戏曝光，WayForward 工作室开发
+https://www.ithome.com/0/982/786.htm
+2. 【其他】 中国开始量产 DUV 光刻机
+https://www.solidot.org/story?sid=84947
+3. 【其他】 加拿大议员在议会演讲期间阅读了 AI 的回应
+https://www.solidot.org/story?sid=84946
+4. 【其他】 AI 用电需求持续攀升，特斯拉包下 140 兆瓦太阳能电站全部电力
+https://www.ithome.com/0/982/783.htm
+5. 【数据中心】 ScaleFlux 发布 PCIe Gen6 NVMe SSD 控制器与 CXL 3.2 Type 3 内存控制器
+https://www.ithome.com/0/982/780.htm
+6. 【其他】 前沿 AI 模型限制令生效之际，OpenAI 奥尔特曼本周将赴华盛顿
+https://www.ithome.com/0/982/779.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
