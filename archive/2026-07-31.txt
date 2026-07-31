@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-07-31（抓取 2026-07-30）
+
+🌍 全球
+1. 【其他】 Exploring Apple Silicon’s local AI performance with the Mac Studio and M4 Max — M4 Max beats GB10 and Strix Halo in decode throughput, but memory bandwidth isn't everything
+https://www.tomshardware.com/desktops/exploring-apple-silicons-local-ai-performance-with-the-mac-studio-and-m4-max-m4-max-beats-gb10-and-strix-halo-in-decode-throughput-but-memory-bandwidth-isnt-everything
+2. 【其他】 Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals
+https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals
+3. 【其他】 Nvidia's fastest graphics cards get US price increase at Best Buy, Amazon — Astral RTX 5080 now costs more than 5090's MSRP, flagship card now commands more than $4,300
+https://www.tomshardware.com/pc-components/gpus/nvidias-fastest-graphics-cards-get-us-price-increase-at-best-buy-amazon-astral-rtx-5080-now-costs-more-than-5090s-msrp-flagship-card-now-commands-more-than-usd4-300
+4. 【数据中心】 Examining the best options for PCIe SSDs during the RAMpocalypse — capacity trumps raw speed for most tasks
+https://www.tomshardware.com/pc-components/ssds/examining-the-best-options-for-pcie-ssds-during-the-rampocalypse-capacity-trumps-raw-speed-for-most-tasks
+5. 【其他】 Intel licenses Atom-class x86 cores to startup — firm reportedly sharing RTL, enabling customer to build its own custom processors based on x86 general-purpose cores
+https://www.tomshardware.com/pc-components/cpus/intel-licenses-atom-class-x86-cores-to-startup-firm-reportedly-sharing-rtl-enabling-customer-to-build-its-own-custom-processors-based-on-x86-general-purpose-cores
+6. 【机器人】 Foreign-made robot vacuums caught up in FCC robot ban — covers any ground robot over 4.4 pounds with a 200 kbps connection
+https://www.tomshardware.com/tech-industry/fcc-robot-ban-covers-any-ground-robot-over-4-4-pounds-with-a-200-kbps-connection
+
+🇨🇳 中国
+1. 【芯片/算力】 自用还是出售赚钱？科技巨头面临 AI 算力分配难题
+https://www.ithome.com/0/983/906.htm
+2. 【其他】 小米澎程系列技术发布会一文汇总：雷军详解昆仑架构，N90/N70 预售价亮眼
+https://www.ithome.com/0/983/903.htm
+3. 【其他】 九号全新 M3 闪骑电摩开售：90km/h 极速，首发价 6699 元起
+https://www.ithome.com/0/983/902.htm
+4. 【其他】 华为官宣小艺高分超出第 56 届国际物理奥林匹克竞赛理论金牌线
+https://www.ithome.com/0/983/901.htm
+5. 【其他】 奇瑞捷豹路虎 FREELANDER 神行者 8 首台量产车正式下线：标配华为乾崑智驾，8 月 10 日开启预售
+https://www.ithome.com/0/983/900.htm
+6. 【其他】 宇树科技上市新进展：初步询价日为 8 月 5 日，网下申购日为 8 月 10 日
+https://www.ithome.com/0/983/890.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
