@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-01（抓取 2026-07-31）
+
+🌍 全球
+1. 【其他】 New York sues Kalshi for allegedly running an ‘illegal gambling operation’
+https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation
+2. 【其他】 30 years of CPUs at Tom’s Hardware — looking back on three decades of processors, from the Pentium II to Ryzen 9 9950X3D2
+https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2
+3. 【其他】 Tom’s Hardware’s 30th Anniversary — From Intel feuds and DIP switches to 30 years of unbiased testing
+https://www.tomshardware.com/pc-components/toms-hardwares-30th-anniversary-from-dip-switches-and-intel-feuds-to-30-years-of-unbiased-testing
+4. 【终端/边缘】 Beat the AI price surge on PC hardware — leverage Newegg combo deals, track Amazon prices, and shop refurb outlets like Woot
+https://www.tomshardware.com/pc-components/beat-the-ai-price-surge-on-pc-hardware-leverage-newegg-combo-deals-track-amazon-prices-and-shop-refurb-outlets-like-woot
+5. 【其他】 Lumentum CEO warns of impending bottleneck on critical material used for silicon photonics — fab and material shortfall already lags 30% below customer needs as co-packaged optics demand skyrockets
+https://www.tomshardware.com/tech-industry/semiconductors/lumentum-ceo-says-the-indium-phosphide-shortage-will-become-worse-than-memory
+6. 【其他】 Streaming QR codes at 60 FPS achieves nearly 190 KB/s data rate in phone-to-phone tests — browser-based method requires no app, no networking, no pairing, and no permissions beyond camera access
+https://www.tomshardware.com/networking/streaming-qr-codes-at-60-fps-achieves-nearly-190-kb-s-data-rate-in-phone-to-phone-tests-browser-based-method-requires-no-app-no-networking-no-pairing-and-no-permissions-beyond-camera-access
+
+🇨🇳 中国
+1. 【其他】 小米米家智能茶吧机台面式预售：3 秒即热出水，预售 599 元
+https://www.ithome.com/0/984/396.htm
+2. 【其他】 开源鸿蒙 OpenHarmony 6.1 LTS 发布：新增展锐 P7885 开发板
+https://www.ithome.com/0/984/395.htm
+3. 【其他】 Windows 游戏模拟器 CrossOver 宣布原生 Apple Silicon 支持
+https://www.solidot.org/story?sid=84978
+4. 【机器人】 索尼 PlayStation 乐高套装被曝 10 月 1 日发售，同步推出《宇宙机器人》赠品
+https://www.ithome.com/0/984/393.htm
+5. 【其他】 科学家在现代人类 DNA 中发现“幽灵祖先”与“超级古老祖先”，占基因总量约 1%
+https://www.ithome.com/0/984/390.htm
+6. 【其他】 高德：联合哈啰、海思和开源鸿蒙，推出共享两轮行业首个 AI 原生导航方案
+https://www.ithome.com/0/984/389.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
