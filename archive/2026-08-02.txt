@@ -1,0 +1,32 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-02（抓取 2026-08-01）
+
+🌍 全球
+1. 【终端/边缘】 Score the ultimate AMD AM4 starter pack with a six-core CPU and 16GB RAM for only $280 — kickstart your next PC build with $138 in savings
+https://www.tomshardware.com/pc-components/score-the-ultimate-amd-am4-starter-pack-with-a-six-core-cpu-and-16gb-ram-for-only-usd280-kickstart-your-next-pc-build-with-usd138-in-savings
+2. 【其他】 Microsoft vows to make Windows 11 fly on 8GB RAM amid memory shortage — optimizations to reduce OS memory footprint have begun
+https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun
+3. 【其他】 The Verge’s 2026 back-to-school shopping guide
+https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts
+4. 【其他】 The Mermaid Mask is a perfect vacation murder mystery
+https://www.theverge.com/games/971660/the-mermaid-mask-review
+5. 【其他】 Big tech spends more than $1 trillion on AI infrastructure — additional $745 billion expected to be added to the figure in 2026 alone
+https://www.tomshardware.com/tech-industry/big-tech/big-tech-spends-more-than-usd1-trillion-on-ai-infrastructure-additional-usd745-billion-expected-to-be-added-to-the-figure-in-2026-alone
+
+🇨🇳 中国
+1. 【其他】 半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世：享年 76 岁，公司曾负债 1200 亿逆风翻盘
+https://www.ithome.com/0/984/637.htm
+2. 【其他】 工信部：到 2030 年，新能源汽车废动力电池年综合利用量达到百万吨以上
+https://www.ithome.com/0/984/630.htm
+3. 【机器人】 IDC 报告：2025 年中国工业具身智能机器人市场达 57.4 亿元，商业化进程全面提速
+https://www.ithome.com/0/984/627.htm
+4. 【其他】 文石 Leaf5+ 墨水屏电纸书新增“野风蓝”配色，零售价 1899 元
+https://www.ithome.com/0/984/622.htm
+5. 【其他】 环球、索尼、华纳等多家唱片公司提议将低质 AI 音乐从排行榜中剔除
+https://www.ithome.com/0/984/621.htm
+6. 【其他】 马斯克刚刚关注了 DeepSeek 的 X 账号
+https://www.ithome.com/0/984/620.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
