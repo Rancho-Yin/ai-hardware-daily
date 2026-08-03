@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-03（抓取 2026-08-02）
+
+🌍 全球
+1. 【其他】 Microsoft Paint used as a 'monitor' to run Doom at up to 35 fps, project released by firm's Azure CTO — runs actual Doom engine and loads real shareware DOOM1.WAD
+https://www.tomshardware.com/video-games/retro-gaming/microsoft-paint-used-as-a-monitor-to-run-doom-at-up-to-35-fps-project-released-by-firms-azure-cto-runs-actual-doom-engine-and-loads-real-shareware-doom1-wad
+2. 【其他】 Iran suspected of conducting cyberattacks on US water suppliers in 45 municipalities — small towns mostly targeted, with utilities switching to manual control
+https://www.tomshardware.com/tech-industry/cyber-security/iran-suspected-of-conducting-cyberattacks-on-us-water-suppliers-in-45-municipalities-small-towns-mostly-targeted-with-utilities-switching-to-manual-control
+3. 【其他】 Is paying artists enough to convince them to embrace AI?
+https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties
+4. 【其他】 Commemorative golden Doom floppy disks go up for pre-order — pair of limited edition dummy ‘imitation gold plating’ disks and a box are $30 at GameStop
+https://www.tomshardware.com/video-games/retro-gaming/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-limited-edition-dummy-imitation-gold-plating-disks-and-a-box-are-usd30-at-gamestop
+5. 【终端/边缘】 AMD's upcoming Zen 6 processors could fix microstutters and improve 1% lows in games — Next-gen CPUs tipped to feature per-core optimizations for thermal and power budgets
+https://www.tomshardware.com/pc-components/cpus/amds-upcoming-zen-6-processors-could-fix-microstutters-and-improve-1-percent-lows-in-games-next-gen-cpus-tipped-to-feature-per-core-optimizations-for-thermal-and-power-budgets
+6. 【其他】 SpaceXAI says it will remove all 69 of its unpermitted turbine power generators, but expects process to take a year — trailer-mounted generators to be replaced by 1.2GW power plant
+https://www.tomshardware.com/tech-industry/big-tech/spacexai-says-it-will-remove-all-69-of-its-unpermitted-turbine-power-generators-but-expects-process-to-take-a-year-trailer-mounted-generators-to-be-replaced-by-1-2gw-power-plant
+
+🇨🇳 中国
+1. 【终端/边缘】 消息称 Top 5 手机厂商明年全部跟进 1:1 前置摄像头，实现更好的数码变焦效果
+https://www.ithome.com/0/984/820.htm
+2. 【其他】 联想 ThinkBook X 2026 笔记本新增酷睿 Ultra 7 256V 版本，16GB+1TB 售价 8999 元
+https://www.ithome.com/0/984/817.htm
+3. 【其他】 华硕破晓 VM61 迷你主机新增“酷睿 i5-13500H 16GB+512GB”配置，3999 元
+https://www.ithome.com/0/984/813.htm
+4. 【其他】 中微公司董事长尹志尧：已开发出 54 种高端半导体设备，刻蚀和薄膜设备的加工的精度已经达到了原子级水平
+https://www.ithome.com/0/984/806.htm
+5. 【其他】 《八仙！》超过《熊出没 · 年年有熊》，登顶 2026 年动画片票房榜
+https://www.ithome.com/0/984/805.htm
+6. 【数据中心】 因造成环境污染，马斯克 SpaceXAI 宣布数据中心将逐步拆除 69 台移动涡轮发电机
+https://www.ithome.com/0/984/803.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
