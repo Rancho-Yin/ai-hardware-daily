@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-04（抓取 2026-08-03）
+
+🌍 全球
+1. 【芯片/算力】 Drone flyover reveals rapid progress at Elon Musk’s new ATCF chip fab — Texas site prepares for all-in-one logic, memory, and packaging facility
+https://www.tomshardware.com/tech-industry/semiconductors/drone-flyover-reveals-rapid-progress-at-elon-musks-atcf-chip-fab-texas-site-prepares-for-all-in-one-logic-memory-and-packaging-facility
+2. 【芯片/算力】 Lexar lists 32GB DDR5 memory with homegrown Chinese chips — 3,999 Yuan ($592) price undercuts hopes for cheaper CXMT-powered RAM
+https://www.tomshardware.com/pc-components/ddr5/lexar-lists-32gb-ddr5-memory-with-homegrown-chinese-chips-3-999-yuan-usd592-price-undercuts-hopes-for-cheaper-cxmt-powered-ram
+3. 【其他】 Microsoft raises European Xbox prices by up to £200 — RAMpocalypse and component shortages force major console markups
+https://www.tomshardware.com/video-games/xbox/microsoft-raises-european-xbox-prices-by-up-to-gbp200-rampocalypse-and-component-shortages-force-major-console-markups
+4. 【其他】 Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend
+https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax
+5. 【芯片/算力】 Gaming on the 4GB Radeon RX 6500 XT and GTX 1650 Super in 2026 — upscaling makes low-end GPUs viable for esports and internet cafes
+https://www.tomshardware.com/pc-components/gpus/gaming-on-the-4gb-radeon-rx-6500-xt-and-gtx-1650-super-in-2026
+6. 【其他】 AI enthusiast unlocks and mods BIOS with Claude Code — AI defeats RSA-2048 signature checks and unlocks 55 hidden settings
+https://www.tomshardware.com/laptops/ai-enthusiast-mods-bios-with-claude-code-ai-defeats-rsa-2048-signature-checks-and-unlocks-55-hidden-settings
+
+🇨🇳 中国
+1. 【其他】 苹果曝出数据管理漏洞：部分员工离职后仍可通过个人 iCloud 访问公司机密文件
+https://www.ithome.com/0/985/254.htm
+2. 【其他】 AI 开始大幅减少客服岗位
+https://www.solidot.org/story?sid=84994
+3. 【其他】 原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化
+https://www.leiphone.com/category/industrynews/qqTUnzcUVPuJaEeA.html
+4. 【芯片/算力】 B300半年涨三倍；大厂集体绕开算力中转站；Infra公司多名核心高管离职；Token成本击穿圈人再变现丨算力情报局Vol.13
+https://www.leiphone.com/category/chips/VSDxFDJBROODRhhk.html
+5. 【其他】 RSS-2026 | 港科大（广州）开源首个无需训练的开放词汇3D占据地图构建系统｜RRS 2026
+https://www.leiphone.com/category/private/OuSOPivjok83Q3nb.html
+6. 【其他】 横扫五大手游电竞赛事，骁龙的下一个游戏技术「突破口」在AI？
+https://www.leiphone.com/category/chips/3VeAr0iNJfCrIF40.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
