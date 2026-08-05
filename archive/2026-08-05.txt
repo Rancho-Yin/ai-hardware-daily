@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-05（抓取 2026-08-04）
+
+🌍 全球
+1. 【芯片/算力】 New HBF spec outlines tech that can give GPUs terabytes of extra memory — Sandisk and SK hynix unveil spec with up to 16-Hi NAND stacks, 3 TB/s bandwidth, UCIe
+https://www.tomshardware.com/pc-components/ssds/sandisk-and-sk-hynix-unveil-hbf-spec-up-to-16-hi-nand-stacks-3-tb-s-bandwidth-ucie
+2. 【芯片/算力】 Chinese chipmaking tool roadmaps examined — Beijing's nascent lithography tools target DUV production at five machines a year, and an EUV prototype with no chips
+https://www.tomshardware.com/tech-industry/semiconductors/chinese-chipmaking-tool-roadmap-examined
+3. 【其他】 At least 37 people arrested in 2026 so far for protesting against data centers, most for breaking 'petty rules' — most taken into custody acted peacefully
+https://www.tomshardware.com/tech-industry/data-centers/at-least-37-people-arrested-in-2026-so-far-for-protesting-against-data-centers-most-taken-into-custody-acted-peacefully-only-broke-petty-rules
+4. 【其他】 Lenovo LOQ Essentials 15 Gen 11 Review: A good display meets a low-power RTX 5060
+https://www.tomshardware.com/laptops/gaming-laptops/lenovo-loq-essentials-15-gen-11-review
+5. 【其他】 ‘Apple is getting this wrong,’ says OpenAI — startup blasts iPhone maker over lawsuit alleging it stole confidential information through ex-Apple employees
+https://www.tomshardware.com/tech-industry/big-tech/apple-is-getting-this-wrong-says-openai-startup-blasts-iphone-maker-over-lawsuit-alleging-it-stole-confidential-information-through-ex-apple-employees
+6. 【其他】 Chinese ship spotted lurking over Taiwan-US undersea cables — 'research vessel' seen loitering above the 8,000-mile Pacific Light Cable Network fiber-optic system
+https://www.tomshardware.com/networking/chinese-ship-spotted-lurking-over-taiwan-us-undersea-cables-research-vessel-seen-loitering-above-the-8-000-mile-pacific-light-cable-network-fiber-optic-system
+
+🇨🇳 中国
+1. 【其他】 博主实测 WoA 笔记本华硕 Zenbook A16 外接 RTX 4060 显卡跑游戏：优化尚不完善
+https://www.ithome.com/0/985/727.htm
+2. 【其他】 任天堂 Switch 2 游戏《火焰纹章：万缕千丝》细节公开：可四线并行，9 月 17 日发售
+https://www.ithome.com/0/985/721.htm
+3. 【其他】 神舟战神 T8 游戏本新增 i5-14450HX + RTX 5060 版本：16+512GB 售 7999 元
+https://www.ithome.com/0/985/720.htm
+4. 【终端/边缘】 微软推出适用于 WSL 的 Azure Linux 4.0 Beta 版，支持 Win10/Win11 PC
+https://www.ithome.com/0/985/719.htm
+5. 【其他】 电影《八仙！》累计票房超 12.34 亿，进入中国影史动画片票房榜前十
+https://www.ithome.com/0/985/718.htm
+6. 【其他】 FFmpeg 9.0 释出
+https://www.solidot.org/story?sid=85005
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
