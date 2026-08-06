@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-06（抓取 2026-08-05）
+
+🌍 全球
+1. 【其他】 Rogue AI agents created fake online identities in another hacking attempt
+https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking
+2. 【终端/边缘】 Microsoft wants the next-gen Xbox Helix to play every Xbox game ever made as it urges publishers to opt in — New report also claims Xbox 360 games coming to PC soon
+https://www.tomshardware.com/video-games/xbox/microsoft-wants-the-next-gen-xbox-helix-to-play-every-xbox-game-ever-made-as-it-urges-publishers-to-opt-in-new-report-also-claims-xbox-360-games-coming-to-pc-soon
+3. 【芯片/算力】 $4,429 order for a ROG Astral RTX 5090 cancelled by Nvidia due to a 'late' price increase, with Asus blamed — marketplace buyer refunded after immediate $500 increase, with top-spec GPU now almost 2.5x higher than MSRP
+https://www.tomshardware.com/pc-components/gpus/usd4-429-order-for-a-rog-astral-rtx-5090-cancelled-by-nvidia-due-to-a-late-price-increase-with-asus-blamed-marketplace-buyer-refunded-after-immediate-usd500-increase-with-top-spec-gpu-now-almost-2-5x-higher-than-msrp
+4. 【芯片/算力】 China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab — future plans bottlenecked by access to advanced chipmaking tools
+https://www.tomshardware.com/pc-components/dram/chinas-cxmt-targets-30-percent-dram-memory-market-share-by-2030-with-sixth-mega-fab-future-plans-bottlenecked-by-access-to-advanced-chipmaking-tools
+5. 【终端/边缘】 Microsoft quietly purges 32GB of RAM recommendations from its website — company reels from the effects of the memory shortage as it released 8GB base models for Surface laptops this year
+https://www.tomshardware.com/software/windows/microsoft-quietly-purges-32gb-of-ram-recommendations-from-its-website-company-reels-from-the-effects-of-the-memory-shortage-as-it-released-8gb-base-models-for-surface-laptops-this-year
+6. 【终端/边缘】 Score all the essentials of a great gaming PC for only $983.98 — $155 savings nets 9800X3D, 1TB Samsung 9100 SSD, 16GB of DDR5 RAM, Asus B850 motherboard, and free MSI AIO
+https://www.tomshardware.com/pc-components/score-all-the-essentials-of-a-great-gaming-pc-for-only-usd983-98-usd155-savings-nets-9800x3d-1tb-samsung-9100-ssd-16gb-of-ddr5-ram-asus-b850-motherboard-and-free-msi-aio
+
+🇨🇳 中国
+1. 【其他】 RTX 5090 显卡涨价后华硕拒按原价发货：英伟达官方商城直接砍单，重购需多花 553 美元
+https://www.ithome.com/0/986/259.htm
+2. 【其他】 AI 监督远程考试变成灾难，数万学生必须重考
+https://www.solidot.org/story?sid=85017
+3. 【其他】 上行 500Mbps、下行 3Gbps：上海电信 5G-A 场景包试点落地
+https://www.ithome.com/0/986/258.htm
+4. 【其他】 微软《战争机器：事变日》Beta 测试前临时追加 PvP 模式，推荐配置 i5-11600K + RTX 4060
+https://www.ithome.com/0/986/257.htm
+5. 【其他】 阿里巴巴 2026 云栖大会定档 9 月 22 日至 24 日在杭州举行
+https://www.ithome.com/0/986/256.htm
+6. 【其他】 KTC 推出 27 英寸 2K 220Hz 棱镜 Q27 显示器，887 元
+https://www.ithome.com/0/986/254.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
