@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-07（抓取 2026-08-06）
+
+🌍 全球
+1. 【其他】 Apple increases trade-in offers and adds new Android devices
+https://www.theverge.com/tech/976210/apple-trade-in-values-increased
+2. 【其他】 After severe 76% electricity price hikes due to AI data centers, Virginia requires firms to pay for all dedicated upstream electrical infrastructure — state regulators crack down, governor says move will save civilians ‘hundreds of millions of dollars’
+https://www.tomshardware.com/tech-industry/data-centers/after-severe-76-percent-electricity-price-hikes-due-to-ai-data-centers-virginia-requires-firms-to-pay-for-all-dedicated-upstream-electrical-infrastructure-state-regulators-crack-down-governor-says-move-will-save-civilians-hundreds-of-millions-of-dollars
+3. 【芯片/算力】 $1 billion of iPhone 18 Pro chips 'on the shelves awaiting packaging' due to DRAM shortages — memory shortages reportedly put a wrinkle in Apple's launch plans
+https://www.tomshardware.com/pc-components/dram/usd1-billion-of-iphone-18-pro-chips-on-the-shelves-awaiting-packaging-due-to-dram-shortages-memory-shortages-reportedly-put-a-wrinkle-in-apples-launch-plans
+4. 【其他】 Nashville attempts to block controversial data center near zoo with eminent domain — city could force developer to sell the land for public use, rather than $700 million installation
+https://www.tomshardware.com/tech-industry/policy/nashville-attempts-to-block-controversial-data-center-near-zoo-with-eminent-domain-city-could-force-developer-to-sell-the-land-for-public-use-rather-than-usd700-million-installation
+5. 【芯片/算力】 Samsung debuts three next-generation memory technologies for AI data centers — zHBM, zNAND-O, and BV-NAND all rely on advanced wafer bonding technologies
+https://www.tomshardware.com/pc-components/dram/samsung-debuts-three-next-generation-memory-technologies-for-ai-data-centers-zhbm-znand-o-and-bv-nand-all-rely-on-advanced-wafer-bonding-technologies
+6. 【终端/边缘】 PC gamer vibe-codes a safeguard against RTX 5090 power connector failures — monitors per-pin power draw, shuts down system if it exceeds 9.5A for more than 15 seconds
+https://www.tomshardware.com/pc-components/gpus/pc-gamer-vibe-codes-a-safeguard-against-rtx-5090-power-connector-failures-monitors-per-pin-power-draw-shuts-down-system-if-it-exceeds-9-5a-for-more-than-15-seconds
+
+🇨🇳 中国
+1. 【其他】 即日起，ChatGPT 可以调用 Adobe Photoshop、Lightroom 来修图、设计了
+https://www.ithome.com/0/986/769.htm
+2. 【其他】 放弃 x86 独占：Proxmox VE 9.2 发布并首次支持 Arm64 架构
+https://www.ithome.com/0/986/768.htm
+3. 【其他】 4v4 团队格斗游戏《漫威斗魂》发售，Steam 国区 298 元起
+https://www.ithome.com/0/986/767.htm
+4. 【其他】 特斯拉 Terafab 晶圆厂落地得克萨斯州，马斯克豪言“把尖端制造带回美国”
+https://www.ithome.com/0/986/766.htm
+5. 【其他】 英特尔 Diamond Rapids 至强 7 ES 处理器首次现身 SiSoftware：32 核 +240MB 缓存，18A-P 工艺已跑通
+https://www.ithome.com/0/986/765.htm
+6. 【其他】 特斯拉 FSD v14 取消自定义限速后风波不断：超速被警方拦停后司机辩称是“自动驾驶”
+https://www.ithome.com/0/986/763.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
