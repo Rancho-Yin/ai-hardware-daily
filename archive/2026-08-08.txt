@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-08（抓取 2026-08-07）
+
+🌍 全球
+1. 【其他】 Amazon cracks down on 'CPU waste' among engineers as agentic AI crunch intensifies — CPU demand makes low-utilization EC2 instances a hot commodity [Updated]
+https://www.tomshardware.com/pc-components/cpus/amazon-cracks-down-on-cpu-waste-among-engineers-as-agentic-ai-crunch-intensifies-cpu-demand-makes-low-utilization-ec2-instances-a-hot-commodity
+2. 【其他】 Protesters haul a guillotine to city council meeting about a potential AI data center, company rep cornered by protestors — ‘ it no longer felt safe to stay,’ developer escorted out by police
+https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police
+3. 【其他】 This week on Tom's Hardware Premium: August 7, 2026 — Inside China's lithography efforts, co-packaged optics get a spotlight, and Samsung debuts next-gen memory tech
+https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-7-2026-inside-chinas-lithography-efforts-co-packaged-optics-get-a-spotlight-and-samsung-debuts-next-gen-memory-tech
+4. 【终端/边缘】 Grab an entire RTX 5090 PC for just $380 more than the standalone graphics card — save $1,550 off Alienware's Area-51 gaming rig
+https://www.tomshardware.com/desktops/gaming-pcs/grab-an-entire-rtx-5090-pc-for-just-usd380-more-than-the-standalone-graphics-card-save-usd1-550-off-alienwares-area-51-gaming-rig
+5. 【其他】 Apple revealed the first Mac Pro 20 years ago today — its Intel Xeon-powered flagship desktop took the reins from the Power Mac G5
+https://www.tomshardware.com/desktops/apple-revealed-the-first-mac-pro-20-years-ago-today-its-intel-xeon-powered-flagship-desktop-took-the-reins-from-the-power-mac-g5
+6. 【芯片/算力】 Nvidia sells RTX 50-series GPUs at MSRP during QuakeCon 2026 — graphics cards sold at launch prices more than a year after release are now considered an attraction
+https://www.tomshardware.com/pc-components/gpus/nvidia-sells-rtx-50-series-gpus-at-msrp-during-quakecon-2026-graphics-cards-sold-at-launch-prices-more-than-a-year-after-release-are-now-considered-an-attraction
+
+🇨🇳 中国
+1. 【芯片/算力】 Anthropic 为自研 AI 芯片开出高薪，模型训练岗位薪资高于实际造芯工程师
+https://www.ithome.com/0/987/218.htm
+2. 【其他】 AI 需求挤爆云计算，消息称 AWS 要求工程师关闭闲置服务器减少资源浪费
+https://www.ithome.com/0/987/217.htm
+3. 【芯片/算力】 AMD 收购将权重直接刻在芯片上的 AI 初创公司
+https://www.solidot.org/story?sid=85035
+4. 【其他】 消息称富士 X-T6 无反相机延期发布，新时间暂不明确
+https://www.ithome.com/0/987/215.htm
+5. 【其他】 Linux KVM 曝出虚拟机逃逸漏洞，嵌套虚拟化功能成攻击突破口
+https://www.ithome.com/0/987/212.htm
+6. 【其他】 荣耀 MagicOS 10 系统 8 月版本第二批机型开推，覆盖 Magic7、WIN 等系列
+https://www.ithome.com/0/987/208.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
