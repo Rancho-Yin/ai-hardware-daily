@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-10（抓取 2026-08-09）
+
+🌍 全球
+1. 【其他】 49ers coach says his Tesla was on Autopilot when he crashed
+https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash
+2. 【其他】 Wolfbox MF60 Compressed Air Duster is nearly 40% off in a limited-time deal — powerful rechargeable device's propulsion fan runs at up to 110,000 RPM
+https://www.tomshardware.com/pc-components/wolfbox-mf60-compressed-air-duster-is-nearly-40-percent-off-in-a-limited-time-deal-powerful-rechargeable-devices-propulsion-fan-runs-at-up-to-110-000-rpm
+3. 【芯片/算力】 Modder pumps liquid directly over bare GPU silicon via 3D-printed block — drops RTX 2060 Super load temps to 28°C despite initial leaks
+https://www.tomshardware.com/pc-components/liquid-cooling/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-block-drops-rtx-2060-super-load-temps-to-28-c-despite-initial-leaks
+4. 【芯片/算力】 Musk’s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined — all-in-one chip manufacturing facility visualized to show the project’s massive footprint
+https://www.tomshardware.com/tech-industry/semiconductors/musks-terafab-projected-to-be-larger-than-the-pentagon-apple-park-mall-of-america-and-giga-texas-combined-all-in-one-chip-manufacturing-facility-visualized-to-show-the-projects-massive-footprint
+5. 【芯片/算力】 Two variants of Nvidia's RTX Spark show up on Geekbench, revealing a cut-down 18-core model — Full 20-core beats most x86 mobile chips across multi-core and single-core tests
+https://www.tomshardware.com/pc-components/cpus/two-variants-of-nvidias-rtx-spark-show-up-on-geekbench-revealing-a-cut-down-18-core-model-full-20-core-beats-most-x86-mobile-chips-across-multi-core-and-single-core-tests
+6. 【终端/边缘】 Dropbox is a PC builder’s best friend
+https://www.theverge.com/tech/976092/pc-building-dropbox-backup
+
+🇨🇳 中国
+1. 【数据中心】 技嘉重新推出 B760M GAMING 主板：DDR4 配 PCIe 5.0 插槽
+https://www.ithome.com/0/987/636.htm
+2. 【其他】 全新任天堂 NDS 模拟器 SeedlessDS 面世，面向双屏 Android 掌机
+https://www.ithome.com/0/987/635.htm
+3. 【其他】 彻底颠覆以往产品形态，古尔曼称苹果正研究圆屏 Apple Watch 或无屏手环
+https://www.ithome.com/0/987/634.htm
+4. 【其他】 我国发现的首个独立锗酸盐矿物“乌斯河锗矿”正式获批，氧化锗平均含量高达 72%
+https://www.ithome.com/0/987/631.htm
+5. 【其他】 美国西南研究院展示新型氢能发动机：面向中型卡车，号称媲美柴油发动机
+https://www.ithome.com/0/987/624.htm
+6. 【其他】 微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元
+https://www.solidot.org/story?sid=85043
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
