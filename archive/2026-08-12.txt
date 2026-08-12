@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-12（抓取 2026-08-11）
+
+🌍 全球
+1. 【其他】 AMD highlights Ryzen 5 5500 briefly topping Amazon CPU best sellers, beating 9800X3D — $80 DDR4 CPU remains a top seller during memory crunch
+https://www.tomshardware.com/pc-components/cpus/amd-highlights-ryzen-5-5500-briefly-topping-amazon-cpu-best-sellers-beating-9800x3d-usd80-ddr4-cpu-remains-a-top-seller-during-memory-crunch
+2. 【其他】 Intel raises $19.7 billion to help fund future projects as 14A production looms — share sale attracted $100 billion in demand, report claims
+https://www.tomshardware.com/tech-industry/semiconductors/intel-raises-usd19-7-billion-to-help-fund-future-projects-as-14a-production-looms-share-sale-attracted-usd100-billion-in-demand-report-claims
+3. 【其他】 Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price — unlocking 40 CUs, eight Zen 2 cores on the repurposed PS5 APU
+https://www.tomshardware.com/pc-components/cpus/benchmarking-amds-bc-250-offering-steam-machine-like-performance-at-half-the-price-unlocking-40-cus-eight-zen-2-cores-on-the-repurposed-ps5-apu
+4. 【终端/边缘】 DeepCool AK620 and AK400 G2 Review: Quiet and powerful, with woodgrain or a digital display
+https://www.tomshardware.com/pc-components/air-cooling/deepcool-ak620-and-ak400-g2-review-quiet-and-powerful-with-woodgrain-or-a-digital-display
+5. 【其他】 FCC proposes import ban on Chinese optical transceivers — blockade targets key AI interconnects as China holds 56% global market share
+https://www.tomshardware.com/tech-industry/fcc-proposes-import-ban-on-chinese-optical-transceivers-blockade-targets-key-ai-interconnects-as-china-holds-56-percent-global-market-share
+6. 【其他】 $580 million undersea cable rerouted to avoid the grave of Dobby the House Elf — company caves to fan demands to safeguard Harry Potter filming location, will instead pass by Bronze Age burial site
+https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site
+
+🇨🇳 中国
+1. 【其他】 849 元科睿 27 英寸 2K 240Hz 显示器 X7Q 发售，峰值亮度 400nits
+https://www.ithome.com/0/988/541.htm
+2. 【其他】 科技公司高管称 AI 将会减少工作时间，实际上 AI 增加了工作时间
+https://www.solidot.org/story?sid=85065
+3. 【其他】 索尼 115 英寸超旗舰 RGB LED 电视 9 系 Ⅱ 新品开售：149999 元
+https://www.ithome.com/0/988/535.htm
+4. 【其他】 索尼 FE 100-400mm F5.6-8 OSS 相机镜头上市，国行 5499 元
+https://www.ithome.com/0/988/533.htm
+5. 【其他】 雷蛇那伽梵蛇 V3 专业版无线鼠标发布：23 个按键 + 50K 光学传感，1499 元
+https://www.ithome.com/0/988/532.htm
+6. 【其他】 台风过境：宁波用 AI“算”出防汛最优解，预报模型 5 秒生成方案
+https://www.ithome.com/0/988/529.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
