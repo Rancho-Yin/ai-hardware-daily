@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-14（抓取 2026-08-13）
+
+🌍 全球
+1. 【终端/边缘】 Geekom IT13 Max 2026 review: Meteor Lake rides again in a $799 mini PC
+https://www.tomshardware.com/desktops/mini-pcs/geekom-it13-max-2026-review-meteor-lake-rides-again-in-a-usd799-mini-pc
+2. 【终端/边缘】 Best deals on PC setup accessories — save money on chairs, desks, monitor stands, boom arms, and more
+https://www.tomshardware.com/gift-guides-seasonal-sales/best-deals-on-pc-furniture-save-money-on-chairs-desks-monitor-stands-boom-arms-and-more
+3. 【其他】 Coin-sized device can hack a Boeing 737’s Flight Management Computer, mess with takeoff weights, or even divert an aircraft — gadget connects to an easily accessible port that overrides commands from the pilots, uses in-flight Wi-Fi
+https://www.tomshardware.com/tech-industry/cyber-security/coin-sized-device-can-hack-a-boeing-737s-flight-management-computer-mess-with-takeoff-weights-or-even-divert-an-aircraft-gadget-connects-to-an-easily-accessible-port-that-overrides-commands-from-the-pilots-uses-in-flight-wi-fi
+4. 【其他】 Get 16GB of DDR5 RAM free when you buy AMD's 9900X and an Asus TUF motherboard — $659 Newegg combo saves $274, and you get a free 240mm AIO
+https://www.tomshardware.com/pc-components/ddr5/get-16gb-of-ddr5-ram-free-when-you-buy-amds-9900x-and-an-asus-tuf-motherboard-usd659-newegg-combo-saves-usd274-and-you-get-a-free-240mm-aio
+5. 【其他】 Critical 'Zoomsday' flaw enables total device takeover during Zoom calls — AI-assisted research only used 20 prompts to find an exploit to hack hundreds of millions of people.
+https://www.tomshardware.com/tech-industry/cyber-security/zoomsday-vulnerability-let-anyone-in-a-zoom-meeting-take-over-anybody-else-ai-assisted-research-only-used-20-prompts-to-find-an-exploit-to-hack-hundred-of-millions-of-people
+6. 【其他】 Analysts see 'increasing foundry success conviction' as Intel CEO puts $12 million more of his own money in company — analysts point to accelerating foundry progress and capex expansion
+https://www.tomshardware.com/pc-components/cpus/analysts-see-increasing-foundry-success-conviction-as-intel-ceo-puts-usd12-million-more-of-his-own-money-in-company-analysts-point-to-accelerating-foundry-progress-and-capex-expansion
+
+🇨🇳 中国
+1. 【其他】 英伟达 GeForce NOW 原生 Linux 应用发布：结束 Beta 测试，支持 Ubuntu 24.04 及 Flatpak 安装
+https://www.ithome.com/0/989/486.htm
+2. 【其他】 科技巨头想要收集你的思想
+https://www.solidot.org/story?sid=85088
+3. 【其他】 澳大利亚青少年社媒禁令上路半年间，Meta 清理 75.6 万个疑似未成年账户
+https://www.ithome.com/0/989/484.htm
+4. 【其他】 三星首款 Galaxy 头戴耳机曝光，预计 2027 年初正面挑战苹果 AirPods Max
+https://www.ithome.com/0/989/482.htm
+5. 【其他】 小米汽车：小米龙甲电池最大特点在于远超国标的安全标准
+https://www.ithome.com/0/989/480.htm
+6. 【其他】 VLC 播放 MP3 卡顿 33 秒？微软 Microsoft Defender 背锅
+https://www.ithome.com/0/989/479.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
