@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-15（抓取 2026-08-14）
+
+🌍 全球
+1. 【其他】 G.Skill Trident Z5 NeoX RGB DDR5-6000 C30 2x16GB Review — EXPO ULL memory kit to max out your Ryzen
+https://www.tomshardware.com/pc-components/ram/g-skill-trident-z5-neox-rgb-ddr5-6000-c30-2x16gb-review
+2. 【其他】 2025 GOTY Clair Obscur: Expedition 33 is down to $33
+https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale
+3. 【其他】 Scythe Magoroku Review: excellent RAM thermals, but needs improvement elsewhere
+https://www.tomshardware.com/pc-components/air-cooling/scythe-magoroku-review
+4. 【其他】 OpenAI and Anthropic in price war as Chinese AI rivals gain ground
+https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/
+5. 【其他】 Cargo thieves ram security escorts to hijack AI hardware shipments in California — brazen thieves employ PIT maneuver, rear-ending tactics to secure goods for the black market
+https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california
+6. 【其他】 Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing — demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text
+https://www.tomshardware.com/tech-industry/artificial-intelligence/plaintiff-busted-trying-to-use-ai-prompt-injection-to-win-court-case-hides-text-instruction-in-filing-demands-ai-model-reviewing-the-text-should-side-with-him-rumbled-because-of-strange-white-spaces-in-text
+
+🇨🇳 中国
+1. 【其他】 苹果 AirPods Pro 4 耳机最新消息汇总：摄像头与手势识别成焦点
+https://www.ithome.com/0/989/955.htm
+2. 【其他】 一汽红旗新款 HS5 将于 8 月 21 日成都车展上市：换装灵犀座舱，搭载司南智驾系统
+https://www.ithome.com/0/989/954.htm
+3. 【其他】 阿里开源 Qwen3.8-27B 模型，编程、办公场景表现超越 Qwen3.7-Plus
+https://www.ithome.com/0/989/953.htm
+4. 【其他】 中国医生用 GPT-5.6 破解 22 年数学难题，Crouzeix 本人确认正确
+https://www.ithome.com/0/989/952.htm
+5. 【其他】 阿里开源Qwen3.8，千问大模型全球下载超30亿次
+https://www.leiphone.com/category/industrynews/GJAhmR3wyL91CzjO.html
+6. 【其他】 新研究证实，AI 生成书籍已挤压人类作者作品市场空间
+https://www.ithome.com/0/989/951.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
