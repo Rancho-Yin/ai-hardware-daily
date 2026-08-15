@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-16（抓取 2026-08-15）
+
+🌍 全球
+1. 【其他】 Peer-reviewed study of 443,000 Backblaze hard drives ranks HGST most reliable and Toshiba the least — Analysis of 1.66 million drive-years finds Seagate and Toshiba HDDs fail at roughly twice the rate of WD and HGST
+https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least
+2. 【其他】 Futuristic mosquito-zapping laser now available to buy, video shows device in action — tiny device shoots down bugs like a personal air defense system, but costs $1,000
+https://www.tomshardware.com/peripherals/futuristic-mosquito-zapping-laser-now-available-to-buy-video-shows-device-in-action-tiny-device-shoots-down-bugs-like-a-personal-air-defense-system-but-costs-usd1-000
+3. 【其他】 Star Wars: Ahsoka season 2 and Starfighter get teased at D23
+https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23
+4. 【终端/边缘】 Grab this Nvidia RTX 5070 Ti gaming PC for $2,099 before it sells out —prebuilt powerhouse includes a Core Ultra 7 265KF, 32GB RAM, 1TB SSD
+https://www.tomshardware.com/desktops/gaming-pcs/grab-this-nvidia-rtx-5070-ti-gaming-pc-for-usd2-099-before-it-sells-out-prebuilt-powerhouse-includes-a-core-ultra-7-265kf-32gb-ram-1tb-ssd
+5. 【其他】 Disney D23 2026: Everything announced for Star Wars, Marvel, and more
+https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23
+6. 【其他】 Nvidia turns $5B Intel stock bet into $30B windfall — filing reveals new $21B SpaceX stake and complete exit from Arm stock
+https://www.tomshardware.com/tech-industry/nvidia-turns-usd5b-intel-stock-bet-into-usd30b-windfall-filing-reveals-new-usd21b-spacex-stake-and-complete-exit-from-arm-stock
+
+🇨🇳 中国
+1. 【其他】 俄罗斯导弹使用了英伟达的 Jetson Orin
+https://www.solidot.org/story?sid=85104
+2. 【其他】 年轻美国人日益不信任 AI 及 AI 公司高管
+https://www.solidot.org/story?sid=85103
+3. 【其他】 2019 款英特尔 MacBook Pro 运行 Windows 严重发热？苹果用户为其适配 48Hz 刷新率，让显卡功耗降低近八成同时大幅降温
+https://www.ithome.com/0/990/191.htm
+4. 【其他】 AI 编曲控制台 Suno Studio 2.0 发布：新增 MIDI 支持、效果插件
+https://www.ithome.com/0/990/190.htm
+5. 【终端/边缘】 柏能集团警告：AI 热潮加剧供应紧张，显卡短缺或推高 PC 价格
+https://www.ithome.com/0/990/189.htm
+6. 【其他】 全球第一：阿里通义千问 AI 模型全球下载量破 30 亿，碾压 Meta 和谷歌
+https://www.ithome.com/0/990/187.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
