@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-17（抓取 2026-08-16）
+
+🌍 全球
+1. 【其他】 ChatGPT’s Computer History tracks your clicks and keystrokes
+https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes
+2. 【数据中心】 Dell CEO unveils new 'Dude, you’re getting a Dell (AI server rack)' video — PC maker recycles famous PC ad campaign to tout its new AI data center products
+https://www.tomshardware.com/tech-industry/dude-youre-getting-a-dell-ai-server-rack-dell-recycles-famous-ad-campaign-to-appeal-to-its-new-ai-overlords
+3. 【其他】 Ukraine built a $48,000 long-range drone after covertly snapping Chinese factory photos, clone destroys Russian Tu-95 bomber — attack drone has 2,000 km range, country builds 6,000 flying-wing drones a year
+https://www.tomshardware.com/tech-industry/drones/ukraine-destroys-tu-95-bomber-using-48000-chinese-drone-clone
+4. 【其他】 Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning
+https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning
+5. 【其他】 Intel says it will launch new core with Nova Lake on desktop first, not in data center — VP Robert Hallock hopes enthusiasts ‘do the math’ compared to AMD
+https://www.tomshardware.com/pc-components/cpus/intel-says-it-will-launch-new-core-with-nova-lake-on-desktop-first-not-in-data-center-vp-robert-hallock-hopes-enthusiasts-do-the-math-compared-to-amd
+6. 【其他】 Rogue AI aren’t science fiction anymore
+https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai
+
+🇨🇳 中国
+1. 【其他】 奇瑞捷豹路虎神行者 8 预售订单突破 1 万台，售价 33.99 万元起
+https://www.ithome.com/0/990/399.htm
+2. 【其他】 斯坦福调查显示：84% 中国受访者对 AI 感到兴奋，美国比例仅为 38%
+https://www.ithome.com/0/990/398.htm
+3. 【其他】 雷克沙 PexarBolt Ultra 扩展坞亮相：雷电 5、NVMe 插槽、5 寸触屏，479 美元
+https://www.ithome.com/0/990/397.htm
+4. 【其他】 开罗游戏暑期捆绑包上线 Steam，国区 14.4 元起
+https://www.ithome.com/0/990/396.htm
+5. 【其他】 段永平基金二季度持仓总市值 191 亿美元：大幅增持拼多多、减持苹果和英伟达，重新买入阿里
+https://www.ithome.com/0/990/395.htm
+6. 【其他】 中消协：近期 AI 客服相关投诉显著增多
+https://www.ithome.com/0/990/394.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
