@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-18（抓取 2026-08-17）
+
+🌍 全球
+1. 【其他】 Alibaba is selling its gaming studio for at least $1.5 billion to help fund AI buildout, mirroring Micron's exit from consumer business — dumps entire stake in Lingxi Games, which made 'Three Kingdoms: Strategy Edition'
+https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-sells-its-gaming-studio-for-at-least-1-5-billion-to-help-fund-ai-buildout
+2. 【数据中心】 Judge clears Nine PBS to retrieve 70 years of archival TV data — court rules station owns 50TB of data in Iron Mountain servers after host went under
+https://www.tomshardware.com/software/cloud-storage/judge-clears-nine-pbs-to-retrieve-70-years-of-archival-tv-data-court-rules-station-owns-50tb-of-data-in-iron-mountain-servers-after-host-went-under
+3. 【其他】 Uber partners with Zipline on Eats drone deliveries
+https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment
+4. 【其他】 Nvidia discloses $21B stake in SpaceX
+https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/
+5. 【芯片/算力】 Intel's Arc Pro B70 workstation GPU is now up to 48% more expensive than it was just a month ago — 32GB Battlemage workstation card climbs toward $2,000
+https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-is-now-up-to-48-percent-more-expensive-than-it-was-just-a-month-ago-32gb-battlemage-workstation-card-climbs-toward-usd2-000
+6. 【其他】 Cherokee Nation bans hyperscale data centers on its lands, won't support projects without consultation — energy and water consumption, air quality, noise, and cultural resource protection among concerns
+https://www.tomshardware.com/tech-industry/data-centers/largest-tribe-in-the-us-bans-hyperscale-data-centers-on-its-lands
+
+🇨🇳 中国
+1. 【其他】 LG 推出 xboom Power 系列旗舰派对音箱：自带一键 K 歌模式，格莱美获奖音乐人调校
+https://www.ithome.com/0/990/859.htm
+2. 【其他】 鸿蒙智行智界 RX 轿跑 SUV“极光绿”和“星玫粉”新色曝光，新车 8 月 20 日开启预订
+https://www.ithome.com/0/990/858.htm
+3. 【终端/边缘】 iQOO Neo11 至尊版手机官宣搭载新一代 Monster 超核引擎，支持《开放世界手游》60 帧 + 极高画质
+https://www.ithome.com/0/990/857.htm
+4. 【其他】 阿里巴巴开放权重模型下载量过去半年突破 30 亿
+https://www.solidot.org/story?sid=85118
+5. 【机器人】 能举起 50 公斤重杠铃，九光技术发布小睿 G3 人形机器人
+https://www.ithome.com/0/990/853.htm
+6. 【其他】 佛州一男子向 ChatGPT 描述“杀害前女友”计划，OpenAI 报案了
+https://www.ithome.com/0/990/850.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
