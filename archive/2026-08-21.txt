@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-21（抓取 2026-08-20）
+
+🌍 全球
+1. 【其他】 It’s Greg Brockman’s OpenAI now
+https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion
+2. 【终端/边缘】 Dell XPS 13 (2026) review: the new bar for mainstream Windows laptop excellence
+https://www.tomshardware.com/laptops/dell-xps-13-2026-review
+3. 【其他】 Catastrophic GTA VI leak is a full working build — notorious hacker CyberLeek taunts Rockstar Games by spraying the word 'leek' onto a wall in-game with bullets
+https://www.tomshardware.com/video-games/catastrophic-gta-vi-leak-is-a-full-working-build-notorious-hacker-cyberleek-taunts-rockstar-games-by-spraying-the-word-leek-onto-a-wall-in-game-with-bullets
+4. 【芯片/算力】 Synopsys validates a PCIe 6.0 PHY inside a face-to-face 3D stack at 64 GT/s — says it got there by pulling apart an existing 2D test chip
+https://www.tomshardware.com/tech-industry/semiconductors/synopsys-validates-a-pcie-6-phy-inside-a-face-to-face-3d-stack
+5. 【其他】 Grok exfiltrates user data when malicious instructions are encrypted
+https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/
+6. 【其他】 Get 32GB of RAM for only $241 in this 3-item gaming combo from Newegg —save $249 on this inclusive bundle with Ryzen 7 9800X3D, Corsair Vengeance RAM, and a Gigabyte X870E motherboard
+https://www.tomshardware.com/pc-components/ddr5/get-32gb-of-ram-for-only-usd241-in-this-3-item-gaming-combo-from-newegg-save-usd249-on-this-inclusive-bundle-with-ryzen-7-9800x3d-corsair-vengeance-ram-and-a-gigabyte-x870e-motherboard
+
+🇨🇳 中国
+1. 【其他】 芝奇 240 万美元和解集体诉讼：涉嫌 DDR4、DDR5 内存以 XMP/EXPO 速度误导用户，消费者获赔约 20 美元
+https://www.ithome.com/0/992/407.htm
+2. 【数据中心】 闪迪带来 SANDISK NAS 高耐用固态硬盘产品线，M.2 新品支持 PCIe Gen5
+https://www.ithome.com/0/992/405.htm
+3. 【其他】 雷蛇猎魂光蛛 V3 专业竞技版矮轴 8KHz 键盘发布，1899 元
+https://www.ithome.com/0/992/404.htm
+4. 【其他】 鸿蒙智行智界 RX 的 L3 架构不只四激光，郭锐透露还有“惊喜”静候揭秘
+https://www.ithome.com/0/992/402.htm
+5. 【其他】 Epic 喜加二：《Cardpocalypse》及《阿尔比恩 Online》“史诗法师礼包”
+https://www.ithome.com/0/992/401.htm
+6. 【其他】 Meta 成微软最大 AI 客户之一：年采购额达数亿美元，每周消耗数万亿词元
+https://www.ithome.com/0/992/397.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
