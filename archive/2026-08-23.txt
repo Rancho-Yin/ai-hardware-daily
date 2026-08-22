@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-23（抓取 2026-08-22）
+
+🌍 全球
+1. 【芯片/算力】 25 years after the death of 3dfx, the Voodoo 3 gets a Linux driver update — classic Voodoo GPUs can now boot without a PC BIOS
+https://www.tomshardware.com/software/linux/25-years-after-the-death-of-3dfx-the-voodoo-3-gets-a-linux-driver-update-classic-voodoo-gpus-can-now-boot-without-a-pc-bios
+2. 【其他】 Logitech faces lawsuit for withholding $61M in tariff refunds from customers — lawsuit claims company extracted up to $97M from consumers in 2026 through tariff-justified price increases
+https://www.tomshardware.com/peripherals/logitech-faces-lawsuit-for-withholding-usd61m-in-tariff-refunds-from-customers-lawsuit-claims-company-extracted-up-to-usd97m-from-consumers-in-2026-through-tariff-justified-price-increases
+3. 【其他】 US authorities say Siemens controllers used for water and other infrastructure are being targeted by hackers — agencies claim threat actors use AI tools to generate exploitation scripts
+https://www.tomshardware.com/tech-industry/cyber-security/us-authorities-say-siemens-controllers-used-for-water-and-other-infrastructure-are-being-targeted-by-hackers-agencies-claim-threat-actors-use-ai-tools-to-generate-exploitation-scripts
+4. 【其他】 Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent
+https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv
+5. 【终端/边缘】 Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records
+https://www.tomshardware.com/pc-components/cpus/desktop-cpu-shipments-crater-20-percent-amid-high-component-costs-but-amd-gains-record-share-despite-ugly-desktop-processor-market-intel-floods-laptop-market-with-millions-of-cpus-but-amd-still-sets-all-time-share-records
+6. 【其他】 Two great new repairable gadgets
+https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2
+
+🇨🇳 中国
+1. 【其他】 3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同
+https://www.solidot.org/story?sid=85165
+2. 【其他】 Linux 7.3 新增 AMD 低功耗核心支持，统一英特尔和 AMD 核心类型处理
+https://www.ithome.com/0/993/115.htm
+3. 【其他】 微软 Windows IKE 严重漏洞确认已遭恶意利用：攻击者无需认证即可远程执行代码
+https://www.ithome.com/0/993/113.htm
+4. 【其他】 10 美元买全套 id 游戏？1996 年《雷神之锤》光盘加密 39 天即被破解，id Software 积压 15 万张库存卖不掉
+https://www.ithome.com/0/993/112.htm
+5. 【其他】 利用 AI 合成虚假影像骚扰他人，四川一男子被行拘
+https://www.ithome.com/0/993/110.htm
+6. 【芯片/算力】 中诚华隆 HL200 推理芯片发布：能效比 5.12 TFLOPS/W、集群最高可扩展至万卡
+https://www.ithome.com/0/993/108.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
