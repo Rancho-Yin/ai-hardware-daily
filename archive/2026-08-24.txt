@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-24（抓取 2026-08-23）
+
+🌍 全球
+1. 【其他】 We’re All Going to the World’s Fair is an intimate coming-of-age horror film
+https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review
+2. 【芯片/算力】 Grab the Asus Prime Radeon RX 9070 OC for $629.99 — save $120 on this 16GB gaming GPU for reliable 1440p and 4K gaming
+https://www.tomshardware.com/pc-components/gpus/grab-the-asus-prime-radeon-rx-9070-oc-for-usd629-99-save-usd120-on-this-16gb-gaming-gpu-for-reliable-1440p-and-4k-gaming
+3. 【其他】 Self-driving Ford F-250 truck with shotgun-equipped drone-killing turret tested by US Army — autonomous system designed to blast fast-moving drones at between 10 and 100 meters range
+https://www.tomshardware.com/tech-industry/drones/self-driving-ford-f-250-truck-with-shotgun-equipped-drone-killing-turret-tested-by-us-army-autonomous-system-designed-to-blast-fast-moving-drones-at-between-10-and-100-meters-range
+4. 【数据中心】 Nvidia reportedly warns biggest customers of 15% price hikes on AI servers — memory costs continue to soar
+https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers
+5. 【其他】 Nvidia’s GB300-powered DGX Station desktop tower listed for nearly $100,000 online — Enterprise AI powerhouse now available to buy for mere mortals with lots of cash
+https://www.tomshardware.com/desktops/nvidias-gb300-powered-dgx-station-desktop-tower-listed-for-nearly-usd100-000-online-enterprise-ai-powerhouse-now-available-to-buy-for-mere-mortals-with-lots-of-cash
+6. 【其他】 Fake GTA VI ISO circulates on the internet a few days after leak, internet sleuths claim 113GB download is padded malware — testers claim file is 99.99% empty zeroes with 50KB virus embedded
+https://www.tomshardware.com/video-games/fake-gta-vi-iso-circulates-on-the-internet-a-few-days-after-leak-internet-sleuths-claim-113gb-download-is-padded-malware-testers-claim-file-is-99-99-percent-empty-zeroes-with-50kb-virus-embedded
+
+🇨🇳 中国
+1. 【机器人】 机器人短跑超越人类，但刹住是问题
+https://www.solidot.org/story?sid=85169
+2. 【其他】 古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路
+https://www.ithome.com/0/993/317.htm
+3. 【其他】 揭秘苹果摄像头版 AirPods 为何泄露：可能是测试新功能时合并错误
+https://www.ithome.com/0/993/316.htm
+4. 【芯片/算力】 获英伟达投资，美国初创 Starcloud 研发 GPU 卫星欲建太空数据中心
+https://www.ithome.com/0/993/313.htm
+5. 【其他】 古尔曼：iPhone 18 系列计划涨价，苹果将自行消化一部分成本
+https://www.ithome.com/0/993/312.htm
+6. 【机器人】 2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军
+https://www.ithome.com/0/993/310.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
