@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-25（抓取 2026-08-24）
+
+🌍 全球
+1. 【其他】 The Witcher 4 developers target a 2028 release
+https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom
+2. 【芯片/算力】 Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls
+3. 【其他】 Raspberry Pi shares its official tutorial for making a cyberdeck
+https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases
+4. 【芯片/算力】 Two Intel chips break Amazon's top 10 CPUs for the first time in months — Core Ultra 7 270K and Core i7-14700K finally challenge AMD desktop dominance
+https://www.tomshardware.com/pc-components/cpus/two-intel-chips-break-amazons-top-10-cpus-for-the-first-time-in-months-core-ultra-7-270k-and-core-i7-14700k-finally-challenge-amd-desktop-dominance
+5. 【其他】 Apple’s four-pack of second-gen AirTags is $20 off
+https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale
+6. 【其他】 How GoFundMe became America’s backup plan
+https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses
+
+🇨🇳 中国
+1. 【其他】 ACEMAGIC 推出 F2A 迷你主机：酷睿 Ultra X7 358H 处理器、32GB 内存
+https://www.ithome.com/0/993/758.htm
+2. 【其他】 直接问你要钱还是坚持使命，Anthropic 面试流程曝光
+https://www.ithome.com/0/993/756.htm
+3. 【其他】 微信鸿蒙版 App 获 8.0.21.16 版本邀测升级
+https://www.ithome.com/0/993/755.htm
+4. 【芯片/算力】 小米集团副总裁朱丹：芯片研发投入是为下一个十年买“入场券”
+https://www.ithome.com/0/993/753.htm
+5. 【芯片/算力】 Lava 推出 Virat V1 Pro 5G 手机：6.75 寸 720P LCD 屏幕、紫光展锐 T8200 芯片
+https://www.ithome.com/0/993/747.htm
+6. 【其他】 美国音乐人 Dr. Dre 公开支持 AI 音乐，将其类比鼓机、合成器
+https://www.ithome.com/0/993/745.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
