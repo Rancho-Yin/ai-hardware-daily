@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-26（抓取 2026-08-25）
+
+🌍 全球
+1. 【其他】 Get 16GB of DDR5 RAM for $70 and start your AM5 gaming rig with this bundle — $568 for Ryzen 7 7700X3D, 16GB G.Skill DDR5 RAM, Asus TUF B650-E motherboard, and free AIO
+https://www.tomshardware.com/pc-components/get-16gb-of-ddr5-ram-for-usd70-and-start-your-am5-gaming-rig-with-this-bundle-usd568-for-ryzen-7-7700x3d-16gb-g-skill-ddr5-ram-asus-tuf-b650-e-motherboard-and-free-aio
+2. 【芯片/算力】 Hot Chips 2026: Intel details cutting-edge tech in entry-level Wildcat Lake — value-focused 18A chips necessitated UCIe integration
+https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-intel-details-cutting-edge-tech-in-entry-level-wildcat-lake-value-focused-18a-chips-necessitated-ucie-integration
+3. 【其他】 Best RAM deals 2026 — discounts on DDR5 and DDR4 to beat the memory price crunch
+https://www.tomshardware.com/gift-guides-seasonal-sales/best-ram-memory-deals-ddr5-ddr4
+4. 【芯片/算力】 Hot Chips 2026: Intel dives deep on Crescent Island AI accelerator — larger caches and deeper XMX engines target maximum AI FLOPS per watt
+https://www.tomshardware.com/pc-components/gpus/hot-chips-2026-intel-dives-deep-on-crescent-island-ai-accelerator-larger-caches-and-deeper-xmx-engines-target-maximum-ai-flops-per-watt
+5. 【芯片/算力】 Apple launches new M6 and M5 Ultra Apple silicon chips — debuting in new Mac Mini and Mac Studio
+https://www.tomshardware.com/pc-components/cpus/apple-launches-new-m6-and-m5-ultra-apple-silicon-chips-debuting-in-new-mac-mini-and-mac-studio
+6. 【芯片/算力】 China strategically slows exports of critical materials used in semiconductor fabrication to Taiwan — germanium and quartz exports to the region also threaten optical and robotics supply chain
+https://www.tomshardware.com/tech-industry/china-strategically-slows-exports-of-critical-materials-used-in-semiconductor-fabrication-to-taiwan-germanium-and-quartz-exports-to-the-region-also-threaten-optical-and-robotics-supply-chain
+
+🇨🇳 中国
+1. 【其他】 社媒的设计方式让年轻人难以批判性思考
+https://www.solidot.org/story?sid=85193
+2. 【芯片/算力】 小米 REDMI 17C 5G 手机海外发布：天玑 6300 芯片，279 新加坡元
+https://www.ithome.com/0/994/263.htm
+3. 【其他】 微软画图和照片应用生成的图像嵌入了看不见的水印
+https://www.solidot.org/story?sid=85192
+4. 【其他】 基于阿里千问，路透社推出首个自研大模型
+https://www.leiphone.com/category/industrynews/6mR50kUHcFgw5xST.html
+5. 【其他】 Linux 诞生 35 周年
+https://www.solidot.org/story?sid=85191
+6. 【其他】 全球精品轿车零跑A05正式上市 起售价6.39万元
+https://www.leiphone.com/category/transportation/hmN8xhtUMyzP3w5I.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
