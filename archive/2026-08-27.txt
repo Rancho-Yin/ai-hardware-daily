@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-27（抓取 2026-08-26）
+
+🌍 全球
+1. 【其他】 US Justice Department seizes domains it says Chinese state-sponsored hackers used to infiltrate systems at NASA, Senate, Federal Reserve, and more — FBI moves forward with domain seizures
+https://www.tomshardware.com/tech-industry/cyber-security/us-justice-department-claims-chinese-state-sponsored-hackers-infiltrated-systems-at-nasa-senate-federal-reserve-and-more-fbi-moves-forward-with-domain-seizures
+2. 【其他】 Xbox announces new disc-to-digital feature for physical media — lets players claim digital versions of their games, with support for Play Anywhere and Cloud Gaming
+https://www.tomshardware.com/video-games/console-gaming/xbox-announces-new-disc-to-digital-feature-for-physical-media-lets-players-claim-digital-versions-of-their-games-with-support-for-play-anywhere-and-cloud-gaming
+3. 【其他】 Kansas town drops charges against teacher arrested for clapping during public hearings on data centers — says that ‘case has been dismissed without prejudice’
+https://www.tomshardware.com/tech-industry/data-centers/kansas-town-drops-charges-against-teacher-who-clapped-during-public-hearings-on-data-centers-says-that-case-has-been-dismissed-without-prejudice
+4. 【芯片/算力】 Hot Chips 2026: Nvidia touts benefits of its DSX MaxLPS site power management approach — tech allows for more compute from fixed data center power budgets
+https://www.tomshardware.com/tech-industry/data-centers/hot-chips-2026-nvidia-touts-benefits-of-its-dsx-maxlps-site-power-management-approach-tech-allows-for-more-compute-from-fixed-data-center-power-budgets
+5. 【其他】 Save $260 on this high-end AM5 gaming combo from Newegg — just $1,345.99 buys a Ryzen 9 9950X3D, 32GB Corsair DDR5 RAM, MSI X870E Carbon Wifi motherboard, along with a free 240mm AIO and AMD game bundle
+https://www.tomshardware.com/pc-components/save-usd260-on-this-high-end-am5-gaming-combo-from-newegg-just-usd1-345-99-buys-a-ryzen-9-9950x3d-32gb-corsair-ddr5-ram-msi-x870e-carbon-wifi-motherboard-along-with-a-free-240mm-aio-and-amd-game-bundle
+6. 【芯片/算力】 Hot Chips 2026: Fujitsu's Monaka CPU stacks its entire cache on a separate 5nm die and narrows to 256-bit SVE2 — 350W and 500W SKUs due in 2027
+https://www.tomshardware.com/pc-components/cpus/fujitsus-monaka-cpu-stacks-its-entire-cache-on-a-separate-5nm-die-and-narrows-to-256-bit-sve2
+
+🇨🇳 中国
+1. 【其他】 澳大利亚是地球最安全的地方
+https://www.solidot.org/story?sid=85204
+2. 【其他】 全新架构，极致性价比！阿里千问Qwen3.8-Flash发布并开源
+https://www.leiphone.com/category/industrynews/VOpEHzb65rOMv793.html
+3. 【其他】 对话寻影李亮：一年半是影像技术护城河的极限，真正的竞争在场景
+https://www.leiphone.com/category/weiwu/YlRdmdtUlgqa4XC7.html
+4. 【其他】 商汤2026上半年首度盈利6.2亿元，经常性收入与毛利率持续提升
+https://www.leiphone.com/category/industrynews/V1CAUxI7qST0x7pX.html
+5. 【其他】 月之暗面与微软、亚马逊和 Google 协商收益分成协议
+https://www.solidot.org/story?sid=85201
+6. 【其他】 ECCV 2026｜4步去噪实现12.66 FPS，清华、港科大提出实时流式视频编辑框架LiveEdit
+https://www.leiphone.com/category/private/qrCx7pEm5vT7uoYm.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
