@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-28（抓取 2026-08-27）
+
+🌍 全球
+1. 【芯片/算力】 Hot Chips 2026: Cerebras lays out the future of wafer-scale AI — Nexus system architecture triples rack-scale performance, CS-6 wafer to incorporate stacked DRAM
+https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-cerebras-lays-out-the-future-of-wafer-scale-ai-nexus-system-architecture-triples-rack-scale-performance-cs-6-wafer-to-incorporate-stacked-dram
+2. 【其他】 Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping
+https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined
+3. 【其他】 Nvidia expects to sell $20 billion of Vera Rubin systems in Q3 as shipments begin — figure would account for 20% of its data center revenue mix, marks fastest ramp in company history
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-expects-to-sell-usd20-billion-worth-of-vera-rubin-hardware-this-quarter-would-account-for-20-percent-of-data-center-revenue-its-fastest-ramp-in-company-history
+4. 【其他】 Many talks between data center developers and local governments are wrapped in secrecy behind non-disclosure agreements — residents question the need for NDAs, but developers argue it’s important to avoid ‘running afoul of insider trading rules’
+https://www.tomshardware.com/tech-industry/data-centers/many-talks-between-data-center-developers-and-local-governments-are-under-nda-residents-question-the-needs-for-secrecy-but-developer-argues-its-important-to-avoid-running-afoul-of-insider-trading-rules
+5. 【终端/边缘】 Ingenious indie hacker funds $3,000 MacBook purchase by selling advertising space on the lid — sticker space auction has already raised 111% of the price of the laptop
+https://www.tomshardware.com/laptops/macbooks/ingenious-indie-hacker-funds-usd3-000-macbook-purchase-by-selling-advertising-space-on-the-lid-sticker-space-auction-has-already-raised-111-percent-of-the-price-of-the-laptop
+6. 【芯片/算力】 EPA faces lawsuit over claims it fast-tracked approval of toxic 'data center chemicals' — exposure to photoacid generators used for semiconductor manufacturing could result in ‘sudden death,’ also appear to be long-lasting PFAS
+https://www.tomshardware.com/tech-industry/semiconductors/epa-faces-lawsuit-over-claims-it-fast-tracked-approval-of-toxic-data-center-chemicals-exposure-to-photoacid-generators-used-for-semiconductor-manufacturing-could-result-in-sudden-death-also-appear-to-be-long-lasting-pfas
+
+🇨🇳 中国
+1. 【其他】 亚马逊 AI 训练设施员工谈内部工作
+https://www.solidot.org/story?sid=85213
+2. 【其他】 商汤大装置支撑智谱 GLM-5.3-Flash上线，国产异构助力前沿智能进入普惠时代
+https://www.leiphone.com/category/ai/W9ofyn3UJRYRVMC0.html
+3. 【其他】 百度搭子宣布一揽子升级，提出“交付即惊艳”专业办公标准
+https://www.leiphone.com/category/industrynews/bpzIqEentybmkCVI.html
+4. 【其他】 像素级对标？智谱、Kimi 底层参数「撞衫」背后，藏着线性注意力的黄金窗口
+https://www.leiphone.com/category/yanxishe/1zYtnZ1hPi0jc5Ud.html
+5. 【其他】 亚马逊 Mechanical Turk 将于 9 月 30 日关闭
+https://www.solidot.org/story?sid=85212
+6. 【机器人】 具身新贵昆仑行斩获 WorldArena单项冠军全球亚军，世界模型全面领先
+https://www.leiphone.com/category/industrynews/gAKPpkpq87I5Oo3d.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
