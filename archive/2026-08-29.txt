@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-29（抓取 2026-08-28）
+
+🌍 全球
+1. 【终端/边缘】 MSI brings DDR4 back to gaming laptops amidst DRAM crisis — Katana 15 HX C14 available with up to Core i9-14900HX and RTX 5070
+https://www.tomshardware.com/pc-components/ddr4/msi-brings-ddr4-back-to-gaming-laptops-amidst-dram-crisis-katana-15-hx-c14-available-with-up-to-core-i9-14900hx-and-rtx-5070
+2. 【数据中心】 New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September
+https://www.tomshardware.com/tech-industry/policy/new-us-export-controls-reportedly-target-chinese-access-to-remote-ai-servers-trump-admins-cut-down-ai-diffusion-rule-could-be-shared-with-industry-as-soon-as-september
+3. 【其他】 The iPhone Fold could make concerts even worse
+https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast
+4. 【其他】 Nvidia gears up its influence in Washington, forming PAC — tells employees that decisions Congress makes over the coming years could have substantial consequences for the AI industry, according to report
+https://www.tomshardware.com/tech-industry/big-tech/nvidia-gears-up-its-influence-in-washington-forming-pac-tells-employees-that-decisions-congress-makes-over-the-coming-years-could-have-substantial-consequences-for-the-ai-industry-according-to-report
+5. 【其他】 DLSS 5 has already been ported to work on RTX 4000 Series graphics cards — incompatible CUDA instructions get patched to work on previous-gen hardware
+https://www.tomshardware.com/pc-components/gpus/exclusive-dlss-5-has-already-been-ported-to-work-on-rtx-4000-series-graphics-cards-incompatible-cuda-instructions-get-patched-to-work-on-previous-gen-hardware
+6. 【其他】 Apple TV now costs $14.99 a month after its fourth price hike in four years
+https://www.theverge.com/tech/986130/apple-tv-plus-price-hike
+
+🇨🇳 中国
+1. 【其他】 上半年营收增30%，毛利增55%，佑驾创新盈利能力持续改善
+https://www.leiphone.com/category/industrynews/813poadxB0Dhb82w.html
+2. 【其他】 Anthropic 再定统一标准：MHS，打通 AI 与物理世界的统一接口
+https://www.leiphone.com/category/yanxishe/N12vFHlsL2JrdKYR.html
+3. 【机器人】 WRC2026 | 别急着给机器人更强「大脑」，先补上更省电的神经系统
+https://www.leiphone.com/category/iot/wSd8yNXuuYwSg9hp.html
+4. 【芯片/算力】 新云厂商发现，最赚钱的可能不是卖GPU
+https://www.leiphone.com/category/chips/3WOuErnlJ5cLepP7.html
+5. 【其他】 IBM 推出双指令集处理器
+https://www.solidot.org/story?sid=85221
+6. 【其他】 Anthropic、Moderna先后引爆舆论场，AI制药到底该奖励什么？
+https://www.leiphone.com/category/aihealth/rJaUKQDWe0u0pfDt.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
