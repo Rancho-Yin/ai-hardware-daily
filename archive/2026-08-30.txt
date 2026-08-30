@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-30（抓取 2026-08-29）
+
+🌍 全球
+1. 【终端/边缘】 Magnetic core memory USB drive transfers files in sneakernet first — text and image files get moved between PCs via hugely constrained archaic memory tech
+https://www.tomshardware.com/pc-components/usb-flash-drives/magnetic-core-memory-usb-drive-transfers-files-in-sneakernet-first-text-and-image-files-get-moved-between-pcs-via-hugely-constrained-archaic-memory-tech
+2. 【其他】 Startup raises $7 million to build backpack-portable 8.8-ounce drone interceptors — Mara claims 20x cost advantage over other interceptors, priced one-for-one against attack drones
+https://www.tomshardware.com/tech-industry/drones/startup-raises-usd7-million-to-build-backpack-portable-8-8-ounce-drone-interceptors-mara-claims-20x-cost-advantage-over-other-interceptors-priced-one-for-one-against-attack-drones
+3. 【其他】 The Galaxy Z Flip 8 is at its best when there’s friction
+https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review
+4. 【其他】 Musicians-turned-detectives are hunting for AI grifters
+https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai
+5. 【其他】 Get up to $175 back for your pre-installed Windows 11 license — new portal provides legal forms, but warns buyers not to wipe storage first
+https://www.tomshardware.com/software/windows/site-provides-instructions-to-get-up-to-usd175-back-for-your-pre-installed-windows-11-license-new-portal-provides-legal-forms-but-warns-buyers-not-to-wipe-storage-first
+6. 【其他】 Grand Theft Auto 6 will run at only 30 FPS on consoles at launch, no performance mode promised — even the souped-up PS5 Pro might not get 60 FPS support
+https://www.tomshardware.com/video-games/grand-theft-auto-6-will-run-at-only-30-fps-on-consoles-at-launch-no-performance-mode-promised-even-the-souped-up-ps5-pro-might-not-get-60-fps-support
+
+🇨🇳 中国
+1. 【其他】 韩国政府计划向全体国民提供免费 AI 服务
+https://www.ithome.com/0/996/050.htm
+2. 【终端/边缘】 印度消费电子品牌 Mivi 跨界进军手机市场，首款产品 9 月发布
+https://www.ithome.com/0/996/049.htm
+3. 【其他】 绿联推出新款二合一折叠无线充：支持 25W Qi2.2，59 美元
+https://www.ithome.com/0/996/048.htm
+4. 【终端/边缘】 英伟达 RTX 5090 显卡供电接口熔毁怎么避免？超频团队直接将电源线焊在 PCB 上
+https://www.ithome.com/0/996/045.htm
+5. 【其他】 国家数据局：截至 7 月底，我国智算总规模达到 245 万 PFLOPS
+https://www.ithome.com/0/996/044.htm
+6. 【其他】 一用户宏碁游戏本因 14900HX 过热送修后，免费升级至 U9 275HX + RTX 5070 Ti 最新款
+https://www.ithome.com/0/996/043.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
