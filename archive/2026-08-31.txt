@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-08-31（抓取 2026-08-30）
+
+🌍 全球
+1. 【其他】 Texas Governor Abbott blocks funding for more Flock cameras
+https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras
+2. 【其他】 SpaceX starts in-house turbine blade manufacturing to boost gas-powered generator output for Elon's AI data centers — new manufacturing strategy cuts generator delays by 18 months
+https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months
+3. 【终端/边缘】 Donkey Kong 64 finally gets a fully native PC port written in C — DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code
+https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code
+4. 【其他】 Chess.com launched a poker site and is planning even more classic games
+https://www.theverge.com/games/986302/chess-poker-expansion-gambit
+5. 【其他】 Massive 12TB Steam leak reveals decades of unreleased games — archived files include unseen Half-Life 2: Episode 3 builds and assets
+https://www.tomshardware.com/video-games/pc-gaming/massive-12tb-steam-leak-reveals-decades-of-unreleased-games-archived-files-include-unseen-half-life-2-episode-3-builds-and-assets
+6. 【终端/边缘】 At least three exhibitors got robbed at Gamescom 2026 — laptops and handhelds with unfinished game builds stolen from locked cabinets
+https://www.tomshardware.com/video-games/pc-gaming/at-least-three-exhibitors-got-robbed-at-gamescom-2026-laptops-and-handhelds-with-unfinished-game-builds-stolen-from-locked-cabinets
+
+🇨🇳 中国
+1. 【其他】 古尔曼：苹果 AirPods 5 耳机最早 9 月发布，OLED 版 iPad mini 平板预计 10 月推出
+https://www.ithome.com/0/996/252.htm
+2. 【其他】 苹果与康宁在美国肯塔基州开设创新中心：探索全新玻璃材料，新增数百个岗位
+https://www.ithome.com/0/996/249.htm
+3. 【其他】 创 25 年来最强暑期档纪录：IMAX 中国暑期档票房突破 7.23 亿元，同比增长 39%
+https://www.ithome.com/0/996/245.htm
+4. 【其他】 索尼华纳起诉 Anthropic 侵犯版权
+https://www.solidot.org/story?sid=85234
+5. 【其他】 2026快手光合创作者大会：深耕多元特色生态，让好内容、好作者获得确定性成长
+https://www.leiphone.com/category/industrynews/8wlxQKXkFOUWfHjJ.html
+6. 【其他】 Pixel 11 取消了对硬件 MTE 的支持
+https://www.solidot.org/story?sid=85233
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
