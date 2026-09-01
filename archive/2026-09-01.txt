@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-01（抓取 2026-08-31）
+
+🌍 全球
+1. 【其他】 Debian won&#8217;t ban AI code from its Linux distribution
+https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy
+2. 【其他】 Save $240 on a four-item gaming build combo from Newegg – $1,113 buys a Ryzen 7 9800X3D, 32GB of Corsair DDR5 RAM, a Gigabyte X870E Motherboard, plus a free 240mm AIO and AMD game bundle
+https://www.tomshardware.com/pc-components/save-usd240-on-a-four-item-gaming-build-combo-from-newegg-usd1-113-buys-a-ryzen-7-9800x3d-32gb-of-corsair-ddr5-ram-a-gigabyte-x870e-motherboard-plus-a-free-240mm-aio-and-amd-game-bundle
+3. 【其他】 Jensen Huang and Lisa Su snubbed by TIME’s 2026 list of top 100 AI leaders — Paris Hilton and Ben Affleck, among others, make the list as ‘Architects of AI’ inexplicably not listed
+https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-and-lisa-su-snubbed-by-times-2026-ai-list-paris-hilton-and-ben-affleck-among-others-make-the-list-as-architects-of-ai-are-totally-absent
+4. 【芯片/算力】 Nvidia's latest driver update breaks mVolt+ overclocking functionality — Nifty, open-source app allowed users to increase the power limit to 700W on their RTX 50-series GPUs without hardware mods
+https://www.tomshardware.com/pc-components/gpu-drivers/nvidias-latest-driver-update-breaks-mvolt-overclocking-functionality-nifty-open-source-app-allowed-users-to-increase-the-power-limit-to-700w-on-their-rtx-50-series-gpus-without-hardware-mods
+5. 【终端/边缘】 Key Nvidia and Intel supplier raided over alleged China origin fraud — Unimicron faces probe over PCB origin washing, risk of 40% U.S. tariff penalty
+https://www.tomshardware.com/tech-industry/big-tech/key-nvidia-and-intel-supplier-raided-over-alleged-china-origin-fraud-unimicron-faces-probe-over-pcb-origin-washing-risk-of-40-percent-u-s-tariff-penalty
+6. 【芯片/算力】 China's CXMT beats Western chipmakers to announcement of LPDDR6 mass production — Xiaomi smartphones to debut industry’s first LPDDR6 chips
+https://www.tomshardware.com/pc-components/dram/chinas-cxmt-beats-western-chipmakers-to-announcement-of-lpddr6-mass-production-xiaomi-smartphones-to-debut-industrys-first-lpddr6-chips
+
+🇨🇳 中国
+1. 【其他】 Linux 7.3-rc1 释出
+https://www.solidot.org/story?sid=85244
+2. 【机器人】 对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项
+https://www.leiphone.com/category/robot/fzha6bzWq2qyX28O.html
+3. 【机器人】 具身智能规模化落地的解法，鹿明摸索出来了
+https://www.leiphone.com/category/robot/aDmmeg0GHDOQc0yR.html
+4. 【其他】 WRC 上，我们看到的关于灵巧手的真相
+https://www.leiphone.com/category/robot/524JbeGS3fgGgQeA.html
+5. 【其他】 Google 改变了其搜索结果的展示方式
+https://www.solidot.org/story?sid=85242
+6. 【其他】 瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0
+https://www.leiphone.com/category/aihealth/MSsFF8sisQuWPkHG.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
