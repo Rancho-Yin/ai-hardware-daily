@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-02（抓取 2026-09-01）
+
+🌍 全球
+1. 【其他】 Nvidia pours $3.5 billion into MediaTek — company will adopt NVLink Fusion for its custom AI accelerators
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pours-usd3-5-billion-into-mediatek-company-will-adopt-nvlink-fusion-for-its-custom-ai-accelerators
+2. 【终端/边缘】 Alienware 16X Aurora review: A thoroughly competent gaming laptop
+https://www.tomshardware.com/laptops/gaming-laptops/alienware-16x-aurora-review
+3. 【芯片/算力】 Nvidia's controversial DLSS 5 will launch September 3 with NBA2K27, company shares first benchmarks — available on all RTX 50 series GPUs, laptops, and GeForce NOW
+https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now
+4. 【芯片/算力】 Nvidia's top-end RTX 5090 gaming GPU now costs at least $5,000 — Blackwell cards continue to endure drastic price hikes
+https://www.tomshardware.com/pc-components/gpus/nvidias-top-end-rtx-5090-gaming-gpu-now-costs-at-least-usd5-000-blackwell-cards-continue-to-endure-drastic-price-hikes
+5. 【其他】 National telecoms provider could make $2.7 billion selling recycled copper in AI boom — BT to strip 200,000 tons from legacy network
+https://www.tomshardware.com/networking/national-telecoms-provider-to-make-usd2-7-billion-selling-old-copper-in-ai-boom-bt-to-strip-200-000-tons-from-legacy-network
+6. 【芯片/算力】 Chinese court freezes $318 million in Nexperia assets as Wingtech presses to regain control — Dutch chipmaker says seizures won't affect day-to-day operations
+https://www.tomshardware.com/tech-industry/chinese-court-freezes-318-million-in-nexperia-assets-as-wingtech-presses-to-regain-control
+
+🇨🇳 中国
+1. 【其他】 苹果新任 CEO 特努斯入驻微博、X 平台，首条博文向网友问好
+https://www.ithome.com/0/997/187.htm
+2. 【其他】 马斯克：预计 AI 将令全球经济规模增加约 20%-30%
+https://www.ithome.com/0/997/186.htm
+3. 【其他】 高通跃龙 Q-2390、IQ-2390 处理器发布：面向消费级物联网等领域，预计 2027 年初面市
+https://www.ithome.com/0/997/185.htm
+4. 【数据中心】 消息称 SpaceX 数据中心出现工程、稳定性问题，马斯克为此换掉多名建设团队高管
+https://www.ithome.com/0/997/184.htm
+5. 【其他】 驰为推出 NeoBook 笔记本：酷睿 3 100U 处理器，内存硬盘可升级
+https://www.ithome.com/0/997/183.htm
+6. 【其他】 微软优化 Win11 更新机制：整合多类更新，每月仅需一次重启
+https://www.ithome.com/0/997/180.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
