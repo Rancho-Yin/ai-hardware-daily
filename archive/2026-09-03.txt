@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-03（抓取 2026-09-02）
+
+🌍 全球
+1. 【其他】 Google is sending MrBeast into the wilderness, armed with AI
+https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit
+2. 【芯片/算力】 The current state of Hybrid Bonding in 2026 — TSMC sits at 6 microns and the HBM delay that nobody expected
+https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined
+3. 【其他】 GoPro to expand into AI data centers after $285 million merger with optical-photonics company — move to solve camera maker’s financial woes, move manufacturing back into the US
+https://www.tomshardware.com/tech-industry/data-centers/gopro-to-expand-into-ai-data-centers-after-usd285-million-merger-with-optical-photonics-company-move-to-solve-camera-makers-financial-woes-move-manufacturing-back-into-the-us
+4. 【芯片/算力】 Samsung teases new HBM5 with twice the performance of HBM4E —ambitious data transfer rates could hint at 4,096-bit interface
+https://www.tomshardware.com/pc-components/dram/samsung-teases-new-hbm5-with-twice-the-performance-of-hbm4e-ambitious-data-transfer-rates-could-hint-at-4-096-bit-interface
+5. 【终端/边缘】 Russian hacker faces up to 20 years in prison, following extradition and indictment over US phishing campaign that allegedly infected 80,000 PCs — hacker stole victims' data via remote access
+https://www.tomshardware.com/tech-industry/cyber-security/russian-hacker-faces-up-to-20-years-in-prison-following-extradition-and-indictment-over-us-phishing-campaign-that-allegedly-infected-80-000-pcs-hacker-stole-victims-data-via-remote-access
+6. 【其他】 Tape companies ship 160 exabytes of storage in 2025, AI data demands drive 'unprecedented data growth' — capacity shipped in Q1 2026 rose 57% YOY driven by AI, LTO‑9 momentum, and early LTO‑10 uptake
+https://www.tomshardware.com/pc-components/storage/tape-companies-ship-160-exabytes-of-storage-in-2025-ai-data-demands-drive-unprecedented-data-growth-capacity-shipped-in-q1-2026-rose-57-percent-yoy-driven-by-ai-lto-9-momentum-and-early-lto-10-uptake
+
+🇨🇳 中国
+1. 【其他】 森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机国行版首销，2399 元
+https://www.ithome.com/0/997/707.htm
+2. 【其他】 谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景
+https://www.ithome.com/0/997/702.htm
+3. 【其他】 Adobe 将 Photoshop、Illustrator 等工具接入 Slack 协作平台
+https://www.ithome.com/0/997/701.htm
+4. 【其他】 华为 Watch 6 系列手表海外发布：3500 尼特 OLED 屏幕、可选陶瓷 / 钛金属表壳
+https://www.ithome.com/0/997/688.htm
+5. 【其他】 谷歌拆解退役服务器的 DDR4 内存模组，重新部署至新型 AI 服务器
+https://www.ithome.com/0/997/687.htm
+6. 【其他】 北京协和医学院与SKG签署合作协议，开展睡眠呼吸暂停检测算法临床研究
+https://www.leiphone.com/category/weiwu/66bHoBvGJOjv7lV0.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
