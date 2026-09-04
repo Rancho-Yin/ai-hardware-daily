@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-04（抓取 2026-09-03）
+
+🌍 全球
+1. 【其他】 Intel's Core Ultra 400 'Nova Lake' launch schedule leaks out — mass production in Q4, first Nova Lake CPUs in Q1 2027
+https://www.tomshardware.com/pc-components/cpus/intels-core-ultra-400-nova-lake-launch-schedule-leaks-out-mass-production-in-q4-first-nova-lake-cpus-in-q1-2027
+2. 【其他】 Almost 70% of voters in Missouri city vote to recall council member who said yes to AI data center tax breaks — councilor said disagreement over an issue shouldn’t be enough to unseat him
+https://www.tomshardware.com/tech-industry/data-centers/almost-70-percent-of-voters-in-missouri-city-recall-council-member-who-said-yes-to-ai-data-center-tax-breaks-councilor-said-disagreement-over-an-issue-shouldnt-be-enough-to-unseat-him
+3. 【其他】 OpenAI CEO Sam Altman says 38,000 ChatGPT queries use as much water as the production of one almond — says data centers use no more water than an office building
+https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building
+4. 【其他】 Benchmarking 31 different CPUs in Onimusha: Way of the Sword — X3D beats flagships by 10%, 270K Plus falls behind Raptor Lake Refresh
+https://www.tomshardware.com/pc-components/cpus/benchmarking-31-different-cpus-in-onimusha-way-of-the-sword-x3d-beats-flagships-by-10-percent-270k-plus-falls-behind-raptor-lake-refresh
+5. 【其他】 Intel scraps 44-year-old 'Fellow' title for top scientists, changes 'standard of technical leadership' — technical luminaries must now deliver measurable business results, combine deep expertise with strategic vision and 'measurable tactical progress'
+https://www.tomshardware.com/pc-components/cpus/intel-eliminates-fellow-titles-changes-standard-of-technical-leadership-combines-deep-expertise-with-strategic-vision-and-measurable-tactical-progress
+6. 【终端/边缘】 RPCS3 emulator devs slam Nvidia DLSS 5 as 'AI-slop generator' — says industry pushing 'more upscalers and frame generation to hallucinate games and hide their lack of optimisation'
+https://www.tomshardware.com/video-games/pc-gaming/rpcs3-emulator-devs-slam-nvidia-dlss-5-as-ai-slop-generator-says-industry-pushing-more-upscalers-and-frame-generation-to-hallucinate-games-and-hide-their-lack-of-optimisation
+
+🇨🇳 中国
+1. 【其他】 纽约市禁止八年级以下公立学校学生使用生成式 AI
+https://www.solidot.org/story?sid=85281
+2. 【其他】 准系统 2399 元：铭凡推出 UM750 Neo 迷你主机，锐龙 Z1 处理器、16GB 板载内存
+https://www.ithome.com/0/998/200.htm
+3. 【其他】 AMD 推送肾上腺素驱动 26.9.1 可选更新：支持两款新游戏，修复部分游戏崩溃
+https://www.ithome.com/0/998/199.htm
+4. 【其他】 谷歌 DeepMind 发布 WeatherNext 3：分辨率最高 5 公里，号称全球最先进、精准 AI 天气预报模型
+https://www.ithome.com/0/998/198.htm
+5. 【其他】 LibreOffice 26.8 发布一周下载量突破 100 万次
+https://www.solidot.org/story?sid=85277
+6. 【其他】 品牌归一，承诺不变：安克开启新篇章
+https://www.leiphone.com/category/industrynews/m7AcHrgaBQ4kZpq0.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
