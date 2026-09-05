@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-05（抓取 2026-09-04）
+
+🌍 全球
+1. 【其他】 Frontier AI faces pricing reckoning as token volume explodes 25-fold — mid-tier models deliver 90% of flagship capability at one-sixth the cost
+https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost
+2. 【芯片/算力】 Nvidia app update fails to block unofficial DLSS multi-frame generation mod on RTX 40 series gaming GPUs — modders restore support across multiple games within hours
+https://www.tomshardware.com/video-games/pc-gaming/nvidia-app-update-fails-to-block-unofficial-dlss-multi-frame-generation-on-rtx-40-series-modders-restore-support-across-multiple-games-within-hours
+3. 【其他】 Alienware’s refurbished 16 Aurora is almost $200 off at Woot
+https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale
+4. 【芯片/算力】 Get this stunning MSI RTX 5060 Ti 16G deal at Walmart for $200 less than anywhere else — only $569.99 for the solid mid-range Shadow 2x OC Plus gaming GPU is a steal by anyone's standards
+https://www.tomshardware.com/pc-components/get-this-stunning-msi-rtx-5060-ti-16g-deal-at-walmart-for-usd200-less-than-anywhere-else-only-usd569-99-for-the-solid-mid-range-shadow-2x-oc-plus-gaming-gpu-is-a-steal-by-anyones-standards
+5. 【其他】 Denver data center continuously waters its lawn even after city announced drought restrictions, enraging residents — it’s unclear if site is breaking the law or using its own recycled water
+https://www.tomshardware.com/tech-industry/data-centers/denver-data-center-continuously-waters-its-lawn-even-after-city-announced-drought-restrictions-enraging-residents-its-unclear-if-site-is-breaking-the-law-or-using-its-own-recycled-water
+6. 【其他】 AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores and dual liquid-cooled MI350P accelerators — 'the most powerful workstation in the world' can run trillion-parameter models, says AMD
+https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd
+
+🇨🇳 中国
+1. 【其他】 理想与芯联集成签署新一轮战略合作协议，8 英寸碳化硅晶圆下线
+https://www.ithome.com/0/998/624.htm
+2. 【其他】 全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市，首批搭载 Momenta R7
+https://www.ithome.com/0/998/622.htm
+3. 【其他】 古尔曼称苹果将以史上最大新品阵容开启“特努斯时代”，公布今年至 2029 年后产品规划
+https://www.ithome.com/0/998/621.htm
+4. 【其他】 仅用两年时间，英伟达从零建起近千亿美元股权投资组合
+https://www.ithome.com/0/998/620.htm
+5. 【其他】 微软推出 Project Zenith，为 Win11 开发者提供开箱即用开发环境
+https://www.ithome.com/0/998/611.htm
+6. 【其他】 理想汽车26.5亿元增资欣旺达动力，电池自研战略再落一子
+https://www.leiphone.com/category/industrynews/j6pAp3LhwmFqVvUW.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
