@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-07（抓取 2026-09-06）
+
+🌍 全球
+1. 【芯片/算力】 Single-slot low-profile 75W RTX 3060 with no power connectors disappoints in tests — GPU runs entirely off the PCIe slot, but offers severely crippled performance and frightening thermals
+https://www.tomshardware.com/pc-components/gpus/single-slot-low-profile-75w-rtx-3060-with-no-power-connectors-disappoints-in-tests-gpu-runs-entirely-off-the-pcie-slot-but-offers-severely-crippled-performance-and-frightening-thermals
+2. 【其他】 OpenAI admits to 'wiki incident' after its agents were discovered using a programming hub to communicate — says more transparency is needed regarding misalignments
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-admits-to-wiki-incident-after-its-agents-were-discovered-using-a-programming-hub-to-communicate-says-more-transparency-is-needed-regarding-misalignments
+3. 【数据中心】 Samsung 990 2TB PCIe 4.0 SSD falls to $339.99 on Amazon — $190 discount makes high-capacity storage more affordable
+https://www.tomshardware.com/pc-components/ssds/samsung-990-2tb-pcie-4-0-ssd-falls-to-usd339-99-on-amazon-usd190-discount-makes-high-capacity-storage-more-affordable
+4. 【其他】 The Fairphone 6 Plus is the midrange phone we desperately needed
+https://www.theverge.com/tech/990436/fairphone-6-plus-review
+5. 【其他】 MSI MEG CoreLiquid E15 360 AIO Review: Bold and stunning, with market-leading performance
+https://www.tomshardware.com/pc-components/liquid-cooling/msi-meg-coreliquid-e15-360-aio-review-bold-and-stunning-with-market-leading-performance
+6. 【其他】 DIY plug-in solar gains momentum in the US
+https://www.theverge.com/column/990183/diy-plug-in-solar-us
+
+🇨🇳 中国
+1. 【其他】 联想 ThinkPad E16 2026 笔记本新增酷睿 5 320 版本，7299 元
+https://www.ithome.com/0/999/047.htm
+2. 【其他】 古尔曼：苹果考虑调整 App Store 以提高收入和利润率
+https://www.ithome.com/0/999/044.htm
+3. 【其他】 三星电子 DX 部门工会不满与其他部门薪酬差距，将在会长李在镕住宅前集会抗议
+https://www.ithome.com/0/999/043.htm
+4. 【其他】 诡异又倒胃口：AI 食物图片攻占餐厅菜单，让消费者食欲全无
+https://www.ithome.com/0/999/042.htm
+5. 【其他】 小米卢伟冰预告明晚发布会有惊喜，雷军讲全场
+https://www.ithome.com/0/999/041.htm
+6. 【其他】 2026 年雨果奖公布
+https://www.solidot.org/story?sid=85298
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
