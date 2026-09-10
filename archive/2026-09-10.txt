@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-10（抓取 2026-09-09）
+
+🌍 全球
+1. 【芯片/算力】 OpenAI says its next-generation processors could be made at Samsung — double-sourcing with TSMC hints at massive volume requirements
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-its-next-generation-processors-could-be-made-at-samsung-double-sourcing-with-tsmc-hints-at-massive-volume-requirements
+2. 【其他】 Save 40% on Autodesk’s Media and Entertainment Collection — thousands of dollars worth of software in a single bundle
+https://www.tomshardware.com/pc-components/save-40-percent-on-autodesks-media-and-entertainment-collection-thousands-of-dollars-worth-of-software-in-a-single-bundle
+3. 【其他】 Goodram PX700 2TB SSD Review: High-end punch on a budget core
+https://www.tomshardware.com/pc-components/ssds/goodram-px700-2tb-ssd-review
+4. 【其他】 OpenAI's breakthrough solution for the elusive Navier-Stokes problem overshadowed by plagiarism controversy — researcher says OpenAI scraped Codex session and issued career threats
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-breakthrough-solution-for-the-elusive-navier-stokes-problem-overshadowed-by-plagiarism-controversy-researcher-says-openai-scraped-codex-session-and-issued-career-threats
+5. 【其他】 LG strongly denies TV spying claims, says tracking and snooping concerns 'not true' — online investigation claims 216,000,000 TVs spy and record audio
+https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio
+6. 【其他】 OpenAI claims GPT-6 Astra is an ethereal 'Alien Mind' with AGI-like qualities — company warns of alignment challenges as new frontier leader emerges
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-claims-gpt-6-astra-is-an-ethereal-alien-mind-with-agi-like-qualities-company-warns-of-alignment-challenges-as-new-frontier-leader-emerges
+
+🇨🇳 中国
+1. 【其他】 英伟达发布 GeForce Game Ready 616.92 显卡驱动：修复闪烁问题，优化多款游戏
+https://www.ithome.com/1/000/447.htm
+2. 【其他】 11家Coding平台首同场、近七成参赛者未满18岁，AI Coding第一次有了“全民样本”
+https://www.leiphone.com/category/industrynews/qYzjYFvO8ZwUF0yC.html
+3. 【其他】 NVIDIA 创业企业展示半程活动10月苏州举行，30家科创企业路演+投资人对接
+https://www.solidot.org/story?sid=85330
+4. 【其他】 全球首个诊脉灵巧手亮相，打造它的公司却说自己只做触觉
+https://www.leiphone.com/category/robot/nDORMeqWgd7ZV76p.html
+5. 【其他】 阿里国际站9月采购节首周开门红：买驱GMV同比增长近20%
+https://www.leiphone.com/category/industrynews/mMUTuLmEVPxWmBVW.html
+6. 【其他】 300余城Apple授权店将在美团闪购首发iPhone新品：现货最快30分钟送达
+https://www.leiphone.com/category/industrynews/3cjNjz7w9CoMvz8I.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
