@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-11（抓取 2026-09-10）
+
+🌍 全球
+1. 【其他】 Universal Music is launching an AI music platform with ElevenLabs
+https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai
+2. 【其他】 Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game
+https://www.theverge.com/games/992937/wolverine-review-ps5
+3. 【其他】 Meta’s Muse AI works and creeps me out
+https://www.theverge.com/tech/993391/meta-muse-ai-hands-on
+4. 【其他】 Another big James Talarico interview is punted to YouTube due to FCC threats
+https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico
+5. 【其他】 Minecraft-spawned crypto kingpin faces 20 years for $245 million heist — mastermind's role in hacking campaign fueled their supercar, bodyguards, and private jet habit
+https://www.tomshardware.com/tech-industry/cryptocurrency/minecraft-spawned-crypto-kingpin-faces-20-years-for-usd245-million-heist-masterminds-role-in-hacking-campaign-fueled-their-supercar-bodyguards-and-private-jet-habit
+6. 【其他】 The iPhone Duo’s hardware doesn’t look special, but its software might be
+https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo
+
+🇨🇳 中国
+1. 【其他】 OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议
+https://www.solidot.org/story?sid=85339
+2. 【其他】 AI XPU 企业 d-Matrix 宣布加入英伟达 NVLink Fusion 生态系统
+https://www.ithome.com/1/000/998.htm
+3. 【其他】 微软九月例行更新修复近千个 Bug
+https://www.solidot.org/story?sid=85338
+4. 【其他】 深度解读 DeepSeek V4.1 Flash 全新架构，如何成为显存杀手
+https://www.leiphone.com/category/yanxishe/U8PtVze3OZTTnJc4.html
+5. 【其他】 蚂蚁数科推出 Agentar 金融版 助力金融机构打造智能体超级工厂
+https://www.leiphone.com/category/industrynews/HoBDVtC0QpjjwVfv.html
+6. 【其他】 蚂蚁陈亮：能力决定AI能做什么，可信决定社会敢把什么交给AI
+https://www.leiphone.com/category/industrynews/X2TDF0nWzEIkJnmf.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
