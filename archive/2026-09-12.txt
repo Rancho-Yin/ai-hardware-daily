@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-12（抓取 2026-09-11）
+
+🌍 全球
+1. 【终端/边缘】 Save 20% on this 144-in-1 screwdriver set, perfect for hobbyists and PC builders under $40 — epic starter toolkit ships with electric and precision drivers, along with 120 magnetic bits and 22 maintenance tools
+https://www.tomshardware.com/desktops/pc-building/save-20-percent-on-this-144-in-1-screwdriver-set-perfect-for-hobbyists-and-pc-builders-under-usd40-epic-starter-toolkit-ships-with-electric-and-precision-drivers-along-with-120-magnetic-bits-and-22-maintenance-tools
+2. 【其他】 Where to preorder the Apple AirPods 5
+https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy
+3. 【其他】 GameStop is reopening recently closed stores despite massive retail cuts — select locations return nationwide starting September 11
+https://www.tomshardware.com/tech-industry/gamestop-is-reopening-recently-closed-stores-despite-massive-retail-cuts-select-locations-return-nationwide-starting-september-11
+4. 【其他】 At IFA 2026, computing chased the high and low ends — AI and budget-focused machines left little for the rest of us
+https://www.tomshardware.com/laptops/at-ifa-2026-computing-chased-the-high-and-low-ends-ai-and-budget-focused-machines-left-little-for-the-rest-of-us
+5. 【其他】 Hardware-accurate NeoGeo AES+ delayed to late 2027 due to memory shortage — decision driven by surging demand and AI-driven RAM crunch
+https://www.tomshardware.com/video-games/retro-gaming/neogeo-aes-console-remake-delayed-for-nearly-a-year-decision-driven-by-ram-shortage-and-unexpected-popularity
+6. 【其他】 Desktop graphics card shipments hit four-year high of 12.5 million despite increasing prices — Nvidia takes 90% share as gamers rush to beat looming price spikes
+https://www.tomshardware.com/pc-components/gpus/desktop-graphics-card-shipments-hit-four-year-high-of-12-5-million-despite-increasing-prices-nvidia-takes-90-percent-share-as-gamers-rush-to-beat-looming-price-spikes
+
+🇨🇳 中国
+1. 【其他】 高盛：总是盯着“AI 泡沫会不会破”不放，反而可能会低估 AI 创造的价值
+https://www.ithome.com/1/001/474.htm
+2. 【终端/边缘】 Counterpoint：预计 2026 年折叠屏智能手机面板出货量同比增长 23%，最大增量来自苹果
+https://www.ithome.com/1/001/469.htm
+3. 【其他】 迄今最高效奥迪车型：奥迪 A2 e-tron 开发时间成功缩短 21 个月
+https://www.ithome.com/1/001/468.htm
+4. 【其他】 努比亚冰淇淋散热器开售：至低-18℃ 制冷、25W 峰值功率，99 元
+https://www.ithome.com/1/001/467.htm
+5. 【其他】 R 星称《GTA 6》线上模式细节是“最高机密”，保密工作堪比可口可乐配方
+https://www.ithome.com/1/001/466.htm
+6. 【其他】 飞牛四盘位万兆 NAS EVO4 PRO 英特尔版开售：i5-13500H，4499 元起
+https://www.ithome.com/1/001/464.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
