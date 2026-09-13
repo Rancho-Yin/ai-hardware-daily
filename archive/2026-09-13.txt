@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-13（抓取 2026-09-12）
+
+🌍 全球
+1. 【其他】 LG responds to TV spying allegations
+https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations
+2. 【其他】 Iran and Houthi rebels used Anthropic's Claude AI to target US warships and build hypersonic missiles — Houthi rebels also used the bot to code ballistic missile guidance systems
+https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-and-houthi-rebels-used-anthropics-claude-ai-to-target-us-warships-and-build-hypersonic-missiles-houthi-rebels-also-used-the-bot-to-code-ballistic-missile-guidance-systems
+3. 【其他】 Trump is giving data centers a pass to pollute
+https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa
+4. 【芯片/算力】 We tested unofficial DLSS Multi Frame Generation support on RTX 40-series GPUs — new mod brings RTX 50-series exclusive feature to older cards, and it really works
+https://www.tomshardware.com/pc-components/gpus/we-tested-dlss-multi-frame-generation-on-rtx-40-series-gpus-new-mod-brings-rtx-50-series-exclusive-feature-to-older-cards-and-it-really-works
+5. 【其他】 Laika’s stop-motion fantasy Wildwood looks so smooth
+https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian
+6. 【其他】 Where to preorder the iPhone 18 Pro and Pro Max
+https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy
+
+🇨🇳 中国
+1. 【其他】 LG 再次回应“电视待机状态会录音”：不会持续记录或传输用户对话
+https://www.ithome.com/1/001/659.htm
+2. 【其他】 惠普星 Desk Mini 迷你主机上架：Ultra 5 325/7 356H，9599 元起
+https://www.ithome.com/1/001/658.htm
+3. 【芯片/算力】 算力词元贷加速全国推广，支持机房建设、GPU 服务器集群采购
+https://www.ithome.com/1/001/656.htm
+4. 【其他】 谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板
+https://www.ithome.com/1/001/653.htm
+5. 【其他】 中国聚变：正全力推进全球首个高温超导强场稳态燃烧实验平台研发
+https://www.ithome.com/1/001/652.htm
+6. 【其他】 Anthropic CEO 阿莫迪称 AI 行业应当放缓发展速度，并承诺让第三方评估机构获得员工级访问权限
+https://www.ithome.com/1/001/651.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
