@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-14（抓取 2026-09-13）
+
+🌍 全球
+1. 【其他】 Waymo pulls over, calls cops on riders with a ghost gun
+https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun
+2. 【其他】 AMD’s best gaming CPU drops below launch price and includes free 240mm AIO cooler and Onimusha: Way of the Sword — grab the Ryzen 7 9850X3D for $484
+https://www.tomshardware.com/pc-components/cpus/amds-best-gaming-cpu-drops-below-launch-price-and-includes-free-240mm-aio-cooler-and-onimusha-way-of-the-sword-grab-the-ryzen-7-9850x3d-for-usd484
+3. 【其他】 Bernie Sanders proposes 20 year prison sentence for AI devs who plow ahead with Artificial Superintelligence plans — penalty on par with illegally developing rogue nuclear weapons
+https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons
+4. 【其他】 Anthropic CEO warns of AI-driven botnet 'swarm' taking over the entire internet — 'In 6–12 months such a swarm could be capable of taking over the entire internet with a persistent botnet'
+https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-ceo-warns-of-ai-driven-botnet-swarm-taking-over-the-entire-internet-in-6-12-months-such-a-swarm-could-be-capable-of-taking-over-the-entire-internet-with-a-persistent-botnet
+5. 【其他】 Intel revives One Mono font after brief retirement during open-source purge — typeface built to fight coder eyestrain gets reprieve
+https://www.tomshardware.com/tech-industry/intel-revives-one-mono-font-after-brief-retirement-typeface-built-to-fight-coder-eyestrain-gets-reprieve-from-open-source-purge
+6. 【其他】 Thrustmaster Airbus Add-On Grip with AVA Joystick Base Review: A First-Class Flight Experience
+https://www.tomshardware.com/peripherals/controllers-gamepads/thrustmaster-airbus-add-on-grip-with-ava-joystick-base-review
+
+🇨🇳 中国
+1. 【其他】 创全球最低传输损耗新纪录，长飞反谐振空芯光纤衰减突破至 0.032dB / km
+https://www.ithome.com/1/001/867.htm
+2. 【其他】 消息称富士通最早 2027 年开始向海外销售 FUJITSU-MONAKA 处理器
+https://www.ithome.com/1/001/866.htm
+3. 【机器人】 斜跃智能完成数亿元天使+轮融资，加速推进Duplex Reasoning全新范式具身基础模型
+https://www.leiphone.com/category/industrynews/PHYwHDvtZ5GGXTK6.html
+4. 【其他】 让AI真正“住进家里”：后摩智能×绿联HomeAgent探索家庭智能新形态
+https://www.leiphone.com/category/chips/OWi6OEGUYbDYwZof.html
+5. 【其他】 蚂蚁数科在外滩大会达成31项AI合作，推动智能体走进千行百业
+https://www.leiphone.com/category/industrynews/z9XsFJXTUkbHBZFs.html
+6. 【其他】 大模型牌桌上，蚂蚁如何出牌？
+https://www.leiphone.com/category/ai/0j9Qu8Jg28bUaM5w.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
