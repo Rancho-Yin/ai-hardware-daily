@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-16（抓取 2026-09-15）
+
+🌍 全球
+1. 【芯片/算力】 Asus' ludicrous $10,850 20th-anniversary bundle is now the cheapest way to buy an RTX 5090 — Nvidia's flagship GPU stock is so limited that this bundle with a 3000W PSU, X870E board, and open-frame case is actually cheaper than some scalper listings
+https://www.tomshardware.com/desktops/gaming-pcs/asus-ludicrous-20th-anniversary-bundle-is-now-the-cheapest-way-to-buy-an-rtx-5090-nvidias-flagship-gpu-stock-is-so-limited-that-this-usd10-850-bundle-with-a-3000w-psu-x870e-board-and-open-frame-case-is-actually-cheaper-than-some-scalper-listings
+2. 【其他】 Meta&#8217;s new One subscriptions put a price on social media and AI
+https://www.theverge.com/tech/995453/meta-one-subscriptions-ai
+3. 【其他】 Intel reportedly cans 12Xe option for Nova Lake-S desktop — gaming APU design said to resurface with Razor Lake
+https://www.tomshardware.com/pc-components/cpus/intel-reportedly-cans-12xe-option-for-nova-lake-s-desktop-gaming-apu-design-said-to-resurface-with-razor-lake
+4. 【其他】 US AI data centers projected to become the fifth-largest natural gas consumer in the world by 2035 — consumption to grow by 15 billion cubic feet per day as demand for compute increases
+https://www.tomshardware.com/tech-industry/data-centers/us-ai-data-centers-projected-to-become-the-fifth-largest-natural-gas-consumer-in-the-world-by-2035-consumption-to-grow-by-15-billion-cubic-feet-per-day-as-demand-for-compute-increases
+5. 【其他】 Bill Gates compares AI to alien intelligence in movies where ‘magically the US and China’ solve the problem together — warns world governments that they’re not ready for AI
+https://www.tomshardware.com/tech-industry/artificial-intelligence/bill-gates-compares-ai-to-alien-intelligence-in-movies-where-magically-the-us-and-china-solves-the-problem-together-warns-world-governments-that-theyre-not-ready-for-ai
+6. 【其他】 ChatGPT transcripts are reportedly read by humans to improve responses, including those with personal information — 'Project Lilly' has seen OpenAI hire hundreds of contractors to manually review logs
+https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-transcripts-are-reportedly-read-by-humans-to-improve-responses-including-those-with-personal-information-project-lilly-has-seen-openai-hire-hundreds-of-contractors-to-manually-review-logs
+
+🇨🇳 中国
+1. 【其他】 Meta One 订阅服务上线：专为“AI 重度用户”、创作者、商业用户准备，最高档每月 499 美元
+https://www.ithome.com/1/002/818.htm
+2. 【终端/边缘】 消息称华为 Mate 90 系列手机“大杯”都有双层 OLED 屏幕，支持万级高亮度
+https://www.ithome.com/1/002/817.htm
+3. 【其他】 戴尔科技股价涨超 6% 再创历史新高，年内累计大涨约 355%
+https://www.ithome.com/1/002/816.htm
+4. 【其他】 雷蛇发布北海巨妖 V4 X SENSA HD 耳机，799 元
+https://www.ithome.com/1/002/815.htm
+5. 【终端/边缘】 荣耀与引望达成深度合作：支持手机应用一碰上车，启境 GX7 车型首发
+https://www.ithome.com/1/002/814.htm
+6. 【其他】 华为监事会主席郭平：虚心向苹果学习供应链，在 ICT 及计算领域的目标是成为英伟达
+https://www.ithome.com/1/002/810.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
