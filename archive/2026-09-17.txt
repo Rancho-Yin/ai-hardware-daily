@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-17（抓取 2026-09-16）
+
+🌍 全球
+1. 【芯片/算力】 Developer vibe codes a tool to let Nvidia RTX 50-series laptop owners crank up their power limits — can juice RTX 5090 mobile GPU to 225W
+https://www.tomshardware.com/pc-components/overclocking/developer-vibe-codes-a-tool-to-let-nvidia-rtx-50-series-laptop-owners-crank-up-their-power-limits-can-juice-rtx-5090-mobile-gpu-to-225w
+2. 【芯片/算力】 Piecemakers bets edge AI devices will diverge from reliance on HBM — custom-designed memory fuses DRAM stack directly to the processor using hybrid bonding
+https://www.tomshardware.com/tech-industry/semiconductors/piecemakers-bets-edge-ai-devices-will-diverge-from-reliance-on-hbm-custom-designed-memory-fuses-dram-stack-directly-to-the-processor-using-hybrid-bonding
+3. 【数据中心】 Micron announces 512GB DDR5-9200 memory modules with 16W power draw — up to 12TB per server, claims 60% less energy-intensive than four 128GB modules
+https://www.tomshardware.com/pc-components/dram/micron-announces-512gb-ddr5-9200-memory-modules-with-16w-power-draw-up-to-12tb-per-server-claims-60-percent-less-energy-intensive-than-four-128gb-modules
+4. 【芯片/算力】 AI-induced memory shortage is changing how devices are built, Fairphone says memory now 60% of materials cost — smaller laptop and phone makers are redesigning products and have to test for fake chips
+https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips
+5. 【其他】 Chinese state media counters Anthropic's call to put brakes on AI development — paper says move is ‘a response to Chinese competition’
+https://www.tomshardware.com/tech-industry/policy/chinese-state-media-counters-dario-amodeis-call-to-put-brakes-on-ai-development-paper-says-move-is-a-response-to-chinese-competition
+6. 【芯片/算力】 Jensen Huang thinks China will develop its own advanced lithography chipmaking tools by 2030 — Nvidia CEO says achievement of that capability 'is just a matter of time'
+https://www.tomshardware.com/tech-industry/semiconductors/jensen-huang-thinks-china-will-develop-its-own-advanced-lithography-systems-by-2030-nvidia-ceo-says-achievement-of-that-capability-is-just-a-matter-of-time
+
+🇨🇳 中国
+1. 【芯片/算力】 PS2 Fat 使用的安全芯片在时隔 26 年被破解
+https://www.solidot.org/story?sid=85399
+2. 【其他】 联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争
+https://www.ithome.com/1/003/338.htm
+3. 【其他】 多名欧美艺人集体发帖，暗示自己将入选《GTA 6》电台音乐或出任 DJ
+https://www.ithome.com/1/003/336.htm
+4. 【其他】 《饥饿游戏》前传电影《饥饿游戏：收获日出》曝全新中字预告，北美 2026 年 11 月 20 日上映
+https://www.ithome.com/1/003/329.htm
+5. 【其他】 形似“脚印”，好奇号在火星上发现奇特新地貌
+https://www.ithome.com/1/003/328.htm
+6. 【其他】 AWS 称无法恢复中东部分可用区资源和数据的访问
+https://www.solidot.org/story?sid=85397
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
