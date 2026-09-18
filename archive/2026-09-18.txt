@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-18（抓取 2026-09-17）
+
+🌍 全球
+1. 【其他】 Balatro fan claims they trained Google fruit fly brain simulation to beat the game — reinforcement learning currently has the model at 20% success rate
+https://www.tomshardware.com/tech-industry/artificial-intelligence/balatro-fan-claims-they-trained-google-fruit-fly-brain-simulation-to-beat-the-game-reinforcement-learning-currently-has-the-model-at-20-percent-success-rate
+2. 【其他】 Camp Snap’s 110D gives slim retro film cameras a digital upgrade
+https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film
+3. 【机器人】 Your robotaxi might be a narc
+https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance
+4. 【其他】 Acer Swift Air 14 review: Wildcat Lake and lots of ports at $699
+https://www.tomshardware.com/laptops/acer-swift-air-14-review
+5. 【其他】 Microsoft AI CEO says AI threats are real, and Anthropic is making it worse
+https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude
+6. 【其他】 AI is feared globally as the destroyer of jobs
+https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs
+
+🇨🇳 中国
+1. 【其他】 华为开创AI时代计算架构：让百万处理器成为一台计算机
+https://www.leiphone.com/category/industrynews/ZAv4gLB8zM5B5PBX.html
+2. 【其他】 360纳米Work启动“双城千店上岗计划” 探索实体商业AI落地新路径
+https://www.leiphone.com/category/industrynews/IX9DPt2tjo0E0gDh.html
+3. 【其他】 今年上线的微短剧逾九成是 AI 剧
+https://www.solidot.org/story?sid=85408
+4. 【其他】 九识建成首个L4万卡集群，无人驾驶进入多模态大模型新范式
+https://www.leiphone.com/category/industrynews/sOtgTcXitH6C7vAT.html
+5. 【其他】 安芯启程｜安芯724北京基地正式投产
+https://www.leiphone.com/category/industrynews/KOCAotOwioun3Los.html
+6. 【其他】 GNOME 51 释出
+https://www.solidot.org/story?sid=85406
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
