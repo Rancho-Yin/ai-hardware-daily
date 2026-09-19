@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-19（抓取 2026-09-18）
+
+🌍 全球
+1. 【其他】 China's premier memory maker CXMT eyes producing flash for SSDs, report claims — 3D NAND research and development line rumored for its second manufacturing facility near Beijing
+https://www.tomshardware.com/pc-components/ssds/chinas-premiere-memory-maker-cxmt-eyes-producing-flash-for-ssds-report-claims-3d-nand-research-and-development-line-rumored-for-its-second-manufacturing-facility-near-beijing
+2. 【其他】 Security researchers used Claude to help them hack into OpenAI
+https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist
+3. 【其他】 House passes act to make AI data centers pay for grid upgrades to minimize impact on residents — measure directs states to consider adoption of federal standard within two years of passing
+https://www.tomshardware.com/tech-industry/data-centers/house-passes-act-to-make-ai-data-centers-pay-for-grid-upgrades-to-minimize-impact-on-residents-measure-directs-states-to-consider-adoption-of-federal-standard-within-two-years-of-passing
+4. 【其他】 Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount
+https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount
+5. 【其他】 NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics
+https://www.tomshardware.com/pc-components/dram/nor-flash-and-slc-nand-production-are-under-threat-as-capacity-gets-routed-to-more-profitable-products-severe-undersupply-threatens-everyday-electronics
+6. 【其他】 Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase — attackers initiated a 'harmless' pull request as proof of the hack
+https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack
+
+🇨🇳 中国
+1. 【其他】 85% 的日本游戏开发者在工作中使用生成式 AI
+https://www.solidot.org/story?sid=85422
+2. 【机器人】 消息称特斯拉针对 Optimus 机器人业务启动量产审厂，多家供应链企业回应
+https://www.ithome.com/1/004/343.htm
+3. 【其他】 安全研究人员利用 Claude 成功入侵 OpenAI
+https://www.solidot.org/story?sid=85421
+4. 【其他】 极狐阿尔法 T7 公布安心交付承诺：延期按天补偿现金，上限 3000 元
+https://www.ithome.com/1/004/340.htm
+5. 【其他】 消息称 vivo 新开 7 英寸大屏 + 万级大电池方案，预计为中端线新机
+https://www.ithome.com/1/004/338.htm
+6. 【机器人】 长安汽车首席专家谭欢：未来要用机器人造车、卖车，让机器人上车、造机器人
+https://www.ithome.com/1/004/337.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
