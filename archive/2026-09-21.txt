@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-21（抓取 2026-09-20）
+
+🌍 全球
+1. 【其他】 Trump now says he wants to form an ‘AI Force’
+https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar
+2. 【其他】 Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’
+https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving
+3. 【终端/边缘】 The PC gaming ray tracing obsession began with the first RTX 20 graphics cards released on this day in 2018 — the GeForce RTX 2080 and 2080 Ti led the charge, but games were thin on the ground
+https://www.tomshardware.com/pc-components/gpus/the-pc-gaming-ray-tracing-obsession-began-with-the-first-rtx-20-graphics-cards-released-on-this-day-in-2018-the-geforce-rtx-2080-and-2080-ti-led-the-charge-but-games-were-thin-on-the-ground
+4. 【其他】 Researchers build a drone that navigates with physical whiskers to operate in dark, dusty or smoky places where cameras or GPS can fail — sub-100 gram drones run 34KB software to enable sub-millimeter precision
+https://www.tomshardware.com/tech-industry/drones/researchers-build-a-drone-that-navigates-with-physical-whiskers-to-operate-in-dark-dusty-or-smoky-places-where-cameras-or-gps-can-fail-sub-100-gram-drones-run-34kb-software-to-enable-sub-millimeter-precision
+5. 【其他】 Noctua fans prevent the CAIM1 ‘Anti-AI’ 4K camera from throttling — unusual camera’s processor gets toasty as it records while performing cryptographic calculations
+https://www.tomshardware.com/pc-components/air-cooling/noctua-fans-prevent-the-caim1-anti-ai-4k-camera-from-throttling-unusual-cameras-processor-gets-toasty-as-it-records-while-performing-cryptographic-calculations
+6. 【其他】 Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems
+https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure
+
+🇨🇳 中国
+1. 【数据中心】 美国俄勒冈州数据中心用电量接近总用电量的四分之一
+https://www.solidot.org/story?sid=85435
+2. 【其他】 IT之家专访苹果 iPhone 营销副总裁凯安 · 德兰斯：iPhone Duo 追求最终用户体验，而不仅仅是为了技术
+https://www.ithome.com/1/005/013.htm
+3. 【机器人】 贾跃亭的法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元
+https://www.ithome.com/1/005/010.htm
+4. 【其他】 微软花费 12 万美元 token 将 Copilot 运行时移植到 Rust 语言
+https://www.solidot.org/story?sid=85433
+5. 【其他】 古尔曼：苹果最快下月推出智能家居屏幕设备，iPhone Duo 专属手写笔计划夭折
+https://www.ithome.com/1/005/009.htm
+6. 【其他】 消息称三星正在研发 Galaxy Buds5 FE，预计未来几个月内发布
+https://www.ithome.com/1/005/008.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
