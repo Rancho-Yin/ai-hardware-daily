@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-22（抓取 2026-09-21）
+
+🌍 全球
+1. 【其他】 AMD beats Intel to the trillion-dollar club as stock price soars — firm joins Nvidia, Broadcom, and SK hynix for companies worth over $1 trillion
+https://www.tomshardware.com/tech-industry/amd-beats-intel-to-the-trillion-dollar-club-as-stock-price-soars-firm-joins-nvidia-broadcom-and-sk-hynix-for-companies-worth-over-usd1-trillion
+2. 【其他】 AMD Ryzen 5 5500F and 7500 show up at retail with pricing above MSRP — budget CPUs are $20 more expensive than list price, even from first-party sellers
+https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-5500f-and-7500-show-up-at-retail-with-pricing-above-msrp-budget-cpus-are-usd20-more-expensive-than-list-price-even-from-first-party-sellers
+3. 【芯片/算力】 Huawei shelves global AI chip rollout as China's own demand outstrips supply — 15,488-chip Atlas clusters leverage optical networking to counter Nvidia, scales to 120 EFLOPS
+https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-shelves-global-ai-chip-rollout-as-chinas-own-demand-outstrips-supply-15-488-chip-atlas-clusters-leverage-optical-networking-to-counter-nvidia-scales-to-120-eflops
+4. 【其他】 Can John Ternus find Apple’s next big thing?
+https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone
+5. 【芯片/算力】 New RTX 5070 Autumn Limited Edition gaming GPU doubles as an air freshener with built-in 'e-sports aromatherapy' — AX Gaming's white and purple card also features an anime character and floral graphics
+https://www.tomshardware.com/pc-components/gpus/new-rtx-5070-autumn-limited-edition-gaming-gpu-doubles-as-an-air-freshener-with-built-in-e-sports-aromatherapy-ax-gamings-white-and-purple-card-also-features-an-anime-character-and-floral-graphics
+6. 【其他】 iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement
+https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement
+
+🇨🇳 中国
+1. 【芯片/算力】 苹果 2026 款 Mac mini 发售：全新 M6 / M5 Pro 芯片，6999 元起
+https://www.ithome.com/1/005/479.htm
+2. 【芯片/算力】 苹果 2026 款 Mac Studio 发售：M5 Max / Ultra 芯片，19999 元起
+https://www.ithome.com/1/005/478.htm
+3. 【其他】 华为 Mate 60 等老机型升级鸿蒙 7“隐藏”新功能盘点：粒子动效实装、超级省电模式回归
+https://www.ithome.com/1/005/475.htm
+4. 【其他】 Googlebooks 于 10 月 4 日上市，最低 899 美元
+https://www.solidot.org/story?sid=85446
+5. 【机器人】 AI 聊天机器人经常给出错误的财务问题答案
+https://www.solidot.org/story?sid=85445
+6. 【其他】 百度200万美元重奖2支技术团队，李彦宏：认可技术价值，是百度真正的竞争力
+https://www.leiphone.com/category/industrynews/7frcIluWLrkbs5p9.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
