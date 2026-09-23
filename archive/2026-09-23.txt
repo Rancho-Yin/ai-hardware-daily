@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-23（抓取 2026-09-22）
+
+🌍 全球
+1. 【其他】 Get this spiffy, stealthy MSI Gaming Trio RTX 5090 for just $4,299
+https://www.tomshardware.com/pc-components/gpus/get-this-spiffy-stealthy-msi-rtx-5090-for-just-usd4-299-geforce-week-at-walmart-serves-up-a-rare-deal-on-nvidias-fastest-gaming-gpu
+2. 【其他】 ‘We’ll be the first to mine Bitcoin in space’ says Nvidia-backed startup
+https://www.tomshardware.com/tech-industry/cryptomining/well-be-the-first-to-mine-bitcoin-in-space-says-nvidia-backed-startup-starcloud-will-fire-up-its-asics-after-its-second-spacecraft-reaches-orbit-later-this-year
+3. 【其他】 US and China propose hotline to de-escalate AI threats ahead of Washington summit
+https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence
+4. 【终端/边缘】 Gaming PC with RTX 5060, 32GB of RAM, and 1TB of storage gets $500 discount
+https://www.tomshardware.com/desktops/gaming-pcs/gaming-pc-with-rtx-5060-32gb-of-ram-and-1tb-of-storage-gets-usd500-discount-neweggs-capable-abs-cyclone-aqua-prebuilt-is-usd1-199-with-code
+5. 【芯片/算力】 Memory chips are now more expensive than compute chips on a per-area basis
+https://www.tomshardware.com/pc-components/dram/dram-is-now-more-expensive-than-compute-chips-on-per-area-basis-ai-demand-drives-memory-die-value-past-leading-edge-silicon
+6. 【其他】 Raspberry Pi locks boards to factory RAM capacities in firmware
+https://www.tomshardware.com/raspberry-pi/raspberry-pi-locks-boards-to-factory-ram-capacities-in-firmware-engineer-tells-diy-modders-dont-waste-your-time-trying-repairs-or-upgrades-company-cites-shady-reseller-scams
+
+🇨🇳 中国
+1. 【其他】 一张硬件卡片，一场上下文之争：千问办公押注企业Agent
+https://www.leiphone.com/category/weiwu/DHnalKdgCUg8xEpC.html
+2. 【其他】 《AGI市场观察》发布：四款国产模型周用量破10万亿tokens，DeepSeek与混元占比近半
+https://www.leiphone.com/category/industrynews/IRBkL55eFXZRCHiy.html
+3. 【其他】 为躲避亿万富翁税 Larry Page 等人迁出加州
+https://www.solidot.org/story?sid=85453
+4. 【其他】 阿里云加速构建Agentic Cloud：推出AgentCore、新一代CPFS等重磅新品
+https://www.leiphone.com/category/industrynews/HNWVHr1WinHMKzsN.html
+5. 【其他】 做每个人的专属AI助理，千问加速打造Personal Agent
+https://www.leiphone.com/category/industrynews/4V3AYUarwL4RCE5O.html
+6. 【其他】 对话 COBRA-Skills 一作卢平琛：仅用 50 个样本，重构 Agent 技能降本路线
+https://www.leiphone.com/category/private/AaUgNDfg84ayCKbE.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
