@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-25（抓取 2026-09-24）
+
+🌍 全球
+1. 【其他】 Nvidia CEO says 'we have to shut the labs down' if AI experiments are unsafe
+https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-says-we-have-to-shut-the-labs-down-if-ai-experiments-are-unsafe-jensen-huang-says-frontier-ai-lab-fears-are-a-distraction-not-a-call-for-regulation
+2. 【其他】 Japanese used bookstores see 5x sales surge as books are being bought by the ton, one 50-ton order sent to the US for AI scanning and destruction
+https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities
+3. 【其他】 Logitech refreshes legendary Blue Yeti microphone with 3D voice tracking and AI denoising
+https://www.tomshardware.com/peripherals/microphones/logitech-refreshes-legendary-blue-yeti-microphone-with-3d-voice-tracking-and-ai-denoising-usd160-blue-yeti-2-sequel-features-real-time-auto-gain-and-color-mascot-screen
+4. 【芯片/算力】 Leading semiconductor analyst says AMD should be investigated for 'treason' over availability of restricted chips in China
+https://www.tomshardware.com/tech-industry/leading-semiconductor-analyst-accuses-amd-of-treason-over-restricted-chips-availability-in-china-amd-blames-diversion-of-export-controlled-rfsoc-usd36-000-radar-silicon-allegedly-quoted-at-usd1-000-for-crowdfunding-project
+5. 【其他】 GMKtec Evo-X3 review: Strix Halo in a brand new suit
+https://www.tomshardware.com/pc-components/air-cooling/deepcool-ak620-and-ak400-g2-review
+6. 【其他】 Save $149 on this 3-item gaming combo from Newegg
+https://www.tomshardware.com/pc-components/save-usd149-on-this-3-item-gaming-combo-from-newegg-usd1-050-buys-a-ryzen-7-9800x3d-32gb-of-corsair-ddr5-ram-asus-tuf-gaming-x870e-plus-motherboard-and-a-free-240mm-aio-and-amd-game-bundle
+
+🇨🇳 中国
+1. 【其他】 李楠谈锤子科技 TNT 生不逢时：有了 Agent 之后，这些操作其实都不是非常难
+https://www.ithome.com/1/007/039.htm
+2. 【其他】 罗技 G PRO X3 LIGHTSPEED 头戴式游戏耳麦发售，到手价 1699 元
+https://www.ithome.com/1/007/038.htm
+3. 【其他】 铭凡推出 MS-01 迷你工作站 SE 降级版：支持 DDR4，取消双 10GbE SFP+
+https://www.ithome.com/1/007/035.htm
+4. 【其他】 华为鸿蒙 HarmonyOS 7.0.0.109 SP6 版本开启推送，新增智能识别信息内容等功能
+https://www.ithome.com/1/007/033.htm
+5. 【终端/边缘】 消息称《帝国时代》开发商 World's Edge 取消开发新作，近半数员工被裁
+https://www.ithome.com/1/007/032.htm
+6. 【其他】 罗技 G G304 X SUPERLIGHT 鼠标国行上市：HERO 44K 传感器，到手价 549 元
+https://www.ithome.com/1/007/031.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
