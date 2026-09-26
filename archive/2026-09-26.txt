@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-26（抓取 2026-09-25）
+
+🌍 全球
+1. 【其他】 Sony and UMG are suing Suno again
+https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music
+2. 【芯片/算力】 Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year, nearing a total of 1.44 million in operation
+https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online
+3. 【其他】 One company is at the center of a wave of rogue AI attacks
+https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google
+4. 【芯片/算力】 Tower Semiconductor to invest $4 billion in Japanese ops to set up massive optical connectivity hub
+https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029
+5. 【其他】 Meta Muse runs agents on AMD EPYC Turin hosts with two cores and 8GB of memory
+https://www.tomshardware.com/pc-components/cpus/meta-muse-runs-agents-on-amd-epyc-turin-hosts-with-two-cores-and-8gb-of-memory-ai-agent-can-pass-terminal-commands-to-ubuntu-host-system
+6. 【数据中心】 Noctua explores 2,000W micro-channel air cooling
+https://www.tomshardware.com/pc-components/air-cooling/noctua-explores-2-000w-micro-channel-air-cooling-partners-with-forced-physics-to-develop-vacuum-pump-level-airflow-for-desktop-pcs
+
+🇨🇳 中国
+1. 【其他】 比尔 · 盖茨呼吁美国立法监管 AI 开发：没有人会认为只靠行业自律就够了
+https://www.ithome.com/1/007/253.htm
+2. 【其他】 畅销小说被指用 AI 创作，法国最有名文学奖龚古尔奖将其移出初选名单
+https://www.ithome.com/1/007/252.htm
+3. 【终端/边缘】 Counterpoint：2025-2030 年间，全球 200 美元以下智能手机年出货将减少超 2.3 亿部
+https://www.ithome.com/1/007/248.htm
+4. 【其他】 曝特斯拉 Optimus 产量扩至原有规模约 10 倍，规模化量产难题仍未解决
+https://www.ithome.com/1/007/246.htm
+5. 【其他】 德国柏林警方借助人工智能监控摄像头打击犯罪，自动识别暴力和破坏行为
+https://www.ithome.com/1/007/245.htm
+6. 【其他】 小米 18 Fold 中折叠首销情况曝光：9 月 7 日-13 日约 3.97 万台
+https://www.ithome.com/1/007/244.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
