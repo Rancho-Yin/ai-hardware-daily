@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-27（抓取 2026-09-26）
+
+🌍 全球
+1. 【其他】 Russia bombs Ukrainian data centers in latest escalation
+https://www.tomshardware.com/tech-industry/data-centers/russia-bombs-ukrainian-data-centers-in-latest-escalation-100-000-households-lose-connectivity-as-firms-migrate-data-abroad-zelensky-says-ordinary-life-is-simply-a-target
+2. 【其他】 Can Cloudflare CEO Matthew Prince save the web from AI?
+https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising
+3. 【终端/边缘】 Microsoft quietly drops Copilot+ branding from new laptops
+https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding
+4. 【其他】 Control Resonant is a great game — it’s even better when you read everything
+https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs
+5. 【终端/边缘】 Nvidia patents AI chatbot to streamline PC game optimization
+https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english
+6. 【其他】 Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand
+https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out
+
+🇨🇳 中国
+1. 【其他】 Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题
+https://www.ithome.com/1/007/444.htm
+2. 【机器人】 宇树王兴兴回应为何造 390 万元起的载人变形机甲：大型机器人是行业不可阻挡的趋势
+https://www.ithome.com/1/007/443.htm
+3. 【其他】 Opus 5.5 干一半就开溜？Anthropic 揭秘：你的程序替它打了下班卡
+https://www.ithome.com/1/007/442.htm
+4. 【其他】 从代码分析到授权争议：一用户用 AI 破解 IDM 引发争议
+https://www.ithome.com/1/007/441.htm
+5. 【其他】 中国科学院与合工大解锁薄板“漩涡操控”新技术，实现无电子调控的跨尺度物体精准操控
+https://www.ithome.com/1/007/439.htm
+6. 【其他】 科学家首次实时观测单个声子消失，量子计算纠错研究迈出重要一步
+https://www.ithome.com/1/007/438.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
