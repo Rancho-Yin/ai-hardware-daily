@@ -1,0 +1,30 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-28（抓取 2026-09-27）
+
+🌍 全球
+1. 【终端/边缘】 Grab this 14-inch compact gaming laptop powerhouse for $1000 off
+https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy
+2. 【芯片/算力】 Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead
+https://www.tomshardware.com/pc-components/gpus/thieves-steal-nvidia-labeled-trailers-expecting-massive-ai-gpu-payday-but-score-40-000-pounds-of-sand-instead-crooks-duped-by-20-tons-of-ballast-sand
+3. 【其他】 Gigabyte 1000GM PG5 1000W power supply review: Impressive Platinum-level efficiency with T-Guard thermal protection
+https://www.tomshardware.com/pc-components/power-supplies/gigabyte-1000gm-pg5-1000w-power-supply-review
+4. 【其他】 Linux enthusiasts see 10-second kernel compilation times on the horizon
+https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk
+5. 【其他】 Developer says AI decision model Jev beat Pokémon Red in under a week
+https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-says-jev-decision-model-beat-pokemon-red-in-under-a-week-non-llm-engine-succeeds-where-traditional-chatbots-stalled-for-months-but-claude-opus-5-coached-the-model-through-its-dead-ends
+6. 【机器人】 U.S. and UK navies successfully launch 3,700-pound submarine-sinking torpedo from robotic drone submarine in historic first
+https://www.tomshardware.com/tech-industry/u-s-and-uk-navies-successfully-launch-3-700-pound-submarine-sinking-torpedo-from-robotic-drone-submarine-in-historic-first-project-broadsword-proves-weapon-interchangeability-in-just-seven-months
+
+🇨🇳 中国
+1. 【其他】 iQOO Pad Ultra 平板官宣搭载 9020mAh 蓝海电池，8.8 英寸机身轻至 298g
+https://www.ithome.com/1/007/612.htm
+2. 【终端/边缘】 “第二代豆包手机”努比亚 NaviX Ultra 玩《王者荣耀》遭强制下线？知情人士称有安全风险策略保障游戏公平，未有任何针对性调整
+https://www.ithome.com/1/007/607.htm
+3. 【其他】 龙芯 CPU 的原子加指令偶尔会丢失
+https://www.solidot.org/story?sid=85484
+4. 【其他】 遇见AI未来：中科通量SmarCo系列产品亮相全球数字贸易博览会
+https://www.leiphone.com/category/industrynews/D18iwUndD8KTdpMu.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
