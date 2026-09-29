@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-29（抓取 2026-09-28）
+
+🌍 全球
+1. 【其他】 OpenAI's custom Jalapeno AI inference ASIC is for OpenAI’s internal use, but company leaves the door open to broader rollout
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-custom-jalapeno-ai-inference-asic-is-for-openais-internal-use-but-company-leaves-the-door-open-to-broader-rollout-firm-says-it-will-have-its-hands-full-with-jalapeno-for-a-good-long-time
+2. 【其他】 OpenAI Jalapeño design interview transcript
+https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-jalapeno-design-interview-transcript-hardware-vp-richard-ho-explains-how-ai-assisted-design-may-shape-the-future-of-inference-asics
+3. 【芯片/算力】 Get free access to AI Chip Design week on Tom's Hardware Premium — sign up for an account to read all the in-depth reports
+https://www.tomshardware.com/tech-industry/get-free-access-to-ai-chip-design-week-on-toms-hardware-premium-sign-up-for-an-account-to-read-all-the-in-depth-reports
+4. 【其他】 You can now play Nintendo Switch games on a jailbroken PS5
+https://www.tomshardware.com/video-games/console-gaming/you-can-now-play-nintendo-switch-games-on-a-jailbroken-ps5-early-alpha-hits-40-fps-in-lighter-titles-but-chokes-on-zelda
+5. 【其他】 Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off
+https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale
+6. 【其他】 UK Games Expo bans games and art made mostly using AI
+https://www.tomshardware.com/tech-industry/artificial-intelligence/uk-games-expo-bans-games-and-art-made-mostly-using-ai-ukge-enforces-booth-shutdowns-and-bans-after-deleted-comment-debacle-says-that-the-central-creative-process-must-be-conducted-by-humans
+
+🇨🇳 中国
+1. 【其他】 独家丨上汽集团高层换防：俞经民升职，尚界一把手换人
+https://www.leiphone.com/category/transportation/bWrgjxkra1ZlhtEB.html
+2. 【其他】 解读丨吉利入股蔚来能源，李斌的换电生意有了新算法
+https://www.leiphone.com/category/transportation/bjRWJENf14uelTTS.html
+3. 【其他】 中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场
+https://www.leiphone.com/category/yanxishe/WXSemXnlvGNRbiPR.html
+4. 【其他】 海尔洗空气空调AI科技将巴马好空气搬回家
+https://www.leiphone.com/category/industrynews/q7QGrV66x125kB8m.html
+5. 【机器人】 “中国具身大脑”获国际认可！蚂蚁灵波与阿拉伯数字经济联盟签署备忘录
+https://www.leiphone.com/category/industrynews/ieKrThrdXB840uPe.html
+6. 【其他】 售价25.98万-38.98万元，智界RX正式上市，为驾驶而生，为价值而造
+https://www.leiphone.com/category/industrynews/mBZRTV2kKjzdqqJZ.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
