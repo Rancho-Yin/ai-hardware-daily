@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-09-30（抓取 2026-09-29）
+
+🌍 全球
+1. 【其他】 Zotac denies warranty support to RTX 3060 owner in India after just one year despite offering three years of coverage
+https://www.tomshardware.com/pc-components/gpus/zotac-denies-warranty-support-to-rtx-3060-owner-in-india-after-just-one-year-despite-offering-three-years-of-coverage-company-says-gpus-2023-import-date-takes-precedence-over-purchase-date
+2. 【其他】 Blockchain-assisted cyberattacks surge fivefold, driven by Iranian and North Korean state actors, Russia-linked groups
+https://www.tomshardware.com/tech-industry/cyber-security/blockchain-assisted-cyberattacks-surge-fivefold-driven-by-iranian-and-north-korean-state-actors-russia-linked-groups-open-weight-llms-are-linked-to-an-increase-in-attacks
+3. 【芯片/算力】 Silicon is starting to design silicon — how AI is being used in chipmaking, from EDA tools to OpenAI's Jalapeño and beyond
+https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-starting-to-design-silicon-how-ai-is-being-used-in-chipmaking-from-eda-tools-to-openais-jalapeno-and-beyond
+4. 【数据中心】 Intel's next-gen Nova Lake platforms pass compliance at USB and PCIe standards bodies as launch looms
+https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-platforms-pass-compliance-at-pci-sig-usb-if-as-launch-looms
+5. 【其他】 AMD drops an EPYC $15,000, 256-core beast
+https://www.tomshardware.com/pc-components/cpus/amd-drops-an-epyc-usd15-000-256-core-bomb-epyc-9006-zen-6-venice-cpus-get-full-spec-and-pricing-treatment-from-usd700-up-to-usd14-904
+6. 【终端/边缘】 Grab this 4K-ready gaming PC with a 7800X3D and RTX 5070 for under $2,000 right now, saving you $170
+https://www.tomshardware.com/pc-components/grab-this-4k-ready-gaming-pc-with-a-7800x3d-and-rtx-5070-for-under-usd2-000-right-now-saving-you-usd170-cyberpowerpc-machine-ships-with-32gb-ddr5-and-a-1tb-ssd-ready-for-high-performance-gameplay
+
+🇨🇳 中国
+1. 【其他】 银行高管被 Deepfake 语音骗走 1 亿美元
+https://www.solidot.org/story?sid=85506
+2. 【其他】 美光台工厂工会准备罢工
+https://www.solidot.org/story?sid=85505
+3. 【机器人】 1000台售罄后又被做成"韩立同款"，元点机器人如何把具身智能做进家庭？
+https://www.leiphone.com/category/industrynews/yR9rN5kyqx3kypzz.html
+4. 【其他】 北京现代新车上市，限时售价9.99万元起
+https://www.leiphone.com/category/transportation/0XlhPKEoStqaW3Ig.html
+5. 【其他】 从 App 到服务，腾讯 Marvis 为什么认准「管家」
+https://www.leiphone.com/category/industrynews/D0f2E1vxteSIbZVF.html
+6. 【其他】 比预售再降2万，第二代家庭旗舰奕境X9正式上市，限时优惠价27.98万元起
+https://www.leiphone.com/category/industrynews/qkE0oirHeUJTchON.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
