@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-01（抓取 2026-09-30）
+
+🌍 全球
+1. 【其他】 Save 60% on your first month of Meshy 7 AI — streamline your 3D printing workflow for less
+https://www.tomshardware.com/3d-printing/save-60-percent-on-your-first-month-of-meshy-7-ai-streamline-your-3d-printing-workflow-for-less
+2. 【其他】 Anthropic claims popular Chinese AI model has Mythos-class hacking abilities
+https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai
+3. 【其他】 Meta's Muse AI agent accused of ignoring user permissions and accessing forbidden personal user data
+https://www.tomshardware.com/tech-industry/artificial-intelligence/metas-muse-ai-agent-accused-of-accessing-sensitive-user-data-on-iphone-and-mac-without-permission-agent-shocks-reporter-by-referring-to-confidential-messages-it-wasnt-granted-access-to
+4. 【其他】 iBuyPower Slate Gaming Desktop review: Strong gaming value and extras
+https://www.tomshardware.com/desktops/gaming-pcs/ibuypower-slate-gaming-desktop-review
+5. 【其他】 Florida attorney general asks judge to bar OpenAI from developing new AI models without third-party approval
+https://www.tomshardware.com/tech-industry/artificial-intelligence/florida-attorney-general-asks-judge-to-bar-openai-from-developing-new-ai-models-without-third-party-approval-openai-says-it-already-paused-training-its-most-capable-models-last-week
+6. 【其他】 Trump tells federal agencies to use the term 'Super Intelligence ' instead of artificial intelligence
+https://www.tomshardware.com/tech-industry/policy/trump-tells-federal-agencies-to-use-the-term-super-intelligence-instead-of-artificial-intelligence-president-insists-that-ai-is-only-suffering-from-a-branding-problem
+
+🇨🇳 中国
+1. 【其他】 海盗船《英雄联盟》选手 Gumayusi 联名键鼠发售，1749 / 1549 元
+https://www.ithome.com/1/008/945.htm
+2. 【其他】 微软 Win11 27H2 前瞻：预计将基于全新 Strontium 平台，Win12 仍难现身
+https://www.ithome.com/1/008/943.htm
+3. 【其他】 美国外卖平台 DoorDash 将在加州北部推出无人机送餐服务，最快 5 分钟送达
+https://www.ithome.com/1/008/942.htm
+4. 【其他】 CNNIC 称中国生成式 AI 用户超 7 亿
+https://www.solidot.org/story?sid=85519
+5. 【其他】 Glow Security：AI 智能体无意间泄露企业敏感信息，超 1.3 万张截图被放在 GitHub 公开仓库
+https://www.ithome.com/1/008/938.htm
+6. 【数据中心】 美国佛蒙特州通过家庭电池储能网络应对气候变化
+https://www.solidot.org/story?sid=85517
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
