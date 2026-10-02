@@ -1,0 +1,32 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-02（抓取 2026-10-01）
+
+🌍 全球
+1. 【终端/边缘】 First Intel Panther Lake mini PC cooled with solid-state AirJet tech operates at less than 21 dBA
+https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals
+2. 【其他】 NYC is now the first city in America that bans sketchy subscriptions
+https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule
+3. 【其他】 Nvidia launches Open Agent Safety Platform to physically restrain rogue AI agents
+https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds
+4. 【芯片/算力】 AI's chipmaking frontier may face patent infringement hurdles as autonomous tools take over
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ais-chipmaking-frontier-may-face-patent-infringement-hurdles-as-autonomous-tools-take-over-ai-can-spread-a-copied-design-or-infringed-patent-across-thousands-of-chips-before-anyone-notices-says-expert
+5. 【其他】 DeepSeek and Huawei release open-source Ascend AI programming tools to reduce reliance on Nvidia ecosystem
+https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-and-huawei-release-open-source-ascend-ai-programming-tools-to-reduce-reliance-on-nvidia-ecosystem-tools-include-compute-and-communication-libraries-as-well-as-ascend-support-for-tilelang
+6. 【终端/边缘】 Maingear’s new program offers instant trade-ins for gaming PC buyers
+https://www.tomshardware.com/desktops/gaming-pcs/maingears-new-program-offers-instant-trade-ins-for-gaming-pc-buyers-delivers-quotes-for-old-laptops-phones-tablets-smartwatches-headphones-cameras-lenses-and-microphones-in-minutes
+
+🇨🇳 中国
+1. 【其他】 英伟达为 GTX 700-10 系显卡发布 582.78 安全更新，修复 114 个漏洞
+https://www.ithome.com/1/009/169.htm
+2. 【数据中心】 Epic 喜加二：《网络奇兵 2：25 周年纪念版重制版》《深埋之星》游戏免费领取
+https://www.ithome.com/1/009/167.htm
+3. 【其他】 华为 Pura 70 Pro / Pro+ / Ultra 获 HarmonyOS 7.0.0.109SP8 升级，文本通话支持声音修复等功能
+https://www.ithome.com/1/009/166.htm
+4. 【其他】 奇安信盘古石取证宣布适配 Android 17：支持微信已删除多媒体碎片重组
+https://www.ithome.com/1/009/165.htm
+5. 【其他】 余承东宣布华为移动影像升级，华为睿影 XMAGE 正式发布
+https://www.ithome.com/1/009/163.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
