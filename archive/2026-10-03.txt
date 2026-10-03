@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-03（抓取 2026-10-02）
+
+🌍 全球
+1. 【其他】 Dots get up in Muse’s business
+https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast
+2. 【芯片/算力】 Leaked Intel Nova Lake product list has three 'BFC' chips with up to 144MB of game-boosting L3 cache
+https://www.tomshardware.com/pc-components/cpus/rumored-intel-nova-lake-table-lists-three-bfc-chips-with-up-to-144mb-of-l3-next-gen-cpu-lineup-takes-shape-with-up-to-28-cores-in-core-ultra-9-4970k-bfc
+3. 【数据中心】 California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China
+https://www.tomshardware.com/tech-industry/artificial-intelligence/california-tech-ceo-arrested-faces-up-to-20-years-in-prison-for-smuggling-usd300-million-in-nvidia-ai-servers-to-china-federal-prosecutors-say-chips-were-routed-through-malaysia-and-singapore-using-false-paperwork
+4. 【其他】 Sony brings AI-powered upscaling to the standard PS5
+https://www.tomshardware.com/video-games/console-gaming/sony-brings-ai-powered-upscaling-to-the-standard-ps5-new-qssr-technology-to-deliver-a-taste-of-the-ps5-pro-experience-streamlined-neural-network-tech-built-with-amd
+5. 【芯片/算力】 Amazon and Synopsys ink multi-year billion-dollar deal in multi-year IP agreement to accelerate AI chip design efforts
+https://www.tomshardware.com/tech-industry/amazon-and-synopsys-ink-multi-year-billion-dollar-deal-in-multi-year-ip-agreement-to-accelerate-ai-chip-design-efforts-synopsys-to-adopt-amazon-bedrock-to-deploy-ai-agents-harnessing-aws-compute-and-storage-capabilities
+6. 【其他】 Flock drones with cameras deployed as first responders in some US cities amid privacy concerns
+https://www.tomshardware.com/tech-industry/drones/flock-drones-with-cameras-deployed-as-first-responders-in-some-us-cities-amid-privacy-concerns-uavs-connect-to-wider-emergency-services-system-and-streams-video-to-dispatchers-officers
+
+🇨🇳 中国
+1. 【其他】 AMD“锐龙 9 5900X3D”处理器工程样品现身，配备 32MB + 96MB L3 缓存
+https://www.ithome.com/1/009/372.htm
+2. 【其他】 焕新极氪 001 配色上新：推出哑光岩灰车色、冰川灰内饰
+https://www.ithome.com/1/009/371.htm
+3. 【其他】 Meta 预热雷朋 Display 眼镜 2026 年下半年大型更新：改进导航功能、支持控制通知推送、Hologram 虚拟化身...
+https://www.ithome.com/1/009/365.htm
+4. 【其他】 焕新极氪 007GT 色彩上新：推出“河谷绿”车色、“墨绿”内饰
+https://www.ithome.com/1/009/364.htm
+5. 【其他】 Meta 旗下 AI 智能体 Muse 将登陆智能眼镜平台，可代用户完成各种任务
+https://www.ithome.com/1/009/363.htm
+6. 【其他】 B 站 App 上架鸿蒙手表端应用市场：用户可在华为 WATCH 系列手表上自由看视频、刷弹幕
+https://www.ithome.com/1/009/362.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
