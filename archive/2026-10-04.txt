@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-04（抓取 2026-10-03）
+
+🌍 全球
+1. 【其他】 Splice CEO Kakul Srivastava thinks AI emails are killing conversations
+https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview
+2. 【芯片/算力】 Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration
+https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai
+3. 【其他】 An OpenAI safety employee has quit and is sounding the alarm
+https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm
+4. 【其他】 This week on Tom's Hardware Premium: October 3, 2026
+https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety
+5. 【其他】 AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x
+https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen
+6. 【其他】 Google freezes open-source bug bounty program amid flood of invalid AI slop submissions
+https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1
+
+🇨🇳 中国
+1. 【其他】 泰坦军团“P2511G+”24.5 英寸显示器发售：1080P 215Hz 超频，509 元
+https://www.ithome.com/1/009/578.htm
+2. 【其他】 海马云推出 haimacloud GEAR 端云混合掌机：高通骁龙 865，硬件首发价 3149 元
+https://www.ithome.com/1/009/576.htm
+3. 【其他】 余承东：华为星河通信团队驾驶享界 G9 实测独库公路，98.7% 路段信号都很好
+https://www.ithome.com/1/009/575.htm
+4. 【其他】 铭凡 MS-01 SE 迷你工作站上市，12600H + 32GB + 1TB 到手 6399 元
+https://www.ithome.com/1/009/574.htm
+5. 【其他】 华硕 a 豆 × WIGGLE WIGGLE 联名多彩外设发售，单品 69 元起
+https://www.ithome.com/1/009/572.htm
+6. 【数据中心】 铭凡 PCIe 扩展卡 ESP4B 上市，可提供 4 个 M.2 与 4 个 SATA 接口
+https://www.ithome.com/1/009/571.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
