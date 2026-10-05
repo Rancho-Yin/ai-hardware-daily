@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-05（抓取 2026-10-04）
+
+🌍 全球
+1. 【其他】 An AI couldn’t beat humans at StarCraft, so it decided to cheat
+https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft
+2. 【其他】 Modder 'fixes' melting RTX 5090 power connectors with custom distributor
+https://www.tomshardware.com/pc-components/gpus/modder-fixes-melting-rtx-5090-power-connectors-with-custom-distributor-dual-8-pin-mod-peaks-at-just-40c-during-a-48-hour-550w-stress-test
+3. 【机器人】 Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order
+https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids
+4. 【芯片/算力】 Modder brings Nvidia Pascal GPU support to Windows XP 32-bit
+https://www.tomshardware.com/pc-components/gpu-drivers/modder-brings-nvidia-pascal-gpu-support-to-windows-xp-32-bit-modded-drivers-unlock-better-displayport-and-hdmi-support-for-modern-monitors
+5. 【其他】 Database expert runs Doom in SQL with just 5,900 lines of code
+https://www.tomshardware.com/video-games/pc-gaming/database-expert-runs-doom-in-sql-with-just-5-900-lines-of-code-1-300-line-graphical-renderer-spans-89-different-tables-full-featured-sqldoom-is-the-sequel-to-embryonic-doomql
+6. 【其他】 US Army unit deploys drone assembled completely in-house, uses 3D-printed 'Dragoon Bombs' with ball bearing shrapnel
+https://www.tomshardware.com/tech-industry/drones/us-army-unit-deploys-drone-assembled-completely-in-house-uses-3d-printed-dragoon-bombs-with-ball-bearing-shrapnel-device-has-a-range-of-up-to-12-miles-and-can-be-configured-for-anti-personnel-and-anti-light-armor-missions
+
+🇨🇳 中国
+1. 【机器人】 机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动
+https://www.ithome.com/1/009/736.htm
+2. 【数据中心】 消息称微软为 20 多个数据中心建设项目引入“仿生”计划：修复湿地生态、种植本土植物以降低环境影响
+https://www.ithome.com/1/009/734.htm
+3. 【其他】 时隔九年重返内地大银幕，《生化危机：爆发夜》游改真人电影明日上映
+https://www.ithome.com/1/009/732.htm
+4. 【其他】 央视曝光车辆“ETC 异常”短信骗局：系不法分子钓鱼陷阱
+https://www.ithome.com/1/009/730.htm
+5. 【其他】 荣耀平板 X10 Mini 上架：9.7 英寸护眼屏，10 月 23 日发售
+https://www.ithome.com/1/009/729.htm
+6. 【其他】 乐山大佛景区回应网传“掏耳朵”养护作业视频：系 AI 合成，佛耳内并无所谓“杂物”
+https://www.ithome.com/1/009/728.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
