@@ -1,0 +1,26 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-06（抓取 2026-10-05）
+
+🌍 全球
+1. 【其他】 Intel's Googlebooks might not run some Android apps as well as Qualcomm's
+https://www.tomshardware.com/laptops/ultrabooks-ultraportables/intels-googlebooks-might-not-run-some-android-apps-as-well-as-qualcomms-google-says-this-is-because-android-apps-were-designed-for-arm-chips
+2. 【其他】 AMD attempts to get ahead of expected RTX Spark launch with Gorgon Halo benchmarks
+https://www.tomshardware.com/pc-components/cpus/amd-attempts-to-get-ahead-of-expected-rtx-spark-launch-with-gorgon-halo-ai-benchmarks-company-says-it-has-shipped-over-half-a-million-agentic-pcs-to-date
+3. 【其他】 Take $40 off the blistering Ryzen 7 9800X3D and get two freebies
+https://www.tomshardware.com/pc-components/take-usd40-off-the-blistering-ryzen-7-9800x3d-and-get-two-freebies-just-usd429-buys-one-of-the-fastest-gaming-processors-around-with-a-free-msi-240mm-aio-and-a-game
+4. 【芯片/算力】 Tencent scores 100,000 offshore AI chip deal with Oracle for $7 billion despite climbing prices
+https://www.tomshardware.com/tech-industry/data-centers/tencent-scores-100-000-offshore-ai-chip-deal-with-oracle-for-usd7-billion-despite-climbing-prices-per-hour-costs-estimated-to-be-43-percent-under-standard-h100-rental-rates
+5. 【其他】 Modder brings original Xbox emulation to jailbroken PS5
+https://www.tomshardware.com/video-games/playstation/modder-brings-original-xbox-emulation-to-jailbroken-ps5-xpsemu-plays-halo-2-and-forza-as-ps5-emulators-outnumber-its-15-exclusives
+6. 【终端/边缘】 Amazon ends secret data center pacts and pledges $1 billion to host towns
+https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-ends-secret-data-center-pacts-and-pledges-usd1-billion-to-host-towns-aws-promises-30-000-home-efficiency-retrofits-amid-100-proposed-bans
+
+🇨🇳 中国
+1. 【其他】 因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划
+https://www.solidot.org/story?sid=85538
+2. 【机器人】 AI 聊天机器人会成为意识形态回音室
+https://www.solidot.org/story?sid=85534
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
