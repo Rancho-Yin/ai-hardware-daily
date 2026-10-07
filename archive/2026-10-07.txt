@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-07（抓取 2026-10-06）
+
+🌍 全球
+1. 【其他】 Intel's Core Ultra 5 250K Plus is down to its lowest price ever at $145
+https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-250k-plus-falls-to-its-lowest-price-ever-at-usd145-grab-an-18-core-midrange-cpu-with-5-3-ghz-boost-at-an-entry-level-price
+2. 【其他】 Buy an Nvidia RTX 5070 Ti 16GB for only $1099
+https://www.tomshardware.com/pc-components/buy-an-nvidia-rtx-5070-ti-16gb-for-only-usd1099-extra-discount-on-newegg-drops-the-price-on-the-triple-fan-gigabyte-windforce-to-the-lowest-price-weve-seen-in-months
+3. 【其他】 AMD's Radeon RX 9070 GRE graphics card crashes to $529, below original MSRP
+https://www.tomshardware.com/pc-components/gpus/amds-radeon-rx-9070-gre-graphics-card-crashes-below-original-msrp-at-usd529-the-best-value-12gb-gpu-is-a-hot-deal
+4. 【其他】 Gigaphoton debuts neon recycling system with claimed 50% recovery rate
+https://www.tomshardware.com/tech-industry/gigaphoton-debuts-neon-recycling-system-with-claimed-50-percent-recovery-rate-systems-throw-a-lifeline-to-chipmakers-that-utilize-70-percent-of-global-neon-supply-in-duv-lithography
+5. 【芯片/算力】 EV charging company plans to deploy 100,000 Nvidia GPUs in pods at its roadside sites across the US
+https://www.tomshardware.com/tech-industry/data-centers/ev-charging-company-plans-to-deploy-100-000-nvidia-gpus-in-pods-at-its-roadside-sites-across-the-us-aims-to-offer-worlds-first-edge-inference-compute-network-using-idle-ev-charging-capacity
+6. 【其他】 OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/
+
+🇨🇳 中国
+1. 【其他】 《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线
+https://www.ithome.com/1/010/123.htm
+2. 【芯片/算力】 AMD 股价创历史新高！CEO 苏姿丰称 AI 芯片需求非常旺盛，将持续大幅扩产
+https://www.ithome.com/1/010/114.htm
+3. 【其他】 日本半导体光刻设备制造商 Gigaphoton 推出 hTGM 新型氖气回收系统，号称回收率达 50%
+https://www.ithome.com/1/010/110.htm
+4. 【其他】 距 6 万亿美元仅一步之遥！英伟达市值达 5.8 万亿美元，创历史新高
+https://www.ithome.com/1/010/109.htm
+5. 【其他】 宣称“欧美最强开源模型”：Mistral AI 发布 Mistral Large 4 公开预览版，月底开放权重
+https://www.ithome.com/1/010/108.htm
+6. 【其他】 杨利伟：中国空间站将成全球开放实验平台，下半年迎来首批外籍航天员
+https://www.ithome.com/1/010/107.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
