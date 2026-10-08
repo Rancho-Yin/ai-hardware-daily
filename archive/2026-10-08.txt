@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-08（抓取 2026-10-07）
+
+🌍 全球
+1. 【芯片/算力】 Musk rejects rumors of TSMC takeover of Terafab — Intel reaffirms 14A node deal as Musk floats cleanroom 'sublease'
+https://www.tomshardware.com/tech-industry/semiconductors/musk-rejects-rumors-of-tsmc-takeover-of-terafab-intel-reaffirms-14a-node-deal-as-musk-floats-cleanroom-sublease
+2. 【终端/边缘】 Why I upgraded to a 4K OLED PC gaming monitor
+https://www.tomshardware.com/monitors/gaming-monitors/why-i-upgraded-to-a-4k-oled-pc-gaming-monitor-and-why-you-should-or-shouldnt
+3. 【其他】 Seagate and Toshiba battle for TDK's HDD head business, a critical hard drive component
+https://www.tomshardware.com/pc-components/hdds/seagate-and-toshiba-battle-for-tdks-hdd-head-business-a-critical-hard-drive-component-multi-billion-dollar-deal-threatens-sole-independent-supplier-as-shortages-intensify
+4. 【芯片/算力】 Qualcomm will license patents behind Huawei’s LogicFolding chip architecture, report says
+https://www.tomshardware.com/tech-industry/semiconductors/qualcomm-will-license-patents-behind-huaweis-logicfolding-chip-architecture-report-says-the-kirin-9050-pro-already-uses-it-with-a-teardown-showing-its-lower-die-is-mostly-cache-and-i-o
+5. 【终端/边缘】 13 tech bargains for only $13 or less to upgrade your desktop PC setup
+https://www.tomshardware.com/gift-guides-seasonal-sales/13-tech-bargains-for-only-usd13-or-less-to-upgrade-your-desktop-pc-setup-add-connectivity-spruce-up-your-pc-or-clear-space-on-your-desk
+6. 【其他】 AI agent fleet likely from Chinese firm Tencent pulled data from rival Alibaba’s maps, researchers say
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-fleet-likely-from-chinese-firm-tencent-pulled-data-from-rival-alibabas-maps-researchers-say-1-810-scans-in-one-day-some-runs-labeled-themselves-claude
+
+🇨🇳 中国
+1. 【其他】 《碳硅道统·跨域迁移治理法典》188集 总纲摘要
+https://www.leiphone.com/category/industrynews/NWhDqDo0wpZbKRgp.html
+2. 【其他】 碳硅道统·跨域迁移治理法典
+https://www.leiphone.com/category/industrynews/XNaGx6kCv9dNhtKY.html
+3. 【其他】 碳硅道统《AI安全与文明治理法典》第189集｜全法典总目录索引终卷
+https://www.leiphone.com/category/industrynews/SCYRWOQSLbEpAnGs.html
+4. 【其他】 碳硅道统《AI安全与文明治理法典》188集 · 七层体系目录
+https://www.leiphone.com/category/industrynews/zjq0L18W5NV7Y49M.html
+5. 【其他】 Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司
+https://www.leiphone.com/category/industrynews/ZKXlV8iIwXaBOpzO.html
+6. 【其他】 蚂蚁阿福“科学减重1亿斤”迎来“退展”：中秋国庆假期全国60万网友胖了100万斤
+https://www.leiphone.com/category/industrynews/7kLgFJjmaGU8YuBW.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
