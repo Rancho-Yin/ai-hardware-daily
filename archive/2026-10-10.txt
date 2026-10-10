@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-10（抓取 2026-10-09）
+
+🌍 全球
+1. 【其他】 Gigabyte's latest BIOS update hints at Intel's Raptor Lake Next Launch in 2027
+https://www.tomshardware.com/pc-components/cpus/gigabytes-latest-bios-update-hints-at-intels-raptor-lake-next-launch-in-2027-new-cpus-may-support-both-ddr4-and-ddr5-memory
+2. 【芯片/算力】 PC shipments tumble over 20% in 3Q26 as chip shortages bite
+https://www.tomshardware.com/tech-industry/pc-shipments-tumble-over-20-percent-in-3q26-as-chip-shortages-bite-top-three-pc-vendors-ship-11-6-million-fewer-units-year-over-year
+3. 【其他】 Mistral’s new Large 4 trails some Chinese open models in independent tests
+https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-tests-rank-mistrals-new-trillion-parameter-large-4-the-best-ai-model-outside-the-u-s-and-china-but-chinese-open-weights-still-overcome-europes-best-efforts
+4. 【其他】 Save $200 on the 2026 M5 MacBook Air right now, undoing Apple's June price hike with prices starting from $1,099
+https://www.tomshardware.com/laptops/macbooks/save-usd200-on-the-2026-m5-macbook-air-right-now-undoing-apples-june-price-hike-with-prices-starting-from-usd1-099-amazon-deal-nets-you-current-gen-models-with-16gb-or-24gb-ram-and-up-to-1tb-storage
+5. 【其他】 Kioxia unveils E1.L SSDs for hyperscalers with up to 122.88TB capacity
+https://www.tomshardware.com/pc-components/ssds/kioxia-unveils-e1-l-ssds-for-hyperscalers-with-up-to-122-88tb-capacity-extreme-density-meets-compact-form-factor
+6. 【其他】 Arc Raiders publisher developing AI anti-cheat stack in escalating war with cheaters
+https://www.tomshardware.com/video-games/pc-gaming/arc-raiders-developer-uses-ai-to-detect-cheating-embark-cracks-down-on-cheaters-deploys-harsh-penalties-including-permaban-on-first-time-offenders
+
+🇨🇳 中国
+1. 【其他】 人类愿意向女性形象的 AI 智能体支付的报酬低于男性形象智能体
+https://www.solidot.org/story?sid=85566
+2. 【其他】 当年「字节投毒实习生」田柯宇，估值 2 亿美元，要挑战李飞飞做世界模型
+https://www.leiphone.com/category/yanxishe/BfzpShx7bKSPT4Ul.html
+3. 【芯片/算力】 做了八年DSP，Credo怎么突然开始做光芯片了？
+https://www.leiphone.com/category/chips/iJYPlZXgggbJ74ZB.html
+4. 【其他】 SpaceX 呼吁在轨卫星加强协调
+https://www.solidot.org/story?sid=85560
+5. 【其他】 再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6
+https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html
+6. 【其他】 法典终局锁档层｜体系自洽与范式边界的闭环校验
+https://www.leiphone.com/category/industrynews/wA8jx0ARGdT19yrC.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
