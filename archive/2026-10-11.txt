@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-11（抓取 2026-10-10）
+
+🌍 全球
+1. 【其他】 SoftBank seeks $100 billion for AI-refined projects from Middle Eastern investors
+https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-seeks-usd100-billion-for-ai-refined-projects-from-middle-eastern-investors-fund-would-be-used-to-acquire-companies-and-improve-their-operations-using-artificial-intelligence-and-robotics
+2. 【芯片/算力】 Super Micro smuggling co-conspirator pleads guilty to sending AI chips to China
+https://www.tomshardware.com/tech-industry/artificial-intelligence/super-micro-smuggling-co-conspirator-pleads-guilty-to-sending-ai-chips-to-china-broker-admits-breaking-export-control-rules-as-company-co-founder-denies-charges
+3. 【其他】 This week on Tom's Hardware Premium: October 10, 2026
+https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-10-2026-tencent-grabs-bargain-chips-qualcomm-huawei-ip-deal-groq-lawsuit-and-more
+4. 【其他】 Anthropic is cutting off its internal evaluations from the internet
+https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet
+5. 【其他】 Senate investigation says that some AI data center claims are misleading
+https://www.tomshardware.com/tech-industry/data-centers/senate-investigation-says-that-some-ai-data-center-claims-are-misleading-senators-question-number-of-permanent-jobs-projects-bring-to-communities-but-companies-refuse-to-divulge-data
+6. 【终端/边缘】 We tested gaming performance in 17-year-old Windows 7 on a modern gaming PC against Windows 11
+https://www.tomshardware.com/software/windows/we-tested-gaming-performance-in-17-year-old-windows-7-against-windows-11-on-a-modern-gaming-pc-older-operating-system-delivers-advantages-in-some-scenarios
+
+🇨🇳 中国
+1. 【其他】 第二款三方品牌星闪耳机将至：漫步者 Lolli Spark 通过 OpenHarmony 认证
+https://www.ithome.com/1/011/538.htm
+2. 【其他】 华为鸿蒙星河互联与 Apple Watch 互联适配机型公布，首批含 Pura X View、Mate 90 系列等
+https://www.ithome.com/1/011/537.htm
+3. 【其他】 阻击安森美，Cirrus Logic 抢购 Synaptics
+https://www.ithome.com/1/011/536.htm
+4. 【其他】 阿维塔 T09 概念版汽车更多亮点公布：全新水晶立标、晶钻阵列大灯，10 月 11 日全球首秀
+https://www.ithome.com/1/011/535.htm
+5. 【其他】 华为神秘小屏新机首曝，消息称有一块 6.17 英寸 1.5K 小直屏开案中
+https://www.ithome.com/1/011/533.htm
+6. 【其他】 2026 款理想 i6 六大升级公布：电动前备箱、96 千瓦时自研大电池等
+https://www.ithome.com/1/011/532.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
