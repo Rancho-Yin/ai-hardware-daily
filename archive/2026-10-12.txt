@@ -1,0 +1,28 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-12（抓取 2026-10-11）
+
+🌍 全球
+1. 【数据中心】 NASA dumped over 800GB of Artemis II data online
+https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data
+2. 【芯片/算力】 Modder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot
+https://www.tomshardware.com/pc-components/gpus/modder-discovers-that-putting-a-gpu-in-the-wrong-place-can-deliver-a-19-degree-cooler-hotspot-breaking-convention-can-produce-great-results-despite-decades-of-pc-diy-evolution
+3. 【其他】 Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers
+https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers
+4. 【其他】 Sandisk NAS 800 1.92TB SSD Review: Endurance at a premium
+https://www.tomshardware.com/pc-components/ssds/sandisk-nas-800-1-92tb-ssd-review
+5. 【其他】 Vurt wants you to look at vertical videos as a genre of their own
+https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey
+6. 【其他】 Two Steam games generated $560,000 across 135,000 sales, but the co-creator only took home $15,000 annually
+https://www.tomshardware.com/video-games/pc-gaming/two-steam-games-generated-usd560-000-across-135-000-sales-but-the-co-creator-only-took-home-usd15-000-annually-high-chinese-refund-rates-steams-30-percent-fee-and-publisher-cuts-eat-most-of-the-profit-leaving-the-co-creator-driving-a-2012-mazda
+
+🇨🇳 中国
+1. 【其他】 英国水果蔬菜营养价值下降最高五成
+https://www.solidot.org/story?sid=85580
+2. 【其他】 LineageOS 24 释出
+https://www.solidot.org/story?sid=85579
+3. 【其他】 《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售
+https://www.solidot.org/story?sid=85578
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
