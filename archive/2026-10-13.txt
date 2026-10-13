@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-13（抓取 2026-10-12）
+
+🌍 全球
+1. 【其他】 The Yandex outage probably didn’t blitz Russian bots
+https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk
+2. 【芯片/算力】 Meet the modders porting ringfenced DLSS features to older GPUs
+https://www.tomshardware.com/pc-components/gpus/meet-the-modders-porting-ringfenced-dlss-features-to-older-gpus-how-dlss-5-and-multi-frame-generation-were-unlocked-for-older-architectures
+3. 【其他】 Developer uses Claude to enable Xbox Cloud Gaming on jailbroken PS5s
+https://www.tomshardware.com/video-games/console-gaming/xbox-cloud-gaming-is-now-available-on-jailbroken-ps5s-allows-upscaling-to-4k-using-the-ps5-gpu
+4. 【其他】 No Man’s Sky is coming to the iPhone and iPad
+https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date
+5. 【其他】 Intel to phase out SGX after Xeon Diamond Rapids in favor of TDX
+https://www.tomshardware.com/pc-components/cpus/intel-to-phase-out-sgx-after-xeon-diamond-rapids-in-favor-of-tdx-confidential-computing-pivot-adds-trusted-i-o-and-post-quantum-crypto-for-agentic-ai
+6. 【数据中心】 Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C
+https://www.tomshardware.com/pc-components/liquid-cooling/diamond-infused-watercooling-coldplates-for-2-300w-nvidia-rubin-drop-temps-by-up-to-22c-bespoke-frore-liquidjet-diamond-cooling-tames-770-w-cm2-hotspots
+
+🇨🇳 中国
+1. 【其他】 一加 16 产品力全面升级，打造史上最强「全能旗舰」
+https://www.leiphone.com/category/weiwu/vVFRSPSkndSb8SKf.html
+2. 【其他】 亚马逊放弃 Fire 品牌改为推出 Alexa 平板
+https://www.solidot.org/story?sid=85591
+3. 【其他】 诺贝尔经济学奖授予了两名美国经济学家
+https://www.solidot.org/story?sid=85590
+4. 【机器人】 产业出题，科技答题：2026 IEIC国际具身智能技能大赛，用真实岗位任务考核机器人落地能力
+https://www.leiphone.com/category/industrynews/ZFAMCctM7KUw5gr3.html
+5. 【其他】 AI 编程智能体生成了更多代码，但并没有生成更多软件
+https://www.solidot.org/story?sid=85589
+6. 【其他】 苹果交出第一份折叠作业，华为已经把答案写了八年
+https://www.leiphone.com/category/industrynews/PtbASm1JWY99NTou.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
