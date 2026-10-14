@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-14（抓取 2026-10-13）
+
+🌍 全球
+1. 【终端/边缘】 Framework Laptop 12 (Wildcat Lake) review: Growing up amid an unprecedented shortage
+https://www.tomshardware.com/laptops/framework-laptop-12-review-wildcat-lake
+2. 【芯片/算力】 Chinese AI companies buy 1 million Nvidia GPUs in a single year, report claims
+https://www.tomshardware.com/pc-components/gpus/chinese-ai-companies-buy-1-million-nvidia-gpus-in-a-single-year-report-claims-export-control-compliant-chips-flood-the-market-to-bridge-gap-in-compute-demand
+3. 【其他】 Anthropic warns of self-replicating AI worm threat that doesn't need data centers to self-improve and spread
+https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-of-self-replicating-ai-worm-threat-that-doesnt-need-data-centers-to-self-improve-and-spread-current-deployment-is-impractical-but-could-become-a-worry-as-tech-improves
+4. 【其他】 Hacker claims ‘123456’ password let them breach the Danish national registry, accessing 8.8 million records
+https://www.tomshardware.com/tech-industry/cyber-security/hacker-claims-123456-password-let-them-breach-the-danish-national-registry-accessing-8-8-million-records-it-and-data-services-company-with-weak-passwords-linked-source-of-the-hack
+5. 【其他】 Nvidia doubles DLSS 5 performance, reduces 4K VRAM usage by 20% with latest model
+https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-dlss-5-performance-reduces-4k-vram-usage-by-20-percent-with-latest-model-october-update-cuts-footprint-by-24-percent-to-roughly-118-million-parameters
+6. 【其他】 AI causes uproar in mathematics as experts warn against sharing research with LLMs after OpenAI shares 722 manuscripts and proofs
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-causes-uproar-in-mathematics-as-experts-warn-against-sharing-research-with-llms-after-openai-shares-722-manuscripts-and-proofs-professor-argues-that-the-field-must-focus-on-building-community-over-raw-solutions
+
+🇨🇳 中国
+1. 【其他】 ESA 想要将 voices38 列入恶名盗版市场名单
+https://www.solidot.org/story?sid=85600
+2. 【其他】 独家丨字节最早天使投资人，投了一家 AI 音乐硬件公司
+https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html
+3. 【其他】 黑客加热联网的超市冰箱，导致食物变质和设备起火
+https://www.solidot.org/story?sid=85593
+4. 【其他】 其域创新以 62 亿个高斯、150 亿个点云，建成全球最大的空地一体 3D 高斯模型“闽宁镇”
+https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html
+5. 【其他】 字节跳动 Seed 单独设立大模型安全与对齐部门
+https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html
+6. 【其他】 拓竹官宣首款3D扫描仪，进军个人制造全品类
+https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
