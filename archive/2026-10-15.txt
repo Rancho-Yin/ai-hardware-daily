@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-15（抓取 2026-10-14）
+
+🌍 全球
+1. 【其他】 Epic Games vibe codes new launcher because 'programming is hard,' claims it starts 46% faster than Steam
+https://www.tomshardware.com/video-games/pc-gaming/epic-games-vibe-codes-new-launcher-because-programming-is-hard-starts-46-percent-faster-than-steam-preview-is-available-now-but-not-recommended-for-competitive-players
+2. 【终端/边缘】 FBI shuts down over 40 North Korean laptop farms used by fake remote workers
+https://www.tomshardware.com/tech-industry/cyber-security/fbi-shuts-down-over-40-north-korean-laptop-farms-used-by-fake-remote-workers-over-200-devices-seized-in-texas-although-no-arrests-were-made-so-far
+3. 【其他】 SK hynix to place custom tiny CPU cores in its SSD controllers to ease Arm load as drive speeds rocket
+https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power
+4. 【其他】 PS5 homebrew storefront with over 1,600 free PS5 and PS4 games taken down by Sony
+https://www.tomshardware.com/video-games/playstation/ps5-homebrew-storefront-with-over-1-600-free-ps5-and-ps4-games-taken-down-by-sony-company-plays-piracy-whack-a-mole-as-two-further-repos-spring-up
+5. 【其他】 SpaceX limits Starlink service for Ukraine’s high-speed military drones without prior warning
+https://www.tomshardware.com/tech-industry/drones/spacex-limits-starlink-service-for-ukraines-high-speed-military-drones-without-prior-warning-ukrainian-officials-say-limitation-significantly-complicates-logistics-and-drone-operations
+6. 【其他】 Anthropic warns small AI models could self-replicate through IoT devices
+https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/
+
+🇨🇳 中国
+1. 【芯片/算力】 茶百道涉IPO欺诈，被暂停交易；字节Seed单独设立大模型安全与对齐部门；华为披露下一代麒麟芯片进展，已进入测试阶段丨雷峰早报
+https://www.leiphone.com/category/zaobao/CKsYHgrcdIkO3hvO.html
+2. 【其他】 消息称 Steam Frame OLED 头显正在开发：代号 Plano，单眼原生分辨率 3552*3840
+https://www.ithome.com/1/013/133.htm
+3. 【其他】 男子发布 AI 视频造谣问界，赛力斯起诉索赔百万元
+https://www.ithome.com/1/013/132.htm
+4. 【其他】 Linus Torvalds 用 LLM 辅助开发的补丁递交接受审查
+https://www.solidot.org/story?sid=85612
+5. 【其他】 英特尔面向四至六代至强处理器推出推理微服务：自动检测硬件并配置 vLLM 参数
+https://www.ithome.com/1/013/130.htm
+6. 【其他】 IBM 与西门子合作推进纳米堆叠架构，加速 3D 晶体管量产进程
+https://www.ithome.com/1/013/129.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
