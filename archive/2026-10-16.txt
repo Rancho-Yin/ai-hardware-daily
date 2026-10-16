@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-16（抓取 2026-10-15）
+
+🌍 全球
+1. 【其他】 Nvidia RTX 5090 disappears from Micro Center amid rumors of a production halt
+https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-disappears-from-micro-center-amid-rumors-of-a-production-halt-retailer-flags-flagship-as-not-carried-as-stock-mysteriously-vanishes
+2. 【其他】 Sipeed reveals Chinese-made DGX Spark and Ryzen AI Halo rival, expected to cost $3,999
+https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims
+3. 【其他】 The internet isn’t the best place to find upgrades for your computer — brick-and-mortar stores still reign supreme thanks to bundled deals
+https://www.tomshardware.com/desktops/gaming-pcs/the-internet-isnt-the-best-place-for-finding-pc-components-to-upgrade-your-computer-brick-and-mortar-stores-still-reign-supreme-thanks-to-bundled-deals
+4. 【其他】 Malicious Russian disinformation bot traffic barely flinches after Ukraine strikes Yandex data centers and auto-migration kicks in
+https://www.tomshardware.com/service-providers/network-providers/malicious-russian-disinformation-bot-traffic-barely-flinches-after-ukraine-strikes-yandex-data-centers-and-auto-migration-kicks-in-cloudflare-tracks-170-million-automated-attacks-shifting-to-alternate-cloud-hosts
+5. 【芯片/算力】 We tested the RTX Spark Superchip in Microsoft's Surface Laptop Ultra
+https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit
+6. 【其他】 Save $249 on 32GB of DDR5 with this 3-item Newegg bundle
+https://www.tomshardware.com/pc-components/save-usd249-on-32gb-of-ddr5-with-this-3-item-newegg-bundle-score-32gb-of-g-skill-trident-z5-neox-ram-a-ryzen-7-9800x3d-and-an-msi-x870e-motherboard-for-only-usd1-094-99
+
+🇨🇳 中国
+1. 【终端/边缘】 特努斯谈早期折叠屏手机：感觉“有点廉价、质量也不怎么样”，苹果早在 2011 年就开始探索相关技术
+https://www.ithome.com/1/013/682.htm
+2. 【其他】 雷蛇梭鱼 V2 专业版耳机发布：285g 可折叠、70 小时续航，199.99 美元
+https://www.ithome.com/1/013/681.htm
+3. 【其他】 全球首家 AI 眼镜无人自助体验店登陆中国香港，乐奇 Rokid 打造
+https://www.ithome.com/1/013/680.htm
+4. 【其他】 美国科技巨头警告欧洲推行数据主权将带来逾千亿欧元的成本
+https://www.solidot.org/story?sid=85622
+5. 【终端/边缘】 微信、淘宝、美团等151款APP拒绝豆包手机助手GUI自动化代操作；对标字节红果，腾讯上线绿泡泡短剧；OpenAI 一工程师被捕，涉嫌窃听机密
+https://www.leiphone.com/category/zaobao/VMod1gHtw3lRoiXd.html
+6. 【其他】 真正的双11于10月20日天猫开卖，100万品牌参与创纪录
+https://www.leiphone.com/category/industrynews/XglZmCzDODLD4Ko5.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
