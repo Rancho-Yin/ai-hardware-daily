@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-17（抓取 2026-10-16）
+
+🌍 全球
+1. 【终端/边缘】 Nvidia RTX Spark devices are now officially on sale, secure the Surface Laptop Ultra or other RTX Spark laptops here
+https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models
+2. 【终端/边缘】 A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops
+https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions
+3. 【其他】 Gigabyte X870 Aorus Infinity Motherboard Review: limited-edition, designed for extreme overclocking, but pricey for X870
+https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870-aorus-infinity-motherboard-review
+4. 【终端/边缘】 Microsoft Surface Laptop Ultra review: RTX Spark in a straight-up beautiful Windows PC
+https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review
+5. 【芯片/算力】 Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain
+https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain
+6. 【其他】 Epic introduces an improved version of anti-cheat for Linux
+https://www.tomshardware.com/video-games/pc-gaming/epic-introduces-an-improved-version-of-anti-cheat-for-linux-eac-linux-v2-will-finally-allow-linux-gamers-to-play-fortnite
+
+🇨🇳 中国
+1. 【终端/边缘】 索尼拒将《GT 赛车》上架 Steam：第三方开发者将《GT Sport》移植到 PC，支持 FSR 3.1 与着色器预编译
+https://www.ithome.com/1/014/185.htm
+2. 【其他】 曝英特尔将推 8E + 4Xe 版 "Panther Lake" 锐炫 G 掌机处理器
+https://www.ithome.com/1/014/184.htm
+3. 【其他】 FADU 发布全球首款文件语义固态硬盘，支持加速器直接访问
+https://www.ithome.com/1/014/182.htm
+4. 【其他】 AOC 上架“AGP277QKM”27 英寸显示器：2K 425Hz QD-Mini LED、内置电源，3254 元
+https://www.ithome.com/1/014/180.htm
+5. 【其他】 优派推出 VX27G58-2K-9 显示器：27" QHD Fast IPS，超频 240Hz
+https://www.ithome.com/1/014/179.htm
+6. 【其他】 Linux 调频策略引发讨论：华为建议默认开启 CPU Boost，Arm 工程师提出异议
+https://www.ithome.com/1/014/175.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
