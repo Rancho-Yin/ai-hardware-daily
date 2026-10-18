@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-18（抓取 2026-10-17）
+
+🌍 全球
+1. 【其他】 HyperX Cloud Alpha Air Review: Open-back and budget-friendly
+https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-alpha-air-review
+2. 【其他】 Quad 8-pin mod protects the $8,500 RTX 5090 you can’t replace from melting
+https://www.tomshardware.com/pc-components/gpus/quad-8-pin-mod-protects-the-usd8-500-rtx-5090-you-cant-replace-from-melting-modders-custom-power-solution-claims-to-fix-nvidia-16-pin-gpu-meltdowns
+3. 【其他】 Meta removes language that may have allowed it to scrape news sites
+https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
+4. 【其他】 Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers
+https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon
+5. 【机器人】 AI lab offers free plumbing and HVAC repairs across three cities to train AI robots
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning
+6. 【其他】 Websites are closing their doors to AI agents
+https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
+
+🇨🇳 中国
+1. 【其他】 游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易
+https://www.solidot.org/story?sid=85638
+2. 【其他】 12.88 万元起，广汽埃安 Ray7 预售 2 小时订单达 6817 单
+https://www.ithome.com/1/014/410.htm
+3. 【其他】 网易《逆水寒：新世界》首个大型资料片【苗疆蛊事】官宣，首次采用双线更新框架
+https://www.ithome.com/1/014/409.htm
+4. 【其他】 12.88万起、华为电驱+L4同源智驾，Ray7能成为埃安年轻化的答卷吗？
+https://www.leiphone.com/category/transportation/F3nQwjeqDO0BtrQ0.html
+5. 【其他】 英伟达否认 RTX 5090 停产传闻，承认供应链产能受限
+https://www.ithome.com/1/014/407.htm
+6. 【其他】 倍思推出 2026 新国标 45W 自带双线移动电源：2C+1A+1Lightning，20000mAh 电芯售 171 元
+https://www.ithome.com/1/014/405.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
