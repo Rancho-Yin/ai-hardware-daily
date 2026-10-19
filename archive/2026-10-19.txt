@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-19（抓取 2026-10-18）
+
+🌍 全球
+1. 【其他】 Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport
+https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers
+2. 【芯片/算力】 Web-based chip fab engineering game goes viral in Taiwan
+https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players
+3. 【其他】 Official DLSS 5 running on unsupported games delivers up to 90% better performance than the leaked version
+https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster
+4. 【其他】 MIT engineers build soft 3D shape-sensing skin for gaming and VR
+https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error
+5. 【其他】 Typo-squatting attacks with major domains are still viable
+https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks
+6. 【机器人】 Cities want to put the boot on robotaxis
+https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws
+
+🇨🇳 中国
+1. 【其他】 首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴
+https://www.ithome.com/1/014/619.htm
+2. 【其他】 两部门：鼓励利用电影院空闲时段开展重大体育赛事直播
+https://www.ithome.com/1/014/616.htm
+3. 【芯片/算力】 索尼新专利曝光：AI 可在 GPU 渲染完成前预测下一帧画面，减少游戏卡顿
+https://www.ithome.com/1/014/615.htm
+4. 【其他】 1499 → 1146.8 元：华为 FreeClip 2 典藏版耳夹耳机京东国补新低
+https://www.ithome.com/1/014/614.htm
+5. 【芯片/算力】 三星将采用台积电 3nm 工艺为英伟达生产下一代 HBM 基底裸片
+https://www.ithome.com/1/014/612.htm
+6. 【其他】 古尔曼：苹果计划为 HomeView 智能家庭中枢配备电动机械臂，最早 2027 年推出
+https://www.ithome.com/1/014/611.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
