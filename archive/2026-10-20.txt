@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-20（抓取 2026-10-19）
+
+🌍 全球
+1. 【其他】 Amazon is funding a new nuclear plant in Indiana
+https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana
+2. 【其他】 A Chinese hacker used AI agents to break into more than 100 company websites
+https://www.tomshardware.com/tech-industry/artificial-intelligence/a-chinese-hacker-used-ai-agents-to-break-into-more-than-100-company-websites-deere-and-sharkninja-among-websites-hit-by-open-source-ai-powered-problem-solving-platform-demo
+3. 【其他】 Apple’s last-gen Mac Mini with the M4 is $150 off
+https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale
+4. 【其他】 JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes
+https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws
+5. 【其他】 Creality Pika 3D scanner review: Good things come in small packages
+https://www.tomshardware.com/3d-printing/3d-scanning/creality-pika-3d-scanner-review
+6. 【其他】 Claude Code AI agent caught a crypto miner hiding on a developer’s overheating Mac
+https://www.tomshardware.com/tech-industry/cryptomining/claude-code-ai-agent-caught-a-crypto-miner-hiding-on-a-developers-overheating-mac-xmrig-task-was-hogging-about-1175-percent-cpu-roughly-12-cores-pushing-temps-to-112-degrees
+
+🇨🇳 中国
+1. 【其他】 射频计算：探索智能边界｜CNCC 2026
+https://www.leiphone.com/category/private/7vTJq8gu376Dldil.html
+2. 【其他】 华中师大 CoReFuse-Med：先净化再融合，让低质模态不再拖后腿｜ACM MM 2026
+https://www.leiphone.com/category/private/QgMWStz8hCPsFf68.html
+3. 【其他】 平台做天使投资：速卖通把品牌争夺战，打到了品牌诞生前
+https://www.leiphone.com/category/industrynews/prCErk1x9AsQgxw1.html
+4. 【其他】 LinkedIn 清理其平台上的 AI slop
+https://www.solidot.org/story?sid=85650
+5. 【其他】 网站对 AI 智能体关上大门
+https://www.solidot.org/story?sid=85649
+6. 【其他】 陶哲轩谈数学的生存危机
+https://www.solidot.org/story?sid=85648
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
