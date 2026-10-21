@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-21（抓取 2026-10-20）
+
+🌍 全球
+1. 【其他】 Mysterious AMD Zen 6 APU with 24GB of LPDDR5 memory appears in benchmarks
+https://www.tomshardware.com/pc-components/cpus/mysterious-amd-zen-6-apu-with-24gb-of-lpddr5-memory-appears-in-benchmarks-chip-may-be-for-next-gen-steam-deck-or-gaming-handhelds
+2. 【其他】 U.S. Army developing program that would deploy AI agents to autonomously seek and destroy targets in enemy digital infrastructures
+https://www.tomshardware.com/tech-industry/artificial-intelligence/us-army-reportedly-developing-program-that-would-deploy-ai-agents-to-autonomously-seek-and-destroy-targets-in-enemy-digital-infrastructures-experts-warn-echotribble-program-could-have-disastrous-consequences
+3. 【其他】 US restarts three shut-down nuclear reactors to feed AI data centers
+https://www.tomshardware.com/tech-industry/big-tech/us-takes-unprecedented-step-of-recommissioning-nuclear-plants-due-to-ai-power-demand-2-25-gw-currently-on-tap-from-refurbished-reactors
+4. 【其他】 Oblivion gamer uses Claude AI to boost average FPS gains up to 48%, stutters slashed by 90%
+https://www.tomshardware.com/video-games/pc-gaming/oblivion-gamer-uses-claude-ai-to-boost-average-fps-gains-up-to-48-percent-stutters-slashed-by-90-percent-performance-mod-doesnt-change-game-assets-or-alter-visuals
+5. 【芯片/算力】 China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports
+https://www.tomshardware.com/pc-components/gpus/chinas-tech-giants-drop-usd35-billion-on-export-compliant-nvidia-rtx-pro-5500-workstation-gpu-orders-to-power-ai-ambitions-according-to-reports-bytedance-alibaba-and-tencent-order-3-million-cards-despite-warnings-that-only-10-percent-of-orders-are-fulfillable
+6. 【其他】 Modern software is built on the backs of low-paid maintainers, opening the door to potential threats
+https://www.tomshardware.com/tech-industry/cyber-security/modern-software-is-built-on-the-backs-of-low-paid-maintainers-opening-the-door-to-potential-threats-report-details-critically-underfunded-projects-that-remain-understaffed-or-unfunded
+
+🇨🇳 中国
+1. 【其他】 字节阿里腾讯订购了逾 350 亿美元的 RTX PRO 5500 显卡
+https://www.solidot.org/story?sid=85668
+2. 【其他】 AI slop 游戏充斥着 Steam 新品节
+https://www.solidot.org/story?sid=85667
+3. 【其他】 十分之一 Tor 出口节点被用于发动中间人攻击
+https://www.solidot.org/story?sid=85666
+4. 【其他】 OpenBSD 8.0 释出
+https://www.solidot.org/story?sid=85665
+5. 【其他】 停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票
+https://www.leiphone.com/category/zaobao/Y7039p8HsmmeQClm.html
+6. 【其他】 喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？
+https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
