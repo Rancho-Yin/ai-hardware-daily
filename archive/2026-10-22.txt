@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-22（抓取 2026-10-21）
+
+🌍 全球
+1. 【芯片/算力】 ASML and other critical semiconductor equipment suppliers expedite shipments to Musk's Terafab
+https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-asml-and-other-critical-semiconductor-equipment-suppliers-will-expedite-shipments-to-terafab-facility-targets-volume-chip-production-by-q3-q4-2028-in-highly-aspirational-timeline
+2. 【其他】 AMD brings official Ryzen overclocking to Linux with AOD driver support
+https://www.tomshardware.com/software/linux/amd-brings-official-ryzen-overclocking-to-linux-with-aod-driver-support-no-official-app-but-third-party-options-should-arrive-soon
+3. 【其他】 Trump announces mandate forcing AI data centers to pay energy dividends to the local community
+https://www.tomshardware.com/tech-industry/data-centers/trump-announces-mandate-for-data-centers-to-pay-dividends-to-the-local-community-hopes-to-win-more-data-center-supporters-through-dividend-scheme
+4. 【终端/边缘】 Qualcomm to cut jobs globally in "performance-based" layoffs, as company pivots to AI data center and edge computing markets
+https://www.tomshardware.com/tech-industry/big-tech/qualcomm-to-cut-jobs-globally-in-performance-based-layoffs-ceo-says-move-will-build-stronger-performance-culture-as-company-pivots-to-ai-data-center-and-edge-products
+5. 【其他】 FADU puts the filesystem inside the SSD's flash to bypass host CPUs
+https://www.tomshardware.com/pc-components/ssds/fadu-puts-the-filesystem-inside-the-ssds-flash-to-bypass-host-cpus-file-semantic-pcie-6-0-ssd-delivers-460-000-ops-s-to-gpus-and-dpus-samples-due-by-q3-2027
+6. 【其他】 AMD and Intel will work together to create a single PyTorch code path for AI inference on CPUs
+https://www.tomshardware.com/pc-components/cpus/amd-and-intel-will-work-together-to-create-a-single-pytorch-code-path-for-ai-inference-on-cpus-amd-zendnn-library-gets-folded-into-intel-onednn-to-make-cpu-ai-simpler
+
+🇨🇳 中国
+1. 【其他】 苹果公布 Apple Music 全新品牌标识，创作灵感来自声音振动、声波实拍
+https://www.ithome.com/1/016/157.htm
+2. 【其他】 NASA 公布月球探测车最新进展：VIPER 计划 2027 年探测月球南极水冰资源
+https://www.ithome.com/1/016/149.htm
+3. 【其他】 英伟达 DGX Spark 支持 8 台集群：128GB 版本统一内存最高达 1TB，RTX PRO 6000 Blackwell 相关任务提速 40%
+https://www.ithome.com/1/016/148.htm
+4. 【终端/边缘】 OPPO 推出 Find X10 全球版手机：电池相比国行版缩减 850mAh，缺少 16GB+1TB 版本
+https://www.ithome.com/1/016/147.htm
+5. 【其他】 海信获“2026福布斯中国最佳雇主”称号
+https://www.leiphone.com/category/industrynews/O80fSJbgn1ciXTl3.html
+6. 【其他】 生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月
+https://www.leiphone.com/category/industrynews/kgEaqVuNRRnvxpfp.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
