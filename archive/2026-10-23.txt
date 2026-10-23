@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-23（抓取 2026-10-22）
+
+🌍 全球
+1. 【芯片/算力】 TSMC is seeking chipmaking equipment that doesn't contain Chinese rare-earth magnets
+https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations
+2. 【终端/边缘】 One easy change makes Microsoft's Surface Laptop Ultra with RTX Spark a better gaming system
+https://www.tomshardware.com/video-games/pc-gaming/one-easy-change-makes-microsofts-surface-laptop-ultra-with-rtx-spark-a-better-gaming-system-custom-resolutions-make-dlss-easier-on-the-device
+3. 【其他】 Leaked private keys for eight CA certificates let any attacker impersonate any domain
+https://www.tomshardware.com/tech-industry/cyber-security/leaked-private-keys-for-eight-ca-certificates-let-any-attacker-impersonate-any-domain-billions-of-older-devices-and-software-installations-may-be-vulnerable-after-round-of-fixes-patch-yours-immediately
+4. 【终端/边缘】 AMD Ryzen 5 5500F review: Vermeer rides again for budget gaming PCs
+https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-5500f-review
+5. 【其他】 Retro Atari VCS platform will end with the closure of its software store in February 2027
+https://www.tomshardware.com/video-games/retro-gaming/retro-atari-vcs-platform-will-end-with-the-closure-of-its-software-store-in-february-2027-os-update-will-be-released-removing-reliance-on-atari-servers-and-opening-up-homebrew-development
+6. 【其他】 333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email
+https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/
+
+🇨🇳 中国
+1. 【其他】 当车企抢着自研电池，智己为什么反着来？
+https://www.leiphone.com/category/transportation/tlrld8EmPpRuUKDa.html
+2. 【其他】 百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径
+https://www.leiphone.com/category/industrynews/vv6pTluWIUjUHMbi.html
+3. 【其他】 深度解读全球 72 小时安全风暴：PHP 事件只是第一枪
+https://www.leiphone.com/category/yanxishe/tvPJIsotGRQWkdwV.html
+4. 【芯片/算力】 超智深融 算力圳浓——第二十二届CCF全国高性能计算学术大会在深圳成功举办
+https://www.leiphone.com/category/chips/ZciUaXjdyyGRgNRl.html
+5. 【其他】 又一国产决策模型发布！准确率超过微软和Jev等决策模型
+https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html
+6. 【其他】 《2026千川乘方投放宝典》出炉！助力商家迎战双11
+https://www.leiphone.com/category/industrynews/P3ZLYakqA47kD3S2.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
