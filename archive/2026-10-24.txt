@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-24（抓取 2026-10-23）
+
+🌍 全球
+1. 【其他】 Gigabyte Z890M Aorus Elite WiFi7 Motherboard Review: Icy-white SFF board offers full-size features for Intel
+https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890m-aorus-elite-wifi7-motherboard-review
+2. 【其他】 Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia
+https://www.tomshardware.com/tech-industry/data-centers/amazon-bows-to-local-backlash-over-ai-data-centers-scraps-plans-to-build-four-new-facilities-in-northern-virginia-site-to-be-repurposed-for-mixed-use-and-residential-development
+3. 【芯片/算力】 China can make advanced chips without EUV, but the bill keeps growing
+https://www.tomshardware.com/tech-industry/semiconductors/china-can-make-advanced-chips-without-euv-but-the-bill-keeps-growing-duv-multiple-patterning-means-bigger-dies-lower-yields-and-longer-manufacturing-times
+4. 【其他】 Bambu Lab teases its mysterious H3C tool changer 3D printer
+https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch
+5. 【芯片/算力】 Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network
+https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor
+6. 【芯片/算力】 FCC issues first bans under new chip-level rule
+https://www.tomshardware.com/tech-industry/cyber-security/fcc-bans-first-two-devices-from-the-us-under-new-chip-level-rule-huawei-subsidiary-chip-boasts-face-detection-algorithm
+
+🇨🇳 中国
+1. 【其他】 OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间
+https://www.ithome.com/1/017/274.htm
+2. 【其他】 微星神影 16 魔龙姬星际套装体验：锐龙 9 8940HX ，纯白高颜值与硬核性能兼得
+https://www.ithome.com/1/017/270.htm
+3. 【其他】 谷歌 YouTube、Chrome 推进 AV2 支持，压缩效率较 AV1 提升近 30%
+https://www.ithome.com/1/017/268.htm
+4. 【其他】 苹果总市值盘初升至 5.12 万亿美元，暂时超越英伟达位居全球榜首
+https://www.ithome.com/1/017/264.htm
+5. 【其他】 机械革命无界 14S 2026 新增 AMD R7 H 449 版本：24+512GB 存储 4799 元
+https://www.ithome.com/1/017/263.htm
+6. 【其他】 长鑫科技：对全球和中国 DRAM 产业中长期前景保持坚定信心
+https://www.ithome.com/1/017/262.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
