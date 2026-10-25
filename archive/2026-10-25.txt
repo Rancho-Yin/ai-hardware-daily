@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-25（抓取 2026-10-24）
+
+🌍 全球
+1. 【其他】 LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday
+https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale
+2. 【终端/边缘】 I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop
+https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis
+3. 【终端/边缘】 Save up to $800 on Acer’s ultra-slim RTX 5070 Ti gaming laptop — pay $2225 for the 16GB RAM model or upgrade to 32GB for $2400
+https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400
+4. 【其他】 Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator
+https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them
+5. 【其他】 Laika has spent 20 years building up to Wildwood
+https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika
+6. 【数据中心】 Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers
+https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block
+
+🇨🇳 中国
+1. 【芯片/算力】 iQOO Neo12 新机配置曝光：6.83 英寸 2K+185Hz 直屏，第五代骁龙 8 至尊版芯片
+https://www.ithome.com/1/017/523.htm
+2. 【其他】 戴尔推出 UltraSharp“焕新版”4K 显示器：32 英寸 5199 元，27 英寸 3999 元
+https://www.ithome.com/1/017/521.htm
+3. 【其他】 JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，1346 元
+https://www.ithome.com/1/017/520.htm
+4. 【其他】 小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘
+https://www.ithome.com/1/017/519.htm
+5. 【其他】 中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍
+https://www.ithome.com/1/017/518.htm
+6. 【其他】 研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复
+https://www.ithome.com/1/017/517.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
