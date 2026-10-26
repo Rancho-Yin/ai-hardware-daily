@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-26（抓取 2026-10-25）
+
+🌍 全球
+1. 【其他】 Big Tech is cashing in on AI while the rest of corporate America sees no financial returns
+https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins
+2. 【其他】 IQUNIX MQ80 low profile mechanical keyboard review
+https://www.tomshardware.com/peripherals/mechanical-keyboards/iqunix-mq80-low-profile-mechanical-keyboard-review
+3. 【其他】 Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases
+https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data
+4. 【其他】 r/opensource just banned AI, non-English speakers, and more
+https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban
+5. 【芯片/算力】 Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'
+https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform
+6. 【终端/边缘】 Jailbroken PS5s can now run Steam PC games
+https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-steam-pc-games-you-can-now-sign-in-with-your-steam-account-and-install-games-from-your-library-directly-to-the-console
+
+🇨🇳 中国
+1. 【其他】 国内首部 AI 院线长片《三星堆：未来往事》，票房过百万
+https://www.ithome.com/1/017/719.htm
+2. 【其他】 古尔曼：苹果正测试配备 OLED 屏幕的 iMac 和 MacBook Air
+https://www.ithome.com/1/017/717.htm
+3. 【其他】 联合创新“D32U1”31.5 英寸显示器发售：4K 60Hz、USB-C 65W，1699 元
+https://www.ithome.com/1/017/709.htm
+4. 【其他】 华为鸿蒙 HarmonyOS 7.0.0.111 版本更多“隐藏”新特性盘点，深色模式随日出日落切换等功能下放
+https://www.ithome.com/1/017/707.htm
+5. 【其他】 雷蛇幻影战狼 V4 系列手柄发售：电容摇杆，竞技版 799 元、专业版 1599 元
+https://www.ithome.com/1/017/705.htm
+6. 【其他】 铺路铺到苹果家：开发者成功令微软 Surface Duo 2 运行 iOS / iPadOS 26 系统
+https://www.ithome.com/1/017/703.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
