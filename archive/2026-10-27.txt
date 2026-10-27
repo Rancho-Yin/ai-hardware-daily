@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-27（抓取 2026-10-26）
+
+🌍 全球
+1. 【其他】 Asus ROG Xbox Ally X20 tested: Same performance, more comfortable, and a glorious OLED screen
+https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-tested-same-performance-more-comfortable-and-a-glorious-oled-screen
+2. 【其他】 3.2 Petabits per second real-time optical fiber transfer speed world record claimed by Chinese team
+https://www.tomshardware.com/networking/3-2-pb-s-real-time-optical-fiber-transfer-speed-world-record-claimed-by-chinese-team-speed-fast-enough-to-download-more-than-20-000-4k-movies-in-one-second
+3. 【终端/边缘】 Leaked 256-core Zen 6c EPYC CPU destroys Zen 5 in early single-threaded benchmarks hints at 24% IPC gain
+https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements
+4. 【芯片/算力】 Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for 'select customers' in Q4 2026
+https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model
+5. 【其他】 Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD
+https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business
+6. 【其他】 Modder turns NES into a Windows-like desktop with original hardware
+https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet
+
+🇨🇳 中国
+1. 【其他】 腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%
+https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html
+2. 【其他】 即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台
+https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html
+3. 【其他】 DeepSeek 开源看家算子的同一周，AI 超过了它
+https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html
+4. 【其他】 趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付
+https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html
+5. 【其他】 B站大促继续：京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售
+https://www.ithome.com/1/017/751.htm
+6. 【其他】 在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄
+https://www.solidot.org/story?sid=85706
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
