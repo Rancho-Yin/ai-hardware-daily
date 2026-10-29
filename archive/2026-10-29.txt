@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-29（抓取 2026-10-28）
+
+🌍 全球
+1. 【终端/边缘】 AI component hikes force the world's largest PC makers to return manufacturing capacity to China
+https://www.tomshardware.com/tech-industry/manufacturing/ai-component-hikes-force-the-worlds-largest-pc-makers-to-return-manufacturing-capacity-to-china-brands-to-seek-lower-production-costs-and-efficiency-in-established-supply-chain
+2. 【其他】 Amazon tells engineers to stop ‘tokenmaxxing’ to look productive
+https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim
+3. 【其他】 FCC rebuffs TP-Link again as it attempts to sell Wi-Fi 8 gear in the US
+https://www.tomshardware.com/networking/routers/fcc-rebuffs-tp-link-again-as-it-attempts-to-sell-wi-fi-8-gear-in-the-us-fcc-alleges-inaccurate-documentation-and-out-of-spec-power-levels-for-routers
+4. 【其他】 Corsair Warthog case review: A rugged, military-themed chassis with plenty of airflow
+https://www.tomshardware.com/pc-components/pc-cases/corsair-warthog-case-review
+5. 【其他】 SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims
+https://www.tomshardware.com/tech-industry/manufacturing/sk-hynix-owned-solidigm-is-plotting-a-new-usd45-billion-flash-memory-factory-for-the-us-report-claims-wants-go-ahead-to-export-equipment-for-china-upgrades-in-return
+6. 【芯片/算力】 Nvidia RTX GPU vendor Palit denies its Galax factory has closed due to a shortage of chips
+https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual
+
+🇨🇳 中国
+1. 【其他】 女子信任 ChatGPT 的用药决策，结果因此猝死
+https://www.solidot.org/story?sid=85737
+2. 【其他】 加州亿万富翁投入逾 2.93 亿美元反对亿万富翁税
+https://www.solidot.org/story?sid=85736
+3. 【机器人】 具身智能军备竞赛，胜负手在工程生态
+https://www.leiphone.com/category/ai/D4SlkV6zQ4ill9MG.html
+4. 【其他】 字节辟谣"群演数据喂大模型"：严重失实！
+https://www.leiphone.com/category/industrynews/kw1tPKZvQauDl4UJ.html
+5. 【其他】 华为群英传之刘睿：AI助手要告别聊天框，从“被动响应”走向“主动服务”
+https://www.leiphone.com/category/ai/Ep3M1c7RboyafpOS.html
+6. 【其他】 模态缺失、噪声干扰怎么办？天津大学张长青：给多模态融合加上「可信度量尺」| CNCC 2026
+https://www.leiphone.com/category/private/L0riZpWS688dpXnN.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
