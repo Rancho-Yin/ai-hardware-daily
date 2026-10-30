@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-30（抓取 2026-10-29）
+
+🌍 全球
+1. 【其他】 Elon Musk's SpaceX buying out 418 homes near flagship AI data center, but only if they drop participation in lawsuit
+https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacex-buying-out-418-homes-near-flagship-ai-data-center-but-only-if-they-drop-participation-in-lawsuit-report-claims-the-company-is-targeting-an-entire-neighborhood-but-will-only-buy-from-people-who-dont-pursue-noise-pollution-complaints
+2. 【终端/边缘】 AI demand triggers massive PCB shortage for PC makers as order books full until 2030
+https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x
+3. 【其他】 US data centers could wipe out 15 years' worth of progress in greenhouse gas emissions, report claims
+https://www.tomshardware.com/tech-industry/data-centers/us-data-centers-could-wipe-out-15-years-worth-of-progress-in-greenhouse-gas-emissions-report-claims-buildouts-could-emit-as-much-carbon-dioxide-as-all-of-mexico
+4. 【其他】 Nvidia GeForce RTX 5080 prices hit $2,000, costing more than the RTX 5090 did at launch and with limited stock available
+https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5080-prices-hit-usd2-000-costing-more-than-the-rtx-5090-did-at-launch-and-with-limited-stock-available-original-usd999-msrp-long-forgotten-with-prices-now-2-3x-higher
+5. 【其他】 Nvidia CEO Jensen Huang may have been the target of a spy plot through 'Chinese intelligence asset,' report claims
+https://www.tomshardware.com/tech-industry/policy/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-spy-plot-through-chinese-intelligence-asset-report-claims-exec-from-firm-under-investigation-for-smuggling-banned-ai-chips-to-china-accused-of-being-a-spy-was-also-feeding-information-to-beijing
+6. 【其他】 Dept of Justice reportedly probes Nvidia over $13 billion Hugging Face AI platform acquisition
+https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers
+
+🇨🇳 中国
+1. 【其他】 Google AI 搜索产生的收入低于传统搜索
+https://www.solidot.org/story?sid=85748
+2. 【其他】 研究发现非英语的 token 成本更高
+https://www.solidot.org/story?sid=85747
+3. 【其他】 别再盯着 800 亿美元亏损了，Anthropic 的 AI 造 AI 已推进到 26%！
+https://www.leiphone.com/category/ai/t2cIBqBZVfpYPhPg.html
+4. 【其他】 拉爆游戏引擎？深度拆解 Genie 4，从视频生成到世界控制，Google 要跨越什么？
+https://www.leiphone.com/category/yanxishe/F3FpQlhpT7u7ekyU.html
+5. 【其他】 DeepSeek 又一开源重器！深挖 DeepInfer 究竟藏着多少技术狠活？
+https://www.leiphone.com/category/ai/HecXToP0EHbPjPd0.html
+6. 【其他】 31岁女工程师猝死，其生前按ChatGPT指示减药，还被告知「完全没必要担心」；美国一公司招人遛机器狗：时薪20美元，不用铲屎但得扛狗回来
+https://www.leiphone.com/category/zaobao/ZWf8n2mgF0X5Rkfj.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
