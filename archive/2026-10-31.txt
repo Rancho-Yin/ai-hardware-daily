@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-10-31（抓取 2026-10-30）
+
+🌍 全球
+1. 【芯片/算力】 PsiQuantum turns its photonics know-how into an optical switch for supercharging AI data center GPU networks
+https://www.tomshardware.com/tech-industry/photonics/psiquantum-turns-its-photonics-know-how-into-an-optical-switch-for-supercharging-ai-data-center-gpu-networks-8x8-lab-prototype-loses-less-light-than-rivals-with-plans-to-develop-larger-devices
+2. 【其他】 Intelligence agency misplaced 'a very significant number' of removable drives
+https://www.tomshardware.com/pc-components/usb-flash-drives/intelligence-agency-misplaced-a-very-significant-number-of-removable-drives-storage-media-have-been-missing-for-years-but-exact-number-of-lost-devices-remain-unknown
+3. 【其他】 A primer on key AI LLM concepts — KV cache, weights, quantization, and how inference actually works
+https://www.tomshardware.com/tech-industry/artificial-intelligence/a-primer-on-key-ai-llm-concepts-kv-cache-weights-quantization-and-how-inference-actually-works
+4. 【终端/边缘】 This is your chance to secure an entire entry-level ABS gaming PC for only $849
+https://www.tomshardware.com/desktops/gaming-pcs/this-is-your-chance-to-secure-an-entire-entry-level-abs-gaming-pc-for-only-usd849-amazing-walmart-deal-sets-you-up-with-an-rtx-5060-graphics-card-and-shaves-usd350-off-the-list-price
+5. 【芯片/算力】 Intel leaker reveals Moon Lake chip as a likely replacement for N-series SoCs
+https://www.tomshardware.com/pc-components/cpus/intel-leaker-reveals-moon-lake-chip-as-a-likely-replacement-for-n-series-socs-four-lower-power-efficiency-cores-no-performance-cores-and-a-6-w-tdp
+6. 【其他】 Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months
+https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts
+
+🇨🇳 中国
+1. 【其他】 华为官网公开鸿蒙智行享界 V8 选配：标配 ±12° 后轮转向、Ultra 采用 L3 自动驾驶架构，32.98 万元起
+https://www.ithome.com/1/020/386.htm
+2. 【其他】 英特尔：以色列 Fab 28 爆炸事故已致工厂停产约两周，预计 Q3 和 Q4 两个季度损失 6 亿美元营收
+https://www.ithome.com/1/020/385.htm
+3. 【其他】 英特尔股价暴跌 29%
+https://www.solidot.org/story?sid=85757
+4. 【其他】 Claude Code for VS Code 官方扩展被植入后门
+https://www.solidot.org/story?sid=85756
+5. 【其他】 LibreOffice 项目递交的代码发现使用LLM 的明确标记
+https://www.solidot.org/story?sid=85755
+6. 【其他】 芬兰对 Google 砍伐 25 万颗树展开调查
+https://www.solidot.org/story?sid=85754
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
