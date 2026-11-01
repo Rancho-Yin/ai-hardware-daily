@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-01（抓取 2026-10-31）
+
+🌍 全球
+1. 【其他】 'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring
+https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for
+2. 【其他】 Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders
+https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale
+3. 【其他】 Grab a new 3D printer this Halloween weekend, with prices as low as $199
+https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-this-halloween-weekend-with-prices-as-low-as-usd199-big-discounts-from-elegoo-creality-prusa-and-more-with-filament-and-resin-printers-and-consumables-on-sale
+4. 【其他】 ASRock B860 Challenger Wifi Motherboard Review: Entry-level ATX at a great price, with drawbacks
+https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review
+5. 【其他】 Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs
+https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent
+6. 【数据中心】 Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand
+https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history
+
+🇨🇳 中国
+1. 【其他】 AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元
+https://www.ithome.com/1/020/632.htm
+2. 【其他】 马斯克公布 Neuralink 脑机新产品进展：第二款产品“盲视”只待监管批准
+https://www.ithome.com/1/020/630.htm
+3. 【其他】 OPPO Reno17 系列官方爆料：首发 6 秒“全焦段 4K 超清长实况”
+https://www.ithome.com/1/020/628.htm
+4. 【其他】 鸿海董事长刘扬伟：预计未来数年攻下全球 AI 服务器半壁江山
+https://www.ithome.com/1/020/627.htm
+5. 【其他】 苹果 iPad mini 8 电池容量 4900mAh 略低于上一代 5034mAh，机身比前代薄 15% 且更轻
+https://www.ithome.com/1/020/625.htm
+6. 【终端/边缘】 Sam Altman 认为 PC 内存闲置太糟糕
+https://www.solidot.org/story?sid=85763
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
