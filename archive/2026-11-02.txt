@@ -1,0 +1,28 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-02（抓取 2026-11-01）
+
+🌍 全球
+1. 【终端/边缘】 Walmart honors massive shelf price mistake, lucky buyer gets two $2,299 CyberPowerPC gaming rigs for $1,099 each
+https://www.tomshardware.com/desktops/gaming-pcs/lucky-pc-buyer-gets-usd1-200-discount-on-9900x3d-gaming-pc-walmart-honors-usd1-099-shelf-price-on-usd2-299-unit
+2. 【其他】 Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing
+https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000
+3. 【其他】 Biwin M560 2TB SSD Review: The DRAM-less drive to beat
+https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review
+4. 【其他】 North Korea linked to massive Binance crypto heist
+https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist
+5. 【其他】 Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more
+https://www.tomshardware.com/3d-printing/bambu-labs-black-friday-sale-cuts-up-to-usd300-on-the-flagship-h2c-printer-and-more-deep-cuts-across-companys-3d-printer-and-filament-lineup
+6. 【其他】 Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages
+https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers
+
+🇨🇳 中国
+1. 【数据中心】 数据中心抵消了过去 15 年美国的减排努力
+https://www.solidot.org/story?sid=85766
+2. 【其他】 Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成
+https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html
+3. 【其他】 极氪10月交付同比增长51.6%，“海外最贵中国车”9X首销售罄
+https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
