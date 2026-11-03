@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-03（抓取 2026-11-02）
+
+🌍 全球
+1. 【其他】 Nvidia Brev security breach may have exposed SSH keys used to access customer VMs
+https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse
+2. 【其他】 AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it
+https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom
+3. 【其他】 Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures
+https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks
+4. 【终端/边缘】 Elon Musk mocks OpenAI CEO Sam Altman's claim that PCs having RAM is terrible
+https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible-the-people-deserve-to-have-their-ram-too
+5. 【其他】 SpaceX loses bid to dismiss lawsuit over xAI data center pollution
+https://www.tomshardware.com/tech-industry/data-centers/spacex-loses-bid-to-dismiss-lawsuit-over-xai-data-center-pollution-judge-rules-mississippi-gas-turbines-are-not-exempt-from-the-clean-air-act
+6. 【终端/边缘】 Grab a $450 saving on this 4K-ready gaming PC with an RTX 5070 Ti and 32GB DDR5 right now
+https://www.tomshardware.com/desktops/gaming-pcs/grab-a-usd450-saving-on-this-4k-ready-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-right-now-abs-rig-from-newegg-ships-with-24-core-intel-cpu-and-a-2tb-ssd-for-usd2-549-99
+
+🇨🇳 中国
+1. 【其他】 半小时卖出2万亿Token，李佳琦直播卖千问办公爆火
+https://www.leiphone.com/category/industrynews/kqJzcDsRfxHUQGy9.html
+2. 【数据中心】 比利时瑞典超市冷冻冷藏设备遭遇网络攻击
+https://www.solidot.org/story?sid=85775
+3. 【机器人】 90 后北大副教授董豪：启元机器人，正在勇闯具身终局
+https://www.leiphone.com/category/ai/1mfsMzxNwaTmqZ7e.html
+4. 【机器人】 产业资本继续押注具身：斯坦福双子星创办的黑马公司 RoboScience 机器科学，宣布完成 A2 轮融资
+https://www.leiphone.com/category/ai/GqrJT2vlPFBxElDY.html
+5. 【机器人】 具身下半场怎么打？智元用一场发布会，给出了自己的答案
+https://www.leiphone.com/category/ai/d2myOaWdKKFW23lm.html
+6. 【其他】 从产品幕后到用户故事，极米记得AI新品全阵容亮相INNO100首「硬」礼
+https://www.leiphone.com/category/weiwu/AfQerzZ1HwVzZ2yZ.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
