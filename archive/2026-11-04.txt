@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-04（抓取 2026-11-03）
+
+🌍 全球
+1. 【其他】 OpenAI introduces program to reduce AI data center energy demand during peak hours
+https://www.tomshardware.com/tech-industry/data-centers/openai-introduces-program-to-reduce-ai-data-center-energy-demand-during-peak-hours-company-testing-grid-protectors-program-system-in-georgia
+2. 【其他】 Intel 14A moves closer to production as PDK 0.9 becomes available
+https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-moves-closer-to-production-as-pdk-0-9-becomes-available-process-design-kit-gives-developers-important-production-milestone-ahead-of-1-0-in-2027
+3. 【其他】 8 converted jet engines are powering xAI data centers as companies look for new energy sources
+https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide
+4. 【其他】 Apple faces unprecedented memory cost increases as RAM prices continue to surge, manufacturing bill climbs by $33 billion
+https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027
+5. 【其他】 Nvidia tells data center operators to limit business from Chinese customers with new global restrictions, report claims
+https://www.tomshardware.com/tech-industry/data-centers/nvidia-tells-data-center-operators-to-limit-business-from-chinese-customers-with-new-global-restrictions-report-claims-allegedly-restricted-to-49-percent-of-the-total-ensuring-51-percent-are-non-chinese-outfits
+6. 【其他】 Corsair has slashed $180 off its blistering MP700 SE Gen 5 SSD
+https://www.tomshardware.com/pc-components/ssds/corsair-has-slashed-usd180-off-its-blistering-mp700-se-gen-5-ssd-now-14-cents-per-gb-get-4tb-of-ssd-storage-for-usd579-the-cheapest-drive-on-the-market
+
+🇨🇳 中国
+1. 【其他】 青奥会结束后，阿里云想在非洲留下一朵「云」
+https://www.leiphone.com/category/industrynews/dhQud8FAggk62CZ2.html
+2. 【其他】 AI教AI开车！百度Apollo World世界模型叩开无人驾驶产业“AGI时刻”
+https://www.leiphone.com/category/industrynews/NVxn28w1vAG2qbFy.html
+3. 【机器人】 中国开源走向物理世界，蚂蚁灵波携机器人通用大脑亮相乌镇
+https://www.leiphone.com/category/industrynews/ADcxxdwtaojQvzhp.html
+4. 【其他】 智元荣获2026世界互联网大会杰出贡献奖
+https://www.leiphone.com/category/industrynews/9XBEJkK85FIMGErW.html
+5. 【其他】 香港大学发布全球首个KYA报告关注智能体信任建设，九类企业实践获收录
+https://www.leiphone.com/category/industrynews/KkjVOHcQ55GyhDLv.html
+6. 【其他】 最高288核的至强6+，为了Agent高密度部署还下了哪些「云功夫」？
+https://www.leiphone.com/category/chips/GQisGLfVBnbQVxVo.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
