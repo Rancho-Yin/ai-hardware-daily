@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-05（抓取 2026-11-04）
+
+🌍 全球
+1. 【其他】 Team Group CEO warns memory crisis could reach point where 'even money can't buy goods' — will get worse next year, with 'no downward trend in price whatsoever'
+https://www.tomshardware.com/pc-components/dram/team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-cant-buy-goods-will-get-worse-next-year-with-no-downward-trend-in-price-whatsoever
+2. 【其他】 Logitech G Pro X3 Superstrike Review: $200 for the illusion of a click
+https://www.tomshardware.com/peripherals/gaming-mice/logitech-g-pro-x3-superstrike-review
+3. 【数据中心】 Thermal Grizzly launches PhaseSheet PTM Pro with improved thermal conductivity — new thermal pad promises easier installation and better cooling performance
+https://www.tomshardware.com/pc-components/thermal-paste/thermal-grizzly-launches-phasesheet-ptm-pro-with-improved-thermal-conductivity-new-thermal-pad-promises-easier-installation-and-better-cooling-performance
+4. 【其他】 Micron details ambitious DRAM and NAND roadmap — 3D NAND, High-NA EUV, new materials, and custom silicon makes a comeback
+https://www.tomshardware.com/pc-components/dram/micron-details-ambitious-dram-and-nand-roadmap-3d-nand-high-na-euv-new-materials-and-custom-silicon-makes-a-comeback
+5. 【其他】 AI data centers comprehensively defeated at US midterm elections — 45 measures put on the ballot as Americans overwhelmingly vote against developments
+https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments
+6. 【数据中心】 PHP vulnerability post-mortem reveals bug was known two years ago — Small team of maintainers knew of the issue before it was made public, as new PHP2Shell chained exploit ravages servers
+https://www.tomshardware.com/tech-industry/cyber-security/php-vulnerability-post-mortem-reveals-bug-was-known-two-years-ago-small-team-of-maintainers-knew-of-the-issue-before-it-was-made-public-as-new-php2shell-chained-exploit-ravages-servers
+
+🇨🇳 中国
+1. 【其他】 富士胶片因 AI 热加大磁带产能
+https://www.solidot.org/story?sid=85795
+2. 【其他】 Nexus Mods 公布 AI 生成内容政策
+https://www.solidot.org/story?sid=85794
+3. 【其他】 虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上
+https://www.leiphone.com/category/industrynews/vxZxNvbxdDFhYp55.html
+4. 【其他】 苹果开始在中国推出 Apple Intelligence
+https://www.solidot.org/story?sid=85793
+5. 【其他】 双十一购机观察：从参数回到场景，华为Mate 90系列重新定义旗舰体验
+https://www.leiphone.com/category/industrynews/xPIqScmZequRUOUt.html
+6. 【其他】 360参与发起《智能体发展自律公约》，助力构建可信智能体生态
+https://www.leiphone.com/category/industrynews/UB25ocDFu1ntNMtz.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
