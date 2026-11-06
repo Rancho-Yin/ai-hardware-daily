@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-06（抓取 2026-11-05）
+
+🌍 全球
+1. 【芯片/算力】 Intel leaker claims Nova Lake desktop chips have 5.1 GHz clock limit beyond 90°C
+https://www.tomshardware.com/pc-components/cpus/intel-leaker-claims-nova-lake-desktop-chips-have-5-1-ghz-clock-limit-beyond-90-c-high-clock-speeds-could-demand-significant-cooling-for-next-gen-chips
+2. 【其他】 Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute
+https://www.tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms
+3. 【芯片/算力】 Apple MacBook Pro (14-inch, M6) review: Speedy M6 chip slips into comfortable shoes
+https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-14-inch-m6-review
+4. 【其他】 Boost your Nintendo Switch 2's storage for Zelda: Ocarina of Time with these microSD Express deals, starting at $48
+https://www.tomshardware.com/pc-components/microsd-cards/boost-your-nintendo-switch-2s-storage-for-zelda-ocarina-of-time-with-these-microsd-express-deals-starting-at-usd48-make-room-for-hyrule-with-these-high-speed-cards-that-double-or-triple-your-game-storage
+5. 【其他】 Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep
+https://www.tomshardware.com/tech-industry/artificial-intelligence/congresswoman-calls-for-artificial-superintelligence-ban-after-democrats-seismic-midterm-sweep-demands-regulation-of-out-of-control-industry-and-pause-on-advanced-ai
+6. 【终端/边缘】 Two dead, five injured in Taiwan PCB factory explosion
+https://www.tomshardware.com/tech-industry/two-dead-five-injured-in-taiwan-pcb-factory-explosion-panasonic-industrial-devices-materials-facility-fire-prompts-emergency-response
+
+🇨🇳 中国
+1. 【数据中心】 白宫网络监测到住宅代理活动
+https://www.solidot.org/story?sid=85806
+2. 【其他】 Bazzite 45 释出
+https://www.solidot.org/story?sid=85805
+3. 【其他】 Google 和 OpenAI 的模型对特定口音有偏见
+https://www.solidot.org/story?sid=85804
+4. 【芯片/算力】 任天堂最大 ROM 芯片供应商准备退出
+https://www.solidot.org/story?sid=85801
+5. 【其他】 AMD 营收预计将首次超过英特尔
+https://www.solidot.org/story?sid=85799
+6. 【终端/边缘】 韩国游戏 PC 启动器被植入恶意代码
+https://www.solidot.org/story?sid=85798
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
