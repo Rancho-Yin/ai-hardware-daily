@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-07（抓取 2026-11-06）
+
+🌍 全球
+1. 【其他】 GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow
+https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow
+2. 【其他】 Protesters storm Microsoft AI data center construction site
+https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe
+3. 【芯片/算力】 Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims
+https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status
+4. 【芯片/算力】 Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist
+https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears
+5. 【终端/边缘】 Save 26% on this 142-piece toolkit for your PC repairs and hobbyist projects, now under $28
+https://www.tomshardware.com/desktops/pc-building/save-26-percent-on-this-142-piece-toolkit-for-your-pc-repairs-and-hobbyist-projects-now-under-usd28-precision-screwdriver-kit-includes-120-magnetic-bits-and-20-different-repair-tools-for-your-next-project
+6. 【其他】 Nvidia wants to repurpose over 130 old telco buildings as tiny data centers, report claims
+https://www.tomshardware.com/tech-industry/data-centers/nvidia-wants-to-repurpose-over-130-old-telco-buildings-as-tiny-data-centers-report-claims-company-in-talks-with-brightspeed-after-pitching-idea-to-parent-company-apollo-global-management
+
+🇨🇳 中国
+1. 【终端/边缘】 华为 MatePad Edge 获鸿蒙 7.0.0.111SP16 升级：预置融合开发引擎，支持电脑模式运行 Linux 环境
+https://www.ithome.com/1/023/600.htm
+2. 【其他】 低过连续包年：QQ 音乐豪华绿钻 138 元 / 年官方 11.11 发车
+https://www.ithome.com/1/023/558.htm
+3. 【其他】 低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加
+https://www.ithome.com/1/023/554.htm
+4. 【其他】 NASA 通过 AI 生成图像宣布 X-70 试验机
+https://www.solidot.org/story?sid=85818
+5. 【其他】 OpenAI 「重置大神」换人了？Tibo 去救火，Andrew 上位
+https://www.leiphone.com/category/yanxishe/u5N6lCUT0bEfanp1.html
+6. 【其他】 豆包工作个人版取消5小时额度限制
+https://www.leiphone.com/category/industrynews/Ii6W43GghzJA7V1u.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
