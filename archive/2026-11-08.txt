@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-08（抓取 2026-11-07）
+
+🌍 全球
+1. 【其他】 NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake
+https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review
+2. 【芯片/算力】 The US let Nvidia sell chips to an empty office in China
+https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government
+3. 【其他】 AI broke the cybersecurity world. What’s next?
+https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos
+4. 【其他】 US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation
+https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips
+5. 【其他】 Good riddance, Cybertruck!
+https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash
+6. 【数据中心】 TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD
+https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review
+
+🇨🇳 中国
+1. 【其他】 又一梦幻组合实现：网友成功将苹果 MacBook Pro 刷入华为鸿蒙 HarmonyOS 6 系统
+https://www.ithome.com/1/023/828.htm
+2. 【其他】 比亚迪超豪华行政旗舰轿车登场！仰望鼎曜行政版车长 5.6 米、续航破千公里
+https://www.ithome.com/1/023/827.htm
+3. 【其他】 GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送
+https://www.ithome.com/1/023/823.htm
+4. 【其他】 马斯克再次表白中国，称赞中国汽车工业水平高
+https://www.ithome.com/1/023/822.htm
+5. 【其他】 -30~10℃ 温控 + 可囤 140 斤肉：美的 100 升低霜小冰柜 388 元新低
+https://www.ithome.com/1/023/821.htm
+6. 【其他】 千公里信号单程传输仅 3.43 毫秒！我国新一代通信网技术取得新突破
+https://www.ithome.com/1/023/816.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
