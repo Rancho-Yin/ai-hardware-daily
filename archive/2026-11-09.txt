@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-09（抓取 2026-11-08）
+
+🌍 全球
+1. 【其他】 Diamond Foundry creates world's first 200mm single-crystal diamond wafer
+https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors
+2. 【其他】 Chatbots might be coming to Apple’s HomeView
+https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview
+3. 【其他】 Logitech G502 X Lightspeed Review: No lights, same price
+https://www.tomshardware.com/peripherals/gaming-mice/logitech-g502-x-lightspeed-review
+4. 【数据中心】 Japanese arcades suffer week-long blackout following Sega server hack
+https://www.tomshardware.com/video-games/japanese-arcades-suffer-week-long-blackout-following-sega-server-hack-bandai-namco-titles-resume-trial-operations-as-sega-games-remain-offline
+5. 【其他】 The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age
+https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code
+6. 【机器人】 Ukraine builds combat robots to hunt Russian troops in underground gas pipelines
+https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault
+
+🇨🇳 中国
+1. 【其他】 古尔曼称苹果 Siri AI 团队或迎大调整，工程副总裁罗克韦尔考虑明年走人
+https://www.ithome.com/1/024/014.htm
+2. 【其他】 古尔曼称苹果 CEO 特努斯“上任三把火”，敦促软件主管费德里吉大胆搞 AI
+https://www.ithome.com/1/024/013.htm
+3. 【机器人】 亚马逊成立新团队专攻家用机器人，剑指“前所未有”的新产品
+https://www.ithome.com/1/024/012.htm
+4. 【其他】 马斯克：特斯拉将进一步改进 Cybercab，提升能效、新增配色
+https://www.ithome.com/1/024/011.htm
+5. 【终端/边缘】 微软移除了 PC 到 PC 的迁移功能
+https://www.solidot.org/story?sid=85827
+6. 【其他】 台积电考虑进入内存行业
+https://www.solidot.org/story?sid=85826
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
