@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-10（抓取 2026-11-09）
+
+🌍 全球
+1. 【其他】 Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy
+https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence
+2. 【芯片/算力】 Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition
+https://www.tomshardware.com/tech-industry/data-centers/deepx-ai-chip-runs-so-cool-that-a-butter-heatsink-doesnt-melt-the-dx-m1-processor-impresses-in-a-bizarre-new-dairy-based-benchmark
+3. 【其他】 Acer Predator Helios Neo 16S AI Review: Slim OLED gaming that doesn't last long
+https://www.tomshardware.com/laptops/gaming-laptops/acer-predator-helios-neo-16s-ai-review
+4. 【其他】 Nvidia RTX PRO 6000 user’s cables almost melted, even when limited to 500W
+https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-pro-6000-users-cables-almost-melted-even-when-limited-to-500w-12v-2x6-cables-appear-to-still-cause-problems-show-clear-signs-of-melting
+5. 【其他】 Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal
+https://www.tomshardware.com/tech-industry/data-centers/anthropic-skips-six-year-waitlist-with-massive-usd3-4-billion-gas-turbine-generator-deal-firm-takes-over-onepwrs-orders-secures-1-7gw-of-capacity-to-power-ai-data-centers
+6. 【芯片/算力】 Lawyer builds private AI server with eight used Nvidia V100 GPUs
+https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board
+
+🇨🇳 中国
+1. 【机器人】 云深处发布全新四足机器人 实现50Kg大负载、复杂地形作业
+https://www.leiphone.com/category/industrynews/EihvEi3hKb9icG62.html
+2. 【其他】 千问办公2.0，补上了办公Agent最关键的「短板」
+https://www.leiphone.com/category/industrynews/ljjfjnedPmwgYh6Q.html
+3. 【其他】 高盛限制交易员和银行家使用第三方 AI 智能体
+https://www.solidot.org/story?sid=85838
+4. 【其他】 无预警！ChatGPT突然大规模封号，包括付费用户；圆通总裁心疼儿子Tim：他比大多数人想象的辛苦；英伟达遭大劫案，价值超7千万元货物失踪
+https://www.leiphone.com/category/zaobao/Z2uc8AJRp0PQO7Kb.html
+5. 【芯片/算力】 阿里云获中国专利金奖：破解AI时代的超大规模智能算力调度难题
+https://www.leiphone.com/category/industrynews/ljc6ifIFxCUD6DYG.html
+6. 【其他】 字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦
+https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
