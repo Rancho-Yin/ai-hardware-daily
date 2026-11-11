@@ -1,0 +1,30 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-11（抓取 2026-11-10）
+
+🌍 全球
+1. 【其他】 Secretlab debuts monitor light bar add-on to reduce glare and eye strain
+https://www.tomshardware.com/peripherals/secretlab-debuts-monitor-light-bar-add-on-to-reduce-glare-and-eye-strain-ergoarch-has-a-three-point-adjustment-arm-costs-usd179
+2. 【其他】 New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy
+https://www.tomshardware.com/tech-industry/artificial-intelligence/new-framework-grades-ai-jailbreaks-across-capability-gains-scope-and-how-easy-they-are-to-deploy-frontier-model-forum-proposes-cvss-style-rating-system-for-new-ai-models
+3. 【其他】 Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark
+https://www.tomshardware.com/tech-industry/artificial-intelligence/going-deep-on-local-ai-performance-with-apples-mac-studio-with-m5-ultra-inference-engine-recipes-mandatory-for-bigger-models-as-mlx-stack-matures
+4. 【其他】 Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel
+https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports
+5. 【其他】 President Trump says the FBI is investigating Jensen Huang’s affair
+https://www.tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation
+6. 【其他】 $10 programmer saves BIOS-locked Lenovo ThinkPads from the dump
+https://www.tomshardware.com/laptops/usd10-programmer-saves-bios-locked-lenovo-thinkpads-from-the-dump-exploit-bypasses-supervisor-passwords-to-save-4th-to-8th-gen-intel-models-from-e-waste
+
+🇨🇳 中国
+1. 【机器人】 波士顿动力为其人形机器人加入了轮子
+https://www.solidot.org/story?sid=85849
+2. 【其他】 生成式 AI 过度美化现实
+https://www.solidot.org/story?sid=85847
+3. 【其他】 科学家在碲化锰观察到交替磁性证据
+https://www.solidot.org/story?sid=85844
+4. 【其他】 FDA 警告 GLP-1 减肥药可能增加突然失明风险
+https://www.solidot.org/story?sid=85843
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
