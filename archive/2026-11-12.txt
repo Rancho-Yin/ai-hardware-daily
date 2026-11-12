@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-12（抓取 2026-11-11）
+
+🌍 全球
+1. 【其他】 The best early Black Friday deals you can already shop
+https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026
+2. 【芯片/算力】 SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims
+https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board
+3. 【其他】 Google’s AlphaGenome 2 zooms in on the cellular roots of disease
+https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model
+4. 【其他】 Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting
+https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity
+5. 【芯片/算力】 ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs
+https://www.tomshardware.com/pc-components/gpus/asrock-attempts-to-correct-botched-radeon-rx-7000-firmware-release-with-new-version-revised-release-should-work-ok-but-company-provides-no-explanation-for-bricked-cards
+6. 【芯片/算力】 Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled
+https://www.tomshardware.com/video-games/nintendo/nintendo-unleashes-dmca-takedown-wave-against-open-source-switch-modchip-firmware-144-tools-disabled-picofly-sx-core-and-hwfly-among-casualties-following-criminal-trial-victory
+
+🇨🇳 中国
+1. 【其他】 Firefox 内置 VPN 服务在三个月内不限制流量
+https://www.solidot.org/story?sid=85861
+2. 【其他】 AI 生成的代码并不可靠
+https://www.solidot.org/story?sid=85857
+3. 【机器人】 和大疆抢食，这家公司做了台桌面摄影机器人
+https://www.leiphone.com/category/weiwu/7us3N77Jwt0jzWda.html
+4. 【其他】 双十一换机正当时：华为Mate X7购机好礼，降低折叠旗舰换新门槛
+https://www.leiphone.com/category/industrynews/C6UjjlUlmA70WLVq.html
+5. 【其他】 阿里云获中国游戏云市场整体和六项细分第一
+https://www.leiphone.com/category/industrynews/JfRMJsIb0HJvjdrl.html
+6. 【其他】 英伟达股价 2 天暴跌 10%
+https://www.solidot.org/story?sid=85854
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
