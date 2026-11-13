@@ -1,0 +1,28 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-13（抓取 2026-11-12）
+
+🌍 全球
+1. 【其他】 Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang
+https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-it-would-be-an-honor-to-hire-ousted-nvidia-ceo-jensen-huang-possible-projects-could-include-terafab-spacexs-planned-gpu-manufacturing-or-teslas-ai-accelerators
+2. 【其他】 Corsair HX1000i Shift Crystal power supply review: 1000W Platinum efficiency with an eye-catching transparent aesthetic
+https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1000i-shift-crystal-power-supply-review
+3. 【其他】 Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations
+https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo
+4. 【其他】 Noctua brings space-grade carbon nanotube thermal pad to AMD AM5 and AM4 processors
+https://www.tomshardware.com/pc-components/thermal-paste/noctua-brings-space-grade-carbon-nanotube-thermal-pad-to-amd-am5-and-am4-processors-promises-years-of-maintenance-free-performance-for-usd24-95
+5. 【其他】 Suspected Chinese spy at center of Jensen Huang affair surfaces in Beijing
+https://www.tomshardware.com/tech-industry/suspected-chinese-spy-at-center-of-jensen-huang-affair-surfaces-in-beijing-alice-huang-last-spotted-heading-to-shanghai-after-being-detained-questioned-in-singapore-in-2025-allegedly-helped-china-smuggle-hundreds-of-thousands-of-banned-chips
+6. 【其他】 Google reworks TPU silicon into specialized systems for agents and security
+https://www.tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc
+
+🇨🇳 中国
+1. 【其他】 黄仁勋辞职
+https://www.solidot.org/story?sid=85872
+2. 【其他】 《Big Walk》开发商利用 AI 修 Bug 引起争议
+https://www.solidot.org/story?sid=85869
+3. 【其他】 腾讯计划将半数员工部署到 AI 原生业务
+https://www.solidot.org/story?sid=85865
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
