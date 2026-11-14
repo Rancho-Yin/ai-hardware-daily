@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-14（抓取 2026-11-13）
+
+🌍 全球
+1. 【其他】 ‘Broken and shattered’ Nvidia CEO Jensen Huang surrendered during resignation meeting, report claims
+https://www.tomshardware.com/tech-industry/broken-and-shattered-nvidia-ceo-jensen-huang-surrendered-during-resignation-meeting-report-claims-thousands-of-employees-rally-calling-for-reinstatement-on-internal-forum
+2. 【终端/边缘】 Walmart has slashed $730 off this monster gaming PC with RTX 5070 Ti
+https://www.tomshardware.com/desktops/gaming-pcs/walmart-has-slashed-usd730-off-this-monster-gaming-pc-with-rtx-5070-ti-also-features-a-24-core-intel-processor-32gb-ddr5-2tb-ssd
+3. 【芯片/算力】 Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim
+https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls
+4. 【芯片/算力】 How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation
+https://www.tomshardware.com/tech-industry/how-shanghai-fund-manager-kang-wei-introduced-his-wife-alice-huang-to-jensen-and-built-usd7-5-billion-nvidia-ai-gpu-smuggling-operation-mistresss-husband-joked-she-was-the-ceos-personal-assistant
+5. 【其他】 1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests
+https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control
+6. 【终端/边缘】 macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64
+https://www.tomshardware.com/software/macos/macos-on-pc-becomes-possible-again-thanks-to-apple-silicon-translator-for-x86-64-hackintosh-revival-project-currently-slow-and-not-very-stable
+
+🇨🇳 中国
+1. 【其他】 台积电内部员工数据泄露
+https://www.solidot.org/story?sid=85881
+2. 【其他】 独家｜燧原科技首席生态官李星宇离职
+https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html
+3. 【其他】 9.99万的ID.ERA 5X，大众开始用中国效率打价格战
+https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html
+4. 【其他】 独家丨港大孵化的半导体材料公司，融资数千万
+https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html
+5. 【其他】 海尔热水器双11战报：京东天猫双平台销量TOP1
+https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html
+6. 【其他】 中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理
+https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
