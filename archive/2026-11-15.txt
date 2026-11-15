@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-15（抓取 2026-11-14）
+
+🌍 全球
+1. 【其他】 Here are our favorite deals from REI’s giant Holiday Sale
+https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026
+2. 【其他】 The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs
+https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview
+3. 【其他】 Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print
+https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print
+4. 【其他】 Jensen Huang and the decline of the visionary showman founder CEO
+https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo
+5. 【其他】 FAA lifts nationwide ground stop that blocked takeoffs for hours
+https://www.theverge.com/news/1033489/faa-ground-stop
+6. 【其他】 Windows 0-day dropped by disgruntled researcher hands hackers System rights
+https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/
+
+🇨🇳 中国
+1. 【其他】 马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作
+https://www.ithome.com/1/027/247.htm
+2. 【其他】 英特尔官网确认酷睿 Ultra 7 处理器 260K 规格，最大睿频频率 5.4GHz
+https://www.ithome.com/1/027/245.htm
+3. 【其他】 “黑苹果”有望卷土重来，新项目探索将 macOS 搬上骁龙和 x86 架构电脑
+https://www.ithome.com/1/027/244.htm
+4. 【终端/边缘】 OPPO 展示 Reno17 系列手机洛天依联动定制主题，11 月 16 日发布
+https://www.ithome.com/1/027/243.htm
+5. 【其他】 华硕 ROG 带来龙鳞 2 Ace Mini 鼠标，"Demon1" 联名款同步亮相
+https://www.ithome.com/1/027/242.htm
+6. 【其他】 “像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉
+https://www.ithome.com/1/027/239.htm
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
