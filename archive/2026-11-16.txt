@@ -1,0 +1,24 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-16（抓取 2026-11-15）
+
+🌍 全球
+1. 【其他】 Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests
+https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized
+2. 【其他】 Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge
+https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge
+3. 【机器人】 Pentagon tests pack hunting with autonomous war robots
+https://www.tomshardware.com/tech-industry/drones/pentagon-tests-pack-hunting-with-autonomous-war-robots-darpa-experimented-with-four-drone-ground-vehicles-that-detected-tracked-and-engaged-simulated-threats
+4. 【其他】 Nvidia board director cashed out $1 billion in stock before Jensen Huang scandal
+https://www.tomshardware.com/tech-industry/nvidia-board-director-cashed-out-usd1-billion-in-stock-before-jensen-huang-scandal-mark-stevens-sold-4-2-million-shares-without-a-trading-plan
+5. 【机器人】 The Sony Aibo was a robot revolution dressed like a dog
+https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history
+6. 【其他】 Intel reclaims overall CPU market share for the first time since 2025
+https://www.tomshardware.com/pc-components/cpus/intel-reclaims-overall-cpu-market-share-for-the-first-time-since-2025-massive-desktop-gains-offset-amds-record-server-and-mobile-growth
+
+🇨🇳 中国
+1. 【其他】 香港迪士尼乐园 1.7 万张电子门票被盗
+https://www.solidot.org/story?sid=85891
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
