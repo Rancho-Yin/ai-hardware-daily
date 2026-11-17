@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-17（抓取 2026-11-16）
+
+🌍 全球
+1. 【其他】 Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days
+https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat
+2. 【其他】 Minisforum Elite Mini M2 Air-304 review: A quiet and compact Wildcat
+https://www.tomshardware.com/desktops/mini-pcs/minisforum-elite-mini-m2-air-304-review
+3. 【其他】 Overlocker uses vibecoded BIOS modification to target Intel's non-K overclocking restrictions
+https://www.tomshardware.com/pc-components/cpus/overlocker-uses-vibecoded-bios-modification-to-target-intels-non-k-overclocking-restrictions-attempts-to-revive-asrocks-discontinued-skyoc-technology
+4. 【其他】 Unlock Tom's Hardware Premium's SuperComputer 2026 coverage for free — sign up for an account to read detailed reports from the show
+https://www.tomshardware.com/tech-industry/unlock-toms-hardware-premiums-supercomputer-2026-coverage-for-free-sign-up-for-an-account-to-read-detailed-reports-from-the-show
+5. 【其他】 Amazon’s Starlink rival sees major setback after 40 satellites destroyed in rocket failure
+https://www.tomshardware.com/tech-industry/space/amazons-starlink-rival-sees-major-setback-after-40-satellites-destroyed-in-rocket-failure-anomaly-occurred-10-minutes-after-the-vulcan-launch-on-sunday
+6. 【其他】 Jailbroken PS4 runs 9-billion-parameter AI model at up to 43 tokens per second
+https://www.tomshardware.com/video-games/playstation/jailbroken-ps4-runs-9-billion-parameter-ai-model-at-up-to-43-tokens-per-second-open-source-garlic-llm-bypasses-drivers-to-talk-directly-to-the-2013-era-gpu
+
+🇨🇳 中国
+1. 【其他】 26.99万元起，腾势N8正式上市：首搭易三方Evo，纯电续航1003公里
+https://www.leiphone.com/category/transportation/9YeGaaNjyBi0zkQ4.html
+2. 【其他】 微软称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故
+https://www.solidot.org/story?sid=85903
+3. 【机器人】 平均年龄25岁，00后小伙带队拿下首届蚂蚁灵波具身大模型挑战赛最高分
+https://www.leiphone.com/category/industrynews/LTOeijdeWR08fZGP.html
+4. 【终端/边缘】 微软称下一代 Xbox 游戏机能玩 PC 游戏
+https://www.solidot.org/story?sid=85902
+5. 【其他】 黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO
+https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html
+6. 【其他】 启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装
+https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
