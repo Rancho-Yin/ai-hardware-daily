@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-18（抓取 2026-11-17）
+
+🌍 全球
+1. 【其他】 Former Nvidia CEO Jensen Huang will appear before a House Foreign Affairs panel amid concerns over his affair with a suspected Chinese spy
+https://www.tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear
+2. 【其他】 Taipei 101 lit up in support of Jensen Huang
+https://www.tomshardware.com/tech-industry/big-tech/taipei-101-lit-up-in-support-of-jensen-huang-skyscraper-adorned-with-messages-of-support-following-resignation-as-nvidia-ceo
+3. 【其他】 AMD attacks Nvidia's FP64 emulation at SC26, touts native double-precision on Instinct MI430X
+https://www.tomshardware.com/pc-components/gpus/amd-attacks-nvidias-fp64-emulation-at-sc26-touts-native-double-precision-on-instinct-mi430x-says-ozaki-schemes-fit-less-than-10-percent-of-hpc-workloads-and-triple-memory-use-and-emulated-fp64-is-a-poor-fit-for-many-hpc-workloads
+4. 【其他】 Grok Bot took unapproved actions, ignored orders to stop, and then denied it
+https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/
+5. 【其他】 Nvidia warns customers of new US rule that could expose them to lawsuits for serving Chinese clients
+https://www.tomshardware.com/tech-industry/policy/nvidia-warns-customers-of-new-us-rule-that-could-expose-them-to-lawsuits-for-serving-chinese-clients-commerce-department-releases-interim-regulations-preventing-foreign-actors-from-using-advanced-compute-based-on-american-tech
+6. 【其他】 US government confirms criminal investigation into Singapore company at the heart of Jensen Huang scandal
+https://www.tomshardware.com/tech-industry/data-centers/us-government-confirms-criminal-investigation-into-singapore-company-at-the-heart-of-jensen-huang-scandal-megaspeed-identified-over-suspicious-activity-company-placed-on-no-sell-list-by-nvidia
+
+🇨🇳 中国
+1. 【其他】 加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成
+https://www.solidot.org/story?sid=85914
+2. 【机器人】 消费级具身，打破「次元壁」
+https://www.leiphone.com/category/industrynews/zEonnVT8L3iVNJkY.html
+3. 【其他】 灵晟继续登顶 Top500 榜单
+https://www.solidot.org/story?sid=85913
+4. 【其他】 阿里云连续六年香港IaaS第一，企业客户AI渗透率达95%
+https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html
+5. 【其他】 “BAT 做 Personal Agent，我没那么乐观”
+https://www.leiphone.com/category/CorporateServices/7flnC8myrlPgPbPs.html
+6. 【其他】 智源悟界·PhysCapBench：首个跨领域的世界模型“物理数据量尺”
+https://www.leiphone.com/category/aijuejinzhi/KPwGklj93OeTbkrg.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
