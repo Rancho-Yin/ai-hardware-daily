@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-19（抓取 2026-11-18）
+
+🌍 全球
+1. 【其他】 Leaked Ohio bill could allow AI data center companies to seize private land for their buildouts using eminent domain law
+https://www.tomshardware.com/tech-industry/data-centers/leaked-ohio-bill-could-allow-ai-data-center-companies-to-seize-private-land-for-their-buildouts-using-eminent-domain-law-proposed-law-would-expand-list-of-beneficiaries
+2. 【其他】 Nvidia says it’s ‘absurd’ to assume it predicted the agentic moment during Vera’s development
+https://www.tomshardware.com/pc-components/cpus/nvidia-says-its-absurd-to-assume-it-predicted-the-agentic-moment-during-veras-development-product-intuition-helped-drive-cpu-design-superior-memory-bandwidth-will-play-critical-role-in-future-ai-agents-cpu-boss-claims
+3. 【其他】 Elon Musk’s SpaceXAI suffers chemical spill at Mississippi AI data center
+https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-suffers-chemical-spill-at-mississippi-ai-data-center-up-to-6-000-gallons-of-propylene-glycol-heat-transfer-fluid-lost-environment-agency-says-no-threat-to-residents
+4. 【其他】 The Downfall of Jensen Huang — a timeline of allegations and scandals that brought down the king of AI infrastructure
+https://www.tomshardware.com/tech-industry/the-downfall-of-jensen-huang
+5. 【其他】 Nvidia board faction angling for Jensen Huang return as CEO, report claims
+https://www.tomshardware.com/tech-industry/data-centers/nvidia-board-faction-angling-for-jensen-huang-return-as-ceo-report-claims-company-defiant-at-earnings-calls-says-no-possibility-of-reinstatement
+6. 【其他】 Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter
+https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised
+
+🇨🇳 中国
+1. 【其他】 韩国严打高考作弊
+https://www.solidot.org/story?sid=85924
+2. 【其他】 豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元
+https://www.leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html
+3. 【其他】 Manus 成为 Godot 项目的白金赞助商
+https://www.solidot.org/story?sid=85922
+4. 【其他】 “无人机外卖”加速出海，迪拜居民在家门口收到“空中外卖”
+https://www.leiphone.com/category/industrynews/SGCHiaZaK40MbNz8.html
+5. 【机器人】 纽娲机器人创始人杨睿刚：自动驾驶踩过的数据坑，机器人还会再踩一遍丨物理 AI 50 人
+https://www.leiphone.com/category/transportation/GLv3yGaPGK64teuS.html
+6. 【芯片/算力】 黄仁勋归期悬而未决，买GPU的人已经不敢下单
+https://www.leiphone.com/category/chips/WHSLCH74nrSJW6OE.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
