@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-20（抓取 2026-11-19）
+
+🌍 全球
+1. 【其他】 Intel continues layoffs with cuts to its IT department, hundreds of employees reportedly affected
+https://www.tomshardware.com/pc-components/cpus/intel-continues-layoffs-with-cuts-to-its-it-department-hundreds-of-employees-reportedly-affected-companys-workforce-reduced-by-27-800-under-lip-bu-tan
+2. 【其他】 Supermicro sued by shareholders over claims Nvidia executive’s wife knew about illicit China sales
+https://www.tomshardware.com/tech-industry/big-tech/supermicro-sued-by-shareholders-over-claims-nvidia-executives-wife-must-have-known-about-illicit-china-sales-former-chief-growth-officer-cenly-chen-is-married-to-outgoing-nvidia-vp-jay-puri
+3. 【其他】 Developer vibe codes Windows 11 alternative operating system for amd64, arm64, and riscv64 hardware
+https://www.tomshardware.com/software/windows/developer-vibe-codes-windows-11-alternative-operating-system-for-amd64-arm64-and-riscv64-hardware-libernt-is-a-free-64-bit-clone-promising-reliable-stable-and-efficient-performance
+4. 【其他】 Intel 18A yields hit 70% as company signs Microsoft as EMIB customer
+https://www.tomshardware.com/tech-industry/semiconductors/intel-18a-yields-hit-70-percent-as-company-signs-microsoft-as-emib-customer-the-first-company-to-publicly-commit-to-intels-new-packaging-technology
+5. 【其他】 Pakistan undersea cable fault causes internet failure near Strait of Hormuz
+https://www.tomshardware.com/networking/pakistan-undersea-cable-fault-causes-internet-failure-near-strait-of-hormuz-fault-detected-offshore-weeks-after-iran-threatened-infrastructure-in-the-region
+6. 【数据中心】 Silicon Motion demos SM8466 PCIe 6.0 SSD controller, expected to ship by 2028 — controller boasts improved quality of service, samples imminent
+https://www.tomshardware.com/pc-components/ssds/silicon-motion-demos-sm8466-pcie-6-0-ssd-controller-expected-to-ship-by-2028-controller-boasts-improved-quality-of-service-samples-imminent
+
+🇨🇳 中国
+1. 【其他】 过度运动紊乱多巴胺
+https://www.solidot.org/story?sid=85934
+2. 【其他】 全球专利申请量创新高
+https://www.solidot.org/story?sid=85933
+3. 【其他】 阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍
+https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html
+4. 【其他】 阿里云外部收入增长64%，增速创近六年新高
+https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html
+5. 【其他】 田渊栋创业合伙人：通往 AGI 最快的路，只能是 AI 造 AI | CoRL 2026
+https://www.leiphone.com/category/private/wIgMWmjlB5GTKg6e.html
+6. 【其他】 黄仁勋的下台可能削弱开放权重模型让闭源模型受益
+https://www.solidot.org/story?sid=85932
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
