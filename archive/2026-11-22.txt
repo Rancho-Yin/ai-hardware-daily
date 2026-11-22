@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-22（抓取 2026-11-21）
+
+🌍 全球
+1. 【其他】 Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk
+https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors
+2. 【芯片/算力】 35-year-old SNES runs ChatGPT, accelerated with a Super FX 2 chip — 21 MHz of RISC muscle speeds 2.2M parameter chatbot replies
+https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies
+3. 【其他】 Can Anthropic afford to put safety first?
+https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure
+4. 【其他】 Our go-to earbuds for taking calls have fallen to their lowest price to date
+https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale
+5. 【其他】 Chess.com’s next move is a new hub for classic games, from mahjong to sudoku
+https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai
+6. 【其他】 Defense firm’s EMP ‘Dragon’ weapon fries 51 jam-proof drones simultaneously
+https://www.tomshardware.com/tech-industry/drones/defense-firms-emp-dragon-weapon-fries-51-jam-proof-drones-simultaneously-high-power-electromagnetic-system-relies-on-120-year-old-vacuum-tube-tech-to-defeat-fiber-optic-uavs
+
+🇨🇳 中国
+1. 【其他】 韩国总统李在明：速度在 AI 竞赛中至关重要
+https://www.ithome.com/1/030/506.htm
+2. 【其他】 亚马逊硬刚纽约拟议《配送保护法》：喊话消费者当心配送费涨价最高 5 美元
+https://www.ithome.com/1/030/505.htm
+3. 【芯片/算力】 曝三星未来三年大部分存储芯片产能已被锁定，有客户希望供货保障至 2031 年
+https://www.ithome.com/1/030/475.htm
+4. 【其他】 人类数学家匆忙发布广义黎曼猜想的证明手稿
+https://www.solidot.org/story?sid=85952
+5. 【其他】 为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织
+https://www.solidot.org/story?sid=85950
+6. 【其他】 享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款
+https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
