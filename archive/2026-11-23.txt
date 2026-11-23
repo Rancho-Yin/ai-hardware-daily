@@ -1,0 +1,26 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-23（抓取 2026-11-22）
+
+🌍 全球
+1. 【其他】 Arm yourself against online threats with 30% off YubiKey 5C NFC bundles at Best Buy
+https://www.tomshardware.com/tech-industry/cyber-security/arm-yourself-against-online-threats-with-30-percent-off-yubikey-5c-nfc-bundles-at-best-buy-at-usd37-per-key-this-deal-could-save-you-more-than-just-cash
+2. 【其他】 KFC offers disc-shaped fried chicken to sad disc-less GTA VI fans
+https://www.tomshardware.com/video-games/kfc-offers-disc-shaped-fried-chicken-to-sad-disc-less-gta-vi-fans-kfc-spains-the-replacement-disc-campaign-delivers-where-rockstar-disappoints-after-selling-usd3-79-billion-of-gta-vi-without-a-physical-disc
+3. 【其他】 ‘The show is starting soon. Please turn on your headphones.’
+https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast
+4. 【其他】 Ukraine revives its grounded fleet of 500+ US-made Puma drones with homegrown anti-jamming tech
+https://www.tomshardware.com/tech-industry/drones/ukraine-revives-its-grounded-fleet-of-500-us-made-puma-drones-with-homegrown-anti-jamming-tech-anti-jamming-upgrade-triples-range-to-31-miles
+5. 【芯片/算力】 TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes
+https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips
+6. 【其他】 AI agents design an entirely new CPU architecture from scratch, startup claims
+https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests
+
+🇨🇳 中国
+1. 【其他】 Anthropic 到 2028 年使用的电力 98% 来自化石燃料
+https://www.solidot.org/story?sid=85959
+2. 【芯片/算力】 特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局
+https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
