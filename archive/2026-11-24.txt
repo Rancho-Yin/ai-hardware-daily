@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-24（抓取 2026-11-23）
+
+🌍 全球
+1. 【其他】 Nvidia reinstates Jensen Huang as CEO following unanimous vote by company board
+https://www.tomshardware.com/tech-industry/nvidia-reinstates-jensen-huang-as-ceo-following-unanimous-vote-by-company-board-11-day-exit-from-company-saw-stock-prices-fall-by-24-percent-after-affair-scandal
+2. 【其他】 Russia readying nuclear-armed satellite that could destroy every low-Earth-orbit satellite, report claims
+https://www.tomshardware.com/tech-industry/space/russia-readying-nuclear-armed-satellite-that-could-destroy-every-low-earth-orbit-satellite-report-claims-kremlin-blasts-sputnik-s-claims-as-unfounded-allegations-and-propaganda
+3. 【其他】 The RTX 5090’s 16-pin connector just got a free pin-by-pin watchdog
+https://www.tomshardware.com/pc-components/gpus/the-rtx-5090s-16-pin-connector-just-got-a-free-pin-by-pin-watchdog-rtx-lens-taps-asus-astral-wireview-pro-ii-and-msi-psu-sensors-to-alert-your-phone-or-shut-down-your-pc
+4. 【数据中心】 AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs
+https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable
+5. 【其他】 President Trump says Nvidia board rehiring Jensen Huang would be best for the company and US
+https://www.tomshardware.com/tech-industry/big-tech/president-trump-says-nvidia-board-rehiring-jensen-huang-would-be-best-for-the-company-and-the-us-treasury-sec-bessent-walks-back-outsider-ceo-comments-claims-huang-is-technically-an-outsider-now
+6. 【其他】 Weird finger-wearable gaming mouse raises $43,000 on Kickstarter, a staggering 8x its crowdfunding goal
+https://www.tomshardware.com/peripherals/gaming-mice/weird-finger-wearable-gaming-mouse-kickstarter-breaks-8x-its-crowdfunding-goal-but-it-potentially-has-major-design-flaws-and-is-kind-of-sketchy
+
+🇨🇳 中国
+1. 【其他】 CachyOS 支持 Easy Anti-Cheat v2
+https://www.solidot.org/story?sid=85971
+2. 【其他】 科研成果 | 智能计算实验室方承煜同学成果被NeurIPS2026接收｜NeurIPS 2026
+https://www.leiphone.com/category/private/wwE4LOG5RjKsajCu.html
+3. 【其他】 越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险
+https://www.solidot.org/story?sid=85970
+4. 【其他】 英伟达重新任命黄仁勋为 CEO
+https://www.solidot.org/story?sid=85969
+5. 【其他】 驭电飞驰，向车而行 | 光跃投资走进2026中国大学生方程式大赛合肥赛场
+https://www.leiphone.com/category/weiwu/wXdEB0qbbYQ2PfPH.html
+6. 【芯片/算力】 华为星芒限时5499元起，网友喊话再便宜500，刘赫回应：我们选择创新优先；英伟达才说H200芯片不卖中国，美财长突喊：不用再限丨雷峰早报
+https://www.leiphone.com/category/zaobao/WvQYh5bertpjOZdF.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
