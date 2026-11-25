@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-25（抓取 2026-11-24）
+
+🌍 全球
+1. 【数据中心】 Rockstar nukes 15-year-old’s GTA 6 recompilation project, Discord and GitHub servers taken down
+https://www.tomshardware.com/video-games/pc-gaming/rockstar-nukes-15-year-olds-gta-6-recompilation-project-discord-and-github-servers-taken-down-project-leonida-had-almost-180-000-discord-members-host-account-banned-for-two-years
+2. 【其他】 Jensen Huang confessed to more affairs before the board reinstated him as Nvidia CEO, report claims
+https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-confessed-to-more-affairs-before-the-board-reinstated-him-as-nvidia-ceo-report-claims-contrite-chief-disclosed-at-least-two-additional-affairs-beyond-megaspeed-exec-and-nvidias-vp-of-health-care
+3. 【其他】 Trump pressured Nvidia to bring Jensen back, called into board meeting to push reinstatement, reports claim
+https://www.tomshardware.com/tech-industry/policy/trump-pressured-nvidia-to-bring-jensen-back-called-into-board-meeting-to-push-reinstatement-reports-claim-president-concerned-over-falling-stock-prices-with-huangs-return-reversing-slide
+4. 【其他】 Vulnerability could let hacker hijack electric trailer braking system remotely via Bluetooth, apply any amount of force remotely
+https://www.tomshardware.com/tech-industry/cyber-security/vulnerability-could-let-hacker-hijack-electric-trailer-braking-system-remotely-via-bluetooth-apply-any-amount-of-force-remotely-elecbrakes-flaw-reverse-engineered-using-claude-patched-by-manufacturer
+5. 【芯片/算力】 Amazon says hackers' AI agents found and exploited 0-day with little human input
+https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/
+6. 【数据中心】 Shared CXL memory pools come with steep software tax that could stall multi-server scaling
+https://www.tomshardware.com/pc-components/dram/shared-cxl-memory-pools-come-with-steep-software-tax-that-could-stall-multi-server-scaling-ut-arlington-shares-real-world-test-that-measured-four-servers-sharing-the-same-pool-at-sc26
+
+🇨🇳 中国
+1. 【数据中心】 Windows Server 移除对 32 位应用的支持
+https://www.solidot.org/story?sid=85978
+2. 【其他】 传统大厂的智驾，困在了组织里
+https://www.leiphone.com/category/transportation/Q7xf6JUVu3HScTsH.html
+3. 【其他】 从「卖向全球」到「扎根全球」，奇瑞怎么把增长做久？
+https://www.leiphone.com/category/transportation/DQjM3IyKu5bVltcG.html
+4. 【其他】 蚂蚁OceanBase交出六年政企成绩单：服务22个省级数字政府、三分之一央企核心系统
+https://www.leiphone.com/category/industrynews/b7Pw487MPHsDMSyR.html
+5. 【机器人】 百度智能云等发起香港前沿科技产业发展联盟，助力具身智能企业拓展全球市场
+https://www.leiphone.com/category/industrynews/uFuwhvMHGUY0Qeu0.html
+6. 【其他】 华金证券接入千问办公，73个技能重塑投研风控全流程
+https://www.leiphone.com/category/industrynews/ubwFeDsrkrcQf1BB.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
