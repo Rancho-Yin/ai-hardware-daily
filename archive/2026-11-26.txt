@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-26（抓取 2026-11-25）
+
+🌍 全球
+1. 【终端/边缘】 Best Black Friday Gaming PC Deals 2026
+https://www.tomshardware.com/desktops/gaming-pcs/best-gaming-pc-deals-prebuilts-2026
+2. 【其他】 7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak
+https://www.tomshardware.com/pc-components/cpus/7-new-intel-nova-lake-s-core-ultra-4000-series-cpus-detailed-in-new-leak-lineup-includes-5-5ghz-ultra-9-4970k-bfc-ahead-of-the-expected-february-2027-release
+3. 【其他】 Save $250 on the 2026 M5 MacBook Air right now, undoing Apple's June price hike with a price of $1,049
+https://www.tomshardware.com/laptops/macbooks/save-up-to-usd300-on-the-2026-m5-macbook-air-right-now-deal-nets-you-current-gen-models-with-16gb-or-24gb-ram-and-up-to-1tb-storage
+4. 【终端/边缘】 Resourceful PC owner repurposes CPU watercooler with dead pump as standalone LCD hardware monitor, vibecodes new software for module
+https://www.tomshardware.com/pc-components/liquid-cooling/resourceful-pc-owner-repurposes-cpu-watercooler-with-dead-pump-as-standalone-lcd-hardware-monitor-vibecodes-new-software-for-module-nzxt-krakens-lcd-and-controller-board-combined-with-3d-printed-stand-for-second-chance-at-life
+5. 【终端/边缘】 Deep clean your PC in seconds with cordless duster deals from $19
+https://www.tomshardware.com/peripherals/deep-clean-your-pc-in-seconds-with-cordless-air-duster-deals-from-usd19-on-black-friday-save-hundreds-on-canned-air-with-unlimited-high-rpm-dusting-power
+6. 【其他】 Husband of Jensen Huang’s mistress has much more significant Chinese intelligence connections than her, report claims
+https://www.tomshardware.com/tech-industry/big-tech/husband-of-jensen-huangs-mistress-has-much-more-significant-chinese-intelligence-connections-than-her-report-claims-us-officials-warn-he-was-asset-with-ministry-of-state-security-connections
+
+🇨🇳 中国
+1. 【其他】 EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音
+https://www.solidot.org/story?sid=85993
+2. 【其他】 Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold
+https://www.solidot.org/story?sid=85992
+3. 【其他】 阿维塔06T Max先锋版上新，限时权益后19.99万元
+https://www.leiphone.com/category/industrynews/u4v3A1QiYM6qUcP1.html
+4. 【其他】 如何维护超算
+https://www.solidot.org/story?sid=85989
+5. 【芯片/算力】 算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划
+https://www.leiphone.com/category/chips/Qz3QPf26nVIVA0ga.html
+6. 【芯片/算力】 中国算力采购信心指数启动 九章云极核心共建算力市场先行指标
+https://www.leiphone.com/category/chips/G3lWNUyVJphxOTU2.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
