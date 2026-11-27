@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-27（抓取 2026-11-26）
+
+🌍 全球
+1. 【其他】 GTA VI developers vote against unionization
+https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb
+2. 【其他】 Best Black Friday RAM deals 2026
+https://www.tomshardware.com/pc-components/ram/best-ram-memory-deals-ddr5-ddr4-2026
+3. 【其他】 Ukraine downs Russian jet-drone with cheap high-powered laser for the first time
+https://www.tomshardware.com/tech-industry/drones/ukraine-downs-russian-jet-drone-with-cheap-high-powered-laser-for-the-first-time-super-fast-shahed-knocked-out-by-a-4-kilowatt-test-system
+4. 【其他】 Best Black Friday Wi-Fi router deals 2026
+https://www.tomshardware.com/networking/routers/best-wi-fi-router-deals-2026
+5. 【芯片/算力】 Solo developer vibe codes a gallery hosting 36 classic GPU demos
+https://www.tomshardware.com/video-games/retro-gaming/solo-developer-vibe-codes-a-gallery-hosting-36-classic-gpu-demos-preservation-effort-includes-3dfx-voodoo-showcases-from-1997-nvidia-bubble-and-more
+6. 【其他】 New York Governor Kathy Hochul signs ban on AI chatbot toys backed by $15,000 daily fines
+https://www.tomshardware.com/tech-industry/artificial-intelligence/new-york-governor-kathy-hochul-signs-ban-on-ai-chatbot-toys-backed-by-usd15-000-daily-fines-takes-effect-in-90-days-after-holiday-rush
+
+🇨🇳 中国
+1. 【机器人】 深耕核心零部件，钛虎机器人轻量化关节模组Lite-1系列助力整机降本增效
+https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html
+2. 【其他】 直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验
+https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html
+3. 【其他】 蔚来到底应该值多少钱？
+https://www.leiphone.com/category/transportation/BqLLEaO4CLvE4tnG.html
+4. 【其他】 美团：预计到今年年底，妙手酒店版·既白将覆盖近40万商家
+https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html
+5. 【其他】 艾滋病疫苗终于触手可及
+https://www.solidot.org/story?sid=86000
+6. 【其他】 手表和眼镜，如何成为AI智能体的「随身感官」？
+https://www.leiphone.com/category/chips/1tx0UpMMROQn9vCW.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
