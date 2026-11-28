@@ -1,0 +1,34 @@
+【一句话总览】
+AI硬件进入产品化阶段：更看重能效、供应链与落地场景。
+
+🤖 AI硬件日报｜2026-11-28（抓取 2026-11-27）
+
+🌍 全球
+1. 【其他】 Best motherboard deals 2026
+https://www.tomshardware.com/pc-components/motherboards/best-motherboard-deals-amd-intel
+2. 【芯片/算力】 Beijing’s AI ambitions are under threat as models may fall behind by up to nine months versus competitors — Chinese AI labs are under heavy fire from export controls, maturing chip stacks and a distillation crackdown
+https://www.tomshardware.com/tech-industry/artificial-intelligence/beijings-ai-ambitions-are-under-threat-as-models-may-fall-behind-by-up-to-nine-months-versus-competitors-chinese-ai-labs-are-under-heavy-fire-from-export-controls-maturing-chip-stacks-and-a-distillation-crackdown
+3. 【其他】 The ultimate Black Friday 3D printer gift guide
+https://www.tomshardware.com/3d-printing/the-ultimate-black-friday-3d-printer-gift-guide-bargains-from-bambu-lab-prusa-research-and-elegoo-plus-usd199-kid-friendly-printers
+4. 【其他】 The Swiss Army knife of USB docking DVD drives is on sale, also available with a built-in M.2 SSD slot or SATA hard drive dock
+https://www.tomshardware.com/desktops/pc-building/the-swiss-army-knife-of-dvd-drives-is-back-on-sale-usb-docking-hybrid-also-available-with-a-built-in-m-2-ssd-slot-or-sata-hard-drive-dock-usd28-for-the-dvd-writer-and-hub-usd37-gets-an-added-sata-dock-or-pay-usd39-for-the-m-2-version
+5. 【芯片/算力】 TSMC gives a sneap peak at AI Design Kit: Agentic AI with foundry expertise
+https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise
+6. 【终端/边缘】 AMD and Winbond vulnerabilities let attackers brute-force BitLocker PINs on millions of PCs
+https://www.tomshardware.com/tech-industry/cyber-security/amd-and-winbond-vulnerabilities-let-attackers-brute-force-bitlocker-pins-on-millions-of-pcs-cracking-a-six-digit-pin-drops-from-19-years-to-20-days
+
+🇨🇳 中国
+1. 【终端/边缘】 Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上
+https://www.solidot.org/story?sid=86014
+2. 【其他】 美团2026年三季报：营收1156亿元，AI经营工作台“妙手”已服务200万商家
+https://www.leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html
+3. 【其他】 支付宝车载助手3.0发布，助力智能座舱打造下一代可靠可信生活服务
+https://www.leiphone.com/category/industrynews/szJUnXEhChJQgJHZ.html
+4. 【机器人】 具微科技高交会双新品首秀，全栈方案破解工业机器人连续作业难题
+https://www.leiphone.com/category/robot/UTZbbw7CrHpZvIS7.html
+5. 【其他】 Anthropic 放出 Claude Ship：内部 PR 合并量 3 个月翻倍，回滚比例下降超 40%
+https://www.leiphone.com/category/ai/iWUKWuRp4AmJ6dZE.html
+6. 【其他】 OpenAI、Anthropic 内部出现分歧：AI 能力增长太快，模型隐藏行为，监测开始系统失灵？
+https://www.leiphone.com/category/ai/IMi92BFX4KU0R8uh.html
+
+📌 说明：本日报为 RSS+关键词筛选（半自动）。
